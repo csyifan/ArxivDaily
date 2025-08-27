@@ -93,9 +93,4 @@ labels: documentation
 | **[MedAtlas: Evaluating LLMs for Multi-Round, Multi-Task Medical Reasoning Across Diverse Imaging Modalities and Clinical Text](http://arxiv.org/abs/2508.10947v1)** | 2025-08-13 |  |
 | **[Capabilities of GPT-5 on Multimodal Medical Reasoning](http://arxiv.org/abs/2508.08224v2)** | 2025-08-13 | Corrected some typos |
 | **[MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision](http://arxiv.org/abs/2508.08177v1)** | 2025-08-11 | 37 pages |
-| **[TeamMedAgents: Enhancing Medical Decision-Making of LLMs Through Structured Teamwork](http://arxiv.org/abs/2508.08115v1)** | 2025-08-11 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 6 tables(2 in main, 4 in appendix)</p></details> |
-| **[PersianMedQA: Evaluating Large Language Models on a Persian-English Bilingual Medical Question Answering Benchmark](http://arxiv.org/abs/2506.00250v3)** | 2025-08-10 |  |
-| **[A Multi-Agent Approach to Neurological Clinical Reasoning](http://arxiv.org/abs/2508.14063v1)** | 2025-08-10 |  |
-| **[FedCoT: Communication-Efficient Federated Reasoning Enhancement for Large Language Models](http://arxiv.org/abs/2508.10020v1)** | 2025-08-07 |  |
-| **[Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](http://arxiv.org/abs/2508.01450v1)** | 2025-08-02 | <details><summary>prepr...</summary><p>preprint, under review</p></details> |
 
