@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 28, 2025
+title: Latest 15 Papers - August 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,9 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Video-LevelGauge: Investigating Contextual Positional Bias in Large Video Language Models](http://arxiv.org/abs/2508.19650v1)** | 2025-08-27 |  |
+| **[OwlCap: Harmonizing Motion-Detail for Video Captioning via HMD-270K and Caption Set Equivalence Reward](http://arxiv.org/abs/2508.18634v2)** | 2025-08-27 | 9 pages, 6figures |
 | **[SoccerNet 2025 Challenges Results](http://arxiv.org/abs/2508.19182v1)** | 2025-08-26 |  |
-| **[OwlCap: Harmonizing Motion-Detail for Video Captioning via HMD-270K and Caption Set Equivalence Reward](http://arxiv.org/abs/2508.18634v1)** | 2025-08-26 | 9 pages, 6figures |
 | **[Why Relational Graphs Will Save the Next Generation of Vision Foundation Models?](http://arxiv.org/abs/2508.18421v1)** | 2025-08-25 |  |
 | **[TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models](http://arxiv.org/abs/2410.23266v2)** | 2025-08-25 |  |
 | **[Controllable Hybrid Captioner for Improved Long-form Video Understanding](http://arxiv.org/abs/2507.17047v2)** | 2025-08-25 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[StreamMem: Query-Agnostic KV Cache Memory for Streaming Video Understanding](http://arxiv.org/abs/2508.15717v1)** | 2025-08-21 | 15 pages, 3 figures |
 | **[When and What: Diffusion-Grounded VideoLLM with Entity Aware Segmentation for Long Video Understanding](http://arxiv.org/abs/2508.15641v1)** | 2025-08-21 |  |
 | **[Omni-Video: Democratizing Unified Video Understanding and Generation](http://arxiv.org/abs/2507.06119v3)** | 2025-08-21 | <details><summary>Techn...</summary><p>Technical report, project page: https://howellyoung-s.github.io/OmniVideo_project/</p></details> |
-| **[Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models](http://arxiv.org/abs/2410.03290v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 Findings</p></details> |
 
 ## LLM Interpretability
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Prompt Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProMSC-MIS: Prompt-based Multimodal Semantic Communication for Multi-Spectral Image Segmentation](http://arxiv.org/abs/2508.20057v1)** | 2025-08-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2508.17920</p></details> |
 | **[Toward Robust Medical Fairness: Debiased Dual-Modal Alignment via Text-Guided Attribute-Disentangled Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2508.18886v1)** | 2025-08-26 |  |
 | **[ModalPrompt: Towards Efficient Multimodal Continual Instruction Tuning with Dual-Modality Guided Prompt](http://arxiv.org/abs/2410.05849v2)** | 2025-08-25 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Main Conference)</p></details> |
 | **[LLM-Forest: Ensemble Learning of LLMs with Graph-Augmented Prompts for Data Imputation](http://arxiv.org/abs/2410.21520v4)** | 2025-08-23 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Exploring Palette based Color Guidance in Diffusion Models](http://arxiv.org/abs/2508.08754v1)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
 | **[Hierarchical Visual Prompt Learning for Continual Video Instance Segmentation](http://arxiv.org/abs/2508.08612v1)** | 2025-08-12 | Accepted to ICCV2025 |
 | **[Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection](http://arxiv.org/abs/2504.11055v2)** | 2025-08-11 |  |
-| **[LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning](http://arxiv.org/abs/2507.10034v2)** | 2025-08-09 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -93,4 +93,9 @@ labels: documentation
 | **[MedAtlas: Evaluating LLMs for Multi-Round, Multi-Task Medical Reasoning Across Diverse Imaging Modalities and Clinical Text](http://arxiv.org/abs/2508.10947v1)** | 2025-08-13 |  |
 | **[Capabilities of GPT-5 on Multimodal Medical Reasoning](http://arxiv.org/abs/2508.08224v2)** | 2025-08-13 | Corrected some typos |
 | **[MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision](http://arxiv.org/abs/2508.08177v1)** | 2025-08-11 | 37 pages |
+| **[TeamMedAgents: Enhancing Medical Decision-Making of LLMs Through Structured Teamwork](http://arxiv.org/abs/2508.08115v1)** | 2025-08-11 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 6 tables(2 in main, 4 in appendix)</p></details> |
+| **[PersianMedQA: Evaluating Large Language Models on a Persian-English Bilingual Medical Question Answering Benchmark](http://arxiv.org/abs/2506.00250v3)** | 2025-08-10 |  |
+| **[A Multi-Agent Approach to Neurological Clinical Reasoning](http://arxiv.org/abs/2508.14063v1)** | 2025-08-10 |  |
+| **[FedCoT: Communication-Efficient Federated Reasoning Enhancement for Large Language Models](http://arxiv.org/abs/2508.10020v1)** | 2025-08-07 |  |
+| **[Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](http://arxiv.org/abs/2508.01450v1)** | 2025-08-02 | <details><summary>prepr...</summary><p>preprint, under review</p></details> |
 
