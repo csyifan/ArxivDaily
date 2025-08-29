@@ -7,7 +7,12 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Video-LevelGauge: Investigating Contextual Positional Bias in Large Video Language Models](http://arxiv.org/abs/2508.19650v1)** | 2025-08-27 |  |
+| **[MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs](http://arxiv.org/abs/2508.21044v1)** | 2025-08-28 | 10 pages, 3 figures |
+| **[ChainReaction! Structured Approach with Causal Chains as Intermediate Representations for Improved and Explainable Causal Video Question Answering](http://arxiv.org/abs/2508.21010v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project page: https://paritoshparmar.github.io/chainreaction/</p></details> |
+| **[Looking Beyond the Obvious: A Survey on Abstract Concept Recognition for Video Understanding](http://arxiv.org/abs/2508.20765v1)** | 2025-08-28 | <details><summary>Under...</summary><p>Under Review for IJCV</p></details> |
+| **[Video-LevelGauge: Investigating Contextual Positional Bias in Large Video Language Models](http://arxiv.org/abs/2508.19650v2)** | 2025-08-28 |  |
+| **[Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding](http://arxiv.org/abs/2508.20478v1)** | 2025-08-28 | 15 pages, 9 figures |
+| **[SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning](http://arxiv.org/abs/2508.16201v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Main</p></details> |
 | **[OwlCap: Harmonizing Motion-Detail for Video Captioning via HMD-270K and Caption Set Equivalence Reward](http://arxiv.org/abs/2508.18634v2)** | 2025-08-27 | 9 pages, 6figures |
 | **[SoccerNet 2025 Challenges Results](http://arxiv.org/abs/2508.19182v1)** | 2025-08-26 |  |
 | **[Why Relational Graphs Will Save the Next Generation of Vision Foundation Models?](http://arxiv.org/abs/2508.18421v1)** | 2025-08-25 |  |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Language-Guided Temporal Token Pruning for Efficient VideoLLM Processing](http://arxiv.org/abs/2508.17686v1)** | 2025-08-25 |  |
 | **[T*: Re-thinking Temporal Search for Long-Form Video Understanding](http://arxiv.org/abs/2504.02259v3)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025; A real-world long video needle-in-haystack benchmark; long-video QA with human ref frames</p></details> |
 | **[EGOILLUSION: Benchmarking Hallucinations in Egocentric Video Understanding](http://arxiv.org/abs/2508.12687v2)** | 2025-08-23 |  |
-| **[SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning](http://arxiv.org/abs/2508.16201v1)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
-| **[STORM: Token-Efficient Long Video Understanding for Multimodal LLMs](http://arxiv.org/abs/2503.04130v3)** | 2025-08-22 |  |
-| **[StreamMem: Query-Agnostic KV Cache Memory for Streaming Video Understanding](http://arxiv.org/abs/2508.15717v1)** | 2025-08-21 | 15 pages, 3 figures |
-| **[When and What: Diffusion-Grounded VideoLLM with Entity Aware Segmentation for Long Video Understanding](http://arxiv.org/abs/2508.15641v1)** | 2025-08-21 |  |
-| **[Omni-Video: Democratizing Unified Video Understanding and Generation](http://arxiv.org/abs/2507.06119v3)** | 2025-08-21 | <details><summary>Techn...</summary><p>Technical report, project page: https://howellyoung-s.github.io/OmniVideo_project/</p></details> |
 
 ## LLM Interpretability
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Prompt Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prediction of mortality and resource utilization in critical care: a deep learning approach using multimodal electronic health records with natural language processing techniques](http://arxiv.org/abs/2508.20460v1)** | 2025-08-28 |  |
 | **[ProMSC-MIS: Prompt-based Multimodal Semantic Communication for Multi-Spectral Image Segmentation](http://arxiv.org/abs/2508.20057v1)** | 2025-08-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2508.17920</p></details> |
 | **[Toward Robust Medical Fairness: Debiased Dual-Modal Alignment via Text-Guided Attribute-Disentangled Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2508.18886v1)** | 2025-08-26 |  |
 | **[ModalPrompt: Towards Efficient Multimodal Continual Instruction Tuning with Dual-Modality Guided Prompt](http://arxiv.org/abs/2410.05849v2)** | 2025-08-25 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Main Conference)</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Hierarchical Cross-modal Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2507.14976v2)** | 2025-08-14 | Accepted by ICCV2025 |
 | **[Exploring Palette based Color Guidance in Diffusion Models](http://arxiv.org/abs/2508.08754v1)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
 | **[Hierarchical Visual Prompt Learning for Continual Video Instance Segmentation](http://arxiv.org/abs/2508.08612v1)** | 2025-08-12 | Accepted to ICCV2025 |
-| **[Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection](http://arxiv.org/abs/2504.11055v2)** | 2025-08-11 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedGR$^2$: Breaking the Data Barrier for Medical Reasoning via Generative Reward Learning](http://arxiv.org/abs/2508.20549v1)** | 2025-08-28 | 8 pages, 5 figures |
 | **[MIRAGE: Scaling Test-Time Inference with Parallel Graph-Retrieval-Augmented Reasoning Chains](http://arxiv.org/abs/2508.18260v1)** | 2025-08-25 | <details><summary>10 pa...</summary><p>10 pages, 8 figures (including tables), plus appendix. Submitted to AAAI 2026</p></details> |
 | **[DiagECG: An LLM-Driven Framework for Diagnostic Reasoning via Discretized ECG Tokenization](http://arxiv.org/abs/2508.15338v1)** | 2025-08-21 |  |
 | **[Breaking Reward Collapse: Adaptive Reinforcement for Open-ended Medical Reasoning with Enhanced Semantic Discrimination](http://arxiv.org/abs/2508.12957v1)** | 2025-08-18 |  |
@@ -97,5 +98,23 @@ labels: documentation
 | **[PersianMedQA: Evaluating Large Language Models on a Persian-English Bilingual Medical Question Answering Benchmark](http://arxiv.org/abs/2506.00250v3)** | 2025-08-10 |  |
 | **[A Multi-Agent Approach to Neurological Clinical Reasoning](http://arxiv.org/abs/2508.14063v1)** | 2025-08-10 |  |
 | **[FedCoT: Communication-Efficient Federated Reasoning Enhancement for Large Language Models](http://arxiv.org/abs/2508.10020v1)** | 2025-08-07 |  |
-| **[Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](http://arxiv.org/abs/2508.01450v1)** | 2025-08-02 | <details><summary>prepr...</summary><p>preprint, under review</p></details> |
+
+## Medical Agent
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Learning to Be A Doctor: Searching for Effective Medical Agent Architectures](http://arxiv.org/abs/2504.11301v2)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
+| **[PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning](http://arxiv.org/abs/2508.10501v2)** | 2025-08-15 |  |
+| **[Ethics2vec: aligning automatic agents and human preferences](http://arxiv.org/abs/2508.07673v1)** | 2025-08-11 |  |
+| **[AURA: A Multi-Modal Medical Agent for Understanding, Reasoning & Annotation](http://arxiv.org/abs/2507.16940v1)** | 2025-07-22 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, International Conference on Medical Image Computing and Computer-Assisted Intervention</p></details> |
+| **[WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis](http://arxiv.org/abs/2507.14680v1)** | 2025-07-19 |  |
+| **[MedAide: Information Fusion and Anatomy of Medical Intents via LLM-based Agent Collaboration](http://arxiv.org/abs/2410.12532v3)** | 2025-07-03 | <details><summary>LLM-b...</summary><p>LLM-based Multi-Agent Collaboration for Medical Applications</p></details> |
+| **[MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](http://arxiv.org/abs/2506.00555v2)** | 2025-06-17 |  |
+| **[ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents](http://arxiv.org/abs/2410.17657v3)** | 2025-06-16 | ACL 2025 Main Paper |
+| **[A Survey of LLM-based Agents in Medicine: How far are we from Baymax?](http://arxiv.org/abs/2502.11211v2)** | 2025-05-26 | ACL 2025 Findings |
+| **[Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions](http://arxiv.org/abs/2504.11373v1)** | 2025-04-15 |  |
+| **[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](http://arxiv.org/abs/2405.02957v3)** | 2025-01-17 |  |
+| **[Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios](http://arxiv.org/abs/2411.14461v1)** | 2024-11-16 |  |
+| **[ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World](http://arxiv.org/abs/2406.13890v2)** | 2024-10-09 |  |
+| **[Adapting LLMs for the Medical Domain in Portuguese: A Study on Fine-Tuning and Model Evaluation](http://arxiv.org/abs/2410.00163v1)** | 2024-09-30 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis](http://arxiv.org/abs/2407.13301v2)** | 2024-09-15 |  |
 
