@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2025
+title: Latest 15 Papers - September 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,12 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VoCap: Video Object Captioning and Segmentation from Any Prompt](http://arxiv.org/abs/2508.21809v1)** | 2025-08-29 |  |
+| **[ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](http://arxiv.org/abs/2508.21496v1)** | 2025-08-29 |  |
+| **[Video-LevelGauge: Investigating Contextual Positional Bias in Large Video Language Models](http://arxiv.org/abs/2508.19650v3)** | 2025-08-29 |  |
 | **[MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs](http://arxiv.org/abs/2508.21044v1)** | 2025-08-28 | 10 pages, 3 figures |
 | **[ChainReaction! Structured Approach with Causal Chains as Intermediate Representations for Improved and Explainable Causal Video Question Answering](http://arxiv.org/abs/2508.21010v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project page: https://paritoshparmar.github.io/chainreaction/</p></details> |
 | **[Looking Beyond the Obvious: A Survey on Abstract Concept Recognition for Video Understanding](http://arxiv.org/abs/2508.20765v1)** | 2025-08-28 | <details><summary>Under...</summary><p>Under Review for IJCV</p></details> |
-| **[Video-LevelGauge: Investigating Contextual Positional Bias in Large Video Language Models](http://arxiv.org/abs/2508.19650v2)** | 2025-08-28 |  |
 | **[Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding](http://arxiv.org/abs/2508.20478v1)** | 2025-08-28 | 15 pages, 9 figures |
 | **[SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning](http://arxiv.org/abs/2508.16201v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Main</p></details> |
 | **[OwlCap: Harmonizing Motion-Detail for Video Captioning via HMD-270K and Caption Set Equivalence Reward](http://arxiv.org/abs/2508.18634v2)** | 2025-08-27 | 9 pages, 6figures |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Controllable Hybrid Captioner for Improved Long-form Video Understanding](http://arxiv.org/abs/2507.17047v2)** | 2025-08-25 |  |
 | **[See What You Need: Query-Aware Visual Intelligence through Reasoning-Perception Loops](http://arxiv.org/abs/2508.17932v1)** | 2025-08-25 | 14 pages, 6 figures |
 | **[Language-Guided Temporal Token Pruning for Efficient VideoLLM Processing](http://arxiv.org/abs/2508.17686v1)** | 2025-08-25 |  |
-| **[T*: Re-thinking Temporal Search for Long-Form Video Understanding](http://arxiv.org/abs/2504.02259v3)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025; A real-world long video needle-in-haystack benchmark; long-video QA with human ref frames</p></details> |
-| **[EGOILLUSION: Benchmarking Hallucinations in Egocentric Video Understanding](http://arxiv.org/abs/2508.12687v2)** | 2025-08-23 |  |
 
 ## LLM Interpretability
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Imperfection with MEDLEY A Multi-Model Approach Harnessing Bias in Medical AI](http://arxiv.org/abs/2508.21648v1)** | 2025-08-29 |  |
 | **[MedGR$^2$: Breaking the Data Barrier for Medical Reasoning via Generative Reward Learning](http://arxiv.org/abs/2508.20549v1)** | 2025-08-28 | 8 pages, 5 figures |
 | **[MIRAGE: Scaling Test-Time Inference with Parallel Graph-Retrieval-Augmented Reasoning Chains](http://arxiv.org/abs/2508.18260v1)** | 2025-08-25 | <details><summary>10 pa...</summary><p>10 pages, 8 figures (including tables), plus appendix. Submitted to AAAI 2026</p></details> |
 | **[DiagECG: An LLM-Driven Framework for Diagnostic Reasoning via Discretized ECG Tokenization](http://arxiv.org/abs/2508.15338v1)** | 2025-08-21 |  |
@@ -97,7 +98,6 @@ labels: documentation
 | **[TeamMedAgents: Enhancing Medical Decision-Making of LLMs Through Structured Teamwork](http://arxiv.org/abs/2508.08115v1)** | 2025-08-11 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 6 tables(2 in main, 4 in appendix)</p></details> |
 | **[PersianMedQA: Evaluating Large Language Models on a Persian-English Bilingual Medical Question Answering Benchmark](http://arxiv.org/abs/2506.00250v3)** | 2025-08-10 |  |
 | **[A Multi-Agent Approach to Neurological Clinical Reasoning](http://arxiv.org/abs/2508.14063v1)** | 2025-08-10 |  |
-| **[FedCoT: Communication-Efficient Federated Reasoning Enhancement for Large Language Models](http://arxiv.org/abs/2508.10020v1)** | 2025-08-07 |  |
 
 ## Medical Agent
 | **Title** | **Date** | **Comment** |
