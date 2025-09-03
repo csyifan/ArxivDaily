@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2025
+title: Latest 15 Papers - September 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,11 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MSC: A Marine Wildlife Video Dataset with Grounded Segmentation and Clip-Level Captioning](http://arxiv.org/abs/2508.04549v3)** | 2025-09-01 | <details><summary>Publi...</summary><p>Published at ACMMM2025 (Dataset track)</p></details> |
+| **[Temporal Preference Optimization for Long-Form Video Understanding](http://arxiv.org/abs/2501.13919v3)** | 2025-09-01 |  |
+| **[LvBench: A Benchmark for Long-form Video Understanding with Versatile Multi-modal Question Answering](http://arxiv.org/abs/2312.04817v2)** | 2025-09-01 |  |
 | **[VoCap: Video Object Captioning and Segmentation from Any Prompt](http://arxiv.org/abs/2508.21809v1)** | 2025-08-29 |  |
-| **[ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](http://arxiv.org/abs/2508.21496v1)** | 2025-08-29 |  |
+| **[ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](http://arxiv.org/abs/2508.21496v2)** | 2025-09-02 |  |
 | **[Video-LevelGauge: Investigating Contextual Positional Bias in Large Video Language Models](http://arxiv.org/abs/2508.19650v3)** | 2025-08-29 |  |
 | **[MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs](http://arxiv.org/abs/2508.21044v1)** | 2025-08-28 | 10 pages, 3 figures |
 | **[ChainReaction! Structured Approach with Causal Chains as Intermediate Representations for Improved and Explainable Causal Video Question Answering](http://arxiv.org/abs/2508.21010v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project page: https://paritoshparmar.github.io/chainreaction/</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[SoccerNet 2025 Challenges Results](http://arxiv.org/abs/2508.19182v1)** | 2025-08-26 |  |
 | **[Why Relational Graphs Will Save the Next Generation of Vision Foundation Models?](http://arxiv.org/abs/2508.18421v1)** | 2025-08-25 |  |
 | **[TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models](http://arxiv.org/abs/2410.23266v2)** | 2025-08-25 |  |
-| **[Controllable Hybrid Captioner for Improved Long-form Video Understanding](http://arxiv.org/abs/2507.17047v2)** | 2025-08-25 |  |
-| **[See What You Need: Query-Aware Visual Intelligence through Reasoning-Perception Loops](http://arxiv.org/abs/2508.17932v1)** | 2025-08-25 | 14 pages, 6 figures |
-| **[Language-Guided Temporal Token Pruning for Efficient VideoLLM Processing](http://arxiv.org/abs/2508.17686v1)** | 2025-08-25 |  |
 
 ## LLM Interpretability
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Multi-granularity Concept Sparse Activation and Hierarchical Knowledge Graph Fusion Framework for Rare Disease Diagnosis](http://arxiv.org/abs/2507.08529v3)** | 2025-08-30 | 12 pages,3 figures |
 | **[End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning](http://arxiv.org/abs/2508.15746v1)** | 2025-08-21 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 3 tables</p></details> |
 | **[ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](http://arxiv.org/abs/2508.13514v1)** | 2025-08-19 |  |
 | **[Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond](http://arxiv.org/abs/2502.20988v2)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted for publication in Knowledge-Based Systems. The arXiv version is the pre-peer-review preprint, and the final published version is not available here due to publisher policy</p></details> |
@@ -71,7 +72,6 @@ labels: documentation
 | **[Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models](http://arxiv.org/abs/2412.15748v2)** | 2025-07-28 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 3 tables. Conceptualization, both authors. formal analysis, both authors. funding acquisition, both authors. investigation, both authors. resources, both authors. supervision, T.C.. validation, both authors. visualization, both authors. writing original draft, both authors. writing review and editing, both authors</p></details> |
 | **[EH-Benchmark Ophthalmic Hallucination Benchmark and Agent-Driven Top-Down Traceable Reasoning Workflow](http://arxiv.org/abs/2507.22929v1)** | 2025-07-24 | <details><summary>9 fig...</summary><p>9 figures, 5 tables. submit/6621751</p></details> |
 | **[A Method for the Architecture of a Medical Vertical Large Language Model Based on Deepseek R1](http://arxiv.org/abs/2505.00025v2)** | 2025-07-22 | 14 pages, 1 figures |
-| **[A Multi-granularity Concept Sparse Activation and Hierarchical Knowledge Graph Fusion Framework for Rare Disease Diagnosis](http://arxiv.org/abs/2507.08529v2)** | 2025-07-22 | 12 pages,3 figures |
 | **[MedEthicsQA: A Comprehensive Question Answering Benchmark for Medical Ethics Evaluation of LLMs](http://arxiv.org/abs/2506.22808v1)** | 2025-06-28 | 20 pages |
 | **[MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration](http://arxiv.org/abs/2506.19835v1)** | 2025-06-24 | ACL 2025 Findings |
 | **[Disentangling Reasoning and Knowledge in Medical Large Language Models](http://arxiv.org/abs/2505.11462v2)** | 2025-06-24 |  |
