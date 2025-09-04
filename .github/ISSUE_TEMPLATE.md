@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 04, 2025
+title: Latest 15 Papers - September 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -116,4 +116,5 @@ labels: documentation
 | **[Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios](http://arxiv.org/abs/2411.14461v1)** | 2024-11-16 |  |
 | **[ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World](http://arxiv.org/abs/2406.13890v2)** | 2024-10-09 |  |
 | **[Adapting LLMs for the Medical Domain in Portuguese: A Study on Fine-Tuning and Model Evaluation](http://arxiv.org/abs/2410.00163v1)** | 2024-09-30 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis](http://arxiv.org/abs/2407.13301v2)** | 2024-09-15 |  |
 
