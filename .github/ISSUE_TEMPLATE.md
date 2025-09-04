@@ -7,21 +7,21 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Strefer: Empowering Video LLMs with Space-Time Referring and Reasoning via Synthetic Instruction Data](http://arxiv.org/abs/2509.03501v1)** | 2025-09-03 | <details><summary>This ...</summary><p>This technical report serves as the archival version of our paper accepted at the ICCV 2025 Workshop. For more information, please visit our project website: https://strefer.github.io/</p></details> |
+| **[Time-Scaling State-Space Models for Dense Video Captioning](http://arxiv.org/abs/2509.03426v1)** | 2025-09-03 | BMVC 2025 |
+| **[Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](http://arxiv.org/abs/2508.04416v2)** | 2025-09-03 |  |
+| **[Exploring Response Uncertainty in MLLMs: An Empirical Evaluation under Misleading Scenarios](http://arxiv.org/abs/2411.02708v3)** | 2025-09-03 |  |
+| **[ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](http://arxiv.org/abs/2508.21496v2)** | 2025-09-02 |  |
+| **[Generative Frame Sampler for Long Video Understanding](http://arxiv.org/abs/2503.09146v2)** | 2025-09-02 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings. Code: https://github.com/yaolinli/GenS</p></details> |
+| **[Kwai Keye-VL 1.5 Technical Report](http://arxiv.org/abs/2509.01563v1)** | 2025-09-01 | <details><summary>Githu...</summary><p>Github page: https://github.com/Kwai-Keye/Keye</p></details> |
+| **[Variation-aware Vision Token Dropping for Faster Large Vision-Language Models](http://arxiv.org/abs/2509.01552v1)** | 2025-09-01 | <details><summary>Code:...</summary><p>Code: \url{https://github.com/xuyang-liu16/V2Drop}</p></details> |
 | **[MSC: A Marine Wildlife Video Dataset with Grounded Segmentation and Clip-Level Captioning](http://arxiv.org/abs/2508.04549v3)** | 2025-09-01 | <details><summary>Publi...</summary><p>Published at ACMMM2025 (Dataset track)</p></details> |
 | **[Temporal Preference Optimization for Long-Form Video Understanding](http://arxiv.org/abs/2501.13919v3)** | 2025-09-01 |  |
+| **[Do Video Language Models Really Know Where to Look? Diagnosing Attention Failures in Video Language Models](http://arxiv.org/abs/2509.01167v1)** | 2025-09-01 | preprint |
 | **[LvBench: A Benchmark for Long-form Video Understanding with Versatile Multi-modal Question Answering](http://arxiv.org/abs/2312.04817v2)** | 2025-09-01 |  |
-| **[VoCap: Video Object Captioning and Segmentation from Any Prompt](http://arxiv.org/abs/2508.21809v1)** | 2025-08-29 |  |
-| **[ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](http://arxiv.org/abs/2508.21496v2)** | 2025-09-02 |  |
-| **[Video-LevelGauge: Investigating Contextual Positional Bias in Large Video Language Models](http://arxiv.org/abs/2508.19650v3)** | 2025-08-29 |  |
-| **[MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs](http://arxiv.org/abs/2508.21044v1)** | 2025-08-28 | 10 pages, 3 figures |
-| **[ChainReaction! Structured Approach with Causal Chains as Intermediate Representations for Improved and Explainable Causal Video Question Answering](http://arxiv.org/abs/2508.21010v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project page: https://paritoshparmar.github.io/chainreaction/</p></details> |
-| **[Looking Beyond the Obvious: A Survey on Abstract Concept Recognition for Video Understanding](http://arxiv.org/abs/2508.20765v1)** | 2025-08-28 | <details><summary>Under...</summary><p>Under Review for IJCV</p></details> |
-| **[Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding](http://arxiv.org/abs/2508.20478v1)** | 2025-08-28 | 15 pages, 9 figures |
-| **[SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning](http://arxiv.org/abs/2508.16201v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Main</p></details> |
-| **[OwlCap: Harmonizing Motion-Detail for Video Captioning via HMD-270K and Caption Set Equivalence Reward](http://arxiv.org/abs/2508.18634v2)** | 2025-08-27 | 9 pages, 6figures |
-| **[SoccerNet 2025 Challenges Results](http://arxiv.org/abs/2508.19182v1)** | 2025-08-26 |  |
-| **[Why Relational Graphs Will Save the Next Generation of Vision Foundation Models?](http://arxiv.org/abs/2508.18421v1)** | 2025-08-25 |  |
-| **[TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models](http://arxiv.org/abs/2410.23266v2)** | 2025-08-25 |  |
+| **[Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors](http://arxiv.org/abs/2509.00969v1)** | 2025-08-31 | <details><summary>17pag...</summary><p>17pages, 8 figures, EMNLP2025</p></details> |
+| **[OmniDPO: A Preference Optimization Framework to Address Omni-Modal Hallucination](http://arxiv.org/abs/2509.00723v1)** | 2025-08-31 |  |
+| **[VideoRewardBench: Comprehensive Evaluation of Multimodal Reward Models for Video Understanding](http://arxiv.org/abs/2509.00484v1)** | 2025-08-30 | <details><summary>https...</summary><p>https://videorewardbench.github.io/</p></details> |
 
 ## LLM Interpretability
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Prompt Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP](http://arxiv.org/abs/2506.19608v2)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)</p></details> |
+| **[Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability](http://arxiv.org/abs/2509.02962v1)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted to IEEE/ASME Transactions on Mechatronics</p></details> |
 | **[Prediction of mortality and resource utilization in critical care: a deep learning approach using multimodal electronic health records with natural language processing techniques](http://arxiv.org/abs/2508.20460v1)** | 2025-08-28 |  |
 | **[ProMSC-MIS: Prompt-based Multimodal Semantic Communication for Multi-Spectral Image Segmentation](http://arxiv.org/abs/2508.20057v1)** | 2025-08-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2508.17920</p></details> |
 | **[Toward Robust Medical Fairness: Debiased Dual-Modal Alignment via Text-Guided Attribute-Disentangled Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2508.18886v1)** | 2025-08-26 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection](http://arxiv.org/abs/2508.00777v2)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at BMVC 2025</p></details> |
 | **[IADGPT: Unified LVLM for Few-Shot Industrial Anomaly Detection, Localization, and Reasoning via In-Context Learning](http://arxiv.org/abs/2508.10681v1)** | 2025-08-14 |  |
 | **[Hierarchical Cross-modal Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2507.14976v2)** | 2025-08-14 | Accepted by ICCV2025 |
-| **[Exploring Palette based Color Guidance in Diffusion Models](http://arxiv.org/abs/2508.08754v1)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
-| **[Hierarchical Visual Prompt Learning for Continual Video Instance Segmentation](http://arxiv.org/abs/2508.08612v1)** | 2025-08-12 | Accepted to ICCV2025 |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -116,5 +116,4 @@ labels: documentation
 | **[Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios](http://arxiv.org/abs/2411.14461v1)** | 2024-11-16 |  |
 | **[ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World](http://arxiv.org/abs/2406.13890v2)** | 2024-10-09 |  |
 | **[Adapting LLMs for the Medical Domain in Portuguese: A Study on Fine-Tuning and Model Evaluation](http://arxiv.org/abs/2410.00163v1)** | 2024-09-30 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis](http://arxiv.org/abs/2407.13301v2)** | 2024-09-15 |  |
 
