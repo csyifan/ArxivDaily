@@ -99,22 +99,22 @@ labels: documentation
 | **[PersianMedQA: Evaluating Large Language Models on a Persian-English Bilingual Medical Question Answering Benchmark](http://arxiv.org/abs/2506.00250v3)** | 2025-08-10 |  |
 | **[A Multi-Agent Approach to Neurological Clinical Reasoning](http://arxiv.org/abs/2508.14063v1)** | 2025-08-10 |  |
 
-## Medical Agent
+## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning to Be A Doctor: Searching for Effective Medical Agent Architectures](http://arxiv.org/abs/2504.11301v2)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
-| **[PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning](http://arxiv.org/abs/2508.10501v2)** | 2025-08-15 |  |
-| **[Ethics2vec: aligning automatic agents and human preferences](http://arxiv.org/abs/2508.07673v1)** | 2025-08-11 |  |
-| **[AURA: A Multi-Modal Medical Agent for Understanding, Reasoning & Annotation](http://arxiv.org/abs/2507.16940v1)** | 2025-07-22 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, International Conference on Medical Image Computing and Computer-Assisted Intervention</p></details> |
-| **[WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis](http://arxiv.org/abs/2507.14680v1)** | 2025-07-19 |  |
-| **[MedAide: Information Fusion and Anatomy of Medical Intents via LLM-based Agent Collaboration](http://arxiv.org/abs/2410.12532v3)** | 2025-07-03 | <details><summary>LLM-b...</summary><p>LLM-based Multi-Agent Collaboration for Medical Applications</p></details> |
-| **[MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](http://arxiv.org/abs/2506.00555v2)** | 2025-06-17 |  |
-| **[ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents](http://arxiv.org/abs/2410.17657v3)** | 2025-06-16 | ACL 2025 Main Paper |
-| **[A Survey of LLM-based Agents in Medicine: How far are we from Baymax?](http://arxiv.org/abs/2502.11211v2)** | 2025-05-26 | ACL 2025 Findings |
-| **[Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions](http://arxiv.org/abs/2504.11373v1)** | 2025-04-15 |  |
-| **[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](http://arxiv.org/abs/2405.02957v3)** | 2025-01-17 |  |
-| **[Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios](http://arxiv.org/abs/2411.14461v1)** | 2024-11-16 |  |
-| **[ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World](http://arxiv.org/abs/2406.13890v2)** | 2024-10-09 |  |
-| **[Adapting LLMs for the Medical Domain in Portuguese: A Study on Fine-Tuning and Model Evaluation](http://arxiv.org/abs/2410.00163v1)** | 2024-09-30 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis](http://arxiv.org/abs/2407.13301v2)** | 2024-09-15 |  |
+| **[AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?](http://arxiv.org/abs/2509.03312v2)** | 2025-09-04 |  |
+| **[SAFE--MA--RRT: Multi-Agent Motion Planning with Data-Driven Safety Certificates](http://arxiv.org/abs/2509.04413v1)** | 2025-09-04 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Automation Science and Engineering</p></details> |
+| **[Safety-Critical Multi-Agent MCTS for Mixed Traffic Coordination at Unsignalized Roundabout](http://arxiv.org/abs/2509.01856v2)** | 2025-09-04 | 12 pages, 10 figures |
+| **[DynaSaur: Large Language Agents Beyond Predefined Actions](http://arxiv.org/abs/2411.01747v3)** | 2025-09-04 | <details><summary>Publi...</summary><p>Published as a conference paper at COLM 2025</p></details> |
+| **[Psychologically Enhanced AI Agents](http://arxiv.org/abs/2509.04343v1)** | 2025-09-04 |  |
+| **[Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities](http://arxiv.org/abs/2508.20324v2)** | 2025-09-04 |  |
+| **[EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation](http://arxiv.org/abs/2509.04310v1)** | 2025-09-04 |  |
+| **[EQ-Knight: A Memory-Augmented LLM Agent for Strategic Affective Gaming in Debt Recovery](http://arxiv.org/abs/2503.21080v4)** | 2025-09-04 |  |
+| **[Kolb-Based Experiential Learning for Generalist Agents with Human-Level Kaggle Data Science Performance](http://arxiv.org/abs/2411.03562v2)** | 2025-09-04 |  |
+| **[Theory of Mind Using Active Inference: A Framework for Multi-Agent Cooperation](http://arxiv.org/abs/2508.00401v2)** | 2025-09-04 |  |
+| **[Are LLM Agents the New RPA? A Comparative Study with RPA Across Enterprise Workflows](http://arxiv.org/abs/2509.04198v1)** | 2025-09-04 |  |
+| **[MAGneT: Coordinated Multi-Agent Generation of Synthetic Multi-Turn Mental Health Counseling Sessions](http://arxiv.org/abs/2509.04183v1)** | 2025-09-04 | 25 pages, 29 figures |
+| **[TAGAL: Tabular Data Generation using Agentic LLM Methods](http://arxiv.org/abs/2509.04152v1)** | 2025-09-04 |  |
+| **[Towards Stable and Personalised Profiles for Lexical Alignment in Spoken Human-Agent Dialogue](http://arxiv.org/abs/2509.04104v1)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted for TSD 2025</p></details> |
+| **[EvolveSignal: A Large Language Model Powered Coding Agent for Discovering Traffic Signal Control Algorithms](http://arxiv.org/abs/2509.03335v2)** | 2025-09-04 |  |
 
