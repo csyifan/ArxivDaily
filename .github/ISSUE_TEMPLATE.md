@@ -7,13 +7,13 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Kwai Keye-VL 1.5 Technical Report](http://arxiv.org/abs/2509.01563v2)** | 2025-09-04 | <details><summary>Githu...</summary><p>Github page: https://github.com/Kwai-Keye/Keye</p></details> |
 | **[Strefer: Empowering Video LLMs with Space-Time Referring and Reasoning via Synthetic Instruction Data](http://arxiv.org/abs/2509.03501v1)** | 2025-09-03 | <details><summary>This ...</summary><p>This technical report serves as the archival version of our paper accepted at the ICCV 2025 Workshop. For more information, please visit our project website: https://strefer.github.io/</p></details> |
 | **[Time-Scaling State-Space Models for Dense Video Captioning](http://arxiv.org/abs/2509.03426v1)** | 2025-09-03 | BMVC 2025 |
 | **[Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](http://arxiv.org/abs/2508.04416v2)** | 2025-09-03 |  |
 | **[Exploring Response Uncertainty in MLLMs: An Empirical Evaluation under Misleading Scenarios](http://arxiv.org/abs/2411.02708v3)** | 2025-09-03 |  |
 | **[ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](http://arxiv.org/abs/2508.21496v2)** | 2025-09-02 |  |
 | **[Generative Frame Sampler for Long Video Understanding](http://arxiv.org/abs/2503.09146v2)** | 2025-09-02 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings. Code: https://github.com/yaolinli/GenS</p></details> |
-| **[Kwai Keye-VL 1.5 Technical Report](http://arxiv.org/abs/2509.01563v1)** | 2025-09-01 | <details><summary>Githu...</summary><p>Github page: https://github.com/Kwai-Keye/Keye</p></details> |
 | **[Variation-aware Vision Token Dropping for Faster Large Vision-Language Models](http://arxiv.org/abs/2509.01552v1)** | 2025-09-01 | <details><summary>Code:...</summary><p>Code: \url{https://github.com/xuyang-liu16/V2Drop}</p></details> |
 | **[MSC: A Marine Wildlife Video Dataset with Grounded Segmentation and Clip-Level Captioning](http://arxiv.org/abs/2508.04549v3)** | 2025-09-01 | <details><summary>Publi...</summary><p>Published at ACMMM2025 (Dataset track)</p></details> |
 | **[Temporal Preference Optimization for Long-Form Video Understanding](http://arxiv.org/abs/2501.13919v3)** | 2025-09-01 |  |
@@ -45,6 +45,8 @@ labels: documentation
 ## Prompt Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Attn-Adapter: Attention Is All You Need for Online Few-shot Learner of Vision-Language Model](http://arxiv.org/abs/2509.03895v1)** | 2025-09-04 | <details><summary>ICCV ...</summary><p>ICCV 2025 - LIMIT Workshop</p></details> |
+| **[Causality-guided Prompt Learning for Vision-language Models via Visual Granulation](http://arxiv.org/abs/2509.03803v1)** | 2025-09-04 | ICCV 2025 Accepted |
 | **[ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP](http://arxiv.org/abs/2506.19608v2)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)</p></details> |
 | **[Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability](http://arxiv.org/abs/2509.02962v1)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted to IEEE/ASME Transactions on Mechatronics</p></details> |
 | **[Prediction of mortality and resource utilization in critical care: a deep learning approach using multimodal electronic health records with natural language processing techniques](http://arxiv.org/abs/2508.20460v1)** | 2025-08-28 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models](http://arxiv.org/abs/2404.10357v3)** | 2025-08-18 |  |
 | **[Federated Cross-Modal Style-Aware Prompt Generation](http://arxiv.org/abs/2508.12399v1)** | 2025-08-17 |  |
 | **[Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection](http://arxiv.org/abs/2508.00777v2)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at BMVC 2025</p></details> |
-| **[IADGPT: Unified LVLM for Few-Shot Industrial Anomaly Detection, Localization, and Reasoning via In-Context Learning](http://arxiv.org/abs/2508.10681v1)** | 2025-08-14 |  |
-| **[Hierarchical Cross-modal Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2507.14976v2)** | 2025-08-14 | Accepted by ICCV2025 |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
