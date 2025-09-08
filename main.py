@@ -24,7 +24,7 @@ with open("README.md", "r") as f:
 
 keywords = ["Video Understanding", "Agent", "Prompt Learning", "Medical Models", "LLM Safety"] # TODO add more keywords
 
-max_result = 20 # maximum query results from arXiv API for each keyword
+max_result = 25 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
