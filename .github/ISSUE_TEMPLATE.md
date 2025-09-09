@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2025
+title: Latest 15 Papers - September 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Kwai Keye-VL 1.5 Technical Report](http://arxiv.org/abs/2509.01563v2)** | 2025-09-04 | <details><summary>Githu...</summary><p>Github page: https://github.com/Kwai-Keye/Keye</p></details> |
+| **[Kwai Keye-VL 1.5 Technical Report](http://arxiv.org/abs/2509.01563v3)** | 2025-09-07 | <details><summary>Githu...</summary><p>Github page: https://github.com/Kwai-Keye/Keye</p></details> |
 | **[Strefer: Empowering Video LLMs with Space-Time Referring and Reasoning via Synthetic Instruction Data](http://arxiv.org/abs/2509.03501v1)** | 2025-09-03 | <details><summary>This ...</summary><p>This technical report serves as the archival version of our paper accepted at the ICCV 2025 Workshop. For more information, please visit our project website: https://strefer.github.io/</p></details> |
 | **[Time-Scaling State-Space Models for Dense Video Captioning](http://arxiv.org/abs/2509.03426v1)** | 2025-09-03 | BMVC 2025 |
 | **[Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](http://arxiv.org/abs/2508.04416v2)** | 2025-09-03 |  |
@@ -64,7 +64,7 @@ labels: documentation
 ## Medical Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AURAD: Anatomy-Pathology Unified Radiology Synthesis with Progressive Representations](http://arxiv.org/abs/2509.04819v1)** | 2025-09-05 |  |
+| **[AURAD: Anatomy-Pathology Unified Radiology Synthesis with Progressive Representations](http://arxiv.org/abs/2509.04819v2)** | 2025-09-08 |  |
 | **[LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation](http://arxiv.org/abs/2506.04078v3)** | 2025-08-31 |  |
 | **[HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models](http://arxiv.org/abs/2405.07460v5)** | 2025-08-27 |  |
 | **[A Multi-Agent Approach to Neurological Clinical Reasoning](http://arxiv.org/abs/2508.14063v1)** | 2025-08-10 |  |
