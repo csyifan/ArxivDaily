@@ -7,6 +7,11 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CAViAR: Critic-Augmented Video Agentic Reasoning](http://arxiv.org/abs/2509.07680v1)** | 2025-09-09 |  |
+| **[Audio-centric Video Understanding Benchmark without Text Shortcut](http://arxiv.org/abs/2503.19951v2)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of EMNLP 2025 (Main Conference)</p></details> |
+| **[SkillFormer: Unified Multi-View Video Understanding for Proficiency Estimation](http://arxiv.org/abs/2505.08665v4)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted at the 2025 18th International Conference on Machine Vision</p></details> |
+| **[Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors](http://arxiv.org/abs/2509.00969v2)** | 2025-09-09 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, EMNLP2025</p></details> |
+| **[Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](http://arxiv.org/abs/2507.02074v2)** | 2025-09-08 |  |
 | **[Harnessing Object Grounding for Time-Sensitive Video Understanding](http://arxiv.org/abs/2509.06335v1)** | 2025-09-08 |  |
 | **[Kwai Keye-VL 1.5 Technical Report](http://arxiv.org/abs/2509.01563v3)** | 2025-09-07 | <details><summary>Githu...</summary><p>Github page: https://github.com/Kwai-Keye/Keye</p></details> |
 | **[VSI: Visual Subtitle Integration for Keyframe Selection to enhance Long Video Understanding](http://arxiv.org/abs/2508.06869v2)** | 2025-09-06 | 9 pages,3 figures |
@@ -17,30 +22,25 @@ labels: documentation
 | **[ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](http://arxiv.org/abs/2508.21496v2)** | 2025-09-02 |  |
 | **[Generative Frame Sampler for Long Video Understanding](http://arxiv.org/abs/2503.09146v2)** | 2025-09-02 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings. Code: https://github.com/yaolinli/GenS</p></details> |
 | **[Variation-aware Vision Token Dropping for Faster Large Vision-Language Models](http://arxiv.org/abs/2509.01552v1)** | 2025-09-01 | <details><summary>Code:...</summary><p>Code: \url{https://github.com/xuyang-liu16/V2Drop}</p></details> |
-| **[MSC: A Marine Wildlife Video Dataset with Grounded Segmentation and Clip-Level Captioning](http://arxiv.org/abs/2508.04549v3)** | 2025-09-01 | <details><summary>Publi...</summary><p>Published at ACMMM2025 (Dataset track)</p></details> |
-| **[Temporal Preference Optimization for Long-Form Video Understanding](http://arxiv.org/abs/2501.13919v3)** | 2025-09-01 |  |
-| **[Do Video Language Models Really Know Where to Look? Diagnosing Attention Failures in Video Language Models](http://arxiv.org/abs/2509.01167v1)** | 2025-09-01 | preprint |
-| **[LvBench: A Benchmark for Long-form Video Understanding with Versatile Multi-modal Question Answering](http://arxiv.org/abs/2312.04817v2)** | 2025-09-01 |  |
-| **[Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors](http://arxiv.org/abs/2509.00969v2)** | 2025-09-09 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, EMNLP2025</p></details> |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Transforming Wearable Data into Personal Health Insights using Large Language Model Agents](http://arxiv.org/abs/2406.06464v4)** | 2025-09-08 | <details><summary>53 pa...</summary><p>53 pages, 7 main figures, 2 main tables, accepted to Nature Communications</p></details> |
-| **[Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI Agents](http://arxiv.org/abs/2509.06917v1)** | 2025-09-08 |  |
-| **[AxelSMOTE: An Agent-Based Oversampling Algorithm for Imbalanced Classification](http://arxiv.org/abs/2509.06875v1)** | 2025-09-08 |  |
-| **[Project Riley: Multimodal Multi-Agent LLM Collaboration with Emotional Reasoning and Voting](http://arxiv.org/abs/2505.20521v2)** | 2025-09-08 | <details><summary>28 pa...</summary><p>28 pages, 5 figures. Submitted for review to Information Fusion</p></details> |
-| **[ChatCFD: An LLM-Driven Agent for End-to-End CFD Automation with Domain-Specific Structured Reasoning](http://arxiv.org/abs/2506.02019v2)** | 2025-09-08 | 19 pages, 8 figures |
-| **[Agentic DDQN-Based Scheduling for Licensed and Unlicensed Band Allocation in Sidelink Networks](http://arxiv.org/abs/2509.06775v1)** | 2025-09-08 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, accepted by 2025 IEEE Globecom Workshops</p></details> |
-| **[Probabilistic Modeling of Latent Agentic Substructures in Deep Neural Networks](http://arxiv.org/abs/2509.06701v1)** | 2025-09-08 |  |
+| **[CAViAR: Critic-Augmented Video Agentic Reasoning](http://arxiv.org/abs/2509.07680v1)** | 2025-09-09 |  |
+| **[AgentSentinel: An End-to-End and Real-Time Security Defense Framework for Computer-Use Agents](http://arxiv.org/abs/2509.07764v1)** | 2025-09-09 |  |
+| **[Inference of Intrinsic Rewards and Fairness in Multi-Agent Systems](http://arxiv.org/abs/2509.07650v1)** | 2025-09-09 | <details><summary>EWRL1...</summary><p>EWRL18 (2025) Workshop</p></details> |
+| **[AgentX: Towards Orchestrating Robust Agentic Workflow Patterns with FaaS-hosted MCP Services](http://arxiv.org/abs/2509.07595v1)** | 2025-09-09 |  |
+| **[Towards Generalized Routing: Model and Agent Orchestration for Adaptive and Efficient Inference](http://arxiv.org/abs/2509.07571v1)** | 2025-09-09 |  |
+| **[VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents](http://arxiv.org/abs/2509.07553v1)** | 2025-09-09 |  |
+| **[Persuading Agents in Opinion Formation Games](http://arxiv.org/abs/2509.07520v1)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted at SAGT 2025</p></details> |
+| **[Astra: A Multi-Agent System for GPU Kernel Performance Optimization](http://arxiv.org/abs/2509.07506v1)** | 2025-09-09 |  |
+| **[AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning](http://arxiv.org/abs/2508.20368v3)** | 2025-09-09 |  |
+| **[Talking with Oompa Loompas: A novel framework for evaluating linguistic acquisition of LLM agents](http://arxiv.org/abs/2509.07389v1)** | 2025-09-09 | Under review |
 | **[T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation](http://arxiv.org/abs/2509.06644v2)** | 2025-09-09 |  |
-| **[Game Theory and Multi-Agent Reinforcement Learning for Zonal Ancillary Markets](http://arxiv.org/abs/2505.03288v3)** | 2025-09-08 |  |
-| **[Demo: Healthcare Agent Orchestrator (HAO) for Patient Summarization in Molecular Tumor Boards](http://arxiv.org/abs/2509.06602v1)** | 2025-09-08 | 9 pages, 1 figure |
-| **[Simulating Dispute Mediation with LLM-Based Agents for Legal Research](http://arxiv.org/abs/2509.06586v1)** | 2025-09-08 |  |
-| **[Emergent Social Dynamics of LLM Agents in the El Farol Bar Problem](http://arxiv.org/abs/2509.04537v2)** | 2025-09-08 |  |
-| **[Preacher: Paper-to-Video Agentic System](http://arxiv.org/abs/2508.09632v6)** | 2025-09-08 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code: https://github.com/Gen-Verse/Paper2Video</p></details> |
-| **[WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents](http://arxiv.org/abs/2509.06501v1)** | 2025-09-08 |  |
-| **[Scaling up Multi-Turn Off-Policy RL and Multi-Agent Tree Search for LLM Step-Provers](http://arxiv.org/abs/2509.06493v1)** | 2025-09-08 |  |
+| **[EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation](http://arxiv.org/abs/2509.04310v2)** | 2025-09-09 |  |
+| **[SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents](http://arxiv.org/abs/2509.06283v2)** | 2025-09-09 | Technical Report |
+| **[Grid-Agent: An LLM-Powered Multi-Agent System for Power Grid Control](http://arxiv.org/abs/2508.05702v3)** | 2025-09-08 |  |
+| **[An Agentic AI Workflow to Simplify Parameter Estimation of Complex Differential Equation Systems](http://arxiv.org/abs/2509.07283v1)** | 2025-09-08 |  |
 
 ## Prompt Learning
 | **Title** | **Date** | **Comment** |
