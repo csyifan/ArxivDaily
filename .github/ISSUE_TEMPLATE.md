@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2025
+title: Latest 15 Papers - September 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Harnessing Object Grounding for Time-Sensitive Video Understanding](http://arxiv.org/abs/2509.06335v1)** | 2025-09-08 |  |
 | **[Kwai Keye-VL 1.5 Technical Report](http://arxiv.org/abs/2509.01563v3)** | 2025-09-07 | <details><summary>Githu...</summary><p>Github page: https://github.com/Kwai-Keye/Keye</p></details> |
+| **[VSI: Visual Subtitle Integration for Keyframe Selection to enhance Long Video Understanding](http://arxiv.org/abs/2508.06869v2)** | 2025-09-06 | 9 pages,3 figures |
 | **[Strefer: Empowering Video LLMs with Space-Time Referring and Reasoning via Synthetic Instruction Data](http://arxiv.org/abs/2509.03501v1)** | 2025-09-03 | <details><summary>This ...</summary><p>This technical report serves as the archival version of our paper accepted at the ICCV 2025 Workshop. For more information, please visit our project website: https://strefer.github.io/</p></details> |
 | **[Time-Scaling State-Space Models for Dense Video Captioning](http://arxiv.org/abs/2509.03426v1)** | 2025-09-03 | BMVC 2025 |
 | **[Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](http://arxiv.org/abs/2508.04416v2)** | 2025-09-03 |  |
@@ -19,32 +21,32 @@ labels: documentation
 | **[Temporal Preference Optimization for Long-Form Video Understanding](http://arxiv.org/abs/2501.13919v3)** | 2025-09-01 |  |
 | **[Do Video Language Models Really Know Where to Look? Diagnosing Attention Failures in Video Language Models](http://arxiv.org/abs/2509.01167v1)** | 2025-09-01 | preprint |
 | **[LvBench: A Benchmark for Long-form Video Understanding with Versatile Multi-modal Question Answering](http://arxiv.org/abs/2312.04817v2)** | 2025-09-01 |  |
-| **[Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors](http://arxiv.org/abs/2509.00969v1)** | 2025-08-31 | <details><summary>17pag...</summary><p>17pages, 8 figures, EMNLP2025</p></details> |
-| **[OmniDPO: A Preference Optimization Framework to Address Omni-Modal Hallucination](http://arxiv.org/abs/2509.00723v1)** | 2025-08-31 |  |
-| **[VideoRewardBench: Comprehensive Evaluation of Multimodal Reward Models for Video Understanding](http://arxiv.org/abs/2509.00484v1)** | 2025-08-30 | <details><summary>https...</summary><p>https://videorewardbench.github.io/</p></details> |
+| **[Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors](http://arxiv.org/abs/2509.00969v2)** | 2025-09-09 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, EMNLP2025</p></details> |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Conversational Education at Scale: A Multi-LLM Agent Workflow for Procedural Learning and Pedagogic Quality Assessment](http://arxiv.org/abs/2507.05528v2)** | 2025-09-05 | <details><summary>14 pa...</summary><p>14 pages, accepted by EMNLP 2025</p></details> |
-| **[BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modeling](http://arxiv.org/abs/2503.02445v7)** | 2025-09-05 | <details><summary>ICML ...</summary><p>ICML 2025 Main Conference</p></details> |
-| **[AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection](http://arxiv.org/abs/2508.01249v2)** | 2025-09-05 |  |
-| **[Hierarchical Multi-agent Reinforcement Learning for Cyber Network Defense](http://arxiv.org/abs/2410.17351v3)** | 2025-09-05 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, RLC Paper</p></details> |
-| **[First Steps Towards Overhearing LLM Agents: A Case Study With Dungeons & Dragons Gameplay](http://arxiv.org/abs/2505.22809v2)** | 2025-09-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. COLM 2025 Workshop on AI Agents</p></details> |
-| **[PersonaGym: Evaluating Persona Agents and LLMs](http://arxiv.org/abs/2407.18416v5)** | 2025-09-05 | EMNLP Findings 2025 |
-| **[AI Agents for Web Testing: A Case Study in the Wild](http://arxiv.org/abs/2509.05197v1)** | 2025-09-05 |  |
-| **[UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2509.02544v2)** | 2025-09-05 |  |
-| **[Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents](http://arxiv.org/abs/2506.13205v6)** | 2025-09-05 | 10 pages |
-| **[QCA-MolGAN: Quantum Circuit Associative Molecular GAN with Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2509.05051v1)** | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted to the proceedings of IEEE Quantum Artificial Intelligence, 6 pages, 3 figures</p></details> |
-| **[AutoPDL: Automatic Prompt Optimization for LLM Agents](http://arxiv.org/abs/2504.04365v3)** | 2025-09-05 |  |
-| **[LLM Enabled Multi-Agent System for 6G Networks: Framework and Method of Dual-Loop Edge-Terminal Collaboration](http://arxiv.org/abs/2509.04993v1)** | 2025-09-05 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE Communications Magazine</p></details> |
-| **[Internet 3.0: Architecture for a Web-of-Agents with it's Algorithm for Ranking Agents](http://arxiv.org/abs/2509.04979v1)** | 2025-09-05 |  |
-| **[Reinforcement Learning for Aligning Large Language Models Agents with Interactive Environments: Quantifying and Mitigating Prompt Overfitting](http://arxiv.org/abs/2410.19920v3)** | 2025-09-05 |  |
-| **[Caution for the Environment: Multimodal LLM Agents are Susceptible to Environmental Distractions](http://arxiv.org/abs/2408.02544v3)** | 2025-09-05 | ACL 2025 |
+| **[Transforming Wearable Data into Personal Health Insights using Large Language Model Agents](http://arxiv.org/abs/2406.06464v4)** | 2025-09-08 | <details><summary>53 pa...</summary><p>53 pages, 7 main figures, 2 main tables, accepted to Nature Communications</p></details> |
+| **[Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI Agents](http://arxiv.org/abs/2509.06917v1)** | 2025-09-08 |  |
+| **[AxelSMOTE: An Agent-Based Oversampling Algorithm for Imbalanced Classification](http://arxiv.org/abs/2509.06875v1)** | 2025-09-08 |  |
+| **[Project Riley: Multimodal Multi-Agent LLM Collaboration with Emotional Reasoning and Voting](http://arxiv.org/abs/2505.20521v2)** | 2025-09-08 | <details><summary>28 pa...</summary><p>28 pages, 5 figures. Submitted for review to Information Fusion</p></details> |
+| **[ChatCFD: An LLM-Driven Agent for End-to-End CFD Automation with Domain-Specific Structured Reasoning](http://arxiv.org/abs/2506.02019v2)** | 2025-09-08 | 19 pages, 8 figures |
+| **[Agentic DDQN-Based Scheduling for Licensed and Unlicensed Band Allocation in Sidelink Networks](http://arxiv.org/abs/2509.06775v1)** | 2025-09-08 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, accepted by 2025 IEEE Globecom Workshops</p></details> |
+| **[Probabilistic Modeling of Latent Agentic Substructures in Deep Neural Networks](http://arxiv.org/abs/2509.06701v1)** | 2025-09-08 |  |
+| **[T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation](http://arxiv.org/abs/2509.06644v2)** | 2025-09-09 |  |
+| **[Game Theory and Multi-Agent Reinforcement Learning for Zonal Ancillary Markets](http://arxiv.org/abs/2505.03288v3)** | 2025-09-08 |  |
+| **[Demo: Healthcare Agent Orchestrator (HAO) for Patient Summarization in Molecular Tumor Boards](http://arxiv.org/abs/2509.06602v1)** | 2025-09-08 | 9 pages, 1 figure |
+| **[Simulating Dispute Mediation with LLM-Based Agents for Legal Research](http://arxiv.org/abs/2509.06586v1)** | 2025-09-08 |  |
+| **[Emergent Social Dynamics of LLM Agents in the El Farol Bar Problem](http://arxiv.org/abs/2509.04537v2)** | 2025-09-08 |  |
+| **[Preacher: Paper-to-Video Agentic System](http://arxiv.org/abs/2508.09632v6)** | 2025-09-08 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code: https://github.com/Gen-Verse/Paper2Video</p></details> |
+| **[WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents](http://arxiv.org/abs/2509.06501v1)** | 2025-09-08 |  |
+| **[Scaling up Multi-Turn Off-Policy RL and Multi-Agent Tree Search for LLM Step-Provers](http://arxiv.org/abs/2509.06493v1)** | 2025-09-08 |  |
 
 ## Prompt Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AttriPrompt: Dynamic Prompt Composition Learning for CLIP](http://arxiv.org/abs/2509.05949v1)** | 2025-09-07 |  |
+| **[Few-Shot Query Intent Detection via Relation-Aware Prompt Learning](http://arxiv.org/abs/2509.05635v1)** | 2025-09-06 |  |
 | **[Attn-Adapter: Attention Is All You Need for Online Few-shot Learner of Vision-Language Model](http://arxiv.org/abs/2509.03895v1)** | 2025-09-04 | <details><summary>ICCV ...</summary><p>ICCV 2025 - LIMIT Workshop</p></details> |
 | **[Causality-guided Prompt Learning for Vision-language Models via Visual Granulation](http://arxiv.org/abs/2509.03803v1)** | 2025-09-04 | ICCV 2025 Accepted |
 | **[ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP](http://arxiv.org/abs/2506.19608v2)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)</p></details> |
@@ -58,8 +60,6 @@ labels: documentation
 | **[Knowledge-Guided Prompt Learning for Request Quality Assurance in Public Code Review](http://arxiv.org/abs/2410.21673v3)** | 2025-08-21 | <details><summary>27 pa...</summary><p>27 pages, 5 images, 12 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 | **[DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup](http://arxiv.org/abs/2508.13560v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025, Project: https://github.com/xiaozhen228/DictAS</p></details> |
 | **[Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models](http://arxiv.org/abs/2404.10357v3)** | 2025-08-18 |  |
-| **[Federated Cross-Modal Style-Aware Prompt Generation](http://arxiv.org/abs/2508.12399v1)** | 2025-08-17 |  |
-| **[Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection](http://arxiv.org/abs/2508.00777v2)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at BMVC 2025</p></details> |
 
 ## Medical Models
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,8 @@ labels: documentation
 ## LLM Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint](http://arxiv.org/abs/2509.06795v1)** | 2025-09-08 |  |
+| **[Behind the Mask: Benchmarking Camouflaged Jailbreaks in Large Language Models](http://arxiv.org/abs/2509.05471v1)** | 2025-09-05 |  |
 | **[Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning](http://arxiv.org/abs/2408.09600v3)** | 2025-09-05 | <details><summary>Rejec...</summary><p>Rejected by AAAI25-AIA. Accepted by ICML25. Authors are thankful to the anonymous reviewers from both AAAI25-AIA and ICML25</p></details> |
 | **[Forewarned is Forearmed: Pre-Synthesizing Jailbreak-like Instructions to Enhance LLM Safety Guardrail to Potential Attacks](http://arxiv.org/abs/2508.20038v3)** | 2025-09-04 | EMNLP 2025 findings |
 | **[Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner](http://arxiv.org/abs/2508.15044v2)** | 2025-09-02 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Confusion is the Final Barrier: Rethinking Jailbreak Evaluation and Investigating the Real Misuse Threat of LLMs](http://arxiv.org/abs/2508.16347v1)** | 2025-08-22 |  |
 | **[SafetyFlow: An Agent-Flow System for Automated LLM Safety Benchmarking](http://arxiv.org/abs/2508.15526v1)** | 2025-08-21 | <details><summary>Code ...</summary><p>Code and dataset are available at https://github.com/yangyangyang127/SafetyFlow</p></details> |
 | **[SafeLLM: Unlearning Harmful Outputs from Large Language Models against Jailbreak Attacks](http://arxiv.org/abs/2508.15182v1)** | 2025-08-21 |  |
-| **[SafeConstellations: Steering LLM Safety to Reduce Over-Refusals Through Task-Specific Trajectory](http://arxiv.org/abs/2508.11290v1)** | 2025-08-15 | Preprint |
-| **[ORFuzz: Fuzzing the "Other Side" of LLM Safety -- Testing Over-Refusal](http://arxiv.org/abs/2508.11222v1)** | 2025-08-15 |  |
 
