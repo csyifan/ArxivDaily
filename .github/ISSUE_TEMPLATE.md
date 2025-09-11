@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2025
+title: Latest 15 Papers - September 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdsQA: Towards Advertisement Video Understanding](http://arxiv.org/abs/2509.08621v1)** | 2025-09-10 | ICCV-2025 |
+| **[MESH -- Understanding Videos Like Human: Measuring Hallucinations in Large Video Models](http://arxiv.org/abs/2509.08538v1)** | 2025-09-10 |  |
+| **[Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation](http://arxiv.org/abs/2504.02438v5)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[CAViAR: Critic-Augmented Video Agentic Reasoning](http://arxiv.org/abs/2509.07680v1)** | 2025-09-09 |  |
 | **[Audio-centric Video Understanding Benchmark without Text Shortcut](http://arxiv.org/abs/2503.19951v2)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of EMNLP 2025 (Main Conference)</p></details> |
 | **[SkillFormer: Unified Multi-View Video Understanding for Proficiency Estimation](http://arxiv.org/abs/2505.08665v4)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted at the 2025 18th International Conference on Machine Vision</p></details> |
@@ -19,28 +22,25 @@ labels: documentation
 | **[Time-Scaling State-Space Models for Dense Video Captioning](http://arxiv.org/abs/2509.03426v1)** | 2025-09-03 | BMVC 2025 |
 | **[Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](http://arxiv.org/abs/2508.04416v2)** | 2025-09-03 |  |
 | **[Exploring Response Uncertainty in MLLMs: An Empirical Evaluation under Misleading Scenarios](http://arxiv.org/abs/2411.02708v3)** | 2025-09-03 |  |
-| **[ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](http://arxiv.org/abs/2508.21496v2)** | 2025-09-02 |  |
-| **[Generative Frame Sampler for Long Video Understanding](http://arxiv.org/abs/2503.09146v2)** | 2025-09-02 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings. Code: https://github.com/yaolinli/GenS</p></details> |
-| **[Variation-aware Vision Token Dropping for Faster Large Vision-Language Models](http://arxiv.org/abs/2509.01552v1)** | 2025-09-01 | <details><summary>Code:...</summary><p>Code: \url{https://github.com/xuyang-liu16/V2Drop}</p></details> |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CAViAR: Critic-Augmented Video Agentic Reasoning](http://arxiv.org/abs/2509.07680v1)** | 2025-09-09 |  |
-| **[AgentSentinel: An End-to-End and Real-Time Security Defense Framework for Computer-Use Agents](http://arxiv.org/abs/2509.07764v1)** | 2025-09-09 |  |
-| **[Inference of Intrinsic Rewards and Fairness in Multi-Agent Systems](http://arxiv.org/abs/2509.07650v1)** | 2025-09-09 | <details><summary>EWRL1...</summary><p>EWRL18 (2025) Workshop</p></details> |
-| **[AgentX: Towards Orchestrating Robust Agentic Workflow Patterns with FaaS-hosted MCP Services](http://arxiv.org/abs/2509.07595v1)** | 2025-09-09 |  |
-| **[Towards Generalized Routing: Model and Agent Orchestration for Adaptive and Efficient Inference](http://arxiv.org/abs/2509.07571v1)** | 2025-09-09 |  |
-| **[VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents](http://arxiv.org/abs/2509.07553v1)** | 2025-09-09 |  |
-| **[Persuading Agents in Opinion Formation Games](http://arxiv.org/abs/2509.07520v1)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted at SAGT 2025</p></details> |
-| **[Astra: A Multi-Agent System for GPU Kernel Performance Optimization](http://arxiv.org/abs/2509.07506v1)** | 2025-09-09 |  |
-| **[AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning](http://arxiv.org/abs/2508.20368v3)** | 2025-09-09 |  |
-| **[Talking with Oompa Loompas: A novel framework for evaluating linguistic acquisition of LLM agents](http://arxiv.org/abs/2509.07389v1)** | 2025-09-09 | Under review |
-| **[T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation](http://arxiv.org/abs/2509.06644v2)** | 2025-09-09 |  |
-| **[EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation](http://arxiv.org/abs/2509.04310v2)** | 2025-09-09 |  |
-| **[SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents](http://arxiv.org/abs/2509.06283v2)** | 2025-09-09 | Technical Report |
-| **[Grid-Agent: An LLM-Powered Multi-Agent System for Power Grid Control](http://arxiv.org/abs/2508.05702v3)** | 2025-09-08 |  |
-| **[An Agentic AI Workflow to Simplify Parameter Estimation of Complex Differential Equation Systems](http://arxiv.org/abs/2509.07283v1)** | 2025-09-08 |  |
+| **[Evaluating LLMs Without Oracle Feedback: Agentic Annotation Evaluation Through Unsupervised Consistency Signals](http://arxiv.org/abs/2509.08809v1)** | 2025-09-10 | 11 pages, 10 figures |
+| **[AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2509.08755v1)** | 2025-09-10 | <details><summary>prepr...</summary><p>preprint, 39 pages, 16 figures. Project: https://AgentGym-RL.github.io/. Framework and Code: https://github.com/woooodyy/AgentGym, https://github.com/woooodyy/AgentGym-RL</p></details> |
+| **[MPO: Boosting LLM Agents with Meta Plan Optimization](http://arxiv.org/abs/2503.02682v2)** | 2025-09-10 | EMNLP 2025 Findings |
+| **[ChemBOMAS: Accelerated BO in Chemistry with LLM-Enhanced Multi-Agent System](http://arxiv.org/abs/2509.08736v1)** | 2025-09-10 |  |
+| **[Automatic Failure Attribution and Critical Step Prediction Method for Multi-Agent Systems Based on Causal Inference](http://arxiv.org/abs/2509.08682v1)** | 2025-09-10 |  |
+| **[Architecting Resilient LLM Agents: A Guide to Secure Plan-then-Execute Implementations](http://arxiv.org/abs/2509.08646v1)** | 2025-09-10 |  |
+| **[AutoODD: Agentic Audits via Bayesian Red Teaming in Black-Box Models](http://arxiv.org/abs/2509.08638v1)** | 2025-09-10 |  |
+| **[Agents of Discovery](http://arxiv.org/abs/2509.08535v1)** | 2025-09-10 |  |
+| **[Phase-Coordinated Multi-Agent Circular Formation Control with Non-Concentric Boundary Constraints](http://arxiv.org/abs/2509.08534v1)** | 2025-09-10 |  |
+| **[T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation](http://arxiv.org/abs/2509.06644v3)** | 2025-09-10 |  |
+| **[CyberRAG: An Agentic RAG cyber attack classification and reporting tool](http://arxiv.org/abs/2507.02424v2)** | 2025-09-10 |  |
+| **[TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](http://arxiv.org/abs/2412.14161v3)** | 2025-09-10 | Preprint |
+| **[Co-Investigator AI: The Rise of Agentic AI for Smarter, Trustworthy AML Compliance Narratives](http://arxiv.org/abs/2509.08380v1)** | 2025-09-10 |  |
+| **[Resilient Global Practical Fixed-Time Cooperative Output Regulation of Uncertain Nonlinear Multi-Agent Systems Subject to Denial-of-Service Attacks](http://arxiv.org/abs/2509.08324v1)** | 2025-09-10 |  |
+| **[Leveraging AI Agents for Autonomous Networks: A Reference Architecture and Empirical Studies](http://arxiv.org/abs/2509.08312v1)** | 2025-09-10 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. This manuscript is a preprint</p></details> |
 
 ## Prompt Learning
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Medical Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedS$^3$: Towards Medical Slow Thinking with Self-Evolved Soft Dual-sided Process Supervision](http://arxiv.org/abs/2501.12051v3)** | 2025-09-10 | 20 pages; |
 | **[AURAD: Anatomy-Pathology Unified Radiology Synthesis with Progressive Representations](http://arxiv.org/abs/2509.04819v2)** | 2025-09-08 |  |
 | **[LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation](http://arxiv.org/abs/2506.04078v3)** | 2025-08-31 |  |
 | **[HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models](http://arxiv.org/abs/2405.07460v5)** | 2025-08-27 |  |
@@ -75,7 +76,6 @@ labels: documentation
 | **[The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models](http://arxiv.org/abs/2411.08870v3)** | 2025-06-28 | <details><summary>Exten...</summary><p>Extended version of EMNLP 2024 paper arXiv:2411.04118. Includes additional results on clinical note QA tasks and supervised fine-tuning evaluations</p></details> |
 | **[Pattern Recognition or Medical Knowledge? The Problem with Multiple-Choice Questions in Medicine](http://arxiv.org/abs/2406.02394v2)** | 2025-05-31 | ACL 2025 main |
 | **[XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](http://arxiv.org/abs/2306.07971v2)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted at ACL 2024-BIONLP Workshop. Code: https://github.com/mbzuai-oryx/XrayGPT</p></details> |
-| **[MedS$^3$: Towards Medical Small Language Models with Self-Evolved Slow Thinking](http://arxiv.org/abs/2501.12051v2)** | 2025-02-17 | 21 pages; |
 | **[Cross-Lingual Transfer for Low-Resource Natural Language Processing](http://arxiv.org/abs/2502.02722v1)** | 2025-02-04 | <details><summary>Docto...</summary><p>Doctoral Thesis: University of the Basque Country UPV/EHU</p></details> |
 | **[Cross-D Conv: Cross-Dimensional Transferable Knowledge Base via Fourier Shifting Operation](http://arxiv.org/abs/2411.02441v5)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted by IEEE ISBI 2025 4-page paper</p></details> |
 | **[Bidirectional Brain Image Translation using Transfer Learning from Generic Pre-trained Models](http://arxiv.org/abs/2501.12488v1)** | 2025-01-21 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 6 tables</p></details> |
