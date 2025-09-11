@@ -61,3 +61,19 @@ labels: documentation
 | **[Cross-D Conv: Cross-Dimensional Transferable Knowledge Base via Fourier Shifting Operation](http://arxiv.org/abs/2411.02441v5)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted by IEEE ISBI 2025 4-page paper</p></details> |
 | **[Bidirectional Brain Image Translation using Transfer Learning from Generic Pre-trained Models](http://arxiv.org/abs/2501.12488v1)** | 2025-01-21 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 6 tables</p></details> |
 
+## Biology
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Think before you fit: parameter identifiability, sensitivity and uncertainty in systems biology models](http://arxiv.org/abs/2508.18853v1)** | 2025-08-26 |  |
+| **[From Prediction to Simulation: AlphaFold 3 as a Differentiable Framework for Structural Biology](http://arxiv.org/abs/2508.18446v1)** | 2025-08-25 | <details><summary>37 pa...</summary><p>37 pages, 5 figures. A perspective article on the conceptual advances of AlphaFold 3 and its paradigm shift toward differentiable simulation in structural biology</p></details> |
+| **[Bioinspired underwater soft robots: from biology to robotics and back](http://arxiv.org/abs/2508.11883v1)** | 2025-08-16 |  |
+| **[Synthetic Biology meets Neuromorphic Computing: Towards a bio-inspired Olfactory Perception System](http://arxiv.org/abs/2504.10053v2)** | 2025-08-01 | <details><summary>Updat...</summary><p>Updated after revision at Neuromorphic Computing and Engineering</p></details> |
+| **[Flow Matching Meets Biology and Life Science: A Survey](http://arxiv.org/abs/2507.17731v1)** | 2025-07-23 | Preprint, 27 pages |
+| **[Benchmarking and Evaluation of AI Models in Biology: Outcomes and Recommendations from the CZI Virtual Cells Workshop](http://arxiv.org/abs/2507.10502v2)** | 2025-07-15 |  |
+| **[Measuring Scientific Capabilities of Language Models with a Systems Biology Dry Lab](http://arxiv.org/abs/2507.02083v2)** | 2025-07-14 |  |
+| **[Roadmap for using large language models (LLMs) to accelerate cross-disciplinary research with an example from computational biology](http://arxiv.org/abs/2507.03722v1)** | 2025-07-04 |  |
+| **[Evolutionary Developmental Biology Can Serve as the Conceptual Foundation for a New Design Paradigm in Artificial Intelligence](http://arxiv.org/abs/2506.12891v1)** | 2025-06-15 |  |
+| **[AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory](http://arxiv.org/abs/2505.14030v3)** | 2025-05-29 |  |
+| **[LLMs Outperform Experts on Challenging Biology Benchmarks](http://arxiv.org/abs/2505.06108v3)** | 2025-05-21 |  |
+| **[CellVerse: Do Large Language Models Really Understand Cell Biology?](http://arxiv.org/abs/2505.07865v1)** | 2025-05-09 |  |
+
