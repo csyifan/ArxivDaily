@@ -23,25 +23,6 @@ labels: documentation
 | **[Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](http://arxiv.org/abs/2508.04416v2)** | 2025-09-03 |  |
 | **[Exploring Response Uncertainty in MLLMs: An Empirical Evaluation under Misleading Scenarios](http://arxiv.org/abs/2411.02708v3)** | 2025-09-03 |  |
 
-## Agent
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Evaluating LLMs Without Oracle Feedback: Agentic Annotation Evaluation Through Unsupervised Consistency Signals](http://arxiv.org/abs/2509.08809v1)** | 2025-09-10 | 11 pages, 10 figures |
-| **[AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2509.08755v1)** | 2025-09-10 | <details><summary>prepr...</summary><p>preprint, 39 pages, 16 figures. Project: https://AgentGym-RL.github.io/. Framework and Code: https://github.com/woooodyy/AgentGym, https://github.com/woooodyy/AgentGym-RL</p></details> |
-| **[MPO: Boosting LLM Agents with Meta Plan Optimization](http://arxiv.org/abs/2503.02682v2)** | 2025-09-10 | EMNLP 2025 Findings |
-| **[ChemBOMAS: Accelerated BO in Chemistry with LLM-Enhanced Multi-Agent System](http://arxiv.org/abs/2509.08736v1)** | 2025-09-10 |  |
-| **[Automatic Failure Attribution and Critical Step Prediction Method for Multi-Agent Systems Based on Causal Inference](http://arxiv.org/abs/2509.08682v1)** | 2025-09-10 |  |
-| **[Architecting Resilient LLM Agents: A Guide to Secure Plan-then-Execute Implementations](http://arxiv.org/abs/2509.08646v1)** | 2025-09-10 |  |
-| **[AutoODD: Agentic Audits via Bayesian Red Teaming in Black-Box Models](http://arxiv.org/abs/2509.08638v1)** | 2025-09-10 |  |
-| **[Agents of Discovery](http://arxiv.org/abs/2509.08535v1)** | 2025-09-10 |  |
-| **[Phase-Coordinated Multi-Agent Circular Formation Control with Non-Concentric Boundary Constraints](http://arxiv.org/abs/2509.08534v1)** | 2025-09-10 |  |
-| **[T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation](http://arxiv.org/abs/2509.06644v3)** | 2025-09-10 |  |
-| **[CyberRAG: An Agentic RAG cyber attack classification and reporting tool](http://arxiv.org/abs/2507.02424v2)** | 2025-09-10 |  |
-| **[TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](http://arxiv.org/abs/2412.14161v3)** | 2025-09-10 | Preprint |
-| **[Co-Investigator AI: The Rise of Agentic AI for Smarter, Trustworthy AML Compliance Narratives](http://arxiv.org/abs/2509.08380v1)** | 2025-09-10 |  |
-| **[Resilient Global Practical Fixed-Time Cooperative Output Regulation of Uncertain Nonlinear Multi-Agent Systems Subject to Denial-of-Service Attacks](http://arxiv.org/abs/2509.08324v1)** | 2025-09-10 |  |
-| **[Leveraging AI Agents for Autonomous Networks: A Reference Architecture and Empirical Studies](http://arxiv.org/abs/2509.08312v1)** | 2025-09-10 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. This manuscript is a preprint</p></details> |
-
 ## Prompt Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
@@ -79,23 +60,4 @@ labels: documentation
 | **[Cross-Lingual Transfer for Low-Resource Natural Language Processing](http://arxiv.org/abs/2502.02722v1)** | 2025-02-04 | <details><summary>Docto...</summary><p>Doctoral Thesis: University of the Basque Country UPV/EHU</p></details> |
 | **[Cross-D Conv: Cross-Dimensional Transferable Knowledge Base via Fourier Shifting Operation](http://arxiv.org/abs/2411.02441v5)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted by IEEE ISBI 2025 4-page paper</p></details> |
 | **[Bidirectional Brain Image Translation using Transfer Learning from Generic Pre-trained Models](http://arxiv.org/abs/2501.12488v1)** | 2025-01-21 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 6 tables</p></details> |
-
-## LLM Safety
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint](http://arxiv.org/abs/2509.06795v1)** | 2025-09-08 |  |
-| **[Behind the Mask: Benchmarking Camouflaged Jailbreaks in Large Language Models](http://arxiv.org/abs/2509.05471v1)** | 2025-09-05 |  |
-| **[Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning](http://arxiv.org/abs/2408.09600v3)** | 2025-09-05 | <details><summary>Rejec...</summary><p>Rejected by AAAI25-AIA. Accepted by ICML25. Authors are thankful to the anonymous reviewers from both AAAI25-AIA and ICML25</p></details> |
-| **[Forewarned is Forearmed: Pre-Synthesizing Jailbreak-like Instructions to Enhance LLM Safety Guardrail to Potential Attacks](http://arxiv.org/abs/2508.20038v3)** | 2025-09-04 | EMNLP 2025 findings |
-| **[Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner](http://arxiv.org/abs/2508.15044v2)** | 2025-09-02 |  |
-| **[Context Engineering for Trustworthiness: Rescorla Wagner Steering Under Mixed and Inappropriate Contexts](http://arxiv.org/abs/2509.04500v1)** | 2025-09-02 | 36 pages, 7 figures |
-| **[QGuard:Question-based Zero-shot Guard for Multi-modal LLM Safety](http://arxiv.org/abs/2506.12299v2)** | 2025-08-30 | <details><summary>Accep...</summary><p>Accept to ACLW 2025 (WOAH)</p></details> |
-| **[Turning the Spell Around: Lightweight Alignment Amplification via Rank-One Safety Injection](http://arxiv.org/abs/2508.20766v1)** | 2025-08-28 | Under Review |
-| **[LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models](http://arxiv.org/abs/2508.12733v2)** | 2025-08-27 | 7pages, 5 figures |
-| **[Prefill-level Jailbreak: A Black-Box Risk Analysis of Large Language Models](http://arxiv.org/abs/2504.21038v2)** | 2025-08-25 |  |
-| **[Trust Me, I'm Wrong: LLMs Hallucinate with Certainty Despite Knowing the Answer](http://arxiv.org/abs/2502.12964v2)** | 2025-08-25 |  |
-| **[Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation](http://arxiv.org/abs/2505.18556v2)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted for EMNLP'25 Findings. TL;DR: We propose a new two-stage intent-based prompt-refinement framework, IntentPrompt, that aims to explore the vulnerability of LLMs' content moderation guardrails by refining prompts into benign-looking declarative forms via intent manipulation for red-teaming purposes</p></details> |
-| **[Confusion is the Final Barrier: Rethinking Jailbreak Evaluation and Investigating the Real Misuse Threat of LLMs](http://arxiv.org/abs/2508.16347v1)** | 2025-08-22 |  |
-| **[SafetyFlow: An Agent-Flow System for Automated LLM Safety Benchmarking](http://arxiv.org/abs/2508.15526v1)** | 2025-08-21 | <details><summary>Code ...</summary><p>Code and dataset are available at https://github.com/yangyangyang127/SafetyFlow</p></details> |
-| **[SafeLLM: Unlearning Harmful Outputs from Large Language Models against Jailbreak Attacks](http://arxiv.org/abs/2508.15182v1)** | 2025-08-21 |  |
 
