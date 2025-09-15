@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 14, 2025
+title: Latest 15 Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Prompt Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection](http://arxiv.org/abs/2509.10282v1)** | 2025-09-12 | Page 14, 5 pictures |
+| **[MoPD: Mixture-of-Prompts Distillation for Vision-Language Models](http://arxiv.org/abs/2412.19087v2)** | 2025-09-12 |  |
 | **[AttriPrompt: Dynamic Prompt Composition Learning for CLIP](http://arxiv.org/abs/2509.05949v1)** | 2025-09-07 |  |
 | **[Few-Shot Query Intent Detection via Relation-Aware Prompt Learning](http://arxiv.org/abs/2509.05635v1)** | 2025-09-06 |  |
 | **[Attn-Adapter: Attention Is All You Need for Online Few-shot Learner of Vision-Language Model](http://arxiv.org/abs/2509.03895v1)** | 2025-09-04 | <details><summary>ICCV ...</summary><p>ICCV 2025 - LIMIT Workshop</p></details> |
@@ -39,14 +41,13 @@ labels: documentation
 | **[LLM-Forest: Ensemble Learning of LLMs with Graph-Augmented Prompts for Data Imputation](http://arxiv.org/abs/2410.21520v4)** | 2025-08-23 |  |
 | **[Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction](http://arxiv.org/abs/2508.16147v1)** | 2025-08-22 | <details><summary>This ...</summary><p>This paper has been accepted by ACM MM 2025</p></details> |
 | **[Knowledge-Guided Prompt Learning for Request Quality Assurance in Public Code Review](http://arxiv.org/abs/2410.21673v3)** | 2025-08-21 | <details><summary>27 pa...</summary><p>27 pages, 5 images, 12 tables, Manuscript revision submitted to a journal (2025)</p></details> |
-| **[DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup](http://arxiv.org/abs/2508.13560v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025, Project: https://github.com/xiaozhen228/DictAS</p></details> |
-| **[Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models](http://arxiv.org/abs/2404.10357v3)** | 2025-08-18 |  |
 
 ## Medical Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[MedS$^3$: Towards Medical Slow Thinking with Self-Evolved Soft Dual-sided Process Supervision](http://arxiv.org/abs/2501.12051v3)** | 2025-09-10 | 20 pages; |
 | **[AURAD: Anatomy-Pathology Unified Radiology Synthesis with Progressive Representations](http://arxiv.org/abs/2509.04819v2)** | 2025-09-08 |  |
+| **[Psychiatry-Bench: A Multi-Task Benchmark for LLMs in Psychiatry](http://arxiv.org/abs/2509.09711v1)** | 2025-09-07 |  |
 | **[LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation](http://arxiv.org/abs/2506.04078v3)** | 2025-08-31 |  |
 | **[HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models](http://arxiv.org/abs/2405.07460v5)** | 2025-08-27 |  |
 | **[A Multi-Agent Approach to Neurological Clinical Reasoning](http://arxiv.org/abs/2508.14063v1)** | 2025-08-10 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](http://arxiv.org/abs/2306.07971v2)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted at ACL 2024-BIONLP Workshop. Code: https://github.com/mbzuai-oryx/XrayGPT</p></details> |
 | **[Cross-Lingual Transfer for Low-Resource Natural Language Processing](http://arxiv.org/abs/2502.02722v1)** | 2025-02-04 | <details><summary>Docto...</summary><p>Doctoral Thesis: University of the Basque Country UPV/EHU</p></details> |
 | **[Cross-D Conv: Cross-Dimensional Transferable Knowledge Base via Fourier Shifting Operation](http://arxiv.org/abs/2411.02441v5)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted by IEEE ISBI 2025 4-page paper</p></details> |
-| **[Bidirectional Brain Image Translation using Transfer Learning from Generic Pre-trained Models](http://arxiv.org/abs/2501.12488v1)** | 2025-01-21 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 6 tables</p></details> |
 
 ## Biology
 | **Title** | **Date** | **Comment** |
