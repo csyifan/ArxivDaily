@@ -61,20 +61,22 @@ labels: documentation
 | **[Cross-Lingual Transfer for Low-Resource Natural Language Processing](http://arxiv.org/abs/2502.02722v1)** | 2025-02-04 | <details><summary>Docto...</summary><p>Doctoral Thesis: University of the Basque Country UPV/EHU</p></details> |
 | **[Cross-D Conv: Cross-Dimensional Transferable Knowledge Base via Fourier Shifting Operation](http://arxiv.org/abs/2411.02441v5)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted by IEEE ISBI 2025 4-page paper</p></details> |
 
-## Biology
+## Medical Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neural cellular automata: applications to biology and beyond classical AI](http://arxiv.org/abs/2509.11131v1)** | 2025-09-14 |  |
-| **[Think before you fit: parameter identifiability, sensitivity and uncertainty in systems biology models](http://arxiv.org/abs/2508.18853v1)** | 2025-08-26 |  |
-| **[From Prediction to Simulation: AlphaFold 3 as a Differentiable Framework for Structural Biology](http://arxiv.org/abs/2508.18446v1)** | 2025-08-25 | <details><summary>37 pa...</summary><p>37 pages, 5 figures. A perspective article on the conceptual advances of AlphaFold 3 and its paradigm shift toward differentiable simulation in structural biology</p></details> |
-| **[Bioinspired underwater soft robots: from biology to robotics and back](http://arxiv.org/abs/2508.11883v1)** | 2025-08-16 |  |
-| **[Synthetic Biology meets Neuromorphic Computing: Towards a bio-inspired Olfactory Perception System](http://arxiv.org/abs/2504.10053v2)** | 2025-08-01 | <details><summary>Updat...</summary><p>Updated after revision at Neuromorphic Computing and Engineering</p></details> |
-| **[Flow Matching Meets Biology and Life Science: A Survey](http://arxiv.org/abs/2507.17731v1)** | 2025-07-23 | Preprint, 27 pages |
-| **[Benchmarking and Evaluation of AI Models in Biology: Outcomes and Recommendations from the CZI Virtual Cells Workshop](http://arxiv.org/abs/2507.10502v2)** | 2025-07-15 |  |
-| **[Measuring Scientific Capabilities of Language Models with a Systems Biology Dry Lab](http://arxiv.org/abs/2507.02083v2)** | 2025-07-14 |  |
-| **[Roadmap for using large language models (LLMs) to accelerate cross-disciplinary research with an example from computational biology](http://arxiv.org/abs/2507.03722v1)** | 2025-07-04 |  |
-| **[Evolutionary Developmental Biology Can Serve as the Conceptual Foundation for a New Design Paradigm in Artificial Intelligence](http://arxiv.org/abs/2506.12891v1)** | 2025-06-15 |  |
-| **[AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory](http://arxiv.org/abs/2505.14030v3)** | 2025-05-29 |  |
-| **[LLMs Outperform Experts on Challenging Biology Benchmarks](http://arxiv.org/abs/2505.06108v3)** | 2025-05-21 |  |
-| **[CellVerse: Do Large Language Models Really Understand Cell Biology?](http://arxiv.org/abs/2505.07865v1)** | 2025-05-09 |  |
+| **[Learning to Be A Doctor: Searching for Effective Medical Agent Architectures](http://arxiv.org/abs/2504.11301v2)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
+| **[PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning](http://arxiv.org/abs/2508.10501v2)** | 2025-08-15 |  |
+| **[Ethics2vec: aligning automatic agents and human preferences](http://arxiv.org/abs/2508.07673v1)** | 2025-08-11 |  |
+| **[AURA: A Multi-Modal Medical Agent for Understanding, Reasoning & Annotation](http://arxiv.org/abs/2507.16940v1)** | 2025-07-22 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, International Conference on Medical Image Computing and Computer-Assisted Intervention</p></details> |
+| **[WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis](http://arxiv.org/abs/2507.14680v1)** | 2025-07-19 |  |
+| **[MedAide: Information Fusion and Anatomy of Medical Intents via LLM-based Agent Collaboration](http://arxiv.org/abs/2410.12532v3)** | 2025-07-03 | <details><summary>LLM-b...</summary><p>LLM-based Multi-Agent Collaboration for Medical Applications</p></details> |
+| **[MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](http://arxiv.org/abs/2506.00555v2)** | 2025-06-17 |  |
+| **[ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents](http://arxiv.org/abs/2410.17657v3)** | 2025-06-16 | ACL 2025 Main Paper |
+| **[A Survey of LLM-based Agents in Medicine: How far are we from Baymax?](http://arxiv.org/abs/2502.11211v2)** | 2025-05-26 | ACL 2025 Findings |
+| **[Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions](http://arxiv.org/abs/2504.11373v1)** | 2025-04-15 |  |
+| **[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](http://arxiv.org/abs/2405.02957v3)** | 2025-01-17 |  |
+| **[Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios](http://arxiv.org/abs/2411.14461v1)** | 2024-11-16 |  |
+| **[ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World](http://arxiv.org/abs/2406.13890v2)** | 2024-10-09 |  |
+| **[Adapting LLMs for the Medical Domain in Portuguese: A Study on Fine-Tuning and Model Evaluation](http://arxiv.org/abs/2410.00163v1)** | 2024-09-30 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis](http://arxiv.org/abs/2407.13301v2)** | 2024-09-15 |  |
 
