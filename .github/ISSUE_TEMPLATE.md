@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 15, 2025
+title: Latest 15 Papers - September 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Open-ended Hierarchical Streaming Video Understanding with Vision Language Models](http://arxiv.org/abs/2509.12145v1)** | 2025-09-15 | 17 pages |
+| **[Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding](http://arxiv.org/abs/2509.11866v1)** | 2025-09-15 | 25 pages, 16 figures |
+| **[Bridging Vision Language Models and Symbolic Grounding for Video Question Answering](http://arxiv.org/abs/2509.11862v1)** | 2025-09-15 |  |
+| **[FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning](http://arxiv.org/abs/2509.11796v1)** | 2025-09-15 | ACM MM 2025 |
+| **[GLaVE-Cap: Global-Local Aligned Video Captioning with Vision Expert Integration](http://arxiv.org/abs/2509.11360v1)** | 2025-09-14 |  |
+| **[Traffic-MLLM: A Spatio-Temporal MLLM with Retrieval-Augmented Generation for Causal Inference in Traffic](http://arxiv.org/abs/2509.11165v1)** | 2025-09-14 |  |
+| **[Shot-by-Shot: Film-Grammar-Aware Training-Free Audio Description Generation](http://arxiv.org/abs/2504.01020v2)** | 2025-09-13 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project Page: https://www.robots.ox.ac.uk/vgg/research/shot-by-shot/</p></details> |
 | **[MESH -- Understanding Videos Like Human: Measuring Hallucinations in Large Video Models](http://arxiv.org/abs/2509.08538v2)** | 2025-09-11 |  |
 | **[DATE: Dynamic Absolute Time Enhancement for Long Video Understanding](http://arxiv.org/abs/2509.09263v1)** | 2025-09-11 |  |
 | **[Video Understanding by Design: How Datasets Shape Architectures and Insights](http://arxiv.org/abs/2509.09151v1)** | 2025-09-11 | Research report |
@@ -15,13 +22,6 @@ labels: documentation
 | **[CAViAR: Critic-Augmented Video Agentic Reasoning](http://arxiv.org/abs/2509.07680v1)** | 2025-09-09 |  |
 | **[Audio-centric Video Understanding Benchmark without Text Shortcut](http://arxiv.org/abs/2503.19951v2)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of EMNLP 2025 (Main Conference)</p></details> |
 | **[SkillFormer: Unified Multi-View Video Understanding for Proficiency Estimation](http://arxiv.org/abs/2505.08665v4)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted at the 2025 18th International Conference on Machine Vision</p></details> |
-| **[Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors](http://arxiv.org/abs/2509.00969v2)** | 2025-09-09 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, EMNLP2025</p></details> |
-| **[Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](http://arxiv.org/abs/2507.02074v2)** | 2025-09-08 |  |
-| **[Harnessing Object Grounding for Time-Sensitive Video Understanding](http://arxiv.org/abs/2509.06335v1)** | 2025-09-08 |  |
-| **[Kwai Keye-VL 1.5 Technical Report](http://arxiv.org/abs/2509.01563v3)** | 2025-09-07 | <details><summary>Githu...</summary><p>Github page: https://github.com/Kwai-Keye/Keye</p></details> |
-| **[VSI: Visual Subtitle Integration for Keyframe Selection to enhance Long Video Understanding](http://arxiv.org/abs/2508.06869v2)** | 2025-09-06 | 9 pages,3 figures |
-| **[Strefer: Empowering Video LLMs with Space-Time Referring and Reasoning via Synthetic Instruction Data](http://arxiv.org/abs/2509.03501v1)** | 2025-09-03 | <details><summary>This ...</summary><p>This technical report serves as the archival version of our paper accepted at the ICCV 2025 Workshop. For more information, please visit our project website: https://strefer.github.io/</p></details> |
-| **[Time-Scaling State-Space Models for Dense Video Captioning](http://arxiv.org/abs/2509.03426v1)** | 2025-09-03 | BMVC 2025 |
 
 ## Prompt Learning
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Biology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural cellular automata: applications to biology and beyond classical AI](http://arxiv.org/abs/2509.11131v1)** | 2025-09-14 |  |
 | **[Think before you fit: parameter identifiability, sensitivity and uncertainty in systems biology models](http://arxiv.org/abs/2508.18853v1)** | 2025-08-26 |  |
 | **[From Prediction to Simulation: AlphaFold 3 as a Differentiable Framework for Structural Biology](http://arxiv.org/abs/2508.18446v1)** | 2025-08-25 | <details><summary>37 pa...</summary><p>37 pages, 5 figures. A perspective article on the conceptual advances of AlphaFold 3 and its paradigm shift toward differentiable simulation in structural biology</p></details> |
 | **[Bioinspired underwater soft robots: from biology to robotics and back](http://arxiv.org/abs/2508.11883v1)** | 2025-08-16 |  |
