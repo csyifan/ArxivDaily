@@ -61,22 +61,22 @@ labels: documentation
 | **[Cross-Lingual Transfer for Low-Resource Natural Language Processing](http://arxiv.org/abs/2502.02722v1)** | 2025-02-04 | <details><summary>Docto...</summary><p>Doctoral Thesis: University of the Basque Country UPV/EHU</p></details> |
 | **[Cross-D Conv: Cross-Dimensional Transferable Knowledge Base via Fourier Shifting Operation](http://arxiv.org/abs/2411.02441v5)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted by IEEE ISBI 2025 4-page paper</p></details> |
 
-## Medical Agent
+## Medical LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning to Be A Doctor: Searching for Effective Medical Agent Architectures](http://arxiv.org/abs/2504.11301v2)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
-| **[PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning](http://arxiv.org/abs/2508.10501v2)** | 2025-08-15 |  |
-| **[Ethics2vec: aligning automatic agents and human preferences](http://arxiv.org/abs/2508.07673v1)** | 2025-08-11 |  |
-| **[AURA: A Multi-Modal Medical Agent for Understanding, Reasoning & Annotation](http://arxiv.org/abs/2507.16940v1)** | 2025-07-22 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, International Conference on Medical Image Computing and Computer-Assisted Intervention</p></details> |
-| **[WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis](http://arxiv.org/abs/2507.14680v1)** | 2025-07-19 |  |
-| **[MedAide: Information Fusion and Anatomy of Medical Intents via LLM-based Agent Collaboration](http://arxiv.org/abs/2410.12532v3)** | 2025-07-03 | <details><summary>LLM-b...</summary><p>LLM-based Multi-Agent Collaboration for Medical Applications</p></details> |
-| **[MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](http://arxiv.org/abs/2506.00555v2)** | 2025-06-17 |  |
-| **[ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents](http://arxiv.org/abs/2410.17657v3)** | 2025-06-16 | ACL 2025 Main Paper |
-| **[A Survey of LLM-based Agents in Medicine: How far are we from Baymax?](http://arxiv.org/abs/2502.11211v2)** | 2025-05-26 | ACL 2025 Findings |
-| **[Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions](http://arxiv.org/abs/2504.11373v1)** | 2025-04-15 |  |
-| **[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](http://arxiv.org/abs/2405.02957v3)** | 2025-01-17 |  |
-| **[Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios](http://arxiv.org/abs/2411.14461v1)** | 2024-11-16 |  |
-| **[ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World](http://arxiv.org/abs/2406.13890v2)** | 2024-10-09 |  |
-| **[Adapting LLMs for the Medical Domain in Portuguese: A Study on Fine-Tuning and Model Evaluation](http://arxiv.org/abs/2410.00163v1)** | 2024-09-30 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis](http://arxiv.org/abs/2407.13301v2)** | 2024-09-15 |  |
+| **[MMORE: Massive Multimodal Open RAG & Extraction](http://arxiv.org/abs/2509.11937v1)** | 2025-09-15 | <details><summary>This ...</summary><p>This paper was originally submitted to the CODEML workshop for ICML 2025. 9 pages (including references and appendices)</p></details> |
+| **[PeruMedQA: Benchmarking Large Language Models (LLMs) on Peruvian Medical Exams -- Dataset Construction and Evaluation](http://arxiv.org/abs/2509.11517v1)** | 2025-09-15 | <details><summary>https...</summary><p>https://github.com/rodrigo-carrillo/PeruMedQA</p></details> |
+| **[A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP](http://arxiv.org/abs/2505.16661v2)** | 2025-09-09 | <details><summary>15 pa...</summary><p>15 pages, 9 tables, 5 figures</p></details> |
+| **[Baichuan-M2: Scaling Medical Capability with Large Verifier System](http://arxiv.org/abs/2509.02208v1)** | 2025-09-02 | <details><summary>Baich...</summary><p>Baichuan-M2 Technical Report</p></details> |
+| **[DPF-CM: A Data Processing Framework with Privacy-Preserving Vector Databases for Chinese Medical LLMs Training and Deployment](http://arxiv.org/abs/2509.01354v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
+| **[RPRO:Ranked Preference Reinforcement Optimization for Enhancing Medical QA and Diagnostic Reasoning](http://arxiv.org/abs/2509.00974v1)** | 2025-08-31 |  |
+| **[LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation](http://arxiv.org/abs/2506.04078v3)** | 2025-08-31 |  |
+| **[DentalBench: Benchmarking and Advancing LLMs Capability for Bilingual Dentistry Understanding](http://arxiv.org/abs/2508.20416v1)** | 2025-08-28 |  |
+| **[Reasoning LLMs in the Medical Domain: A Literature Survey](http://arxiv.org/abs/2508.19097v1)** | 2025-08-26 |  |
+| **[MedOmni-45°: A Safety-Performance Benchmark for Reasoning-Oriented LLMs in Medicine](http://arxiv.org/abs/2508.16213v1)** | 2025-08-22 | 9 pages |
+| **[A Comparative Study of Decoding Strategies in Medical Text Generation](http://arxiv.org/abs/2508.13580v1)** | 2025-08-19 |  |
+| **[ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](http://arxiv.org/abs/2508.13514v1)** | 2025-08-19 |  |
+| **[Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model](http://arxiv.org/abs/2508.10492v1)** | 2025-08-14 | 39 pages |
+| **[A Novel Evaluation Benchmark for Medical LLMs: Illuminating Safety and Effectiveness in Clinical Domains](http://arxiv.org/abs/2507.23486v3)** | 2025-08-13 |  |
+| **[Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond](http://arxiv.org/abs/2502.20988v2)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted for publication in Knowledge-Based Systems. The arXiv version is the pre-peer-review preprint, and the final published version is not available here due to publisher policy</p></details> |
 
