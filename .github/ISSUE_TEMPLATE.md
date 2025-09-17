@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2025
+title: Latest 15 Papers - September 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ResidualViT for Efficient Temporally Dense Video Encoding](http://arxiv.org/abs/2509.13255v1)** | 2025-09-16 |  |
+| **[3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark](http://arxiv.org/abs/2412.07825v4)** | 2025-09-15 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://3dsrbench.github.io</p></details> |
 | **[Open-ended Hierarchical Streaming Video Understanding with Vision Language Models](http://arxiv.org/abs/2509.12145v1)** | 2025-09-15 | 17 pages |
 | **[Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding](http://arxiv.org/abs/2509.11866v1)** | 2025-09-15 | 25 pages, 16 figures |
 | **[Bridging Vision Language Models and Symbolic Grounding for Video Question Answering](http://arxiv.org/abs/2509.11862v1)** | 2025-09-15 |  |
@@ -20,12 +22,14 @@ labels: documentation
 | **[AdsQA: Towards Advertisement Video Understanding](http://arxiv.org/abs/2509.08621v1)** | 2025-09-10 | ICCV-2025 |
 | **[Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation](http://arxiv.org/abs/2504.02438v5)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[CAViAR: Critic-Augmented Video Agentic Reasoning](http://arxiv.org/abs/2509.07680v1)** | 2025-09-09 |  |
-| **[Audio-centric Video Understanding Benchmark without Text Shortcut](http://arxiv.org/abs/2503.19951v2)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of EMNLP 2025 (Main Conference)</p></details> |
-| **[SkillFormer: Unified Multi-View Video Understanding for Proficiency Estimation](http://arxiv.org/abs/2505.08665v4)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted at the 2025 18th International Conference on Machine Vision</p></details> |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Empowering Multi-Robot Cooperation via Sequential World Models](http://arxiv.org/abs/2509.13095v1)** | 2025-09-16 |  |
+| **[Methodology of Algorithm Engineering](http://arxiv.org/abs/2310.18979v2)** | 2025-09-16 |  |
+| **[Enhancing Physical Consistency in Lightweight World Models](http://arxiv.org/abs/2509.12437v1)** | 2025-09-15 | 8 pages |
+| **[Causal-Symbolic Meta-Learning (CSML): Inducing Causal World Models for Few-Shot Generalization](http://arxiv.org/abs/2509.12387v1)** | 2025-09-15 | 10 pages, 4 figures |
 | **[OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](http://arxiv.org/abs/2509.12201v1)** | 2025-09-15 | <details><summary>https...</summary><p>https://yangzhou24.github.io/OmniWorld/</p></details> |
 | **[Learning to Generate 4D LiDAR Sequences](http://arxiv.org/abs/2509.11959v1)** | 2025-09-15 | <details><summary>Abstr...</summary><p>Abstract Paper (Non-Archival) @ ICCV 2025 Wild3D Workshop; GitHub Repo at https://lidarcrafter.github.io/</p></details> |
 | **[Neuro-Symbolic Agents with Modal Logic for Autonomous Diagnostics](http://arxiv.org/abs/2509.11943v1)** | 2025-09-15 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, Scaling Environments for Agents (SEA) Workshop at NeuralIPS</p></details> |
@@ -37,14 +41,11 @@ labels: documentation
 | **[Randomly Sampled Language Reasoning Problems Elucidate Limitations of In-Context Learning](http://arxiv.org/abs/2501.02825v6)** | 2025-09-10 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 2 tables</p></details> |
 | **[A Survey of World Models for Autonomous Driving](http://arxiv.org/abs/2501.11260v4)** | 2025-09-10 | <details><summary>Ongoi...</summary><p>Ongoing project. Paper list: https://github.com/FengZicai/AwesomeWMAD Benchmark: https://github.com/FengZicai/WMAD-Benchmarks</p></details> |
 | **[One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning](http://arxiv.org/abs/2509.07945v1)** | 2025-09-09 | 43 pages, 19 figures |
-| **[LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences](http://arxiv.org/abs/2508.03692v2)** | 2025-09-09 | <details><summary>Prepr...</summary><p>Preprint; 28 pages, 18 figures, 12 tables; Project Page at https://lidarcrafter.github.io</p></details> |
-| **[When Do Neural Networks Learn World Models?](http://arxiv.org/abs/2502.09297v5)** | 2025-09-09 | <details><summary>ICML ...</summary><p>ICML 2025; ICLR 2025 World Models Workshop (oral, outstanding paper award)</p></details> |
-| **[Semi-SMD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving](http://arxiv.org/abs/2503.19713v3)** | 2025-09-09 |  |
-| **[Language Models Might Not Understand You: Evaluating Theory of Mind via Story Prompting](http://arxiv.org/abs/2506.19089v3)** | 2025-09-09 | 12 pages, 11 figures |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy](http://arxiv.org/abs/2509.13234v1)** | 2025-09-16 |  |
 | **[MedS$^3$: Towards Medical Slow Thinking with Self-Evolved Soft Dual-sided Process Supervision](http://arxiv.org/abs/2501.12051v3)** | 2025-09-10 | 20 pages; |
 | **[AURAD: Anatomy-Pathology Unified Radiology Synthesis with Progressive Representations](http://arxiv.org/abs/2509.04819v2)** | 2025-09-08 |  |
 | **[Psychiatry-Bench: A Multi-Task Benchmark for LLMs in Psychiatry](http://arxiv.org/abs/2509.09711v1)** | 2025-09-07 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Pattern Recognition or Medical Knowledge? The Problem with Multiple-Choice Questions in Medicine](http://arxiv.org/abs/2406.02394v2)** | 2025-05-31 | ACL 2025 main |
 | **[XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](http://arxiv.org/abs/2306.07971v2)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted at ACL 2024-BIONLP Workshop. Code: https://github.com/mbzuai-oryx/XrayGPT</p></details> |
 | **[Cross-Lingual Transfer for Low-Resource Natural Language Processing](http://arxiv.org/abs/2502.02722v1)** | 2025-02-04 | <details><summary>Docto...</summary><p>Doctoral Thesis: University of the Basque Country UPV/EHU</p></details> |
-| **[Cross-D Conv: Cross-Dimensional Transferable Knowledge Base via Fourier Shifting Operation](http://arxiv.org/abs/2411.02441v5)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted by IEEE ISBI 2025 4-page paper</p></details> |
 
 ## Medical LLM
 | **Title** | **Date** | **Comment** |
@@ -80,22 +80,22 @@ labels: documentation
 | **[A Novel Evaluation Benchmark for Medical LLMs: Illuminating Safety and Effectiveness in Clinical Domains](http://arxiv.org/abs/2507.23486v3)** | 2025-08-13 |  |
 | **[Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond](http://arxiv.org/abs/2502.20988v2)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted for publication in Knowledge-Based Systems. The arXiv version is the pre-peer-review preprint, and the final published version is not available here due to publisher policy</p></details> |
 
-## Prompt Learning
+## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection](http://arxiv.org/abs/2509.10282v1)** | 2025-09-12 | Page 14, 5 pictures |
-| **[MoPD: Mixture-of-Prompts Distillation for Vision-Language Models](http://arxiv.org/abs/2412.19087v2)** | 2025-09-12 |  |
-| **[AttriPrompt: Dynamic Prompt Composition Learning for CLIP](http://arxiv.org/abs/2509.05949v1)** | 2025-09-07 |  |
-| **[Few-Shot Query Intent Detection via Relation-Aware Prompt Learning](http://arxiv.org/abs/2509.05635v1)** | 2025-09-06 |  |
-| **[Attn-Adapter: Attention Is All You Need for Online Few-shot Learner of Vision-Language Model](http://arxiv.org/abs/2509.03895v1)** | 2025-09-04 | <details><summary>ICCV ...</summary><p>ICCV 2025 - LIMIT Workshop</p></details> |
-| **[Causality-guided Prompt Learning for Vision-language Models via Visual Granulation](http://arxiv.org/abs/2509.03803v1)** | 2025-09-04 | ICCV 2025 Accepted |
-| **[ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP](http://arxiv.org/abs/2506.19608v2)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted by the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)</p></details> |
-| **[Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability](http://arxiv.org/abs/2509.02962v1)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted to IEEE/ASME Transactions on Mechatronics</p></details> |
-| **[Prediction of mortality and resource utilization in critical care: a deep learning approach using multimodal electronic health records with natural language processing techniques](http://arxiv.org/abs/2508.20460v1)** | 2025-08-28 |  |
-| **[ProMSC-MIS: Prompt-based Multimodal Semantic Communication for Multi-Spectral Image Segmentation](http://arxiv.org/abs/2508.20057v1)** | 2025-08-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2508.17920</p></details> |
-| **[Toward Robust Medical Fairness: Debiased Dual-Modal Alignment via Text-Guided Attribute-Disentangled Prompt Learning for Vision-Language Models](http://arxiv.org/abs/2508.18886v1)** | 2025-08-26 |  |
-| **[ModalPrompt: Towards Efficient Multimodal Continual Instruction Tuning with Dual-Modality Guided Prompt](http://arxiv.org/abs/2410.05849v2)** | 2025-08-25 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Main Conference)</p></details> |
-| **[LLM-Forest: Ensemble Learning of LLMs with Graph-Augmented Prompts for Data Imputation](http://arxiv.org/abs/2410.21520v4)** | 2025-08-23 |  |
-| **[Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction](http://arxiv.org/abs/2508.16147v1)** | 2025-08-22 | <details><summary>This ...</summary><p>This paper has been accepted by ACM MM 2025</p></details> |
-| **[Knowledge-Guided Prompt Learning for Request Quality Assurance in Public Code Review](http://arxiv.org/abs/2410.21673v3)** | 2025-08-21 | <details><summary>27 pa...</summary><p>27 pages, 5 images, 12 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[A Scenario-Driven Cognitive Approach to Next-Generation AI Memory](http://arxiv.org/abs/2509.13235v1)** | 2025-09-16 |  |
+| **[Space-Time Trade-off in Bounded Iterated Memory](http://arxiv.org/abs/2509.13157v1)** | 2025-09-16 | <details><summary>To be...</summary><p>To be presented at the 27th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS 2025)</p></details> |
+| **[Traces Propagation: Memory-Efficient and Scalable Forward-Only Learning in Spiking Neural Networks](http://arxiv.org/abs/2509.13053v1)** | 2025-09-16 |  |
+| **[MEIL-NeRF: Memory-Efficient Incremental Learning of Neural Radiance Fields](http://arxiv.org/abs/2212.08328v3)** | 2025-09-16 | <details><summary>10 pa...</summary><p>10 pages for main paper, additional 7 pages for supple. For the project page, see https://robot0321.github.io/meil-nerf/index.html</p></details> |
+| **[HPIM: Heterogeneous Processing-In-Memory-based Accelerator for Large Language Models Inference](http://arxiv.org/abs/2509.12993v1)** | 2025-09-16 |  |
+| **[Forget What's Sensitive, Remember What Matters: Token-Level Differential Privacy in Memory Sculpting for Continual Learning](http://arxiv.org/abs/2509.12958v1)** | 2025-09-16 |  |
+| **[A Neuromorphic Model of Learning Meaningful Sequences with Long-Term Memory](http://arxiv.org/abs/2509.12850v1)** | 2025-09-16 |  |
+| **[Efficient lattice field theory simulation using adaptive normalizing flow on a resistive memory-based neural differential equation solver](http://arxiv.org/abs/2509.12812v1)** | 2025-09-16 |  |
+| **[Timbre-Adaptive Transcription: A Lightweight Architecture with Associative Memory for Dynamic Instrument Separation](http://arxiv.org/abs/2509.12712v1)** | 2025-09-16 |  |
+| **[Pimba: A Processing-in-Memory Acceleration for Post-Transformer Large Language Model Serving](http://arxiv.org/abs/2507.10178v3)** | 2025-09-16 |  |
+| **[PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training](http://arxiv.org/abs/2507.11683v3)** | 2025-09-15 | <details><summary>To ap...</summary><p>To appear in the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis</p></details> |
+| **[Shell or Nothing: Real-World Benchmarks and Memory-Activated Agents for Automated Penetration Testing](http://arxiv.org/abs/2509.09207v2)** | 2025-09-15 |  |
+| **[Graceful forgetting: Memory as a process](http://arxiv.org/abs/2502.11105v3)** | 2025-09-15 |  |
+| **[Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System](http://arxiv.org/abs/2508.13231v2)** | 2025-09-15 | <details><summary>IEEE ...</summary><p>IEEE Computer Architecture Letter</p></details> |
+| **[EgoMem: Lifelong Memory Agent for Full-duplex Omnimodal Models](http://arxiv.org/abs/2509.11914v1)** | 2025-09-15 |  |
 
