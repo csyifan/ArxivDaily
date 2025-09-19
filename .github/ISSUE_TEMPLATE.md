@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2025
+title: Latest 15 Papers - September 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dense Video Understanding with Gated Residual Tokenization](http://arxiv.org/abs/2509.14199v2)** | 2025-09-18 |  |
 | **[Cinéaste: A Fine-grained Contextual Movie Question Answering Benchmark](http://arxiv.org/abs/2509.14227v1)** | 2025-09-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 5 tables</p></details> |
-| **[Dense Video Understanding with Gated Residual Tokenization](http://arxiv.org/abs/2509.14199v1)** | 2025-09-17 |  |
 | **[A Culturally-diverse Multilingual Multimodal Video Benchmark & Model](http://arxiv.org/abs/2506.07032v2)** | 2025-09-17 |  |
 | **[ResidualViT for Efficient Temporally Dense Video Encoding](http://arxiv.org/abs/2509.13255v1)** | 2025-09-16 |  |
 | **[3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark](http://arxiv.org/abs/2412.07825v4)** | 2025-09-15 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://3dsrbench.github.io</p></details> |
@@ -26,6 +26,8 @@ labels: documentation
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GAF: Gaussian Action Field as a Dynamic World Model for Robotic Manipulation](http://arxiv.org/abs/2506.14135v3)** | 2025-09-18 | <details><summary>http:...</summary><p>http://chaiying1.github.io/GAF.github.io/project_page/</p></details> |
+| **[Designing Latent Safety Filters using Pre-Trained Vision Models](http://arxiv.org/abs/2509.14758v1)** | 2025-09-18 |  |
 | **[Brain Inspired Probabilistic Occupancy Grid Mapping with Vector Symbolic Architectures](http://arxiv.org/abs/2408.09066v4)** | 2025-09-17 |  |
 | **[PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models](http://arxiv.org/abs/2509.13903v1)** | 2025-09-17 | <details><summary>submi...</summary><p>submitted to IEEE conference</p></details> |
 | **[DAVIS: Planning Agent with Knowledge Graph-Powered Inner Monologue](http://arxiv.org/abs/2410.09252v2)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Findings</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](http://arxiv.org/abs/2509.12201v1)** | 2025-09-15 | <details><summary>https...</summary><p>https://yangzhou24.github.io/OmniWorld/</p></details> |
 | **[Learning to Generate 4D LiDAR Sequences](http://arxiv.org/abs/2509.11959v1)** | 2025-09-15 | <details><summary>Abstr...</summary><p>Abstract Paper (Non-Archival) @ ICCV 2025 Wild3D Workshop; GitHub Repo at https://lidarcrafter.github.io/</p></details> |
 | **[Neuro-Symbolic Agents with Modal Logic for Autonomous Diagnostics](http://arxiv.org/abs/2509.11943v1)** | 2025-09-15 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, Scaling Environments for Agents (SEA) Workshop at NeuralIPS</p></details> |
-| **[Is the `Agent' Paradigm a Limiting Framework for Next-Generation Intelligent Systems?](http://arxiv.org/abs/2509.10875v1)** | 2025-09-13 |  |
-| **[Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property for Perplexity in Generative Language Models](http://arxiv.org/abs/2405.13798v4)** | 2025-09-12 |  |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -65,6 +65,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[MMORE: Massive Multimodal Open RAG & Extraction](http://arxiv.org/abs/2509.11937v1)** | 2025-09-15 | <details><summary>This ...</summary><p>This paper was originally submitted to the CODEML workshop for ICML 2025. 9 pages (including references and appendices)</p></details> |
+| **[SparseDoctor: Towards Efficient Chat Doctor with Mixture of Experts Enhanced Large Language Models](http://arxiv.org/abs/2509.14269v1)** | 2025-09-15 |  |
 | **[PeruMedQA: Benchmarking Large Language Models (LLMs) on Peruvian Medical Exams -- Dataset Construction and Evaluation](http://arxiv.org/abs/2509.11517v1)** | 2025-09-15 | <details><summary>https...</summary><p>https://github.com/rodrigo-carrillo/PeruMedQA</p></details> |
 | **[A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP](http://arxiv.org/abs/2505.16661v2)** | 2025-09-09 | <details><summary>15 pa...</summary><p>15 pages, 9 tables, 5 figures</p></details> |
 | **[Baichuan-M2: Scaling Medical Capability with Large Verifier System](http://arxiv.org/abs/2509.02208v1)** | 2025-09-02 | <details><summary>Baich...</summary><p>Baichuan-M2 Technical Report</p></details> |
@@ -78,11 +79,12 @@ labels: documentation
 | **[ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](http://arxiv.org/abs/2508.13514v1)** | 2025-08-19 |  |
 | **[Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model](http://arxiv.org/abs/2508.10492v1)** | 2025-08-14 | 39 pages |
 | **[A Novel Evaluation Benchmark for Medical LLMs: Illuminating Safety and Effectiveness in Clinical Domains](http://arxiv.org/abs/2507.23486v3)** | 2025-08-13 |  |
-| **[Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond](http://arxiv.org/abs/2502.20988v2)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted for publication in Knowledge-Based Systems. The arXiv version is the pre-peer-review preprint, and the final published version is not available here due to publisher policy</p></details> |
 
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MemEvo: Memory-Evolving Incremental Multi-view Clustering](http://arxiv.org/abs/2509.14544v1)** | 2025-09-18 |  |
+| **[Synaptic Theory of Chunking in Working Memory](http://arxiv.org/abs/2408.07637v2)** | 2025-09-18 | <details><summary>updat...</summary><p>updated title and abstract; new control analysis in Fig.3</p></details> |
 | **[A TRRIP Down Memory Lane: Temperature-Based Re-Reference Interval Prediction For Instruction Caching](http://arxiv.org/abs/2509.14041v1)** | 2025-09-17 |  |
 | **[Anomaly Detection in Offshore Open Radio Access Network Using Long Short-Term Memory Models on a Novel Artificial Intelligence-Driven Cloud-Native Data Platform](http://arxiv.org/abs/2409.02849v2)** | 2025-09-17 | <details><summary>25 pa...</summary><p>25 pages, 14 figures. This work has been published in Engineering Applications of Artificial Intelligence}, Volume 161, Part C, 12 December 2025, 112274. https://doi.org/10.1016/j.engappai.2025.112274</p></details> |
 | **[Distractor-Aware Memory-Based Visual Object Tracking](http://arxiv.org/abs/2509.13864v1)** | 2025-09-17 | <details><summary>Code ...</summary><p>Code available on Github: https://github.com/jovanavidenovic/DAM4SAM</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[HPIM: Heterogeneous Processing-In-Memory-based Accelerator for Large Language Models Inference](http://arxiv.org/abs/2509.12993v1)** | 2025-09-16 |  |
 | **[Forget What's Sensitive, Remember What Matters: Token-Level Differential Privacy in Memory Sculpting for Continual Learning](http://arxiv.org/abs/2509.12958v1)** | 2025-09-16 |  |
 | **[A Neuromorphic Model of Learning Meaningful Sequences with Long-Term Memory](http://arxiv.org/abs/2509.12850v1)** | 2025-09-16 |  |
-| **[Efficient lattice field theory simulation using adaptive normalizing flow on a resistive memory-based neural differential equation solver](http://arxiv.org/abs/2509.12812v1)** | 2025-09-16 |  |
-| **[Timbre-Adaptive Transcription: A Lightweight Architecture with Associative Memory for Dynamic Instrument Separation](http://arxiv.org/abs/2509.12712v1)** | 2025-09-16 |  |
 
