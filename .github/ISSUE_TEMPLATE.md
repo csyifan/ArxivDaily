@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2025
+title: Latest 15 Papers - September 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ChronoForge-RL: Chronological Forging through Reinforcement Learning for Enhanced Video Understanding](http://arxiv.org/abs/2509.15800v1)** | 2025-09-19 | 10 pages, 2 figures |
+| **[Data-Efficient Learning for Generalizable Surgical Video Understanding](http://arxiv.org/abs/2508.10215v2)** | 2025-09-19 |  |
+| **[TennisTV: Do Multimodal Large Language Models Understand Tennis Rallies?](http://arxiv.org/abs/2509.15602v1)** | 2025-09-19 |  |
+| **[EyePCR: A Comprehensive Benchmark for Fine-Grained Perception, Knowledge Comprehension and Clinical Reasoning in Ophthalmic Surgery](http://arxiv.org/abs/2509.15596v1)** | 2025-09-19 | <details><summary>Stron...</summary><p>Strong accept by NeurIPS2025 Reviewers and AC, but reject by PC. (Rating: 6,5,4,4)</p></details> |
+| **[StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](http://arxiv.org/abs/2505.05467v2)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[Dense Video Understanding with Gated Residual Tokenization](http://arxiv.org/abs/2509.14199v2)** | 2025-09-18 |  |
 | **[Cinéaste: A Fine-grained Contextual Movie Question Answering Benchmark](http://arxiv.org/abs/2509.14227v1)** | 2025-09-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 5 tables</p></details> |
 | **[A Culturally-diverse Multilingual Multimodal Video Benchmark & Model](http://arxiv.org/abs/2506.07032v2)** | 2025-09-17 |  |
@@ -17,15 +22,14 @@ labels: documentation
 | **[Bridging Vision Language Models and Symbolic Grounding for Video Question Answering](http://arxiv.org/abs/2509.11862v1)** | 2025-09-15 |  |
 | **[FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning](http://arxiv.org/abs/2509.11796v1)** | 2025-09-15 | ACM MM 2025 |
 | **[GLaVE-Cap: Global-Local Aligned Video Captioning with Vision Expert Integration](http://arxiv.org/abs/2509.11360v1)** | 2025-09-14 |  |
-| **[Traffic-MLLM: A Spatio-Temporal MLLM with Retrieval-Augmented Generation for Causal Inference in Traffic](http://arxiv.org/abs/2509.11165v1)** | 2025-09-14 |  |
-| **[Shot-by-Shot: Film-Grammar-Aware Training-Free Audio Description Generation](http://arxiv.org/abs/2504.01020v2)** | 2025-09-13 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project Page: https://www.robots.ox.ac.uk/vgg/research/shot-by-shot/</p></details> |
-| **[MESH -- Understanding Videos Like Human: Measuring Hallucinations in Large Video Models](http://arxiv.org/abs/2509.08538v2)** | 2025-09-11 |  |
-| **[DATE: Dynamic Absolute Time Enhancement for Long Video Understanding](http://arxiv.org/abs/2509.09263v1)** | 2025-09-11 |  |
-| **[Video Understanding by Design: How Datasets Shape Architectures and Insights](http://arxiv.org/abs/2509.09151v1)** | 2025-09-11 | Research report |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Foundation Models as World Models: A Foundational Study in Text-Based GridWorlds](http://arxiv.org/abs/2509.15915v1)** | 2025-09-19 | <details><summary>20 pa...</summary><p>20 pages, 9 figures. Accepted for presentation at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop on Embodied World Models for Decision Making</p></details> |
+| **[World Modelling Improves Language Model Agents](http://arxiv.org/abs/2506.02918v2)** | 2025-09-19 |  |
+| **[SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models](http://arxiv.org/abs/2509.15536v1)** | 2025-09-19 | 22 pages,15 figures |
+| **[OpenViGA: Video Generation for Automotive Driving Scenes by Streamlining and Fine-Tuning Open Source Models with Public Data](http://arxiv.org/abs/2509.15479v1)** | 2025-09-18 |  |
 | **[GAF: Gaussian Action Field as a Dynamic World Model for Robotic Manipulation](http://arxiv.org/abs/2506.14135v3)** | 2025-09-18 | <details><summary>http:...</summary><p>http://chaiying1.github.io/GAF.github.io/project_page/</p></details> |
 | **[Designing Latent Safety Filters using Pre-Trained Vision Models](http://arxiv.org/abs/2509.14758v1)** | 2025-09-18 |  |
 | **[Brain Inspired Probabilistic Occupancy Grid Mapping with Vector Symbolic Architectures](http://arxiv.org/abs/2408.09066v4)** | 2025-09-17 |  |
@@ -37,10 +41,6 @@ labels: documentation
 | **[A tree-based Polynomial Chaos expansion for surrogate modeling and sensitivity analysis of complex numerical models](http://arxiv.org/abs/2509.13384v1)** | 2025-09-16 |  |
 | **[Methodology of Algorithm Engineering](http://arxiv.org/abs/2310.18979v2)** | 2025-09-16 |  |
 | **[Enhancing Physical Consistency in Lightweight World Models](http://arxiv.org/abs/2509.12437v1)** | 2025-09-15 | 8 pages |
-| **[Causal-Symbolic Meta-Learning (CSML): Inducing Causal World Models for Few-Shot Generalization](http://arxiv.org/abs/2509.12387v1)** | 2025-09-15 | 10 pages, 4 figures |
-| **[OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](http://arxiv.org/abs/2509.12201v1)** | 2025-09-15 | <details><summary>https...</summary><p>https://yangzhou24.github.io/OmniWorld/</p></details> |
-| **[Learning to Generate 4D LiDAR Sequences](http://arxiv.org/abs/2509.11959v1)** | 2025-09-15 | <details><summary>Abstr...</summary><p>Abstract Paper (Non-Archival) @ ICCV 2025 Wild3D Workshop; GitHub Repo at https://lidarcrafter.github.io/</p></details> |
-| **[Neuro-Symbolic Agents with Modal Logic for Autonomous Diagnostics](http://arxiv.org/abs/2509.11943v1)** | 2025-09-15 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, Scaling Environments for Agents (SEA) Workshop at NeuralIPS</p></details> |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,12 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Latent learning: episodic memory complements parametric learning by enabling flexible reuse of experiences](http://arxiv.org/abs/2509.16189v1)** | 2025-09-19 |  |
+| **[DataMaestro: A Versatile and Efficient Data Streaming Engine Bringing Decoupled Memory Access To Dataflow Accelerators](http://arxiv.org/abs/2504.14091v2)** | 2025-09-19 |  |
+| **[A Memory Efficient Adjoint Method to Enable Billion Parameter Optimization on a Single GPU in Dynamic Problems](http://arxiv.org/abs/2509.15744v1)** | 2025-09-19 |  |
+| **[Action is the primary key: a categorical framework for episodic memories and logical reasoning](http://arxiv.org/abs/2409.04793v2)** | 2025-09-19 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, 3 tables</p></details> |
+| **[Analog In-memory Training on General Non-ideal Resistive Elements: The Impact of Response Functions](http://arxiv.org/abs/2502.06309v3)** | 2025-09-19 |  |
+| **[IEFS-GMB: Gradient Memory Bank-Guided Feature Selection Based on Information Entropy for EEG Classification of Neurological Disorders](http://arxiv.org/abs/2509.15259v1)** | 2025-09-18 |  |
 | **[MemEvo: Memory-Evolving Incremental Multi-view Clustering](http://arxiv.org/abs/2509.14544v1)** | 2025-09-18 |  |
 | **[Synaptic Theory of Chunking in Working Memory](http://arxiv.org/abs/2408.07637v2)** | 2025-09-18 | <details><summary>updat...</summary><p>updated title and abstract; new control analysis in Fig.3</p></details> |
 | **[A TRRIP Down Memory Lane: Temperature-Based Re-Reference Interval Prediction For Instruction Caching](http://arxiv.org/abs/2509.14041v1)** | 2025-09-17 |  |
@@ -92,10 +98,4 @@ labels: documentation
 | **[Bridging Cache-Friendliness and Concurrency: A Locality-Optimized In-Memory B-Skiplist](http://arxiv.org/abs/2507.21492v3)** | 2025-09-16 | <details><summary>Origi...</summary><p>Original paper was accepted into ICPP 2025</p></details> |
 | **[MemGS: Memory-Efficient Gaussian Splatting for Real-Time SLAM](http://arxiv.org/abs/2509.13536v1)** | 2025-09-16 |  |
 | **[A Scenario-Driven Cognitive Approach to Next-Generation AI Memory](http://arxiv.org/abs/2509.13235v1)** | 2025-09-16 |  |
-| **[Space-Time Trade-off in Bounded Iterated Memory](http://arxiv.org/abs/2509.13157v1)** | 2025-09-16 | <details><summary>To be...</summary><p>To be presented at the 27th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS 2025)</p></details> |
-| **[Traces Propagation: Memory-Efficient and Scalable Forward-Only Learning in Spiking Neural Networks](http://arxiv.org/abs/2509.13053v1)** | 2025-09-16 |  |
-| **[MEIL-NeRF: Memory-Efficient Incremental Learning of Neural Radiance Fields](http://arxiv.org/abs/2212.08328v3)** | 2025-09-16 | <details><summary>10 pa...</summary><p>10 pages for main paper, additional 7 pages for supple. For the project page, see https://robot0321.github.io/meil-nerf/index.html</p></details> |
-| **[HPIM: Heterogeneous Processing-In-Memory-based Accelerator for Large Language Models Inference](http://arxiv.org/abs/2509.12993v1)** | 2025-09-16 |  |
-| **[Forget What's Sensitive, Remember What Matters: Token-Level Differential Privacy in Memory Sculpting for Continual Learning](http://arxiv.org/abs/2509.12958v1)** | 2025-09-16 |  |
-| **[A Neuromorphic Model of Learning Meaningful Sequences with Long-Term Memory](http://arxiv.org/abs/2509.12850v1)** | 2025-09-16 |  |
 
