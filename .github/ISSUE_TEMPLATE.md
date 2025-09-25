@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2025
+title: Latest 15 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,20 +7,30 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Long Video Understanding with Learnable Retrieval in Video-Language Models](http://arxiv.org/abs/2312.04931v3)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia (TMM)</p></details> |
+| **[COLT: Enhancing Video Large Language Models with Continual Tool Usage](http://arxiv.org/abs/2509.18754v2)** | 2025-09-24 | 16 pages |
+| **[SurgVidLM: Towards Multi-grained Surgical Video Understanding with Large Language Model](http://arxiv.org/abs/2506.17873v2)** | 2025-09-24 |  |
+| **[iFinder: Structured Zero-Shot Vision-Based LLM Grounding for Dash-Cam Video Reasoning](http://arxiv.org/abs/2509.19552v1)** | 2025-09-23 |  |
 | **[ConViS-Bench: Estimating Video Similarity Through Semantic Concepts](http://arxiv.org/abs/2509.19245v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[VIR-Bench: Evaluating Geospatial and Temporal Understanding of MLLMs via Travel Video Itinerary Reconstruction](http://arxiv.org/abs/2509.19002v1)** | 2025-09-23 |  |
 | **[Surgical Video Understanding with Label Interpolation](http://arxiv.org/abs/2509.18802v1)** | 2025-09-23 | 8 pages, 10 figures |
-| **[COLT: Enhancing Video Large Language Models with Continual Tool Usage](http://arxiv.org/abs/2509.18754v1)** | 2025-09-23 | 16 pages |
 | **[AHA - Predicting What Matters Next: Online Highlight Detection Without Looking Ahead](http://arxiv.org/abs/2509.16421v2)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025, 32 pages, 5 figures</p></details> |
 | **[STORM: Token-Efficient Long Video Understanding for Multimodal LLMs](http://arxiv.org/abs/2503.04130v4)** | 2025-09-22 |  |
 | **[LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via a Hybrid Architecture](http://arxiv.org/abs/2409.02889v3)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Findings</p></details> |
 | **[NeuS-QA: Grounding Long-Form Video Understanding in Temporal Logic and Neuro-Symbolic Reasoning](http://arxiv.org/abs/2509.18041v1)** | 2025-09-22 |  |
 | **[Does Audio Matter for Modern Video-LLMs and Their Benchmarks?](http://arxiv.org/abs/2509.17901v1)** | 2025-09-22 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, under review. Project page: https://github.com/naver-ai/LLaVA-AV-SSM</p></details> |
 | **[TennisTV: Do Multimodal Large Language Models Understand Tennis Rallies?](http://arxiv.org/abs/2509.15602v2)** | 2025-09-22 |  |
+| **[MoCLIP-Lite: Efficient Video Recognition by Fusing CLIP with Motion Vectors](http://arxiv.org/abs/2509.17084v1)** | 2025-09-21 | 6 pages, 3 figures |
+| **[InfiniBench: A Benchmark for Large Multi-Modal Models in Long-Form Movies and TV Shows](http://arxiv.org/abs/2406.19875v4)** | 2025-09-20 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](http://arxiv.org/abs/2509.12201v2)** | 2025-09-24 | <details><summary>https...</summary><p>https://yangzhou24.github.io/OmniWorld/</p></details> |
+| **[Embodied AI: From LLMs to World Models](http://arxiv.org/abs/2509.20021v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted by IEEE CASM</p></details> |
+| **[AnySafe: Adapting Latent Safety Filters at Runtime via Safety Constraint Parameterization in the Latent Space](http://arxiv.org/abs/2509.19555v1)** | 2025-09-23 |  |
+| **[DAWM: Diffusion Action World Models for Offline Reinforcement Learning via Action-Inferred Transitions](http://arxiv.org/abs/2509.19538v1)** | 2025-09-23 | <details><summary>ICML2...</summary><p>ICML2025 workshop Building Physically Plausible World Models</p></details> |
+| **[Uncertainty-aware Latent Safety Filters for Avoiding Out-of-Distribution Failures](http://arxiv.org/abs/2505.00779v2)** | 2025-09-23 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL 2025)</p></details> |
 | **[PIGDreamer: Privileged Information Guided World Models for Safe Partially Observable Reinforcement Learning](http://arxiv.org/abs/2508.02159v2)** | 2025-09-23 | ICML 2025 |
 | **[Probing LLM World Models: Enhancing Guesstimation with Wisdom of Crowds Decoding](http://arxiv.org/abs/2501.17310v4)** | 2025-09-23 |  |
 | **[World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation](http://arxiv.org/abs/2509.19080v1)** | 2025-09-23 |  |
@@ -31,16 +41,11 @@ labels: documentation
 | **[Learning Primitive Embodied World Models: Towards Scalable Robotic Learning](http://arxiv.org/abs/2508.20840v2)** | 2025-09-20 |  |
 | **[Foundation Models as World Models: A Foundational Study in Text-Based GridWorlds](http://arxiv.org/abs/2509.15915v1)** | 2025-09-19 | <details><summary>20 pa...</summary><p>20 pages, 9 figures. Accepted for presentation at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop on Embodied World Models for Decision Making</p></details> |
 | **[World Modelling Improves Language Model Agents](http://arxiv.org/abs/2506.02918v2)** | 2025-09-19 |  |
-| **[SAMPO:Scale-wise Autoregression with Motion PrOmpt for generative world models](http://arxiv.org/abs/2509.15536v1)** | 2025-09-19 | 22 pages,15 figures |
-| **[OpenViGA: Video Generation for Automotive Driving Scenes by Streamlining and Fine-Tuning Open Source Models with Public Data](http://arxiv.org/abs/2509.15479v1)** | 2025-09-18 |  |
-| **[GAF: Gaussian Action Field as a Dynamic World Model for Robotic Manipulation](http://arxiv.org/abs/2506.14135v3)** | 2025-09-18 | <details><summary>http:...</summary><p>http://chaiying1.github.io/GAF.github.io/project_page/</p></details> |
-| **[Designing Latent Safety Filters using Pre-Trained Vision Models](http://arxiv.org/abs/2509.14758v1)** | 2025-09-18 |  |
-| **[Brain Inspired Probabilistic Occupancy Grid Mapping with Vector Symbolic Architectures](http://arxiv.org/abs/2408.09066v4)** | 2025-09-17 |  |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Citrus-V: Advancing Medical Foundation Models with Unified Medical Image Grounding for Clinical Reasoning](http://arxiv.org/abs/2509.19090v1)** | 2025-09-23 |  |
+| **[Citrus-V: Advancing Medical Foundation Models with Unified Medical Image Grounding for Clinical Reasoning](http://arxiv.org/abs/2509.19090v2)** | 2025-09-24 |  |
 | **[Advances in Large Language Models for Medicine](http://arxiv.org/abs/2509.18690v1)** | 2025-09-23 | <details><summary>Prepr...</summary><p>Preprint. 5 figures, 4 tables</p></details> |
 | **[MRN: Harnessing 2D Vision Foundation Models for Diagnosing Parkinson's Disease with Limited 3D MR Data](http://arxiv.org/abs/2509.17566v1)** | 2025-09-22 | <details><summary>First...</summary><p>First-place solution of the classification track for MICCAI'2025 PDCADxFoundation Challenge</p></details> |
 | **[A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare](http://arxiv.org/abs/2502.15871v2)** | 2025-09-17 |  |
@@ -78,6 +83,12 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies](http://arxiv.org/abs/2509.20297v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025 Workshop RemembeRL</p></details> |
+| **[Combating the Memory Walls: Optimization Pathways for Long-Context Agentic LLM Inference](http://arxiv.org/abs/2509.09505v2)** | 2025-09-24 |  |
+| **[Dynamic Parameter Memory: Temporary LoRA-Enhanced LLM for Long-Sequence Emotion Recognition in Conversation](http://arxiv.org/abs/2507.09076v2)** | 2025-09-24 | <details><summary>submi...</summary><p>submitted to ICLR 2026</p></details> |
+| **[Replay-Free Continual Low-Rank Adaptation with Dynamic Memory](http://arxiv.org/abs/2411.00623v3)** | 2025-09-24 | Latest reversion |
+| **[Memory-Augmented Potential Field Theory: A Framework for Adaptive Control in Non-Convex Domains](http://arxiv.org/abs/2509.19672v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[High Clockrate Free-space Optical In-Memory Computing](http://arxiv.org/abs/2509.19642v1)** | 2025-09-23 | <details><summary>16 pa...</summary><p>16 pages, 5 figures (main); 8 pages, 3 figures (Supplementary Information)</p></details> |
 | **[MEGS$^{2}$: Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning](http://arxiv.org/abs/2509.07021v2)** | 2025-09-23 | <details><summary>20 pa...</summary><p>20 pages, 8 figures. Project page at https://megs-2.github.io/</p></details> |
 | **[Track-On2: Enhancing Online Point Tracking with Memory](http://arxiv.org/abs/2509.19115v1)** | 2025-09-23 |  |
 | **[Fast and memory-efficient BWT construction of repetitive texts using Lyndon grammars](http://arxiv.org/abs/2504.19123v2)** | 2025-09-23 | Accepted to ESA 2025 |
@@ -87,10 +98,4 @@ labels: documentation
 | **[MemOrb: A Plug-and-Play Verbal-Reinforcement Memory Layer for E-Commerce Customer Service](http://arxiv.org/abs/2509.18713v1)** | 2025-09-23 |  |
 | **[Enhancing Video Object Segmentation in TrackRAD Using XMem Memory Network](http://arxiv.org/abs/2509.18591v1)** | 2025-09-23 |  |
 | **[HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis](http://arxiv.org/abs/2509.17083v2)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Joint Memory Frequency and Computing Frequency Scaling for Energy-efficient DNN Inference](http://arxiv.org/abs/2509.17970v2)** | 2025-09-23 |  |
-| **[The Future of Memory: Limits and Opportunities](http://arxiv.org/abs/2508.20425v3)** | 2025-09-23 | <details><summary>3 Pag...</summary><p>3 Pages, 2 Figures, 1 Table, Accepted to SOSP 25 BigMem Workshop</p></details> |
-| **[Memory-QA: Answering Recall Questions Based on Multimodal Memories](http://arxiv.org/abs/2509.18436v1)** | 2025-09-22 |  |
-| **[Bounds and Constructions of High-Memory Spatially-Coupled Codes](http://arxiv.org/abs/2507.14064v2)** | 2025-09-22 |  |
-| **[Single-Cell Universal Logic-in-Memory Using 2T-nC FeRAM: An Area and Energy-Efficient Approach for Bulk Bitwise Computation](http://arxiv.org/abs/2509.17963v1)** | 2025-09-22 | <details><summary>6 Pag...</summary><p>6 Pages, 7 Figures, To be presented at System on Chip Conference 2025</p></details> |
-| **[Synthetic POMDPs to Challenge Memory-Augmented RL: Memory Demand Structure Modeling](http://arxiv.org/abs/2508.04282v2)** | 2025-09-22 |  |
 
