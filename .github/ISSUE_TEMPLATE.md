@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 26, 2025
+title: Latest 15 Papers - September 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -15,7 +15,7 @@ labels: documentation
 | **[ConViS-Bench: Estimating Video Similarity Through Semantic Concepts](http://arxiv.org/abs/2509.19245v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[VIR-Bench: Evaluating Geospatial and Temporal Understanding of MLLMs via Travel Video Itinerary Reconstruction](http://arxiv.org/abs/2509.19002v1)** | 2025-09-23 |  |
 | **[Surgical Video Understanding with Label Interpolation](http://arxiv.org/abs/2509.18802v1)** | 2025-09-23 | 8 pages, 10 figures |
-| **[AHA - Predicting What Matters Next: Online Highlight Detection Without Looking Ahead](http://arxiv.org/abs/2509.16421v2)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025, 32 pages, 5 figures</p></details> |
+| **[AHA -- Predicting What Matters Next: Online Highlight Detection Without Looking Ahead](http://arxiv.org/abs/2509.16421v2)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025, 32 pages, 5 figures</p></details> |
 | **[STORM: Token-Efficient Long Video Understanding for Multimodal LLMs](http://arxiv.org/abs/2503.04130v4)** | 2025-09-22 |  |
 | **[LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via a Hybrid Architecture](http://arxiv.org/abs/2409.02889v3)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Findings</p></details> |
 | **[NeuS-QA: Grounding Long-Form Video Understanding in Temporal Logic and Neuro-Symbolic Reasoning](http://arxiv.org/abs/2509.18041v1)** | 2025-09-22 |  |
