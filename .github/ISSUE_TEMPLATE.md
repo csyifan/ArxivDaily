@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2025
+title: Latest 15 Papers - October 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniVid: The Open-Source Unified Video Model](http://arxiv.org/abs/2509.24200v2)** | 2025-09-30 |  |
+| **[HumanVideo-MME: Benchmarking MLLMs for Human-Centric Video Understanding](http://arxiv.org/abs/2507.04909v2)** | 2025-09-30 | Under review |
+| **[FameMind: Frame-Interleaved Video Reasoning via Reinforcement Learning](http://arxiv.org/abs/2509.24008v2)** | 2025-09-30 | Underreview |
+| **[V-HUB: A Visual-Centric Humor Understanding Benchmark for Video LLMs](http://arxiv.org/abs/2509.25773v1)** | 2025-09-30 |  |
+| **[FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting](http://arxiv.org/abs/2509.24304v2)** | 2025-09-30 |  |
+| **[A Culturally-diverse Multilingual Multimodal Video Benchmark & Model](http://arxiv.org/abs/2506.07032v3)** | 2025-09-29 |  |
 | **[VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](http://arxiv.org/abs/2504.06958v4)** | 2025-09-29 |  |
 | **[Perceive, Reflect and Understand Long Video: Progressive Multi-Granular Clue Exploration with Interactive Agents](http://arxiv.org/abs/2509.24943v1)** | 2025-09-29 |  |
 | **[METok: Multi-Stage Event-based Token Compression for Efficient Long Video Understanding](http://arxiv.org/abs/2506.02850v2)** | 2025-09-29 | <details><summary>EMNLP...</summary><p>EMNLP 2025; 15 pages, 10 figures</p></details> |
 | **[StreamForest: Efficient Online Video Understanding with Persistent Event Memory](http://arxiv.org/abs/2509.24871v1)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted as a Spotlight at NeurIPS 2025</p></details> |
 | **[LOVE-R1: Advancing Long Video Understanding with an Adaptive Zoom-in Mechanism via Multi-Step Reasoning](http://arxiv.org/abs/2509.24786v1)** | 2025-09-29 |  |
-| **[FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting](http://arxiv.org/abs/2509.24304v2)** | 2025-09-30 |  |
-| **[UniVid: The Open-Source Unified Video Model](http://arxiv.org/abs/2509.24200v2)** | 2025-09-30 |  |
 | **[SVAC: Scaling Is All You Need For Referring Video Object Segmentation](http://arxiv.org/abs/2509.24109v1)** | 2025-09-28 | <details><summary>This ...</summary><p>This paper is accepted to BMVC 2025</p></details> |
 | **[GPS-MTM: Capturing Pattern of Normalcy in GPS-Trajectories with self-supervised learning](http://arxiv.org/abs/2509.24031v1)** | 2025-09-28 | 4 pages, 2 figures |
-| **[FameMind: Frame-Interleaved Video Reasoning via Reinforcement Learning](http://arxiv.org/abs/2509.24008v2)** | 2025-09-30 | Underreview |
 | **[Video Panels for Long Video Understanding](http://arxiv.org/abs/2509.23724v1)** | 2025-09-28 |  |
 | **[Token Merging via Spatiotemporal Information Mining for Surgical Video Understanding](http://arxiv.org/abs/2509.23672v1)** | 2025-09-28 |  |
-| **[Audio-centric Video Understanding Benchmark without Text Shortcut](http://arxiv.org/abs/2503.19951v3)** | 2025-09-28 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of EMNLP 2025 (Main Conference)</p></details> |
-| **[Self-alignment of Large Video Language Models with Refined Regularized Preference Optimization](http://arxiv.org/abs/2504.12083v2)** | 2025-09-26 | NeurIPS 2025 |
-| **[Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling](http://arxiv.org/abs/2412.05271v5)** | 2025-09-26 | Technical Report |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning](http://arxiv.org/abs/2509.26255v2)** | 2025-10-01 | <details><summary>41 pa...</summary><p>41 pages. The last two authors contributed equally in co-advising</p></details> |
+| **[Mapping Overlaps in Benchmarks through Perplexity in the Wild](http://arxiv.org/abs/2509.23488v2)** | 2025-10-01 |  |
+| **[How Safe Will I Be Given What I Saw? Calibrated Prediction of Safety Chances for Image-Controlled Autonomy](http://arxiv.org/abs/2508.09346v2)** | 2025-09-30 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2308.12252</p></details> |
+| **[MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation](http://arxiv.org/abs/2509.26642v1)** | 2025-09-30 |  |
+| **[Kinodynamic Motion Planning for Mobile Robot Navigation across Inconsistent World Models](http://arxiv.org/abs/2509.26339v1)** | 2025-09-30 | <details><summary>Prese...</summary><p>Presented at the Robotics: Science and Systems (RSS) 2025 Workshop on Resilient Off-road Autonomous Robotics (ROAR)</p></details> |
+| **[MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation](http://arxiv.org/abs/2509.21797v2)** | 2025-09-30 | 11 pages, 4 figures |
+| **[WorldGym: World Model as An Environment for Policy Evaluation](http://arxiv.org/abs/2506.00613v3)** | 2025-09-30 | <details><summary>https...</summary><p>https://world-model-eval.github.io</p></details> |
+| **[Dual-Scale World Models for LLM Agents Towards Hard-Exploration Problems](http://arxiv.org/abs/2509.24116v2)** | 2025-09-30 |  |
+| **[World Model for AI Autonomous Navigation in Mechanical Thrombectomy](http://arxiv.org/abs/2509.25518v1)** | 2025-09-29 | <details><summary>Publi...</summary><p>Published in Medical Image Computing and Computer Assisted Intervention - MICCAI 2025, Lecture Notes in Computer Science, vol 15968</p></details> |
+| **[From Perception to Cognition: A Survey of Vision-Language Interactive Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2509.25373v1)** | 2025-09-29 |  |
+| **[Rolling Forcing: Autoregressive Long Video Diffusion in Real Time](http://arxiv.org/abs/2509.25161v1)** | 2025-09-29 | <details><summary>Proje...</summary><p>Project page: https://kunhao-liu.github.io/Rolling_Forcing_Webpage/</p></details> |
 | **[The Physical Basis of Prediction: World Model Formation in Neural Organoids via an LLM-Generated Curriculum](http://arxiv.org/abs/2509.04633v2)** | 2025-09-29 | <details><summary>Publi...</summary><p>Published in the proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Scaling Environments for Agents (SEA). Additionally accepted for presentation in NeurIPS 2025 Workshop: Embodied World Models for Decision Making</p></details> |
 | **[Hierarchical Task Environments as the Next Frontier for Embodied World Models in Robot Soccer](http://arxiv.org/abs/2509.04731v2)** | 2025-09-29 | <details><summary>In th...</summary><p>In the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Embodied World Models for Decision Making (EWM)</p></details> |
 | **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](http://arxiv.org/abs/2509.24948v1)** | 2025-09-29 |  |
 | **[Communicating Plans, Not Percepts: Scalable Multi-Agent Coordination with Embodied World Models](http://arxiv.org/abs/2508.02912v2)** | 2025-09-29 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Scaling Environments for Agents (SEA). Additionally accepted for presentation in the NeurIPS 2025 Workshop: Embodied World Models for Decision Making (EWM) and the NeurIPS 2025 Workshop: Optimization for Machine Learning (OPT)</p></details> |
-| **[DyMoDreamer: World Modeling with Dynamic Modulation](http://arxiv.org/abs/2509.24804v1)** | 2025-09-29 |  |
-| **[PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and Video-to-Action Control](http://arxiv.org/abs/2509.24591v1)** | 2025-09-29 |  |
-| **[Emergent World Representations in OpenVLA](http://arxiv.org/abs/2509.24559v1)** | 2025-09-29 |  |
-| **[Training Agents Inside of Scalable World Models](http://arxiv.org/abs/2509.24527v1)** | 2025-09-29 | <details><summary>Websi...</summary><p>Website: https://danijar.com/dreamer4/</p></details> |
-| **[EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks](http://arxiv.org/abs/2502.05907v2)** | 2025-09-29 |  |
-| **[Learning to Sample: Reinforcement Learning-Guided Sampling for Autonomous Vehicle Motion Planning](http://arxiv.org/abs/2509.24313v1)** | 2025-09-29 | <details><summary>8 pag...</summary><p>8 pages, submitted to the IEEE ICRA 2026, Vienna, Austria</p></details> |
-| **[FreeAction: Training-Free Techniques for Enhanced Fidelity of Trajectory-to-Video Generation](http://arxiv.org/abs/2509.24241v1)** | 2025-09-29 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted to CoRL 2025 LSRW workshop</p></details> |
-| **[Dual-Scale World Models for LLM Agents Towards Hard-Exploration Problems](http://arxiv.org/abs/2509.24116v2)** | 2025-09-30 |  |
-| **[Imagined Autocurricula](http://arxiv.org/abs/2509.13341v2)** | 2025-09-28 |  |
-| **[ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation](http://arxiv.org/abs/2509.23979v1)** | 2025-09-28 | <details><summary>14 pa...</summary><p>14 pages,15 figures, Accepted to the 5th Wordplay: When Language Meets Games Workshop, EMNLP 2025</p></details> |
-| **[Reinforcement Learning with Inverse Rewards for World Model Post-training](http://arxiv.org/abs/2509.23958v1)** | 2025-09-28 |  |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -83,19 +83,19 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Frequency and Memory-Aware Prompts for Multi-Modal Object Tracking](http://arxiv.org/abs/2506.23972v2)** | 2025-10-01 |  |
+| **[Memory-Efficient 2D/3D Shape Assembly of Robot Swarms](http://arxiv.org/abs/2509.26518v1)** | 2025-09-30 |  |
+| **[Stab-QRAM: An All-Clifford Quantum Random Access Memory for Special Data](http://arxiv.org/abs/2509.26494v1)** | 2025-09-30 | 7 pages, 4 figures |
+| **[GraphCogent: Mitigating LLMs' Working Memory Constraints via Multi-Agent Collaboration in Complex Graph Understanding](http://arxiv.org/abs/2508.12379v2)** | 2025-09-30 |  |
+| **[Memory-Driven Self-Improvement for Decision Making with Large Language Models](http://arxiv.org/abs/2509.26340v1)** | 2025-09-30 |  |
+| **[Toward an Unbiased Collective Memory for Efficient LLM-Based Agentic 6G Cross-Domain Management](http://arxiv.org/abs/2509.26200v1)** | 2025-09-30 | 12 pages, 8 figures |
+| **[Muon Outperforms Adam in Tail-End Associative Memory Learning](http://arxiv.org/abs/2509.26030v1)** | 2025-09-30 |  |
+| **[Mem-α: Learning Memory Construction via Reinforcement Learning](http://arxiv.org/abs/2509.25911v1)** | 2025-09-30 |  |
+| **[CIMNAS: A Joint Framework for Compute-In-Memory-Aware Neural Architecture Search](http://arxiv.org/abs/2509.25862v1)** | 2025-09-30 |  |
+| **[No One-Size-Fits-All: A Workload-Driven Characterization of Bit-Parallel vs. Bit-Serial Data Layouts for Processing-using-Memory](http://arxiv.org/abs/2509.22980v2)** | 2025-09-30 |  |
+| **[Modeling Dynamic (De)Allocations of Local Memory for Translation Validation](http://arxiv.org/abs/2403.05302v3)** | 2025-09-30 |  |
+| **[CATCH: A Novel Data Synthesis Framework for High Therapy Fidelity and Memory-Driven Planning Chain of Thought in AI Counseling](http://arxiv.org/abs/2509.25733v1)** | 2025-09-30 | <details><summary>To be...</summary><p>To be published in EMNLP 2025 Findings</p></details> |
+| **[Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference](http://arxiv.org/abs/2405.18628v3)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025. The code for this implementation is available at https://github.com/hmarkc/parallel-prompt-decoding</p></details> |
+| **[Adapt or Regress: Rate-Memory-Compatible Spatially-Coupled Codes](http://arxiv.org/abs/2509.21112v2)** | 2025-09-29 | <details><summary>11 pa...</summary><p>11 pages (double column), 4 figures, submitted to the IEEE International Conference on Communications (ICC)</p></details> |
 | **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](http://arxiv.org/abs/2509.25140v1)** | 2025-09-29 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 4 tables</p></details> |
-| **[Meta-Learning to Explore via Memory Density Feedback](http://arxiv.org/abs/2503.02831v2)** | 2025-09-29 | 17 pages, 11 figures |
-| **[StreamForest: Efficient Online Video Understanding with Persistent Event Memory](http://arxiv.org/abs/2509.24871v1)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted as a Spotlight at NeurIPS 2025</p></details> |
-| **[MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](http://arxiv.org/abs/2509.24704v1)** | 2025-09-29 |  |
-| **[Identity Bridge: Enabling Implicit Reasoning via Shared Latent Memory](http://arxiv.org/abs/2509.24653v1)** | 2025-09-29 |  |
-| **[From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents](http://arxiv.org/abs/2505.19549v2)** | 2025-09-29 |  |
-| **[ViReSkill: Vision-Grounded Replanning with Skill Memory for LLM-Based Planning in Lifelong Robot Learning](http://arxiv.org/abs/2509.24219v1)** | 2025-09-29 |  |
-| **[Memory Transfer Planning: LLM-driven Context-Aware Code Adaptation for Robot Manipulation](http://arxiv.org/abs/2509.24160v1)** | 2025-09-29 |  |
-| **[FindingDory: A Benchmark to Evaluate Memory in Embodied Agents](http://arxiv.org/abs/2506.15635v2)** | 2025-09-29 | <details><summary>Our d...</summary><p>Our dataset and code can be found at: https://findingdory-benchmark.github.io/</p></details> |
-| **[ResFormer: All-Time Reservoir Memory for Long Sequence Classification](http://arxiv.org/abs/2509.24074v1)** | 2025-09-28 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025. To appear in the proceedings</p></details> |
-| **[Recurrent Memory for Online Interdomain Gaussian Processes](http://arxiv.org/abs/2502.08736v4)** | 2025-09-28 | <details><summary>Publi...</summary><p>Published at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Joint Memory Frequency and Computing Frequency Scaling for Energy-efficient DNN Inference](http://arxiv.org/abs/2509.17970v3)** | 2025-09-28 |  |
-| **[From Personal to Collective: On the Role of Local and Global Memory in LLM Personalization](http://arxiv.org/abs/2509.23767v1)** | 2025-09-28 |  |
-| **[QKV Projections Require a Fraction of Their Memory](http://arxiv.org/abs/2506.02939v2)** | 2025-09-28 | <details><summary>Under...</summary><p>Under review at ICLR 2026</p></details> |
-| **[Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](http://arxiv.org/abs/2508.09736v3)** | 2025-09-28 |  |
 
