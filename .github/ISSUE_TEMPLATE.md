@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2025
+title: Latest 15 Papers - October 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios](http://arxiv.org/abs/2506.09650v2)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. The dataset and code are available at https://github.com/KPeng9510/HopaDIFF</p></details> |
+| **[SkillFormer: Unified Multi-View Video Understanding for Proficiency Estimation](http://arxiv.org/abs/2505.08665v5)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted at the 2025 18th International Conference on Machine Vision. Project page at https://edowhite.github.io/SkillFormer</p></details> |
+| **[AdaRD-key: Adaptive Relevance-Diversity Keyframe Sampling for Long-form Video understanding](http://arxiv.org/abs/2510.02778v1)** | 2025-10-03 |  |
 | **[VideoNSA: Native Sparse Attention Scales Video Understanding](http://arxiv.org/abs/2510.02295v1)** | 2025-10-02 | <details><summary>Proje...</summary><p>Project Page: https://enxinsong.com/VideoNSA-web/, Code: https://github.com/Espere-1119-Song/VideoNSA</p></details> |
 | **[From Frames to Clips: Efficient Key Clip Selection for Long-Form Video Understanding](http://arxiv.org/abs/2510.02262v1)** | 2025-10-02 |  |
 | **[EyePCR: A Comprehensive Benchmark for Fine-Grained Perception, Knowledge Comprehension and Clinical Reasoning in Ophthalmic Surgery](http://arxiv.org/abs/2509.15596v2)** | 2025-10-02 | <details><summary>Stron...</summary><p>Strong accept by NeurIPS2025 Reviewers and AC</p></details> |
@@ -19,13 +22,14 @@ labels: documentation
 | **[V-HUB: A Visual-Centric Humor Understanding Benchmark for Video LLMs](http://arxiv.org/abs/2509.25773v1)** | 2025-09-30 |  |
 | **[FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting](http://arxiv.org/abs/2509.24304v2)** | 2025-09-30 |  |
 | **[A Culturally-diverse Multilingual Multimodal Video Benchmark & Model](http://arxiv.org/abs/2506.07032v3)** | 2025-09-29 |  |
-| **[VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](http://arxiv.org/abs/2504.06958v4)** | 2025-09-29 |  |
-| **[Perceive, Reflect and Understand Long Video: Progressive Multi-Granular Clue Exploration with Interactive Agents](http://arxiv.org/abs/2509.24943v1)** | 2025-09-29 |  |
-| **[METok: Multi-Stage Event-based Token Compression for Efficient Long Video Understanding](http://arxiv.org/abs/2506.02850v2)** | 2025-09-29 | <details><summary>EMNLP...</summary><p>EMNLP 2025; 15 pages, 10 figures</p></details> |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft](http://arxiv.org/abs/2510.03198v1)** | 2025-10-03 | 19 pages, 8 figures |
+| **[STORI: A Benchmark and Taxonomy for Stochastic Environments](http://arxiv.org/abs/2509.01793v2)** | 2025-10-03 | <details><summary>v2. N...</summary><p>v2. New mathematical formulation and renamed notation; added additional experiments and a detailed analytical case study on error behaviors in world models under different stochasticity types; link to code repository for reproducibility: https://github.com/ARY2260/stori</p></details> |
+| **[A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models](http://arxiv.org/abs/2510.02538v1)** | 2025-10-02 |  |
+| **[A Multi-Fidelity Control Variate Approach for Policy Gradient Estimation](http://arxiv.org/abs/2503.05696v3)** | 2025-10-02 |  |
 | **[MultiModal Action Conditioned Video Generation](http://arxiv.org/abs/2510.02287v1)** | 2025-10-02 |  |
 | **[SoundReactor: Frame-level Online Video-to-Audio Generation](http://arxiv.org/abs/2510.02110v1)** | 2025-10-02 |  |
 | **[World Model for AI Autonomous Navigation in Mechanical Thrombectomy](http://arxiv.org/abs/2509.25518v2)** | 2025-10-02 | <details><summary>Publi...</summary><p>Published in Medical Image Computing and Computer Assisted Intervention - MICCAI 2025, Lecture Notes in Computer Science, vol 15968</p></details> |
@@ -37,10 +41,6 @@ labels: documentation
 | **[ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning](http://arxiv.org/abs/2509.26255v2)** | 2025-10-01 | <details><summary>41 pa...</summary><p>41 pages. The last two authors contributed equally in co-advising</p></details> |
 | **[VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators](http://arxiv.org/abs/2510.00406v1)** | 2025-10-01 |  |
 | **[Mapping Overlaps in Benchmarks through Perplexity in the Wild](http://arxiv.org/abs/2509.23488v2)** | 2025-10-01 |  |
-| **[How Safe Will I Be Given What I Saw? Calibrated Prediction of Safety Chances for Image-Controlled Autonomy](http://arxiv.org/abs/2508.09346v2)** | 2025-09-30 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2308.12252</p></details> |
-| **[MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation](http://arxiv.org/abs/2509.26642v1)** | 2025-09-30 |  |
-| **[Kinodynamic Motion Planning for Mobile Robot Navigation across Inconsistent World Models](http://arxiv.org/abs/2509.26339v1)** | 2025-09-30 | <details><summary>Prese...</summary><p>Presented at the Robotics: Science and Systems (RSS) 2025 Workshop on Resilient Off-road Autonomous Robotics (ROAR)</p></details> |
-| **[MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation](http://arxiv.org/abs/2509.21797v2)** | 2025-09-30 | 11 pages, 4 figures |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -83,19 +83,19 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft](http://arxiv.org/abs/2510.03198v1)** | 2025-10-03 | 19 pages, 8 figures |
+| **[Modern Methods in Associative Memory](http://arxiv.org/abs/2507.06211v2)** | 2025-10-03 | <details><summary>Tutor...</summary><p>Tutorial at ICML 2025</p></details> |
+| **[Agent-ScanKit: Unraveling Memory and Reasoning of Multimodal Agents via Sensitivity Perturbations](http://arxiv.org/abs/2510.00496v3)** | 2025-10-03 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, 7 tables</p></details> |
+| **[HALO: Memory-Centric Heterogeneous Accelerator with 2.5D Integration for Low-Batch LLM Inference](http://arxiv.org/abs/2510.02675v1)** | 2025-10-03 |  |
+| **[Using Preformed Resistive Random Access Memory to Create a Strong Physically Unclonable Function](http://arxiv.org/abs/2510.02643v1)** | 2025-10-03 |  |
+| **[PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning](http://arxiv.org/abs/2509.22315v2)** | 2025-10-02 | 8 pages |
+| **[In-memory Training on Analog Devices with Limited Conductance States via Multi-tile Residual Learning](http://arxiv.org/abs/2510.02516v1)** | 2025-10-02 |  |
+| **[Pre-training Limited Memory Language Models with Internal and External Knowledge](http://arxiv.org/abs/2505.15962v3)** | 2025-10-02 | <details><summary>Code,...</summary><p>Code, models, and data available at https://github.com/kilian-group/LMLM</p></details> |
+| **[Evict3R: Training-Free Token Eviction for Memory-Bounded Streaming Visual Geometry Transformers](http://arxiv.org/abs/2509.17650v2)** | 2025-10-02 | <details><summary>proje...</summary><p>project page: https://soroush-mim.github.io/projects/evict3r/</p></details> |
 | **[Multiplier-free In-Memory Vector-Matrix Multiplication Using Distributed Arithmetic](http://arxiv.org/abs/2510.02099v1)** | 2025-10-02 | 9 pages, 10 figures |
-| **[Agent-ScanKit: Unraveling Memory and Reasoning of Multimodal Agents via Sensitivity Perturbations](http://arxiv.org/abs/2510.00496v2)** | 2025-10-02 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, 7 tables</p></details> |
 | **[Forget Forgetting: Continual Learning in a World of Abundant Memory](http://arxiv.org/abs/2502.07274v4)** | 2025-10-01 | 24 pages, 11 figures |
 | **[MEMTRACK: Evaluating Long-Term Memory and State Tracking in Multi-Platform Dynamic Agent Environments](http://arxiv.org/abs/2510.01353v1)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 SEA Workshop</p></details> |
 | **[EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory](http://arxiv.org/abs/2510.01183v1)** | 2025-10-01 | <details><summary>Code ...</summary><p>Code available at: https://github.com/JiahaoPlus/EvoWorld</p></details> |
 | **[Improving Code Localization with Repository Memory](http://arxiv.org/abs/2510.01003v1)** | 2025-10-01 | 15 pages, 8 figures |
 | **[Learning Frequency and Memory-Aware Prompts for Multi-Modal Object Tracking](http://arxiv.org/abs/2506.23972v2)** | 2025-10-01 |  |
-| **[Designing Wine Tasting Experiences for All: The role of Human Diversity and Personal food memory](http://arxiv.org/abs/2510.00607v1)** | 2025-10-01 |  |
-| **[Memory Determines Learning Direction: A Theory of Gradient-Based Optimization in State Space Models](http://arxiv.org/abs/2510.00563v1)** | 2025-10-01 |  |
-| **[Memory-Augmented Log Analysis with Phi-4-mini: Enhancing Threat Detection in Structured Security Logs](http://arxiv.org/abs/2510.00529v1)** | 2025-10-01 |  |
-| **[TokMem: Tokenized Procedural Memory for Large Language Models](http://arxiv.org/abs/2510.00444v1)** | 2025-10-01 |  |
-| **[Multidimensional Bayesian Active Machine Learning of Working Memory Task Performance](http://arxiv.org/abs/2510.00375v1)** | 2025-10-01 | 37 pages, 7 figures |
-| **[Memory-Efficient 2D/3D Shape Assembly of Robot Swarms](http://arxiv.org/abs/2509.26518v1)** | 2025-09-30 |  |
-| **[Stab-QRAM: An All-Clifford Quantum Random Access Memory for Special Data](http://arxiv.org/abs/2509.26494v1)** | 2025-09-30 | 7 pages, 4 figures |
-| **[GraphCogent: Mitigating LLMs' Working Memory Constraints via Multi-Agent Collaboration in Complex Graph Understanding](http://arxiv.org/abs/2508.12379v2)** | 2025-09-30 |  |
 
