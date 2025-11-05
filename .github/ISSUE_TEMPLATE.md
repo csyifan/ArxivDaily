@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2025
+title: Latest 15 Papers - November 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VidText: Towards Comprehensive Evaluation for Video Text Understanding](http://arxiv.org/abs/2505.22810v2)** | 2025-11-03 |  |
+| **[Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding](http://arxiv.org/abs/2505.18079v4)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[Aligning Effective Tokens with Video Anomaly in Large Language Models](http://arxiv.org/abs/2508.06350v2)** | 2025-11-03 |  |
+| **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](http://arxiv.org/abs/2505.13928v2)** | 2025-11-02 |  |
+| **[VideoExplorer: Think With Videos For Agentic Long-Video Understanding](http://arxiv.org/abs/2506.10821v6)** | 2025-11-01 |  |
+| **[Symmetric Entropy-Constrained Video Coding for Machines](http://arxiv.org/abs/2510.15347v2)** | 2025-10-31 | <details><summary>This ...</summary><p>This paper is submitted to the IEEE Transactions</p></details> |
 | **[VRoPE: Rotary Position Embedding for Video Large Language Models](http://arxiv.org/abs/2502.11664v4)** | 2025-10-31 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Camera Ready</p></details> |
 | **[FOCUS: Efficient Keyframe Selection for Long Video Understanding](http://arxiv.org/abs/2510.27280v1)** | 2025-10-31 |  |
 | **[AVA: Towards Agentic Video Analytics with Vision Language Models](http://arxiv.org/abs/2505.00254v5)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted to NDSI 2026, 19pages, 12 figures, complementary evaluations and appendix</p></details> |
@@ -16,17 +22,15 @@ labels: documentation
 | **[VideoTG-R1: Boosting Video Temporal Grounding via Curriculum Reinforcement Learning on Reflected Boundary Annotations](http://arxiv.org/abs/2510.23397v1)** | 2025-10-27 |  |
 | **[Evaluation of Vision-LLMs in Surveillance Video](http://arxiv.org/abs/2510.23190v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted as poster in the NeurIPS 2025 Workshop on Space in Vision, Language, and Embodied AI</p></details> |
 | **[VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding](http://arxiv.org/abs/2505.01481v4)** | 2025-10-26 |  |
-| **[MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning](http://arxiv.org/abs/2501.07227v4)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted by IEEE TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence). arXiv admin note: substantial text overlap with arXiv:2409.17647</p></details> |
-| **[Video-Skill-CoT: Skill-based Chain-of-Thoughts for Domain-Adaptive Video Reasoning](http://arxiv.org/abs/2506.03525v2)** | 2025-10-24 | <details><summary>Proje...</summary><p>Project website: https://video-skill-cot.github.io/</p></details> |
-| **[MUVR: A Multi-Modal Untrimmed Video Retrieval Benchmark with Multi-Level Visual Correspondence](http://arxiv.org/abs/2510.21406v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 D&B Track</p></details> |
-| **[Two Causally Related Needles in a Video Haystack](http://arxiv.org/abs/2505.19853v2)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 D&B Track</p></details> |
-| **[InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding](http://arxiv.org/abs/2506.15745v2)** | 2025-10-24 | NeurIPS 2025 |
-| **[HRT1: One-Shot Human-to-Robot Trajectory Transfer for Mobile Manipulation](http://arxiv.org/abs/2510.21026v1)** | 2025-10-23 | <details><summary>14 pa...</summary><p>14 pages, 11 figures and 3 tables. Project page is available at \url{https://irvlutd.github.io/HRT1/}</p></details> |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model](http://arxiv.org/abs/2510.27607v1)** | 2025-10-31 | 20 pages, 10 figures |
+| **[Mapping Overlaps in Benchmarks through Perplexity in the Wild](http://arxiv.org/abs/2509.23488v3)** | 2025-11-03 |  |
+| **[CausalARC: Abstract Reasoning with Causal World Models](http://arxiv.org/abs/2509.03636v2)** | 2025-11-01 | <details><summary>Peer-...</summary><p>Peer-reviewed workshop paper</p></details> |
+| **[MindJourney: Test-Time Scaling with World Models for Spatial Reasoning](http://arxiv.org/abs/2507.12508v2)** | 2025-11-01 | <details><summary>Proje...</summary><p>Project Page: https://umass-embodied-agi.github.io/MindJourney</p></details> |
+| **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](http://arxiv.org/abs/2509.24948v3)** | 2025-11-01 |  |
+| **[Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model](http://arxiv.org/abs/2510.27607v2)** | 2025-11-04 | 20 pages, 10 figures |
 | **[FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction](http://arxiv.org/abs/2509.21657v2)** | 2025-10-31 |  |
 | **[Jasmine: A Simple, Performant and Scalable JAX-based World Modeling Codebase](http://arxiv.org/abs/2510.27002v1)** | 2025-10-30 | <details><summary>Blog ...</summary><p>Blog post: https://pdoom.org/jasmine.html</p></details> |
 | **[StateSpaceDiffuser: Bringing Long Context to Diffusion World Models](http://arxiv.org/abs/2505.22246v3)** | 2025-10-30 |  |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Emu3.5: Native Multimodal Models are World Learners](http://arxiv.org/abs/2510.26583v1)** | 2025-10-30 | <details><summary>proje...</summary><p>project page: https://emu.world</p></details> |
 | **[Co-Evolving Latent Action World Models](http://arxiv.org/abs/2510.26433v1)** | 2025-10-30 |  |
 | **[Model Provenance Testing for Large Language Models](http://arxiv.org/abs/2502.00706v2)** | 2025-10-30 |  |
-| **[Learning World Models for Interactive Video Generation](http://arxiv.org/abs/2505.21996v2)** | 2025-10-29 | <details><summary>Proje...</summary><p>Project page: https://sites.google.com/view/vrag</p></details> |
-| **[Off-policy Reinforcement Learning with Model-based Exploration Augmentation](http://arxiv.org/abs/2510.25529v1)** | 2025-10-29 |  |
-| **[FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving](http://arxiv.org/abs/2505.17685v2)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 as Spotlight Presentation. Code: https://github.com/MIV-XJTU/FSDrive</p></details> |
-| **[Vision-Centric 4D Occupancy Forecasting and Planning via Implicit Residual World Models](http://arxiv.org/abs/2510.16729v2)** | 2025-10-29 |  |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,10 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memory Assisted LLM for Personalized Recommendation System](http://arxiv.org/abs/2505.03824v2)** | 2025-11-03 | 8 pages, 7 figures |
+| **[Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2](http://arxiv.org/abs/2505.01854v2)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Medical Imaging (IEEE TMI)</p></details> |
+| **[Harmony in Divergence: Towards Fast, Accurate, and Memory-efficient Zeroth-order LLM Fine-tuning](http://arxiv.org/abs/2502.03304v4)** | 2025-11-02 |  |
+| **[Hardware-aligned Hierarchical Sparse Attention for Efficient Long-term Memory Access](http://arxiv.org/abs/2504.16795v2)** | 2025-11-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[Dynamic Affective Memory Management for Personalized LLM Agents](http://arxiv.org/abs/2510.27418v1)** | 2025-10-31 | 12 pasges, 8 figures |
 | **[Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs](http://arxiv.org/abs/2510.27246v1)** | 2025-10-31 |  |
 | **[HPIM: Heterogeneous Processing-In-Memory-based Accelerator for Large Language Models Inference](http://arxiv.org/abs/2509.12993v2)** | 2025-10-31 |  |
@@ -94,8 +98,4 @@ labels: documentation
 | **[Analysis and Optimized CXL-Attached Memory Allocation for Long-Context LLM Fine-Tuning](http://arxiv.org/abs/2507.03305v2)** | 2025-10-30 | <details><summary>13 pa...</summary><p>13 pages, 15 figures, 2 tables</p></details> |
 | **[RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration](http://arxiv.org/abs/2510.26536v1)** | 2025-10-30 |  |
 | **[Wireless Memory Approximation for Energy-efficient Task-specific IoT Data Retrieval](http://arxiv.org/abs/2510.26473v1)** | 2025-10-30 |  |
-| **[MIREDO: MIP-Driven Resource-Efficient Dataflow Optimization for Computing-in-Memory Accelerator](http://arxiv.org/abs/2510.26463v1)** | 2025-10-30 | <details><summary>7 pag...</summary><p>7 pages, accepted by ASP-DAC 2026</p></details> |
-| **[Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism](http://arxiv.org/abs/2510.26083v1)** | 2025-10-30 |  |
-| **[Quality-Aware Prototype Memory for Face Representation Learning](http://arxiv.org/abs/2311.07734v2)** | 2025-10-29 | Preprint |
-| **[Mixture Modeling for Temporal Point Processes with Memory](http://arxiv.org/abs/2407.03774v2)** | 2025-10-29 |  |
 
