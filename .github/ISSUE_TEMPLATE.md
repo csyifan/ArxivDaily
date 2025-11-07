@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 06, 2025
+title: Latest 15 Papers - November 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hulu-Med: A Transparent Generalist Model towards Holistic Medical Vision-Language Understanding](http://arxiv.org/abs/2510.08668v2)** | 2025-11-05 |  |
 | **[From the Laboratory to Real-World Application: Evaluating Zero-Shot Scene Interpretation on Edge Devices for Mobile Robotics](http://arxiv.org/abs/2511.02427v1)** | 2025-11-04 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 1 table; accepted for AI-2025 Forty-fifth SGAI International Conference on Artificial Intelligence CAMBRIDGE, ENGLAND 16-18 DECEMBER 2025</p></details> |
 | **[VidText: Towards Comprehensive Evaluation for Video Text Understanding](http://arxiv.org/abs/2505.22810v2)** | 2025-11-03 |  |
 | **[Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding](http://arxiv.org/abs/2505.18079v4)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
@@ -21,12 +22,13 @@ labels: documentation
 | **[FOCUS: Efficient Keyframe Selection for Long Video Understanding](http://arxiv.org/abs/2510.27280v1)** | 2025-10-31 |  |
 | **[AVA: Towards Agentic Video Analytics with Vision Language Models](http://arxiv.org/abs/2505.00254v5)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted to NDSI 2026, 19pages, 12 figures, complementary evaluations and appendix</p></details> |
 | **[Enhancing Temporal Understanding in Video-LLMs through Stacked Temporal Attention in Vision Encoders](http://arxiv.org/abs/2510.26027v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[StreamingCoT: A Dataset for Temporal Dynamics and Multimodal Chain-of-Thought Reasoning in Streaming VideoQA](http://arxiv.org/abs/2510.25332v1)** | 2025-10-29 |  |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Kosmos: An AI Scientist for Autonomous Discovery](http://arxiv.org/abs/2511.02824v2)** | 2025-11-05 | <details><summary>Revis...</summary><p>Revision: figure layout changes and minor text edits</p></details> |
+| **[Indicating Robot Vision Capabilities with Augmented Reality](http://arxiv.org/abs/2511.03550v1)** | 2025-11-05 |  |
+| **[WorldPlanner: Monte Carlo Tree Search and MPC with Action-Conditioned Visual World Models](http://arxiv.org/abs/2511.03077v1)** | 2025-11-04 |  |
 | **[Agentic World Modeling for 6G: Near-Real-Time Generative State-Space Reasoning](http://arxiv.org/abs/2511.02748v1)** | 2025-11-04 | <details><summary>13 Pa...</summary><p>13 Pages, 3 Figures, 4 Tables</p></details> |
 | **[Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model](http://arxiv.org/abs/2510.27607v2)** | 2025-11-04 | 20 pages, 10 figures |
 | **[LTD-Bench: Evaluating Large Language Models by Letting Them Draw](http://arxiv.org/abs/2511.02347v1)** | 2025-11-04 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[From Pixels to Cooperation Multi Agent Reinforcement Learning based on Multimodal World Models](http://arxiv.org/abs/2511.01310v1)** | 2025-11-03 |  |
 | **[Scaling Cross-Embodiment World Models for Dexterous Manipulation](http://arxiv.org/abs/2511.01177v1)** | 2025-11-03 |  |
 | **[Mapping Overlaps in Benchmarks through Perplexity in the Wild](http://arxiv.org/abs/2509.23488v3)** | 2025-11-03 |  |
-| **[Continual Learning, Not Training: Online Adaptation For Agents](http://arxiv.org/abs/2511.01093v1)** | 2025-11-02 | 12 pages, 4 figures |
-| **[URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model](http://arxiv.org/abs/2511.00940v1)** | 2025-11-02 | <details><summary>Accep...</summary><p>Accepted to the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -48,6 +48,18 @@ labels: documentation
 | **[OmniBrainBench: A Comprehensive Multimodal Benchmark for Brain Imaging Analysis Across Multi-stage Clinical Tasks](http://arxiv.org/abs/2511.00846v1)** | 2025-11-02 |  |
 | **[Proactive Reasoning-with-Retrieval Framework for Medical Multimodal Large Language Models](http://arxiv.org/abs/2510.18303v1)** | 2025-10-21 | Work in progress |
 | **[Discrete Diffusion Models with MLLMs for Unified Medical Multimodal Generation](http://arxiv.org/abs/2510.06131v1)** | 2025-10-07 | 16 pages,6 figures |
+| **[InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-Efficient Pre-Training and Multi-Stage Fine-Tuning](http://arxiv.org/abs/2509.22261v1)** | 2025-09-26 |  |
+| **[Citrus-V: Advancing Medical Foundation Models with Unified Medical Image Grounding for Clinical Reasoning](http://arxiv.org/abs/2509.19090v2)** | 2025-09-24 |  |
+| **[Advances in Large Language Models for Medicine](http://arxiv.org/abs/2509.18690v1)** | 2025-09-23 | <details><summary>Prepr...</summary><p>Preprint. 5 figures, 4 tables</p></details> |
+| **[MRN: Harnessing 2D Vision Foundation Models for Diagnosing Parkinson's Disease with Limited 3D MR Data](http://arxiv.org/abs/2509.17566v1)** | 2025-09-22 | <details><summary>First...</summary><p>First-place solution of the classification track for MICCAI'2025 PDCADxFoundation Challenge</p></details> |
+| **[A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare](http://arxiv.org/abs/2502.15871v2)** | 2025-09-17 |  |
+| **[Simulating Clinical AI Assistance using Multimodal LLMs: A Case Study in Diabetic Retinopathy](http://arxiv.org/abs/2509.13234v1)** | 2025-09-16 |  |
+| **[MedS$^3$: Towards Medical Slow Thinking with Self-Evolved Soft Dual-sided Process Supervision](http://arxiv.org/abs/2501.12051v3)** | 2025-09-10 | 20 pages; |
+| **[AURAD: Anatomy-Pathology Unified Radiology Synthesis with Progressive Representations](http://arxiv.org/abs/2509.04819v2)** | 2025-09-08 |  |
+| **[Psychiatry-Bench: A Multi-Task Benchmark for LLMs in Psychiatry](http://arxiv.org/abs/2509.09711v1)** | 2025-09-07 |  |
+| **[LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation](http://arxiv.org/abs/2506.04078v3)** | 2025-08-31 |  |
+| **[HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models](http://arxiv.org/abs/2405.07460v5)** | 2025-08-27 |  |
+| **[A Multi-Agent Approach to Neurological Clinical Reasoning](http://arxiv.org/abs/2508.14063v1)** | 2025-08-10 |  |
 
 ## Medical LLM
 | **Title** | **Date** | **Comment** |
@@ -71,6 +83,10 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](http://arxiv.org/abs/2511.03506v1)** | 2025-11-05 |  |
+| **[In-Memory Indexing and Querying of Provenance in Data Preparation Pipelines](http://arxiv.org/abs/2511.03480v1)** | 2025-11-05 |  |
+| **[An Event-Driven Spiking Compute-In-Memory Macro based on SOT-MRAM](http://arxiv.org/abs/2511.03203v1)** | 2025-11-05 | <details><summary>5 pag...</summary><p>5 pages, 7 figures. Under review for ISCAS</p></details> |
+| **[FPGA-based Emulation and Device-Side Management for CXL-based Memory Tiering Systems](http://arxiv.org/abs/2502.19233v3)** | 2025-11-04 |  |
 | **[MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning](http://arxiv.org/abs/2511.02805v1)** | 2025-11-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/icip-cas/MemSearcher</p></details> |
 | **[Redundancy Maximization as a Principle of Associative Memory Learning](http://arxiv.org/abs/2511.02584v1)** | 2025-11-04 | 21 pages, 8 figures |
 | **[LiteVoxel: Low-memory Intelligent Thresholding for Efficient Voxel Rasterization](http://arxiv.org/abs/2511.02510v1)** | 2025-11-04 |  |
@@ -78,12 +94,4 @@ labels: documentation
 | **[Robust Streaming Against Low-Memory Adversaries](http://arxiv.org/abs/2511.01769v1)** | 2025-11-03 |  |
 | **[Memory-Enhanced Neural Solvers for Routing Problems](http://arxiv.org/abs/2406.16424v3)** | 2025-11-03 | Neurips '25 version |
 | **[IVGAE-TAMA-BO: A novel temporal dynamic variational graph model for link prediction in global food trade networks with momentum structural memory and Bayesian optimization](http://arxiv.org/abs/2511.01639v1)** | 2025-11-03 | 26pages,6figures |
-| **[ExplicitLM: Decoupling Knowledge from Parameters via Explicit Memory Banks](http://arxiv.org/abs/2511.01581v1)** | 2025-11-03 | 12pages, 4figures |
-| **[Black-Box Membership Inference Attack for LVLMs via Prior Knowledge-Calibrated Memory Probing](http://arxiv.org/abs/2511.01952v1)** | 2025-11-03 |  |
-| **[EchoLSTM: A Self-Reflective Recurrent Network for Stabilizing Long-Range Memory](http://arxiv.org/abs/2511.01950v1)** | 2025-11-03 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 5 tables</p></details> |
-| **[LiCoMemory: Lightweight and Cognitive Agentic Memory for Efficient Long-Term Reasoning](http://arxiv.org/abs/2511.01448v1)** | 2025-11-03 |  |
-| **[Memory-Efficient Training with In-Place FFT Implementation](http://arxiv.org/abs/2511.01385v1)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. Presents a real-domain in-place FFT (rdFFT) operator for memory-efficient fine-tuning of large language models</p></details> |
-| **[Memory Assisted LLM for Personalized Recommendation System](http://arxiv.org/abs/2505.03824v2)** | 2025-11-03 | 8 pages, 7 figures |
-| **[Thermo-responsive closing and reopening artificial Venus Flytrap utilizing shape memory elastomers](http://arxiv.org/abs/2511.01346v1)** | 2025-11-03 | <details><summary>Confe...</summary><p>Conference Proceedings Paper Living Machines 2025</p></details> |
-| **[Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2](http://arxiv.org/abs/2505.01854v2)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Medical Imaging (IEEE TMI)</p></details> |
 
