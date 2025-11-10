@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 09, 2025
+title: Latest 15 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning](http://arxiv.org/abs/2511.05489v1)** | 2025-11-07 | <details><summary>22 pa...</summary><p>22 pages, 17 figures. Official code: https://github.com/Time-Search/TimeSearch-R</p></details> |
+| **[LiveStar: Live Streaming Assistant for Real-World Online Video Understanding](http://arxiv.org/abs/2511.05299v1)** | 2025-11-07 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Accepted</p></details> |
 | **[SIMS-V: Simulated Instruction-Tuning for Spatial Video Understanding](http://arxiv.org/abs/2511.04668v1)** | 2025-11-06 | <details><summary>Proje...</summary><p>Project page: https://ellisbrown.github.io/sims-v</p></details> |
 | **[Two Causally Related Needles in a Video Haystack](http://arxiv.org/abs/2505.19853v3)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 D&B Track</p></details> |
 | **[Hulu-Med: A Transparent Generalist Model towards Holistic Medical Vision-Language Understanding](http://arxiv.org/abs/2510.08668v2)** | 2025-11-05 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[LongCat-Flash-Omni Technical Report](http://arxiv.org/abs/2511.00279v1)** | 2025-10-31 |  |
 | **[Symmetric Entropy-Constrained Video Coding for Machines](http://arxiv.org/abs/2510.15347v2)** | 2025-10-31 | <details><summary>This ...</summary><p>This paper is submitted to the IEEE Transactions</p></details> |
 | **[FLoC: Facility Location-Based Efficient Visual Token Compression for Long Video Understanding](http://arxiv.org/abs/2511.00141v1)** | 2025-10-31 |  |
-| **[VRoPE: Rotary Position Embedding for Video Large Language Models](http://arxiv.org/abs/2502.11664v4)** | 2025-10-31 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Camera Ready</p></details> |
-| **[FOCUS: Efficient Keyframe Selection for Long Video Understanding](http://arxiv.org/abs/2510.27280v1)** | 2025-10-31 |  |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
@@ -36,11 +36,6 @@ labels: documentation
 | **[Agentic World Modeling for 6G: Near-Real-Time Generative State-Space Reasoning](http://arxiv.org/abs/2511.02748v1)** | 2025-11-04 | <details><summary>13 Pa...</summary><p>13 Pages, 3 Figures, 4 Tables</p></details> |
 | **[Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model](http://arxiv.org/abs/2510.27607v2)** | 2025-11-04 | 20 pages, 10 figures |
 | **[LTD-Bench: Evaluating Large Language Models by Letting Them Draw](http://arxiv.org/abs/2511.02347v1)** | 2025-11-04 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Communicating Plans, Not Percepts: Scalable Multi-Agent Coordination with Embodied World Models](http://arxiv.org/abs/2508.02912v3)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Scaling Environments for Agents (SEA). Additionally accepted for presentation in the NeurIPS 2025 Workshop: Embodied World Models for Decision Making (EWM) and the NeurIPS 2025 Workshop: Optimization for Machine Learning (OPT)</p></details> |
-| **[The Physical Basis of Prediction: World Model Formation in Neural Organoids via an LLM-Generated Curriculum](http://arxiv.org/abs/2509.04633v3)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in the proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Scaling Environments for Agents (SEA). Additionally accepted for presentation in NeurIPS 2025 Workshop: Embodied World Models for Decision Making</p></details> |
-| **[Generative World Models of Tasks: LLM-Driven Hierarchical Scaffolding for Embodied Agents](http://arxiv.org/abs/2509.04731v3)** | 2025-11-04 | <details><summary>In th...</summary><p>In the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Embodied World Models for Decision Making (EWM)</p></details> |
-| **[Learning Interactive World Model for Object-Centric Reinforcement Learning](http://arxiv.org/abs/2511.02225v1)** | 2025-11-04 | NeurIPS 2025 |
-| **[Natural Building Blocks for Structured World Models: Theory, Evidence, and Scaling](http://arxiv.org/abs/2511.02091v1)** | 2025-11-03 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, under review for World Modeling Workshop 2026</p></details> |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -96,6 +91,6 @@ labels: documentation
 | **[OMPILOT: Harnessing Transformer Models for Auto Parallelization to Shared Memory Computing Paradigms](http://arxiv.org/abs/2511.03866v1)** | 2025-11-05 |  |
 | **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](http://arxiv.org/abs/2511.03506v1)** | 2025-11-05 |  |
 | **[In-Memory Indexing and Querying of Provenance in Data Preparation Pipelines](http://arxiv.org/abs/2511.03480v1)** | 2025-11-05 |  |
-| **[An Event-Driven Spiking Compute-In-Memory Macro based on SOT-MRAM](http://arxiv.org/abs/2511.03203v1)** | 2025-11-05 | <details><summary>5 pag...</summary><p>5 pages, 7 figures. Under review for ISCAS</p></details> |
+| **[An Event-Driven Spiking Compute-In-Memory Macro based on SOT-MRAM](http://arxiv.org/abs/2511.03203v2)** | 2025-11-07 |  |
 | **[FPGA-based Emulation and Device-Side Management for CXL-based Memory Tiering Systems](http://arxiv.org/abs/2502.19233v3)** | 2025-11-04 |  |
 
