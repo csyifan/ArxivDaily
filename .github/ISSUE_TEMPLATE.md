@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2025
+title: Latest 15 Papers - November 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Grounded Test-Time Adaptation for LLM Agents](http://arxiv.org/abs/2511.04847v1)** | 2025-11-06 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[Internal World Models as Imagination Networks in Cognitive Agents](http://arxiv.org/abs/2510.04391v2)** | 2025-11-06 |  |
 | **[Cambrian-S: Towards Spatial Supersensing in Video](http://arxiv.org/abs/2511.04670v1)** | 2025-11-06 | <details><summary>Websi...</summary><p>Website: https://cambrian-mllm.github.io/</p></details> |
 | **[DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration](http://arxiv.org/abs/2511.04646v1)** | 2025-11-06 |  |
 | **[LLM-as-a-Judge: Toward World Models for Slate Recommendation Systems](http://arxiv.org/abs/2511.04541v1)** | 2025-11-06 |  |
@@ -36,6 +38,9 @@ labels: documentation
 | **[Agentic World Modeling for 6G: Near-Real-Time Generative State-Space Reasoning](http://arxiv.org/abs/2511.02748v1)** | 2025-11-04 | <details><summary>13 Pa...</summary><p>13 Pages, 3 Figures, 4 Tables</p></details> |
 | **[Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model](http://arxiv.org/abs/2510.27607v2)** | 2025-11-04 | 20 pages, 10 figures |
 | **[LTD-Bench: Evaluating Large Language Models by Letting Them Draw](http://arxiv.org/abs/2511.02347v1)** | 2025-11-04 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Communicating Plans, Not Percepts: Scalable Multi-Agent Coordination with Embodied World Models](http://arxiv.org/abs/2508.02912v3)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Scaling Environments for Agents (SEA). Additionally accepted for presentation in the NeurIPS 2025 Workshop: Embodied World Models for Decision Making (EWM) and the NeurIPS 2025 Workshop: Optimization for Machine Learning (OPT)</p></details> |
+| **[The Physical Basis of Prediction: World Model Formation in Neural Organoids via an LLM-Generated Curriculum](http://arxiv.org/abs/2509.04633v3)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in the proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Scaling Environments for Agents (SEA). Additionally accepted for presentation in NeurIPS 2025 Workshop: Embodied World Models for Decision Making</p></details> |
+| **[Generative World Models of Tasks: LLM-Driven Hierarchical Scaffolding for Embodied Agents](http://arxiv.org/abs/2509.04731v3)** | 2025-11-04 | <details><summary>In th...</summary><p>In the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Embodied World Models for Decision Making (EWM)</p></details> |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -78,6 +83,13 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Regularized Reconstruction of Scalar Parameters in Subdiffusion with Memory via a Nonlocal Observation](http://arxiv.org/abs/2511.05277v1)** | 2025-11-07 |  |
+| **[Predicting and forecasting reactivity and flux using long short-term memory models in pebble bed reactors during run-in](http://arxiv.org/abs/2511.05118v1)** | 2025-11-07 | 13 pages |
+| **[An Event-Driven Spiking Compute-In-Memory Macro based on SOT-MRAM](http://arxiv.org/abs/2511.03203v2)** | 2025-11-07 |  |
+| **[CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting](http://arxiv.org/abs/2511.04951v1)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted to appear in the 2026 ACM International Conference on Architectural Support for Programming Languages and Operating Systems</p></details> |
+| **[WIRE: Write Energy Reduction via Encoding in Phase Change Main Memories (PCM)](http://arxiv.org/abs/2511.04928v1)** | 2025-11-07 |  |
+| **[BudgetMem: Learning Selective Memory Policies for Cost-Efficient Long-Context Processing in Language Models](http://arxiv.org/abs/2511.04919v1)** | 2025-11-07 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 5 tables. Evaluated on 700 QA pairs across multiple document lengths</p></details> |
+| **[Re:Member: Emotional Question Generation from Personal Memories](http://arxiv.org/abs/2510.19030v2)** | 2025-11-07 |  |
 | **[Latent learning: episodic memory complements parametric learning by enabling flexible reuse of experiences](http://arxiv.org/abs/2509.16189v2)** | 2025-11-06 |  |
 | **[Unclonable Cryptography in Linear Quantum Memory](http://arxiv.org/abs/2511.04633v1)** | 2025-11-06 |  |
 | **[Neural Computation Without Slots: Steps Towards Biologically Plausible Memory and Attention in Natural and Artificial Intelligence](http://arxiv.org/abs/2511.04593v1)** | 2025-11-06 | <details><summary>19 ma...</summary><p>19 main text pages, 7 main text figures; 33 supplementary pages, 13 supplementary figures</p></details> |
@@ -86,11 +98,4 @@ labels: documentation
 | **[How Memory in Optimization Algorithms Implicitly Modifies the Loss](http://arxiv.org/abs/2502.02132v2)** | 2025-11-06 |  |
 | **[PICNIC: Silicon Photonic Interconnected Chiplets with Computational Network and In-memory Computing for LLM Inference Acceleration](http://arxiv.org/abs/2511.04036v1)** | 2025-11-06 |  |
 | **[HART: A Hybrid Addressing Scheme for Self-Balancing Binary Search Trees in Phase Change Memory (PCM)](http://arxiv.org/abs/2511.03994v1)** | 2025-11-06 |  |
-| **[From Minutes to Seconds: Redefining the Five-Minute Rule for AI-Era Memory Hierarchies](http://arxiv.org/abs/2511.03944v1)** | 2025-11-06 | 13 pages, 10 figures |
-| **[DecoHD: Decomposed Hyperdimensional Classification under Extreme Memory Budgets](http://arxiv.org/abs/2511.03911v1)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted to DATE 2026</p></details> |
-| **[OMPILOT: Harnessing Transformer Models for Auto Parallelization to Shared Memory Computing Paradigms](http://arxiv.org/abs/2511.03866v1)** | 2025-11-05 |  |
-| **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](http://arxiv.org/abs/2511.03506v1)** | 2025-11-05 |  |
-| **[In-Memory Indexing and Querying of Provenance in Data Preparation Pipelines](http://arxiv.org/abs/2511.03480v1)** | 2025-11-05 |  |
-| **[An Event-Driven Spiking Compute-In-Memory Macro based on SOT-MRAM](http://arxiv.org/abs/2511.03203v2)** | 2025-11-07 |  |
-| **[FPGA-based Emulation and Device-Side Management for CXL-based Memory Tiering Systems](http://arxiv.org/abs/2502.19233v3)** | 2025-11-04 |  |
 
