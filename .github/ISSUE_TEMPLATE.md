@@ -35,8 +35,8 @@ labels: documentation
 | **[From Masks to Worlds: A Hitchhiker's Guide to World Models](https://arxiv.org/pdf/2510.20668v1)** | 2025-10-24 | <details><summary>Githu...</summary><p>Github: https://github.com/M-E-AGI-Lab/Awesome-World-Models</p></details> |
 | **[Predictive World Models from Real-World Partial Observations](https://arxiv.org/pdf/2301.04783v3)** | 2023-05-24 | <details><summary>Best ...</summary><p>Best Paper Award at IEEE MOST 2023</p></details> |
 | **[Quantifying Multimodality in World Models](https://arxiv.org/pdf/2112.07263v1)** | 2021-12-15 |  |
-| **[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/pdf/2411.14499v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ACM CSUR, 37 pages, 7 figures, 7 tables</p></details> |
 | **[Clone Deterministic 3D Worlds with Geometrically-Regularized World Models](https://arxiv.org/pdf/2510.26782v1)** | 2025-10-31 |  |
+| **[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/pdf/2411.14499v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ACM CSUR, 37 pages, 7 figures, 7 tables</p></details> |
 | **[Finetuning Offline World Models in the Real World](https://arxiv.org/pdf/2310.16029v1)** | 2023-10-25 | <details><summary>CoRL ...</summary><p>CoRL 2023 Oral; Project website: https://yunhaifeng.com/FOWM</p></details> |
 | **[Modeling Worlds in Text](https://arxiv.org/pdf/2106.09578v1)** | 2021-06-18 | <details><summary>Prepr...</summary><p>Preprint. Under review. Benchmark can be found at https://github.com/JerichoWorld/JerichoWorld</p></details> |
 | **[Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments](https://arxiv.org/pdf/2503.08122v1)** | 2025-03-12 | Preprint |
@@ -90,8 +90,8 @@ labels: documentation
 | **[Hardware-assisted Trusted Memory Disaggregation for Secure Far Memory](https://arxiv.org/pdf/2108.11507v2)** | 2021-09-07 |  |
 | **[Distributed Associative Memory Network with Memory Refreshing Loss](https://arxiv.org/pdf/2007.10637v3)** | 2021-08-30 | <details><summary>Publi...</summary><p>Published (https://www.sciencedirect.com/science/article/pii/S0893608021003014?via%3Dihub), Code (https://github.com/taewonpark/DAM)</p></details> |
 | **[The Case for Replication-Aware Memory-Error Protection in Disaggregated Memory](https://arxiv.org/pdf/2309.00304v2)** | 2024-06-10 |  |
-| **[$\text{Memory}^3$: Language Modeling with Explicit Memory](https://arxiv.org/pdf/2407.01178v1)** | 2025-01-29 |  |
 | **[Observations on Porting In-memory KV stores to Persistent Memory](https://arxiv.org/pdf/2002.02017v1)** | 2020-02-07 |  |
+| **[$\text{Memory}^3$: Language Modeling with Explicit Memory](https://arxiv.org/pdf/2407.01178v1)** | 2025-01-29 |  |
 | **[Multiple Memory Systems for Enhancing the Long-term Memory of Agent](https://arxiv.org/pdf/2508.15294v2)** | 2025-10-10 |  |
 | **[Hardware Memory Management for Future Mobile Hybrid Memory Systems](https://arxiv.org/pdf/2004.05518v1)** | 2024-03-19 |  |
 | **[Memory-QA: Answering Recall Questions Based on Multimodal Memories](https://arxiv.org/pdf/2509.18436v2)** | 2025-09-30 |  |
