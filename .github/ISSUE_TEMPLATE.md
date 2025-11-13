@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 12, 2025
+title: Latest 15 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -10,9 +10,9 @@ labels: documentation
 | **[Revisiting the "Video" in Video-Language Understanding](https://arxiv.org/pdf/2206.01720v1)** | 2022-06-06 | CVPR 2022 (Oral) |
 | **[Video Action Understanding](https://arxiv.org/pdf/2010.06647v2)** | 2021-10-05 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Access</p></details> |
 | **[Infinite Video Understanding](https://arxiv.org/pdf/2507.09068v2)** | 2025-07-24 |  |
+| **[Video Panels for Long Video Understanding](https://arxiv.org/pdf/2509.23724v1)** | 2025-09-30 |  |
 | **[Long Video Understanding with Learnable Retrieval in Video-Language Models](https://arxiv.org/pdf/2312.04931v3)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia (TMM)</p></details> |
 | **[Omni-Video: Democratizing Unified Video Understanding and Generation](https://arxiv.org/pdf/2507.06119v3)** | 2025-08-22 | <details><summary>Techn...</summary><p>Technical report, project page: https://howellyoung-s.github.io/OmniVideo_project/</p></details> |
-| **[Video Panels for Long Video Understanding](https://arxiv.org/pdf/2509.23724v1)** | 2025-09-30 |  |
 | **[Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs](https://arxiv.org/pdf/2409.20063v2)** | 2025-03-04 |  |
 | **[VideoChat: Chat-Centric Video Understanding](https://arxiv.org/pdf/2305.06355v2)** | 2024-01-05 | Technical report |
 | **[TinyLLaVA-Video: Towards Smaller LMMs for Video Understanding with Group Resampler](https://arxiv.org/pdf/2501.15513v2)** | 2025-06-11 | <details><summary>code ...</summary><p>code and training recipes are available at https://github.com/ZhangXJ199/TinyLLaVA-Video</p></details> |
@@ -35,8 +35,8 @@ labels: documentation
 | **[From Masks to Worlds: A Hitchhiker's Guide to World Models](https://arxiv.org/pdf/2510.20668v1)** | 2025-10-24 | <details><summary>Githu...</summary><p>Github: https://github.com/M-E-AGI-Lab/Awesome-World-Models</p></details> |
 | **[Predictive World Models from Real-World Partial Observations](https://arxiv.org/pdf/2301.04783v3)** | 2023-05-24 | <details><summary>Best ...</summary><p>Best Paper Award at IEEE MOST 2023</p></details> |
 | **[Quantifying Multimodality in World Models](https://arxiv.org/pdf/2112.07263v1)** | 2021-12-15 |  |
-| **[Clone Deterministic 3D Worlds with Geometrically-Regularized World Models](https://arxiv.org/pdf/2510.26782v1)** | 2025-10-31 |  |
 | **[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/pdf/2411.14499v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ACM CSUR, 37 pages, 7 figures, 7 tables</p></details> |
+| **[Clone Deterministic 3D Worlds with Geometrically-Regularized World Models](https://arxiv.org/pdf/2510.26782v1)** | 2025-10-31 |  |
 | **[Finetuning Offline World Models in the Real World](https://arxiv.org/pdf/2310.16029v1)** | 2023-10-25 | <details><summary>CoRL ...</summary><p>CoRL 2023 Oral; Project website: https://yunhaifeng.com/FOWM</p></details> |
 | **[Modeling Worlds in Text](https://arxiv.org/pdf/2106.09578v1)** | 2021-06-18 | <details><summary>Prepr...</summary><p>Preprint. Under review. Benchmark can be found at https://github.com/JerichoWorld/JerichoWorld</p></details> |
 | **[Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments](https://arxiv.org/pdf/2503.08122v1)** | 2025-03-12 | Preprint |
@@ -52,9 +52,9 @@ labels: documentation
 | **[Towards General Purpose Medical AI: Continual Learning Medical Foundation Model](https://arxiv.org/pdf/2303.06580v1)** | 2023-03-14 |  |
 | **[A Survey on Trustworthiness in Foundation Models for Medical Image Analysis](https://arxiv.org/pdf/2407.15851v2)** | 2024-10-08 |  |
 | **[MedGo: A Chinese Medical Large Language Model](https://arxiv.org/pdf/2410.20428v1)** | 2024-10-29 | 12 pages, 1 figure |
+| **[Large Language Model Benchmarks in Medical Tasks](https://arxiv.org/pdf/2410.21348v3)** | 2025-11-13 | 25 pages, 5 tables |
 | **[Segment Any Medical Model Extended](https://arxiv.org/pdf/2403.18114v1)** | 2024-03-28 | <details><summary>The c...</summary><p>The content of the manuscript has been presented in SPIE Medical Imaging 2024, and had been accepted to appear in the proceedings of the conference</p></details> |
 | **[EMRModel: A Large Language Model for Extracting Medical Consultation Dialogues into Structured Medical Records](https://arxiv.org/pdf/2504.16448v1)** | 2025-04-24 |  |
-| **[Large Language Model Benchmarks in Medical Tasks](https://arxiv.org/pdf/2410.21348v2)** | 2024-12-10 | 25 pages, 5 tables |
 | **[Medical Hallucinations in Foundation Models and Their Impact on Healthcare](https://arxiv.org/pdf/2503.05777v2)** | 2025-11-04 |  |
 | **[XAI Renaissance: Redefining Interpretability in Medical Diagnostic Models](https://arxiv.org/pdf/2306.01668v1)** | 2023-06-05 |  |
 | **[SM70: A Large Language Model for Medical Devices](https://arxiv.org/pdf/2312.06974v1)** | 2023-12-13 | <details><summary>5 Pag...</summary><p>5 Pages, Technical Report</p></details> |
