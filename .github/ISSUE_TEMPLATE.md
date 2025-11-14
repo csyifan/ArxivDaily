@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -10,8 +10,8 @@ labels: documentation
 | **[Revisiting the "Video" in Video-Language Understanding](https://arxiv.org/pdf/2206.01720v1)** | 2022-06-06 | CVPR 2022 (Oral) |
 | **[Video Action Understanding](https://arxiv.org/pdf/2010.06647v2)** | 2021-10-05 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Access</p></details> |
 | **[Infinite Video Understanding](https://arxiv.org/pdf/2507.09068v2)** | 2025-07-24 |  |
-| **[Video Panels for Long Video Understanding](https://arxiv.org/pdf/2509.23724v1)** | 2025-09-30 |  |
 | **[Long Video Understanding with Learnable Retrieval in Video-Language Models](https://arxiv.org/pdf/2312.04931v3)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia (TMM)</p></details> |
+| **[Video Panels for Long Video Understanding](https://arxiv.org/pdf/2509.23724v1)** | 2025-09-30 |  |
 | **[Omni-Video: Democratizing Unified Video Understanding and Generation](https://arxiv.org/pdf/2507.06119v3)** | 2025-08-22 | <details><summary>Techn...</summary><p>Technical report, project page: https://howellyoung-s.github.io/OmniVideo_project/</p></details> |
 | **[Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs](https://arxiv.org/pdf/2409.20063v2)** | 2025-03-04 |  |
 | **[VideoChat: Chat-Centric Video Understanding](https://arxiv.org/pdf/2305.06355v2)** | 2024-01-05 | Technical report |
@@ -37,10 +37,10 @@ labels: documentation
 | **[Quantifying Multimodality in World Models](https://arxiv.org/pdf/2112.07263v1)** | 2021-12-15 |  |
 | **[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/pdf/2411.14499v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ACM CSUR, 37 pages, 7 figures, 7 tables</p></details> |
 | **[Clone Deterministic 3D Worlds with Geometrically-Regularized World Models](https://arxiv.org/pdf/2510.26782v1)** | 2025-10-31 |  |
+| **[PAN: A World Model for General, Interactable, and Long-Horizon World Simulation](https://arxiv.org/pdf/2511.09057v2)** | 2025-11-14 |  |
 | **[Finetuning Offline World Models in the Real World](https://arxiv.org/pdf/2310.16029v1)** | 2023-10-25 | <details><summary>CoRL ...</summary><p>CoRL 2023 Oral; Project website: https://yunhaifeng.com/FOWM</p></details> |
 | **[Modeling Worlds in Text](https://arxiv.org/pdf/2106.09578v1)** | 2021-06-18 | <details><summary>Prepr...</summary><p>Preprint. Under review. Benchmark can be found at https://github.com/JerichoWorld/JerichoWorld</p></details> |
 | **[Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments](https://arxiv.org/pdf/2503.08122v1)** | 2025-03-12 | Preprint |
-| **[A General World Model with Poiesis: Poppers Three Worlds updated with Software](https://arxiv.org/pdf/1604.00360v1)** | 2016-04-04 | <details><summary>9 pag...</summary><p>9 pages. 1 Figure of a world model with physics, software and Geist, Book published 2016 (in German) by Springer, Heidelberg, with the general fundamentals of Software for philosophy</p></details> |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -52,8 +52,8 @@ labels: documentation
 | **[Towards General Purpose Medical AI: Continual Learning Medical Foundation Model](https://arxiv.org/pdf/2303.06580v1)** | 2023-03-14 |  |
 | **[A Survey on Trustworthiness in Foundation Models for Medical Image Analysis](https://arxiv.org/pdf/2407.15851v2)** | 2024-10-08 |  |
 | **[MedGo: A Chinese Medical Large Language Model](https://arxiv.org/pdf/2410.20428v1)** | 2024-10-29 | 12 pages, 1 figure |
-| **[Large Language Model Benchmarks in Medical Tasks](https://arxiv.org/pdf/2410.21348v3)** | 2025-11-13 | 25 pages, 5 tables |
 | **[Segment Any Medical Model Extended](https://arxiv.org/pdf/2403.18114v1)** | 2024-03-28 | <details><summary>The c...</summary><p>The content of the manuscript has been presented in SPIE Medical Imaging 2024, and had been accepted to appear in the proceedings of the conference</p></details> |
+| **[Large Language Model Benchmarks in Medical Tasks](https://arxiv.org/pdf/2410.21348v3)** | 2025-11-13 | 25 pages, 5 tables |
 | **[EMRModel: A Large Language Model for Extracting Medical Consultation Dialogues into Structured Medical Records](https://arxiv.org/pdf/2504.16448v1)** | 2025-04-24 |  |
 | **[Medical Hallucinations in Foundation Models and Their Impact on Healthcare](https://arxiv.org/pdf/2503.05777v2)** | 2025-11-04 |  |
 | **[XAI Renaissance: Redefining Interpretability in Medical Diagnostic Models](https://arxiv.org/pdf/2306.01668v1)** | 2023-06-05 |  |
@@ -72,8 +72,8 @@ labels: documentation
 | **[Enabling Scalable Evaluation of Bias Patterns in Medical LLMs](https://arxiv.org/pdf/2410.14763v2)** | 2025-04-15 |  |
 | **[LLMs for Doctors: Leveraging Medical LLMs to Assist Doctors, Not Replace Them](https://arxiv.org/pdf/2406.18034v1)** | 2024-06-27 |  |
 | **[Enhancing Medication Recommendation with LLM Text Representation](https://arxiv.org/pdf/2407.10453v1)** | 2024-07-16 | 65 pages, 18 figures |
-| **[MIRIAD: Augmenting LLMs with millions of medical query-response pairs](https://arxiv.org/pdf/2506.06091v2)** | 2025-06-10 | Preprint |
 | **[The Multicultural Medical Assistant: Can LLMs Improve Medical ASR Errors Across Borders?](https://arxiv.org/pdf/2501.15310v1)** | 2025-01-28 | 15 pages, 8 figures |
+| **[MIRIAD: Augmenting LLMs with millions of medical query-response pairs](https://arxiv.org/pdf/2506.06091v2)** | 2025-06-10 | Preprint |
 | **[From Beginner to Expert: Modeling Medical Knowledge into General LLMs](https://arxiv.org/pdf/2312.01040v3)** | 2024-01-09 | <details><summary>Devel...</summary><p>Developed by Ant Group for PubMedQA leaderboard</p></details> |
 | **[BiMediX: Bilingual Medical Mixture of Experts LLM](https://arxiv.org/pdf/2402.13253v2)** | 2024-12-12 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2024 (Findings)</p></details> |
 | **[MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://arxiv.org/pdf/2404.15155v3)** | 2024-10-31 |  |
@@ -94,8 +94,8 @@ labels: documentation
 | **[$\text{Memory}^3$: Language Modeling with Explicit Memory](https://arxiv.org/pdf/2407.01178v1)** | 2025-01-29 |  |
 | **[Multiple Memory Systems for Enhancing the Long-term Memory of Agent](https://arxiv.org/pdf/2508.15294v2)** | 2025-10-10 |  |
 | **[Hardware Memory Management for Future Mobile Hybrid Memory Systems](https://arxiv.org/pdf/2004.05518v1)** | 2024-03-19 |  |
-| **[Memory-QA: Answering Recall Questions Based on Multimodal Memories](https://arxiv.org/pdf/2509.18436v2)** | 2025-09-30 |  |
 | **[The Tensor Memory Hypothesis](https://arxiv.org/pdf/1708.02918v2)** | 2017-08-29 | <details><summary>Prese...</summary><p>Presented at MLINI-2016 workshop, 2016 (arXiv:1701.01437) Report-no: MLINI/2016/06</p></details> |
+| **[Memory-QA: Answering Recall Questions Based on Multimodal Memories](https://arxiv.org/pdf/2509.18436v2)** | 2025-09-30 |  |
 | **[Memory Mosaics](https://arxiv.org/pdf/2405.06394v3)** | 2025-03-03 |  |
 | **[Verification of Embedded Memory Systems using Efficient Memory Modeling](https://arxiv.org/pdf/0710.4666v1)** | 2011-11-09 | <details><summary>Submi...</summary><p>Submitted on behalf of EDAA (http://www.edaa.com/)</p></details> |
 
