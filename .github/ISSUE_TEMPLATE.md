@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 16, 2025
+title: Latest 15 Papers - November 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Disentangling Emotional Bases and Transient Fluctuations: A Low-Rank Sparse Decomposition Approach for Video Affective Analysis](https://arxiv.org/abs/2511.11406v1)** | 2025-11-14 |  |
+| **[VIDEOP2R: Video Understanding from Perception to Reasoning](https://arxiv.org/abs/2511.11113v1)** | 2025-11-14 |  |
+| **[A Space-Time Transformer for Precipitation Forecasting](https://arxiv.org/abs/2511.11090v1)** | 2025-11-14 |  |
+| **[EmoVid: A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation](https://arxiv.org/abs/2511.11002v1)** | 2025-11-14 | <details><summary>15 pa...</summary><p>15 pages, 12 figures. Accepted as an Oral presentation at AAAI 2026. For code and dataset, see https://zane-zyqiu.github.io/EmoVid</p></details> |
+| **[PAS: A Training-Free Stabilizer for Temporal Encoding in Video LLMs](https://arxiv.org/abs/2511.10979v1)** | 2025-11-14 | 13 pages, 5 figures |
+| **[Text-guided Weakly Supervised Framework for Dynamic Facial Expression Recognition](https://arxiv.org/abs/2511.10958v1)** | 2025-11-14 |  |
 | **[Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals](https://arxiv.org/abs/2511.10615v1)** | 2025-11-13 | 8 pages |
 | **[TubeRMC: Tube-conditioned Reconstruction with Mutual Constraints for Weakly-supervised Spatio-Temporal Video Grounding](https://arxiv.org/abs/2511.10241v1)** | 2025-11-13 |  |
 | **[SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition](https://arxiv.org/abs/2511.10091v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Main Track</p></details> |
@@ -16,55 +22,53 @@ labels: documentation
 | **[TwinOR: Photorealistic Digital Twins of Dynamic Operating Rooms for Embodied AI Research](https://arxiv.org/abs/2511.07412v1)** | 2025-11-10 |  |
 | **[VADER: Towards Causal Video Anomaly Understanding with Relation-Aware Large Language Models](https://arxiv.org/abs/2511.07299v1)** | 2025-11-10 |  |
 | **[CAMP-VQA: Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video](https://arxiv.org/abs/2511.07290v1)** | 2025-11-10 | 14 pages, 6 figures |
-| **[MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal LLMs](https://arxiv.org/abs/2511.07250v2)** | 2025-11-13 |  |
-| **[Multi-Agent AI Framework for Road Situation Detection and C-ITS Message Generation](https://arxiv.org/abs/2511.06892v1)** | 2025-11-10 | <details><summary>submi...</summary><p>submitted to TRA 2026</p></details> |
-| **[Otter: Mitigating Background Distractions of Wide-Angle Few-Shot Action Recognition with Enhanced RWKV](https://arxiv.org/abs/2511.06741v2)** | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Oral</p></details> |
-| **[Sentiment Analysis On YouTube Comments Using Machine Learning Techniques Based On Video Games Content](https://arxiv.org/abs/2511.06708v1)** | 2025-11-10 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, 2025 IEEE 9th International Conference on Software Engineering & Computer Systems</p></details> |
-| **[Video Dataset for Surgical Phase, Keypoint, and Instrument Recognition in Laparoscopic Surgery (PhaKIR)](https://arxiv.org/abs/2511.06549v1)** | 2025-11-09 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
-| **[SportR: A Benchmark for Multimodal Large Language Model Reasoning in Sports](https://arxiv.org/abs/2511.06499v1)** | 2025-11-09 |  |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Querying Labeled Time Series Data with Scenario Programs](https://arxiv.org/abs/2511.10627v1)** | 2025-11-13 |  |
-| **[Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals](https://arxiv.org/abs/2511.10615v1)** | 2025-11-13 | 8 pages |
-| **[Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs](https://arxiv.org/abs/2511.10590v1)** | 2025-11-13 |  |
-| **[Bi-Level Contextual Bandits for Individualized Resource Allocation under Delayed Feedback](https://arxiv.org/abs/2511.10572v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI-26 (AISI Track). Final version to appear in the Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-26), 2026</p></details> |
-| **[Belief Net: A Filter-Based Framework for Learning Hidden Markov Models from Observations](https://arxiv.org/abs/2511.10571v1)** | 2025-11-13 | <details><summary>19 pa...</summary><p>19 pages, 7 pages, submitted to conference: L4DC 2026</p></details> |
-| **[Dynamic Avatar-Scene Rendering from Human-centric Context](https://arxiv.org/abs/2511.10539v1)** | 2025-11-13 | 13 pages, 8 figures |
-| **[SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation](https://arxiv.org/abs/2511.10518v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral), Project Page: https://github.com/JiuTian-VL/SemanticVLA</p></details> |
-| **[How Worrying Are Privacy Attacks Against Machine Learning?](https://arxiv.org/abs/2511.10516v1)** | 2025-11-13 |  |
-| **[On the Detectability of Active Gradient Inversion Attacks in Federated Learning](https://arxiv.org/abs/2511.10502v1)** | 2025-11-13 |  |
-| **[Strategic Opponent Modeling with Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling](https://arxiv.org/abs/2511.10501v1)** | 2025-11-13 | 26 pages |
-| **[LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning](https://arxiv.org/abs/2511.10459v1)** | 2025-11-13 |  |
-| **[Unlocking Dynamic Inter-Client Spatial Dependencies: A Federated Spatio-Temporal Graph Learning Method for Traffic Flow Forecasting](https://arxiv.org/abs/2511.10434v1)** | 2025-11-13 |  |
-| **[LongComp: Long-Tail Compositional Zero-Shot Generalization for Robust Trajectory Prediction](https://arxiv.org/abs/2511.10411v1)** | 2025-11-13 | 8 pages, 3 figures |
-| **[nuPlan-R: A Closed-Loop Planning Benchmark for Autonomous Driving via Reactive Multi-Agent Simulation](https://arxiv.org/abs/2511.10403v1)** | 2025-11-13 | 8 pages, 3 figures |
-| **[Rethinking the Reliability of Multi-agent System: A Perspective from Byzantine Fault Tolerance](https://arxiv.org/abs/2511.10400v1)** | 2025-11-13 |  |
+| **[PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning](https://arxiv.org/abs/2511.11562v1)** | 2025-11-14 |  |
+| **[Scalable Policy Evaluation with Video World Models](https://arxiv.org/abs/2511.11520v1)** | 2025-11-14 |  |
+| **[Proactive Hearing Assistants that Isolate Egocentric Conversations](https://arxiv.org/abs/2511.11473v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Main Conference</p></details> |
+| **[Sat2RealCity: Geometry-Aware and Appearance-Controllable 3D Urban Generation from Satellite Imagery](https://arxiv.org/abs/2511.11470v1)** | 2025-11-14 |  |
+| **[MoCap2Radar: A Spatiotemporal Transformer for Synthesizing Micro-Doppler Radar Signatures from Motion Capture](https://arxiv.org/abs/2511.11462v1)** | 2025-11-14 |  |
+| **[FairReweighing: Density Estimation-Based Reweighing Framework for Improving Separation in Fair Regression](https://arxiv.org/abs/2511.11459v1)** | 2025-11-14 |  |
+| **[VoxTell: Free-Text Promptable Universal 3D Medical Image Segmentation](https://arxiv.org/abs/2511.11450v1)** | 2025-11-14 |  |
+| **[From Synthetic Scenes to Real Performance: Enhancing Spatial Reasoning in VLMs](https://arxiv.org/abs/2511.11440v1)** | 2025-11-14 |  |
+| **[VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models](https://arxiv.org/abs/2511.11438v1)** | 2025-11-14 | <details><summary>This ...</summary><p>This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
+| **[WEAVE: Unleashing and Benchmarking the In-context Interleaved Comprehension and Generation](https://arxiv.org/abs/2511.11434v1)** | 2025-11-14 |  |
+| **[Robust and Efficient Communication in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2511.11393v1)** | 2025-11-14 |  |
+| **[KarmaTS: A Universal Simulation Platform for Multivariate Time Series with Functional Causal Dynamics](https://arxiv.org/abs/2511.11357v1)** | 2025-11-14 |  |
+| **[Extreme-PLS with missing data under weak dependence](https://arxiv.org/abs/2511.11338v1)** | 2025-11-14 | 45 pages, 14 figures |
+| **[RLSLM: A Hybrid Reinforcement Learning Framework Aligning Rule-Based Social Locomotion Model with Human Social Norms](https://arxiv.org/abs/2511.11323v1)** | 2025-11-14 | AAAI 2026 |
+| **[LAET: A Layer-wise Adaptive Ensemble Tuning Framework for Pretrained Language Models](https://arxiv.org/abs/2511.11315v1)** | 2025-11-14 |  |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluating Prompting Strategies with MedGemma for Medical Order Extraction](https://arxiv.org/abs/2511.10583v1)** | 2025-11-13 | 2 figures 7 pages |
-| **[Enhancing the Medical Context-Awareness Ability of LLMs via Multifaceted Self-Refinement Learning](https://arxiv.org/abs/2511.10067v1)** | 2025-11-13 | 20 pages, 13 figures |
-| **[Radiology Workflow-Guided Hierarchical Reinforcement Fine-Tuning for Medical Report Generation](https://arxiv.org/abs/2511.10065v1)** | 2025-11-13 |  |
-| **[Multivariate Gaussian Representation Learning for Medical Action Evaluation](https://arxiv.org/abs/2511.10060v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[MIRNet: Integrating Constrained Graph-Based Reasoning with Pre-training for Diagnostic Medical Imaging](https://arxiv.org/abs/2511.10013v1)** | 2025-11-13 | To appear at AAAI-26 |
-| **[Regional Attention-Enhanced Swin Transformer for Clinically Relevant Medical Image Captioning](https://arxiv.org/abs/2511.09893v1)** | 2025-11-13 |  |
-| **[Feature Quality and Adaptability of Medical Foundation Models: A Comparative Evaluation for Radiographic Classification and Segmentation](https://arxiv.org/abs/2511.09742v1)** | 2025-11-12 | 7 figures, 3 tables |
-| **[vMFCoOp: Towards Equilibrium on a Unified Hyperspherical Manifold for Prompting Biomedical VLMs](https://arxiv.org/abs/2511.09540v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted as an Oral Presentation at AAAI 2026 Main Technical Track (this version is not peer-reviewed; it is the extended version)</p></details> |
-| **[TomoGraphView: 3D Medical Image Classification with Omnidirectional Slice Representations and Graph Neural Networks](https://arxiv.org/abs/2511.09605v1)** | 2025-11-12 | <details><summary>Prepr...</summary><p>Preprint submitted to Medical Image Analysis (MedIA)</p></details> |
-| **[A multimodal AI agent for clinical decision support in ophthalmology](https://arxiv.org/abs/2511.09394v1)** | 2025-11-12 | 28 pages, 5 figures |
-| **[DualFete: Revisiting Teacher-Student Interactions from a Feedback Perspective for Semi-supervised Medical Image Segmentation](https://arxiv.org/abs/2511.09319v1)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted by Proceedings of the AAAI Conference on Artificial Intelligence 40 (AAAI-26)</p></details> |
-| **[MedHE: Communication-Efficient Privacy-Preserving Federated Learning with Adaptive Gradient Sparsification for Healthcare](https://arxiv.org/abs/2511.09043v1)** | 2025-11-12 | <details><summary>8 pag...</summary><p>8 pages, 4 Figures, 5 Tables</p></details> |
-| **[Data reuse enables cost-efficient randomized trials of medical AI models](https://arxiv.org/abs/2511.08986v1)** | 2025-11-12 |  |
-| **[Cross-pyramid consistency regularization for semi-supervised medical image segmentation](https://arxiv.org/abs/2511.08435v1)** | 2025-11-11 |  |
-| **[Anatomy-VLM: A Fine-grained Vision-Language Model for Medical Interpretation](https://arxiv.org/abs/2511.08402v1)** | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted to Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
+| **[OpenUS: A Fully Open-Source Foundation Model for Ultrasound Image Analysis via Self-Adaptive Masked Contrastive Learning](https://arxiv.org/abs/2511.11510v1)** | 2025-11-14 |  |
+| **[Synergy vs. Noise: Performance-Guided Multimodal Fusion For Biochemical Recurrence-Free Survival in Prostate Cancer](https://arxiv.org/abs/2511.11452v1)** | 2025-11-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 4 tables</p></details> |
+| **[VoxTell: Free-Text Promptable Universal 3D Medical Image Segmentation](https://arxiv.org/abs/2511.11450v1)** | 2025-11-14 |  |
+| **[MAFM^3: Modular Adaptation of Foundation Models for Multi-Modal Medical AI](https://arxiv.org/abs/2511.11212v1)** | 2025-11-14 | 2 figures, 3 tables |
+| **[Refine and Align: Confidence Calibration through Multi-Agent Interaction in VQA](https://arxiv.org/abs/2511.11169v1)** | 2025-11-14 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 5 tables. Accepted to Special Track on AI Alignment, AAAI 2026. Project Page- https://refine-align.github.io/</p></details> |
+| **[From Retinal Pixels to Patients: Evolution of Deep Learning Research in Diabetic Retinopathy Screening](https://arxiv.org/abs/2511.11065v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted in IEEE BigData 2025</p></details> |
+| **[CrossMed: A Multimodal Cross-Task Benchmark for Compositional Generalization in Medical Imaging](https://arxiv.org/abs/2511.11034v1)** | 2025-11-14 |  |
+| **[Algorithms Trained on Normal Chest X-rays Can Predict Health Insurance Types](https://arxiv.org/abs/2511.11030v1)** | 2025-11-14 | <details><summary>Submi...</summary><p>Submitting to MIDL 2026</p></details> |
+| **[Data Poisoning Vulnerabilities Across Healthcare AI Architectures: A Security Threat Analysis](https://arxiv.org/abs/2511.11020v1)** | 2025-11-14 |  |
+| **[Rethinking Autoregressive Models for Lossless Image Compression via Hierarchical Parallelism and Progressive Adaptation](https://arxiv.org/abs/2511.10991v1)** | 2025-11-14 | 15 pages |
+| **[Divide, Conquer and Unite: Hierarchical Style-Recalibrated Prototype Alignment for Federated Medical Image Segmentation](https://arxiv.org/abs/2511.10945v1)** | 2025-11-14 | Accepted at AAAI-26 |
+| **[CardioEmbed: Domain-Specialized Text Embeddings for Clinical Cardiology](https://arxiv.org/abs/2511.10930v1)** | 2025-11-14 | 14 pages, 6 figures |
+| **[Heterogeneous Multisource Transfer Learning via Model Averaging for Positive-Unlabeled Data](https://arxiv.org/abs/2511.10919v1)** | 2025-11-14 |  |
+| **[Evaluating Large Language Models on Rare Disease Diagnosis: A Case Study using House M.D](https://arxiv.org/abs/2511.10912v1)** | 2025-11-14 |  |
+| **[Expert-Guided Prompting and Retrieval-Augmented Generation for Emergency Medical Service Question Answering](https://arxiv.org/abs/2511.10900v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 
 ## Medical LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing the Medical Context-Awareness Ability of LLMs via Multifaceted Self-Refinement Learning](https://arxiv.org/abs/2511.10067v1)** | 2025-11-13 | 20 pages, 13 figures |
+| **[CrossMed: A Multimodal Cross-Task Benchmark for Compositional Generalization in Medical Imaging](https://arxiv.org/abs/2511.11034v1)** | 2025-11-14 |  |
+| **[Evaluating Large Language Models on Rare Disease Diagnosis: A Case Study using House M.D](https://arxiv.org/abs/2511.10912v1)** | 2025-11-14 |  |
+| **[Expert-Guided Prompting and Retrieval-Augmented Generation for Emergency Medical Service Question Answering](https://arxiv.org/abs/2511.10900v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Faithful Summarization of Consumer Health Queries: A Cross-Lingual Framework with LLMs](https://arxiv.org/abs/2511.10768v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at the 5th Muslims in Machine Learning (MusIML) Workshop, co-located with NeurIPS 2025</p></details> |
+| **[Enhancing the Medical Context-Awareness Ability of LLMs via Multifaceted Self-Refinement Learning](https://arxiv.org/abs/2511.10067v2)** | 2025-11-14 | 20 pages, 13 figures |
 | **[vMFCoOp: Towards Equilibrium on a Unified Hyperspherical Manifold for Prompting Biomedical VLMs](https://arxiv.org/abs/2511.09540v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted as an Oral Presentation at AAAI 2026 Main Technical Track (this version is not peer-reviewed; it is the extended version)</p></details> |
 | **[Prompt Tuning for Natural Language to SQL with Embedding Fine-Tuning and RAG](https://arxiv.org/abs/2511.08245v1)** | 2025-11-11 | <details><summary>Prese...</summary><p>Presented at the Workshop on Robust ML in Open Environments (PAKDD 2024)</p></details> |
 | **[EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language Models on Structured Electronic Health Record Tasks](https://arxiv.org/abs/2511.08206v1)** | 2025-11-11 | <details><summary>28pag...</summary><p>28pages, 6 figures, 6 tables</p></details> |
@@ -75,27 +79,23 @@ labels: documentation
 | **[When Evidence Contradicts: Toward Safer Retrieval-Augmented Generation in Healthcare](https://arxiv.org/abs/2511.06668v1)** | 2025-11-10 |  |
 | **[MedVoiceBias: A Controlled Study of Audio LLM Behavior in Clinical Decision-Making](https://arxiv.org/abs/2511.06592v1)** | 2025-11-10 |  |
 | **[Rep2Text: Decoding Full Text from a Single LLM Token Representation](https://arxiv.org/abs/2511.06571v1)** | 2025-11-09 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 4 tables</p></details> |
-| **[Overview of CHIP 2025 Shared Task 2: Discharge Medication Recommendation for Metabolic Diseases Based on Chinese Electronic Health Records](https://arxiv.org/abs/2511.06230v1)** | 2025-11-09 |  |
-| **[SPA: Achieving Consensus in LLM Alignment via Self-Priority Optimization](https://arxiv.org/abs/2511.06222v1)** | 2025-11-09 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
-| **[LLMs Do Not See Age: Assessing Demographic Bias in Automated Systematic Review Synthesis](https://arxiv.org/abs/2511.06000v1)** | 2025-11-08 | <details><summary>Accep...</summary><p>Accepted at AACL 2025</p></details> |
-| **[DiA-gnostic VLVAE: Disentangled Alignment-Constrained Vision Language Variational AutoEncoder for Robust Radiology Reporting with Missing Modalities](https://arxiv.org/abs/2511.05968v1)** | 2025-11-08 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at the 40th AAAI Conference on Artificial Intelligence (AAAI-26), Main Technical Track</p></details> |
 
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective](https://arxiv.org/abs/2511.11478v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[Echoless Label-Based Pre-computation for Memory-Efficient Heterogeneous Graph Learning](https://arxiv.org/abs/2511.11081v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models](https://arxiv.org/abs/2511.11007v1)** | 2025-11-14 |  |
+| **[FengHuang: Next-Generation Memory Orchestration for AI Inferencing](https://arxiv.org/abs/2511.10753v1)** | 2025-11-13 |  |
 | **[Fixed-Persona SLMs with Modular Memory: Scalable NPC Dialogue on Consumer Hardware](https://arxiv.org/abs/2511.10277v1)** | 2025-11-13 |  |
 | **[BuddyMoE: Exploiting Expert Redundancy to Accelerate Memory-Constrained Mixture-of-Experts Inference](https://arxiv.org/abs/2511.10054v1)** | 2025-11-13 |  |
 | **[Multi-agent In-context Coordination via Decentralized Memory Retrieval](https://arxiv.org/abs/2511.10030v1)** | 2025-11-13 |  |
 | **[Vmem: A Lightweight Hot-Upgradable Memory Management for In-production Cloud Environment](https://arxiv.org/abs/2511.09961v1)** | 2025-11-13 |  |
-| **[Taiji: A DPU Memory Elasticity Solution for In-production Cloud Environments](https://arxiv.org/abs/2511.09936v1)** | 2025-11-13 |  |
+| **[Taiji: A DPU Memory Elasticity Solution for In-production Cloud Environments](https://arxiv.org/abs/2511.09936v2)** | 2025-11-14 |  |
 | **[Expandable and Differentiable Dual Memories with Orthogonal Regularization for Exemplar-free Continual Learning](https://arxiv.org/abs/2511.09871v1)** | 2025-11-13 | <details><summary>To ap...</summary><p>To appear in AAAI 2026 (The 40th AAAI Conference on Artificial Intelligence)</p></details> |
 | **[MAP-VLA: Memory-Augmented Prompting for Vision-Language-Action Model in Robotic Manipulation](https://arxiv.org/abs/2511.09516v1)** | 2025-11-12 |  |
 | **[Compact Memory for Continual Logistic Regression](https://arxiv.org/abs/2511.09167v1)** | 2025-11-12 |  |
 | **[Machine Learning-Guided Memory Optimization for DLRM Inference on Tiered Memory](https://arxiv.org/abs/2511.08568v1)** | 2025-11-11 |  |
 | **[EAGLE: Episodic Appearance- and Geometry-aware Memory for Unified 2D-3D Visual Query Localization in Egocentric Vision](https://arxiv.org/abs/2511.08007v2)** | 2025-11-12 | <details><summary>13 Pa...</summary><p>13 Pages, accepted by AAAI-2026</p></details> |
 | **[From Experience to Strategy: Empowering LLM Agents with Trainable Graph Memory](https://arxiv.org/abs/2511.07800v1)** | 2025-11-11 |  |
-| **[Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces](https://arxiv.org/abs/2511.07587v1)** | 2025-11-10 | AAAI 2026 Oral |
-| **[Accelerated, Memory-Efficient Far-Field Scattering Computation with Monte Carlo SBR](https://arxiv.org/abs/2511.07586v1)** | 2025-11-10 |  |
-| **[PanoNav: Mapless Zero-Shot Object Navigation with Panoramic Scene Parsing and Dynamic Memory](https://arxiv.org/abs/2511.06840v1)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted as a poster in AAAI 2026</p></details> |
-| **[EONSim: An NPU Simulator for On-Chip Memory and Embedding Vector Operations](https://arxiv.org/abs/2511.06679v1)** | 2025-11-10 |  |
 
