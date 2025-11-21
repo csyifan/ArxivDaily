@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 20, 2025
+title: Latest 15 Papers - November 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](https://arxiv.org/abs/2511.16669v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project page: https://video-as-answer.github.io/</p></details> |
+| **[SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking](https://arxiv.org/abs/2511.16618v1)** | 2025-11-20 | 11 pages, 4 figures |
+| **[TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding](https://arxiv.org/abs/2511.16595v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project page: https://xuboshen.github.io/TimeViper</p></details> |
+| **[FOOTPASS: A Multi-Modal Multi-Agent Tactical Context Dataset for Play-by-Play Action Spotting in Soccer Broadcast Videos](https://arxiv.org/abs/2511.16183v1)** | 2025-11-20 |  |
+| **[Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning](https://arxiv.org/abs/2511.16160v1)** | 2025-11-20 |  |
+| **[Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click](https://arxiv.org/abs/2511.15948v1)** | 2025-11-20 |  |
+| **[RB-FT: Rationale-Bootstrapped Fine-Tuning for Video Classification](https://arxiv.org/abs/2511.15923v1)** | 2025-11-19 | 11 pages, 2 figures |
+| **[EfficientSAM3: Progressive Hierarchical Distillation for Video Concept Segmentation from SAM1, 2, and 3](https://arxiv.org/abs/2511.15833v1)** | 2025-11-19 | <details><summary>Githu...</summary><p>Github: https://github.com/SimonZeng7108/efficientsam3</p></details> |
 | **[AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning](https://arxiv.org/abs/2511.15578v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted in the 5th IEEE Big Data Workshop on Multimodal AI (MMAI 2025), Dec 8-11, Macau, China, 2025 (Preprint Copy)</p></details> |
 | **[ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy Estimation](https://arxiv.org/abs/2511.15396v1)** | 2025-11-19 |  |
 | **[Generating Natural-Language Surgical Feedback: From Structured Representation to Domain-Grounded Evaluation](https://arxiv.org/abs/2511.15159v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted as proceedings paper for ML4H 2025</p></details> |
@@ -14,56 +22,53 @@ labels: documentation
 | **[RocSync: Millisecond-Accurate Temporal Synchronization for Heterogeneous Camera Systems](https://arxiv.org/abs/2511.14948v1)** | 2025-11-18 | 16 pages, 6 figures |
 | **[OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models](https://arxiv.org/abs/2511.14582v1)** | 2025-11-18 | <details><summary>Code ...</summary><p>Code Link: https://github.com/KD-TAO/OmniZip</p></details> |
 | **[Agentic Video Intelligence: A Flexible Framework for Advanced Video Exploration and Understanding](https://arxiv.org/abs/2511.14446v1)** | 2025-11-18 |  |
-| **[Learning to See Through a Baby's Eyes: Early Visual Diets Enable Robust Visual Intelligence in Humans and Machines](https://arxiv.org/abs/2511.14440v1)** | 2025-11-18 |  |
-| **[SMART: Shot-Aware Multimodal Video Moment Retrieval with Audio-Enhanced MLLM](https://arxiv.org/abs/2511.14143v1)** | 2025-11-18 |  |
-| **[Multi-view Phase-aware Pedestrian-Vehicle Incident Reasoning Framework with Vision-Language Models](https://arxiv.org/abs/2511.14120v1)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 3 tables</p></details> |
-| **[Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark](https://arxiv.org/abs/2511.13853v1)** | 2025-11-17 | 10 pages |
-| **[Segment Anything Across Shots: A Method and Benchmark](https://arxiv.org/abs/2511.13715v1)** | 2025-11-17 | <details><summary>AAAI ...</summary><p>AAAI 2026, Project Page: https://henghuiding.com/SAAS/</p></details> |
-| **[CacheFlow: Compressive Streaming Memory for Efficient Long-Form Video Understanding](https://arxiv.org/abs/2511.13644v1)** | 2025-11-17 |  |
-| **[Computer Vision based group activity detection and action spotting](https://arxiv.org/abs/2511.13315v1)** | 2025-11-17 |  |
-| **[Video Spatial Reasoning with Object-Centric 3D Rollout](https://arxiv.org/abs/2511.13190v1)** | 2025-11-17 |  |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RoMa v2: Harder Better Faster Denser Feature Matching](https://arxiv.org/abs/2511.15706v1)** | 2025-11-19 |  |
-| **[GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization](https://arxiv.org/abs/2511.15705v1)** | 2025-11-19 |  |
-| **[Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2511.15633v1)** | 2025-11-19 |  |
-| **[SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2511.15605v1)** | 2025-11-19 |  |
-| **[Computer-Use Agents as Judges for Generative User Interface](https://arxiv.org/abs/2511.15567v1)** | 2025-11-19 | <details><summary>Proje...</summary><p>Project: https://showlab.github.io/AUI Github: https://github.com/showlab/AUI</p></details> |
-| **[Scriboora: Rethinking Human Pose Forecasting](https://arxiv.org/abs/2511.15565v1)** | 2025-11-19 |  |
-| **[Towards a Formal Verification of Secure Vehicle Software Updates](https://arxiv.org/abs/2511.15479v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This technical report is a preprint of the article accepted for publication in Computer & Security 2025</p></details> |
-| **[Deep Learning for Accurate Vision-based Catch Composition in Tropical Tuna Purse Seiners](https://arxiv.org/abs/2511.15468v1)** | 2025-11-19 | 23 pages, 5 figures |
-| **[How To Cook The Fragmented Rug Pull?](https://arxiv.org/abs/2511.15463v1)** | 2025-11-19 |  |
-| **[CroPS: Improving Dense Retrieval with Cross-Perspective Positive Samples in Short-Video Search](https://arxiv.org/abs/2511.15443v1)** | 2025-11-19 | AAAI-2026, Oral |
-| **[WarNav: An Autonomous Driving Benchmark for Segmentation of Navigable Zones in War Scenes](https://arxiv.org/abs/2511.15429v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted at CAID (Conference on Artificial Intelligence for Defence)</p></details> |
-| **[D4C: Data-free Quantization for Contrastive Language-Image Pre-training Models](https://arxiv.org/abs/2511.15411v1)** | 2025-11-19 |  |
-| **[IPR-1: Interactive Physical Reasoner](https://arxiv.org/abs/2511.15407v1)** | 2025-11-19 | 11 pages, 5 figures |
-| **[DEPO: Dual-Efficiency Preference Optimization for LLM Agents](https://arxiv.org/abs/2511.15392v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[Breaking Expert Knowledge Limits: Self-Pruning for Large Language Models](https://arxiv.org/abs/2511.15390v1)** | 2025-11-19 |  |
+| **[Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](https://arxiv.org/abs/2511.16669v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project page: https://video-as-answer.github.io/</p></details> |
+| **[V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models](https://arxiv.org/abs/2511.16668v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project Page: https://oahzxl.github.io/VReasonBench</p></details> |
+| **[Solving Spatial Supersensing Without Spatial Supersensing](https://arxiv.org/abs/2511.16655v1)** | 2025-11-20 | Tech Report |
+| **[InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy](https://arxiv.org/abs/2511.16651v1)** | 2025-11-20 |  |
+| **[SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624v1)** | 2025-11-20 | <details><summary>Websi...</summary><p>Website: https://ai.meta.com/sam3d/</p></details> |
+| **[Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization](https://arxiv.org/abs/2511.16602v1)** | 2025-11-20 |  |
+| **[Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies](https://arxiv.org/abs/2511.16596v1)** | 2025-11-20 |  |
+| **[Boosting Predictive Performance on Tabular Data through Data Augmentation with Latent-Space Flow-Based Diffusion](https://arxiv.org/abs/2511.16571v1)** | 2025-11-20 | 35 Pages |
+| **[Lite Any Stereo: Efficient Zero-Shot Stereo Matching](https://arxiv.org/abs/2511.16555v1)** | 2025-11-20 |  |
+| **[Toward Valid Generative Clinical Trial Data with Survival Endpoints](https://arxiv.org/abs/2511.16551v1)** | 2025-11-20 | <details><summary>P. Ch...</summary><p>P. Chassat and V.T. Nguyen contributed equally to this work</p></details> |
+| **[FairLRF: Achieving Fairness through Sparse Low Rank Factorization](https://arxiv.org/abs/2511.16549v1)** | 2025-11-20 |  |
+| **[TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval](https://arxiv.org/abs/2511.16528v1)** | 2025-11-20 |  |
+| **[Flow and Depth Assisted Video Prediction with Latent Transformer](https://arxiv.org/abs/2511.16484v1)** | 2025-11-20 |  |
+| **[Correlation-Aware Feature Attribution Based Explainable AI](https://arxiv.org/abs/2511.16482v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted, 2026 International Conference on Advances in Artificial Intelligence and Machine Learning (AAIML 2026)</p></details> |
+| **[Optimizing Federated Learning in the Era of LLMs: Message Quantization and Streaming](https://arxiv.org/abs/2511.16450v1)** | 2025-11-20 | FLLM 2025 |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FunnyNodules: A Customizable Medical Dataset Tailored for Evaluating Explainable AI](https://arxiv.org/abs/2511.15481v1)** | 2025-11-19 |  |
-| **[EVA-Net: Interpretable Brain Age Prediction via Continuous Aging Prototypes from EEG](https://arxiv.org/abs/2511.15393v1)** | 2025-11-19 |  |
-| **[SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning](https://arxiv.org/abs/2511.15242v1)** | 2025-11-19 |  |
-| **[X-WIN: Building Chest Radiograph World Model via Predictive Sensing](https://arxiv.org/abs/2511.14918v1)** | 2025-11-18 |  |
-| **[A High-Fidelity Neurosurgical Training Platform for Bimanual Procedures: A Feasibility Study](https://arxiv.org/abs/2511.14879v1)** | 2025-11-18 | 14 pages, 9 figures |
-| **[When CNNs Outperform Transformers and Mambas: Revisiting Deep Architectures for Dental Caries Segmentation](https://arxiv.org/abs/2511.14860v1)** | 2025-11-18 | 8 pages, 4 figures |
-| **[Machine Learning Models for Predicting Smoking-Related Health Decline and Disease Risk](https://arxiv.org/abs/2511.14682v1)** | 2025-11-18 | <details><summary>This ...</summary><p>This paper has been officially accepted for publication in the Journal of Intelligent Medicine and Healthcare. Once the final published version is available online, this document will be updated accordingly</p></details> |
-| **[A Specialized Large Language Model for Clinical Reasoning and Diagnosis in Rare Diseases](https://arxiv.org/abs/2511.14638v1)** | 2025-11-18 | 50 pages, 5 figures |
-| **[Expert-Guided POMDP Learning for Data-Efficient Modeling in Healthcare](https://arxiv.org/abs/2511.14619v1)** | 2025-11-18 |  |
-| **[A Method for Characterizing Disease Progression from Acute Kidney Injury to Chronic Kidney Disease](https://arxiv.org/abs/2511.14603v1)** | 2025-11-18 |  |
-| **[MedBench v4: A Robust and Scalable Benchmark for Evaluating Chinese Medical Language Models, Multimodal Models, and Intelligent Agents](https://arxiv.org/abs/2511.14439v2)** | 2025-11-19 |  |
-| **[H-LDM: Hierarchical Latent Diffusion Models for Controllable and Interpretable PCG Synthesis from Clinical Metadata](https://arxiv.org/abs/2511.14312v1)** | 2025-11-18 | <details><summary>This ...</summary><p>This paper was accepted by IEEE BIBM 2025 conference</p></details> |
-| **[SAM-Fed: SAM-Guided Federated Semi-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/2511.14302v1)** | 2025-11-18 |  |
-| **[AfriSpeech-MultiBench: A Verticalized Multidomain Multicountry Benchmark Suite for African Accented English ASR](https://arxiv.org/abs/2511.14255v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted As a Conference Paper IJCNLP-AACL 2025</p></details> |
-| **[Real-Time Mobile Video Analytics for Pre-arrival Emergency Medical Services](https://arxiv.org/abs/2511.14119v1)** | 2025-11-18 |  |
+| **[MedBayes-Lite: Bayesian Uncertainty Quantification for Safe Clinical Decision Support](https://arxiv.org/abs/2511.16625v1)** | 2025-11-20 |  |
+| **[Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies](https://arxiv.org/abs/2511.16596v1)** | 2025-11-20 |  |
+| **[Erase to Retain: Low Rank Adaptation Guided Selective Unlearning in Medical Segmentation Networks](https://arxiv.org/abs/2511.16574v1)** | 2025-11-20 |  |
+| **[FairLRF: Achieving Fairness through Sparse Low Rank Factorization](https://arxiv.org/abs/2511.16549v1)** | 2025-11-20 |  |
+| **[Utilizing Large Language Models for Zero-Shot Medical Ontology Extension from Clinical Notes](https://arxiv.org/abs/2511.16548v1)** | 2025-11-20 | <details><summary>BIBM ...</summary><p>BIBM 2025 (WS#44: Biological ontologies and knowledge bases (BiOK) in the LLM era)</p></details> |
+| **[Generative Modeling of Clinical Time Series via Latent Stochastic Differential Equations](https://arxiv.org/abs/2511.16427v1)** | 2025-11-20 |  |
+| **[Beyond Generative AI: World Models for Clinical Prediction, Counterfactuals, and Planning](https://arxiv.org/abs/2511.16333v1)** | 2025-11-20 | 2 Figures, 1 Table |
+| **[Layer-wise Noise Guided Selective Wavelet Reconstruction for Robust Medical Image Segmentation](https://arxiv.org/abs/2511.16162v1)** | 2025-11-20 |  |
+| **[Multidimensional Rubric-oriented Reward Model Learning via Geometric Projection Reference Constraints](https://arxiv.org/abs/2511.16139v1)** | 2025-11-20 |  |
+| **[Fairness in Multi-modal Medical Diagnosis with Demonstration Selection](https://arxiv.org/abs/2511.15986v1)** | 2025-11-20 | <details><summary>10 pa...</summary><p>10 pages (including 2 pages of references), 4 figures. This work explores fairness in multi-modal medical image reasoning using in-context learning</p></details> |
+| **[KRAL: Knowledge and Reasoning Augmented Learning for LLM-assisted Clinical Antimicrobial Therapy](https://arxiv.org/abs/2511.15974v1)** | 2025-11-20 |  |
+| **[Automated Interpretable 2D Video Extraction from 3D Echocardiography](https://arxiv.org/abs/2511.15946v1)** | 2025-11-20 | 12 pages, 5 figures |
+| **[Boosting Medical Visual Understanding From Multi-Granular Language Learning](https://arxiv.org/abs/2511.15943v1)** | 2025-11-20 | Preprint. 40 pages |
+| **[EEG Emotion Recognition Through Deep Learning](https://arxiv.org/abs/2511.15902v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This version corresponds to the original manuscript submitted to the 22nd EMCIS conference prior to peer review. The peer-reviewed and accepted version will appear in the Springer conference proceedings</p></details> |
+| **[Causal Inference on Sequential Treatments via Tensor Completion](https://arxiv.org/abs/2511.15866v1)** | 2025-11-19 |  |
 
 ## Medical LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Utilizing Large Language Models for Zero-Shot Medical Ontology Extension from Clinical Notes](https://arxiv.org/abs/2511.16548v1)** | 2025-11-20 | <details><summary>BIBM ...</summary><p>BIBM 2025 (WS#44: Biological ontologies and knowledge bases (BiOK) in the LLM era)</p></details> |
+| **[Multidimensional Rubric-oriented Reward Model Learning via Geometric Projection Reference Constraints](https://arxiv.org/abs/2511.16139v1)** | 2025-11-20 |  |
+| **[KRAL: Knowledge and Reasoning Augmented Learning for LLM-assisted Clinical Antimicrobial Therapy](https://arxiv.org/abs/2511.15974v1)** | 2025-11-20 |  |
+| **[Balancing Natural Language Processing Accuracy and Normalisation in Extracting Medical Insights](https://arxiv.org/abs/2511.15778v1)** | 2025-11-19 | 20 pages, 5 figures |
+| **[OEMA: Ontology-Enhanced Multi-Agent Collaboration Framework for Zero-Shot Clinical Named Entity Recognition](https://arxiv.org/abs/2511.15211v2)** | 2025-11-20 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 4 tables</p></details> |
 | **[A Specialized Large Language Model for Clinical Reasoning and Diagnosis in Rare Diseases](https://arxiv.org/abs/2511.14638v1)** | 2025-11-18 | 50 pages, 5 figures |
 | **[MedBench v4: A Robust and Scalable Benchmark for Evaluating Chinese Medical Language Models, Multimodal Models, and Intelligent Agents](https://arxiv.org/abs/2511.14439v2)** | 2025-11-19 |  |
 | **[AfriSpeech-MultiBench: A Verticalized Multidomain Multicountry Benchmark Suite for African Accented English ASR](https://arxiv.org/abs/2511.14255v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted As a Conference Paper IJCNLP-AACL 2025</p></details> |
@@ -74,15 +79,13 @@ labels: documentation
 | **[Automated Construction of Medical Indicator Knowledge Graphs Using Retrieval Augmented Large Language Models](https://arxiv.org/abs/2511.13526v1)** | 2025-11-17 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table. Accepted at AI4RWC@WI-IAT 2025</p></details> |
 | **[Can Large Language Models Function as Qualified Pediatricians? A Systematic Evaluation in Real-World Clinical Contexts](https://arxiv.org/abs/2511.13381v1)** | 2025-11-17 |  |
 | **[A Novel Hierarchical Integration Method for Efficient Model Merging in Medical LLMs](https://arxiv.org/abs/2511.13373v1)** | 2025-11-17 |  |
-| **[MedDCR: Learning to Design Agentic Workflows for Medical Coding](https://arxiv.org/abs/2511.13361v1)** | 2025-11-17 |  |
-| **[Evaluating the Ability of Large Language Models to Identify Adherence to CONSORT Reporting Guidelines in Randomized Controlled Trials: A Methodological Evaluation Study](https://arxiv.org/abs/2511.13107v1)** | 2025-11-17 |  |
-| **[GEM: Generative Entropy-Guided Preference Modeling for Few-shot Alignment of LLMs](https://arxiv.org/abs/2511.13007v1)** | 2025-11-17 | <details><summary>This ...</summary><p>This paper has been accepted by AAAI 2026-AIA and designated as an oral presentation paper</p></details> |
-| **[Assessing Automated Fact-Checking for Medical LLM Responses with Knowledge Graphs](https://arxiv.org/abs/2511.12817v1)** | 2025-11-16 | <details><summary>Accep...</summary><p>Accepted as a conference paper at AAAI'26</p></details> |
-| **[R$^{2}$Seg: Training-Free OOD Medical Tumor Segmentation via Anatomical Reasoning and Statistical Rejection](https://arxiv.org/abs/2511.12691v1)** | 2025-11-16 |  |
 
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM](https://arxiv.org/abs/2511.16282v1)** | 2025-11-20 |  |
+| **[Gaze Archive: Enhancing Human Memory through Active Visual Logging on Smart Glasses](https://arxiv.org/abs/2511.16214v1)** | 2025-11-20 |  |
+| **[Bellman Memory Units: A neuromorphic framework for synaptic reinforcement learning with an evolving network topology](https://arxiv.org/abs/2511.16066v1)** | 2025-11-20 | <details><summary>11 pa...</summary><p>11 pages, submitted to IEEE Transactions on Automatic Control</p></details> |
 | **[Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition](https://arxiv.org/abs/2511.15597v1)** | 2025-11-19 | 8 pages, 4 figures |
 | **[A Tensor Compiler for Processing-In-Memory Architectures](https://arxiv.org/abs/2511.15503v1)** | 2025-11-19 |  |
 | **[LLM-MemCluster: Empowering Large Language Models with Dynamic Memory for Text Clustering](https://arxiv.org/abs/2511.15424v1)** | 2025-11-19 |  |
@@ -95,7 +98,4 @@ labels: documentation
 | **[CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs](https://arxiv.org/abs/2511.14937v1)** | 2025-11-18 |  |
 | **[Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval](https://arxiv.org/abs/2511.14004v2)** | 2025-11-19 | <details><summary>This ...</summary><p>This paper is under review at ICRA</p></details> |
 | **[NL-DPE: An Analog In-memory Non-Linear Dot Product Engine for Efficient CNN and LLM Inference](https://arxiv.org/abs/2511.13950v1)** | 2025-11-17 |  |
-| **[Compute-in-Memory Implementation of State Space Models for Event Sequence Processing](https://arxiv.org/abs/2511.13912v1)** | 2025-11-17 | <details><summary>Xiaoy...</summary><p>Xiaoyu Zhang and Mingtao Hu contributed equally to this work</p></details> |
-| **[CacheFlow: Compressive Streaming Memory for Efficient Long-Form Video Understanding](https://arxiv.org/abs/2511.13644v1)** | 2025-11-17 |  |
-| **[O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents](https://arxiv.org/abs/2511.13593v2)** | 2025-11-18 |  |
 
