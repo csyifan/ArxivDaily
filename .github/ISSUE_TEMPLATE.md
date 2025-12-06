@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 05, 2025
+title: Latest 15 Papers - December 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hoi! - A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation](https://arxiv.org/abs/2512.04884v1)** | 2025-12-04 |  |
+| **[Hoi! -- A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation](https://arxiv.org/abs/2512.04884v1)** | 2025-12-04 |  |
 | **[SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding](https://arxiv.org/abs/2512.04643v1)** | 2025-12-04 |  |
 | **[Denoise to Track: Harnessing Video Diffusion Priors for Robust Correspondence](https://arxiv.org/abs/2512.04619v1)** | 2025-12-04 |  |
 | **[VideoMem: Enhancing Ultra-Long Video Understanding via Adaptive Memory Management](https://arxiv.org/abs/2512.04540v1)** | 2025-12-04 |  |
