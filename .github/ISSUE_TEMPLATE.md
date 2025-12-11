@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 10, 2025
+title: Latest 15 Papers - December 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Video-QTR: Query-Driven Temporal Reasoning Framework for Lightweight Video Understanding](https://arxiv.org/abs/2512.09354v1)** | 2025-12-10 |  |
 | **[InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://arxiv.org/abs/2512.08829v1)** | 2025-12-09 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, conference or other essential info</p></details> |
 | **[Towards Effective and Efficient Long Video Understanding of Multimodal Large Language Models via One-shot Clip Retrieval](https://arxiv.org/abs/2512.08410v1)** | 2025-12-09 |  |
 | **[Unison: A Fully Automatic, Task-Universal, and Low-Cost Framework for Unified Understanding and Generation](https://arxiv.org/abs/2512.07747v1)** | 2025-12-08 |  |
@@ -17,15 +18,16 @@ labels: documentation
 | **[1 + 1 > 2: Detector-Empowered Video Large Language Model for Spatio-Temporal Grounding and Reasoning](https://arxiv.org/abs/2512.06673v1)** | 2025-12-07 |  |
 | **[MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding](https://arxiv.org/abs/2512.06581v1)** | 2025-12-06 |  |
 | **[Active Video Perception: Iterative Evidence Seeking for Agentic Long Video Understanding](https://arxiv.org/abs/2512.05774v1)** | 2025-12-05 | <details><summary>Websi...</summary><p>Website: https://activevideoperception.github.io/</p></details> |
+| **[What Happens When: Learning Temporal Orders of Events in Videos](https://arxiv.org/abs/2512.08979v1)** | 2025-12-05 | WACV 2026 |
 | **[Unleashing Temporal Capacity of Spiking Neural Networks through Spatiotemporal Separation](https://arxiv.org/abs/2512.05472v1)** | 2025-12-05 |  |
 | **[ShaRP: SHAllow-LayeR Pruning for Video Large Language Models Acceleration](https://arxiv.org/abs/2512.05385v1)** | 2025-12-05 |  |
 | **[SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding](https://arxiv.org/abs/2512.04643v1)** | 2025-12-04 |  |
-| **[VideoMem: Enhancing Ultra-Long Video Understanding via Adaptive Memory Management](https://arxiv.org/abs/2512.04540v1)** | 2025-12-04 |  |
-| **[PhyVLLM: Physics-Guided Video Language Model with Motion-Appearance Disentanglement](https://arxiv.org/abs/2512.04532v1)** | 2025-12-04 |  |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Closing the Train-Test Gap in World Models for Gradient-Based Planning](https://arxiv.org/abs/2512.09929v1)** | 2025-12-10 |  |
+| **[UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving](https://arxiv.org/abs/2512.09864v1)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project Page: https://seed-uniugp.github.io/</p></details> |
 | **[Astra: General Interactive World Model with Autoregressive Denoising](https://arxiv.org/abs/2512.08931v1)** | 2025-12-09 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/EternalEvan/Astra</p></details> |
 | **[Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform](https://arxiv.org/abs/2512.08478v1)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project page: https://visionary-laboratory.github.io/visionary</p></details> |
 | **[Prismatic World Model: Learning Compositional Dynamics for Planning in Hybrid Systems](https://arxiv.org/abs/2512.08411v1)** | 2025-12-09 |  |
@@ -38,9 +40,7 @@ labels: documentation
 | **[SpatialDreamer: Incentivizing Spatial Reasoning via Active Mental Imagery](https://arxiv.org/abs/2512.07733v1)** | 2025-12-08 |  |
 | **[KAN-Dreamer: Benchmarking Kolmogorov-Arnold Networks as Function Approximators in World Models](https://arxiv.org/abs/2512.07437v1)** | 2025-12-08 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, 3 tables</p></details> |
 | **[Unified Camera Positional Encoding for Controlled Video Generation](https://arxiv.org/abs/2512.07237v1)** | 2025-12-08 | <details><summary>Code:...</summary><p>Code: https://github.com/chengzhag/UCPE</p></details> |
-| **[On Memory: A comparison of memory mechanisms in world models](https://arxiv.org/abs/2512.06983v1)** | 2025-12-07 | 10 pages, 1 figure |
-| **[Spatial Retrieval Augmented Autonomous Driving](https://arxiv.org/abs/2512.06865v1)** | 2025-12-07 | <details><summary>Demo ...</summary><p>Demo Page: https://spatialretrievalad.github.io/ with open sourced code, dataset, and checkpoints</p></details> |
-| **[MIND-V: Hierarchical Video Generation for Long-Horizon Robotic Manipulation with RL-based Physical Alignment](https://arxiv.org/abs/2512.06628v1)** | 2025-12-07 |  |
+| **[Deterministic World Models for Verification of Closed-loop Vision-based Systems](https://arxiv.org/abs/2512.08991v1)** | 2025-12-08 | <details><summary>22 pa...</summary><p>22 pages, 10 figures. Submitted to FM 2026</p></details> |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Medical LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Black-Box Behavioral Distillation Breaks Safety Alignment in Medical LLMs](https://arxiv.org/abs/2512.09403v1)** | 2025-12-10 |  |
 | **[MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding](https://arxiv.org/abs/2512.06581v1)** | 2025-12-06 |  |
 | **[A Novel Hierarchical Integration Method for Efficient Model Merging in Medical LLMs](https://arxiv.org/abs/2511.13373v1)** | 2025-11-17 |  |
 | **[Assessing Automated Fact-Checking for Medical LLM Responses with Knowledge Graphs](https://arxiv.org/abs/2511.12817v1)** | 2025-11-16 | <details><summary>Accep...</summary><p>Accepted as a conference paper at AAAI'26</p></details> |
@@ -78,11 +79,14 @@ labels: documentation
 | **[YpathRAG:A Retrieval-Augmented Generation Framework and Benchmark for Pathology](https://arxiv.org/abs/2510.08603v1)** | 2025-10-07 |  |
 | **[MedReflect: Teaching Medical LLMs to Self-Improve via Reflective Correction](https://arxiv.org/abs/2510.03687v1)** | 2025-10-04 |  |
 | **[AdaThink-Med: Medical Adaptive Thinking with Uncertainty-Guided Length Calibration](https://arxiv.org/abs/2509.24560v1)** | 2025-09-29 |  |
-| **[Advances in Large Language Models for Medicine](https://arxiv.org/abs/2509.18690v1)** | 2025-09-23 | <details><summary>Prepr...</summary><p>Preprint. 5 figures, 4 tables</p></details> |
 
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast Factorized Learning: Powered by In-Memory Database Systems](https://arxiv.org/abs/2512.09836v1)** | 2025-12-10 |  |
+| **[TinyDéjàVu: Smaller Memory Footprint & Faster Inference on Sensor Data Streams with Always-On Microcontrollers](https://arxiv.org/abs/2512.09786v1)** | 2025-12-10 |  |
+| **[ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators](https://arxiv.org/abs/2512.09427v1)** | 2025-12-10 | 10 pages, 5 figures |
+| **[Efficient MoE Serving in the Memory-Bound Regime: Balance Activated Experts, Not Tokens](https://arxiv.org/abs/2512.09277v1)** | 2025-12-10 |  |
 | **[Exploring the Grassroots Understanding and Practices of Collective Memory Co-Contribution in a University Community](https://arxiv.org/abs/2512.08787v1)** | 2025-12-09 | <details><summary>30 pa...</summary><p>30 pages, 6 figures, to be published in the journal Proceedings of the ACM on Human-Computer Interaction (PACMHCI 2026, Volume 10, Issue 1)</p></details> |
 | **[Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank](https://arxiv.org/abs/2512.08648v1)** | 2025-12-09 | 19 pages, 19 figures |
 | **[OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory](https://arxiv.org/abs/2512.07802v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project Page: https://zhaochongan.github.io/projects/OneStory</p></details> |
@@ -94,8 +98,4 @@ labels: documentation
 | **[A Hetero-Associative Sequential Memory Model Utilizing Neuromorphic Signals: Validated on a Mobile Manipulator](https://arxiv.org/abs/2512.07032v1)** | 2025-12-07 |  |
 | **[On Memory: A comparison of memory mechanisms in world models](https://arxiv.org/abs/2512.06983v1)** | 2025-12-07 | 10 pages, 1 figure |
 | **[Graph Convolutional Long Short-Term Memory Attention Network for Post-Stroke Compensatory Movement Detection Based on Skeleton Data](https://arxiv.org/abs/2512.06736v1)** | 2025-12-07 |  |
-| **[PersonaMem-v2: Towards Personalized Intelligence via Learning Implicit User Personas and Agentic Memory](https://arxiv.org/abs/2512.06688v1)** | 2025-12-07 | <details><summary>Data ...</summary><p>Data is available at https://huggingface.co/datasets/bowen-upenn/PersonaMem-v2</p></details> |
-| **[LightSearcher: Efficient DeepSearch via Experiential Memory](https://arxiv.org/abs/2512.06653v2)** | 2025-12-09 | 10 pages, 5 figures |
-| **[Memory Power Asymmetry in Human-AI Relationships: Preserving Mutual Forgetting in the Digital Age](https://arxiv.org/abs/2512.06616v1)** | 2025-12-07 | <details><summary>31 pa...</summary><p>31 pages, 2 tables, 2 figures</p></details> |
-| **[A 33.6-136.2 TOPS/W Nonlinear Analog Computing-In-Memory Macro for Multi-bit LSTM Accelerator in 65 nm CMOS](https://arxiv.org/abs/2512.06362v1)** | 2025-12-06 |  |
 
