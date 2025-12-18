@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 17, 2025
+title: Latest 15 Papers - December 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[See It Before You Grab It: Deep Learning-based Action Anticipation in Basketball](https://arxiv.org/abs/2512.15386v1)** | 2025-12-17 |  |
+| **[Explainable Action Form Assessment by Exploiting Multimodal Chain-of-Thoughts Reasoning](https://arxiv.org/abs/2512.15153v1)** | 2025-12-17 |  |
+| **[HERBench: A Benchmark for Multi-Evidence Integration in Video Question Answering](https://arxiv.org/abs/2512.14870v1)** | 2025-12-16 |  |
 | **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://timelens-arc-lab.github.io/</p></details> |
 | **[Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in](https://arxiv.org/abs/2512.14273v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://xiaoqian-shen.github.io/Zoom-Zero/</p></details> |
 | **[KFS-Bench: Comprehensive Evaluation of Key Frame Sampling in Long Video Understanding](https://arxiv.org/abs/2512.14017v1)** | 2025-12-16 | WACV2026 |
@@ -19,14 +22,13 @@ labels: documentation
 | **[Track and Caption Any Motion: Query-Free Motion Discovery and Description in Videos](https://arxiv.org/abs/2512.10607v1)** | 2025-12-11 |  |
 | **[Video-QTR: Query-Driven Temporal Reasoning Framework for Lightweight Video Understanding](https://arxiv.org/abs/2512.09354v1)** | 2025-12-10 |  |
 | **[InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://arxiv.org/abs/2512.08829v1)** | 2025-12-09 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, conference or other essential info</p></details> |
-| **[Towards Effective and Efficient Long Video Understanding of Multimodal Large Language Models via One-shot Clip Retrieval](https://arxiv.org/abs/2512.08410v1)** | 2025-12-09 |  |
-| **[Unison: A Fully Automatic, Task-Universal, and Low-Cost Framework for Unified Understanding and Generation](https://arxiv.org/abs/2512.07747v1)** | 2025-12-08 |  |
-| **[Venus: An Efficient Edge Memory-and-Retrieval System for VLM-based Online Video Understanding](https://arxiv.org/abs/2512.07344v1)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Computer Communications 2026</p></details> |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MMGR: Multi-Modal Generative Reasoning](https://arxiv.org/abs/2512.14691v1)** | 2025-12-16 | work in progress |
+| **[OccSTeP: Benchmarking 4D Occupancy Spatio-Temporal Persistence](https://arxiv.org/abs/2512.15621v1)** | 2025-12-17 | 16 pages, 5 figures |
+| **[Soft Geometric Inductive Bias for Object Centric Dynamics](https://arxiv.org/abs/2512.15493v1)** | 2025-12-17 | <details><summary>8 pag...</summary><p>8 pages, 11 figures; 6 pages supplementary material</p></details> |
+| **[MMGR: Multi-Modal Generative Reasoning](https://arxiv.org/abs/2512.14691v2)** | 2025-12-17 | work in progress |
 | **[WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://arxiv.org/abs/2512.14614v1)** | 2025-12-16 | <details><summary>proje...</summary><p>project page: https://3d-models.hunyuan.tencent.com/world/, demo: https://3d.hunyuan.tencent.com/sceneTo3D</p></details> |
 | **[MobileWorldBench: Towards Semantic World Modeling For Mobile Agents](https://arxiv.org/abs/2512.14014v1)** | 2025-12-16 | 21 pages, 13 figures |
 | **[The Double Life of Code World Models: Provably Unmasking Malicious Behavior Through Execution Traces](https://arxiv.org/abs/2512.13821v1)** | 2025-12-15 | <details><summary>13 Pa...</summary><p>13 Pages, Initial Work on AI Control. A Preprint</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[GraphPerf-RT: A Graph-Driven Performance Model for Hardware-Aware Scheduling of OpenMP Codes](https://arxiv.org/abs/2512.12091v1)** | 2025-12-12 | <details><summary>36 pa...</summary><p>36 pages, 1 figure, 7 tables</p></details> |
 | **[BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models](https://arxiv.org/abs/2512.12080v1)** | 2025-12-12 | <details><summary>Proje...</summary><p>Project page here: https://ryanpo.com/bagger</p></details> |
 | **[AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis](https://arxiv.org/abs/2512.11797v1)** | 2025-12-12 | <details><summary>Proje...</summary><p>Project page: https://jay-ye.github.io/AnchorDream/</p></details> |
-| **[FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model](https://arxiv.org/abs/2512.11226v1)** | 2025-12-12 |  |
-| **[VFMF: World Modeling by Forecasting Vision Foundation Model Features](https://arxiv.org/abs/2512.11225v1)** | 2025-12-12 |  |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,11 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://zhaojingjing713.github.io/Spatia/</p></details> |
+| **[Characterizing Mamba's Selective Memory using Auto-Encoders](https://arxiv.org/abs/2512.15653v1)** | 2025-12-17 | <details><summary>AACL ...</summary><p>AACL 2025. Oral Presentation</p></details> |
+| **[Distillation-Guided Structural Transfer for Continual Learning Beyond Sparse Distributed Memory](https://arxiv.org/abs/2512.15267v1)** | 2025-12-17 |  |
+| **[Tracking spatial temporal details in ultrasound long video via wavelet analysis and memory bank](https://arxiv.org/abs/2512.15066v1)** | 2025-12-17 | <details><summary>Chenx...</summary><p>Chenxiao Zhang and Runshi Zhang contributed equally to this work. 14 pages, 11 figures</p></details> |
+| **[Dense Associative Memories with Analog Circuits](https://arxiv.org/abs/2512.15002v1)** | 2025-12-17 |  |
 | **[MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives](https://arxiv.org/abs/2512.14699v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://sihuiji.github.io/MemFlow.github.io/</p></details> |
 | **[TEMP: A Memory Efficient Physical-aware Tensor Partition-Mapping Framework on Wafer-scale Chips](https://arxiv.org/abs/2512.14256v1)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by HPCA 2026</p></details> |
 | **[FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting](https://arxiv.org/abs/2512.14253v1)** | 2025-12-16 |  |
@@ -93,9 +98,4 @@ labels: documentation
 | **[Alada: Alternating Adaptation of Momentum Method for Memory-Efficient Matrix Optimization](https://arxiv.org/abs/2512.13034v1)** | 2025-12-15 |  |
 | **[MIDUS: Memory-Infused Depth Up-Scaling](https://arxiv.org/abs/2512.13751v1)** | 2025-12-15 |  |
 | **[QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management](https://arxiv.org/abs/2512.12967v1)** | 2025-12-15 |  |
-| **[Forgetful but Faithful: A Cognitive Memory Architecture and Benchmark for Privacy-Aware Generative Agents](https://arxiv.org/abs/2512.12856v1)** | 2025-12-14 |  |
-| **[Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects](https://arxiv.org/abs/2512.12818v1)** | 2025-12-14 |  |
-| **[Memoria: A Scalable Agentic Memory Framework for Personalized Conversational AI](https://arxiv.org/abs/2512.12686v1)** | 2025-12-14 | <details><summary>Paper...</summary><p>Paper accepted at 5th International Conference of AIML Systems 2025, Bangalore, India</p></details> |
-| **[VideoARM: Agentic Reasoning over Hierarchical Memory for Long-Form Video Understanding](https://arxiv.org/abs/2512.12360v1)** | 2025-12-13 |  |
-| **[Unifying Dynamic Tool Creation and Cross-Task Experience Sharing through Cognitive Memory Architecture](https://arxiv.org/abs/2512.11303v1)** | 2025-12-12 |  |
 
