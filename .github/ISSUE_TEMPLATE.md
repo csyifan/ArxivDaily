@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2025
+title: Latest 15 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models](https://arxiv.org/abs/2512.20557v1)** | 2025-12-23 |  |
 | **[Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning](https://arxiv.org/abs/2512.19687v1)** | 2025-12-22 |  |
 | **[FC-MIR: A Mobile Screen Awareness Framework for Intent-Aware Recommendation based on Frame-Compressed Multimodal Trajectory Reasoning](https://arxiv.org/abs/2512.19107v1)** | 2025-12-22 |  |
 | **[CrashChat: A Multimodal Large Language Model for Multitask Traffic Crash Video Analysis](https://arxiv.org/abs/2512.18878v1)** | 2025-12-21 |  |
@@ -21,16 +22,17 @@ labels: documentation
 | **[HERBench: A Benchmark for Multi-Evidence Integration in Video Question Answering](https://arxiv.org/abs/2512.14870v1)** | 2025-12-16 |  |
 | **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://timelens-arc-lab.github.io/</p></details> |
 | **[Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in](https://arxiv.org/abs/2512.14273v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://xiaoqian-shen.github.io/Zoom-Zero/</p></details> |
-| **[KFS-Bench: Comprehensive Evaluation of Key Frame Sampling in Long Video Understanding](https://arxiv.org/abs/2512.14017v1)** | 2025-12-16 | WACV2026 |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Active Intelligence in Video Avatars via Closed-loop World Modeling](https://arxiv.org/abs/2512.20615v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project Page: https://xuanhuahe.github.io/ORCA/</p></details> |
+| **[SegEarth-R2: Towards Comprehensive Language-guided Segmentation for Remote Sensing Images](https://arxiv.org/abs/2512.20013v1)** | 2025-12-23 |  |
 | **[WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving](https://arxiv.org/abs/2512.19133v1)** | 2025-12-22 | <details><summary>AAAI ...</summary><p>AAAI 2026, first version</p></details> |
 | **[WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](https://arxiv.org/abs/2512.19048v1)** | 2025-12-22 |  |
 | **[InDRiVE: Reward-Free World-Model Pretraining for Autonomous Driving via Latent Disagreement](https://arxiv.org/abs/2512.18850v1)** | 2025-12-21 |  |
 | **[From Word to World: Can Large Language Models be Implicit Text-based World Models?](https://arxiv.org/abs/2512.18832v1)** | 2025-12-21 |  |
-| **[Memorize-and-Generate: Towards Long-Term Consistency in Real-Time Video Generation](https://arxiv.org/abs/2512.18741v1)** | 2025-12-21 |  |
+| **[Memorize-and-Generate: Towards Long-Term Consistency in Real-Time Video Generation](https://arxiv.org/abs/2512.18741v2)** | 2025-12-23 | <details><summary>Code ...</summary><p>Code will be released at https://github.com/Xilluill/MAG</p></details> |
 | **[Does It Tie Out? Towards Autonomous Legal Agents in Venture Capital](https://arxiv.org/abs/2512.18658v1)** | 2025-12-21 |  |
 | **[ChronoDreamer: Action-Conditioned World Model as an Online Simulator for Robotic Planning](https://arxiv.org/abs/2512.18619v1)** | 2025-12-21 |  |
 | **[Large Language Models as Discounted Bayesian Filters](https://arxiv.org/abs/2512.18489v1)** | 2025-12-20 | Under submission |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Unifying Deep Predicate Invention with Pre-trained Foundation Models](https://arxiv.org/abs/2512.17992v1)** | 2025-12-19 | 18 pages, 11 figures |
 | **[Dexterous World Models](https://arxiv.org/abs/2512.17907v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: snuvclab.github.io/dwm</p></details> |
 | **[Accelerating Multi-modal LLM Gaming Performance via Input Prediction and Mishit Correction](https://arxiv.org/abs/2512.17250v1)** | 2025-12-19 | UIUC 25 Fall CS 498 |
-| **[PhysFire-WM: A Physics-Informed World Model for Emulating Fire Spread Dynamics](https://arxiv.org/abs/2512.17152v1)** | 2025-12-19 |  |
-| **[The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text](https://arxiv.org/abs/2512.16924v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page and code: https://worldcanvas.github.io/</p></details> |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,13 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Design and Modeling of a Simple-Structured Continuously Variable Transmission Utilizing Shape Memory Alloy Superelasticity for Twisted String Actuator](https://arxiv.org/abs/2512.20342v1)** | 2025-12-23 | 15pages,Fig14 |
+| **[Ferroelectric FET-based Logic-in-Memory Encoder for Hyperdimensional Computing](https://arxiv.org/abs/2512.20302v1)** | 2025-12-23 | <details><summary>27 pa...</summary><p>27 pages, 13 figures, 3 tables</p></details> |
+| **[Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation](https://arxiv.org/abs/2512.20278v1)** | 2025-12-23 | 7 pages |
+| **[Memory as Resonance: A Biomimetic Architecture for Infinite Context Memory on Ergodic Phonetic Manifolds](https://arxiv.org/abs/2512.20245v1)** | 2025-12-23 |  |
+| **[MemR$^3$: Memory Retrieval via Reflective Reasoning for LLM Agents](https://arxiv.org/abs/2512.20237v1)** | 2025-12-23 | 16 pages, 6 figures |
+| **[Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents](https://arxiv.org/abs/2512.20092v1)** | 2025-12-23 |  |
+| **[Rethinking Knowledge Distillation in Collaborative Machine Learning: Memory, Knowledge, and Their Interactions](https://arxiv.org/abs/2512.19972v1)** | 2025-12-23 | <details><summary>Publi...</summary><p>Published in IEEE TNSE</p></details> |
 | **[StoryMem: Multi-shot Long Video Storytelling with Memory](https://arxiv.org/abs/2512.19539v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://kevin-thu.github.io/StoryMem</p></details> |
 | **[Sensitivity-Aware Mixed-Precision Quantization for ReRAM-based Computing-in-Memory](https://arxiv.org/abs/2512.19445v1)** | 2025-12-22 |  |
 | **[EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration](https://arxiv.org/abs/2512.19396v1)** | 2025-12-22 |  |
@@ -91,11 +98,4 @@ labels: documentation
 | **[Beyond Sliding Windows: Learning to Manage Memory in Non-Markovian Environments](https://arxiv.org/abs/2512.19154v1)** | 2025-12-22 |  |
 | **[Affordance RAG: Hierarchical Multimodal Retrieval with Affordance-Aware Embodied Memory for Mobile Manipulation](https://arxiv.org/abs/2512.18987v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted to IEEE RA-L, with presentation at ICRA 2026</p></details> |
 | **[Learning Hierarchical Procedural Memory for LLM Agents through Bayesian Selection and Contrastive Refinement](https://arxiv.org/abs/2512.18950v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at The 25th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2026). 21 pages including references, with 7 figures and 8 tables. Code is publicly available at the authors GitHub repository: https://github.com/S-Forouzandeh/MACLA-LLM-Agents-AAMAS-Conference</p></details> |
-| **[Functional Modeling of Learning and Memory Dynamics in Cognitive Disorders](https://arxiv.org/abs/2512.18760v1)** | 2025-12-21 |  |
-| **[MemEvolve: Meta-Evolution of Agent Memory Systems](https://arxiv.org/abs/2512.18746v1)** | 2025-12-21 |  |
-| **[Modality-Dependent Memory Mechanisms in Cross-Modal Neuromorphic Computing](https://arxiv.org/abs/2512.18575v1)** | 2025-12-21 |  |
-| **[Exploring Runtime Evolution in Android: A Cross-Version Analysis and Its Implications for Memory Forensics](https://arxiv.org/abs/2512.18517v1)** | 2025-12-20 |  |
-| **[Weight Transformations in Bit-Sliced Crossbar Arrays for Fault Tolerant Computing-in-Memory: Design Techniques and Evaluation Framework](https://arxiv.org/abs/2512.18459v1)** | 2025-12-20 |  |
-| **[Theodosian: A Deep Dive into Memory-Hierarchy-Centric FHE Acceleration](https://arxiv.org/abs/2512.18345v1)** | 2025-12-20 | 11 pages, 8 figures |
-| **[TraCT: Disaggregated LLM Serving with CXL Shared Memory KV Cache at Rack-Scale](https://arxiv.org/abs/2512.18194v1)** | 2025-12-20 |  |
 
