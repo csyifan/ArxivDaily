@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Streaming Video Instruction Tuning](https://arxiv.org/abs/2512.21334v1)** | 2025-12-24 |  |
+| **[Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task](https://arxiv.org/abs/2512.20876v1)** | 2025-12-24 |  |
 | **[Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models](https://arxiv.org/abs/2512.20557v1)** | 2025-12-23 |  |
 | **[Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning](https://arxiv.org/abs/2512.19687v1)** | 2025-12-22 |  |
 | **[FC-MIR: A Mobile Screen Awareness Framework for Intent-Aware Recommendation based on Frame-Compressed Multimodal Trajectory Reasoning](https://arxiv.org/abs/2512.19107v1)** | 2025-12-22 |  |
@@ -20,12 +22,13 @@ labels: documentation
 | **[See It Before You Grab It: Deep Learning-based Action Anticipation in Basketball](https://arxiv.org/abs/2512.15386v1)** | 2025-12-17 |  |
 | **[Explainable Action Form Assessment by Exploiting Multimodal Chain-of-Thoughts Reasoning](https://arxiv.org/abs/2512.15153v1)** | 2025-12-17 |  |
 | **[HERBench: A Benchmark for Multi-Evidence Integration in Video Question Answering](https://arxiv.org/abs/2512.14870v1)** | 2025-12-16 |  |
-| **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://timelens-arc-lab.github.io/</p></details> |
-| **[Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in](https://arxiv.org/abs/2512.14273v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://xiaoqian-shen.github.io/Zoom-Zero/</p></details> |
 
 ## World Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](https://arxiv.org/abs/2512.21201v1)** | 2025-12-24 |  |
+| **[Active inference and artificial reasoning](https://arxiv.org/abs/2512.21129v1)** | 2025-12-24 |  |
+| **[FEM-Bench: A Structured Scientific Reasoning Benchmark for Evaluating Code-Generating LLMs](https://arxiv.org/abs/2512.20732v1)** | 2025-12-23 | <details><summary>40 pa...</summary><p>40 pages, 5 figures, 6 tables, 7 listings</p></details> |
 | **[Active Intelligence in Video Avatars via Closed-loop World Modeling](https://arxiv.org/abs/2512.20615v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project Page: https://xuanhuahe.github.io/ORCA/</p></details> |
 | **[SegEarth-R2: Towards Comprehensive Language-guided Segmentation for Remote Sensing Images](https://arxiv.org/abs/2512.20013v1)** | 2025-12-23 |  |
 | **[WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving](https://arxiv.org/abs/2512.19133v1)** | 2025-12-22 | <details><summary>AAAI ...</summary><p>AAAI 2026, first version</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Large Language Models as Discounted Bayesian Filters](https://arxiv.org/abs/2512.18489v1)** | 2025-12-20 | Under submission |
 | **[STORM: Search-Guided Generative World Models for Robotic Manipulation](https://arxiv.org/abs/2512.18477v1)** | 2025-12-20 | Under submission |
 | **[AOMGen: Photoreal, Physics-Consistent Demonstration Generation for Articulated Object Manipulation](https://arxiv.org/abs/2512.18396v1)** | 2025-12-20 |  |
-| **[Unifying Deep Predicate Invention with Pre-trained Foundation Models](https://arxiv.org/abs/2512.17992v1)** | 2025-12-19 | 18 pages, 11 figures |
-| **[Dexterous World Models](https://arxiv.org/abs/2512.17907v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: snuvclab.github.io/dwm</p></details> |
-| **[Accelerating Multi-modal LLM Gaming Performance via Input Prediction and Mishit Correction](https://arxiv.org/abs/2512.17250v1)** | 2025-12-19 | UIUC 25 Fall CS 498 |
 
 ## Medical Model
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,9 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance](https://arxiv.org/abs/2512.21280v1)** | 2025-12-24 |  |
+| **[RevFFN: Memory-Efficient Full-Parameter Fine-Tuning of Mixture-of-Experts LLMs with Reversible Blocks](https://arxiv.org/abs/2512.20920v1)** | 2025-12-24 | Under submission |
+| **[Memory-Efficient Acceleration of Block Low-Rank Foundation Models on Resource Constrained GPUs](https://arxiv.org/abs/2512.20861v1)** | 2025-12-24 |  |
 | **[Design and Modeling of a Simple-Structured Continuously Variable Transmission Utilizing Shape Memory Alloy Superelasticity for Twisted String Actuator](https://arxiv.org/abs/2512.20342v1)** | 2025-12-23 | 15pages,Fig14 |
 | **[Ferroelectric FET-based Logic-in-Memory Encoder for Hyperdimensional Computing](https://arxiv.org/abs/2512.20302v1)** | 2025-12-23 | <details><summary>27 pa...</summary><p>27 pages, 13 figures, 3 tables</p></details> |
 | **[Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation](https://arxiv.org/abs/2512.20278v1)** | 2025-12-23 | 7 pages |
@@ -90,12 +93,9 @@ labels: documentation
 | **[MemR$^3$: Memory Retrieval via Reflective Reasoning for LLM Agents](https://arxiv.org/abs/2512.20237v1)** | 2025-12-23 | 16 pages, 6 figures |
 | **[Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents](https://arxiv.org/abs/2512.20092v1)** | 2025-12-23 |  |
 | **[Rethinking Knowledge Distillation in Collaborative Machine Learning: Memory, Knowledge, and Their Interactions](https://arxiv.org/abs/2512.19972v1)** | 2025-12-23 | <details><summary>Publi...</summary><p>Published in IEEE TNSE</p></details> |
+| **[PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient Language Generation](https://arxiv.org/abs/2512.20687v1)** | 2025-12-22 | 12 pages, 5 figures |
 | **[StoryMem: Multi-shot Long Video Storytelling with Memory](https://arxiv.org/abs/2512.19539v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://kevin-thu.github.io/StoryMem</p></details> |
 | **[Sensitivity-Aware Mixed-Precision Quantization for ReRAM-based Computing-in-Memory](https://arxiv.org/abs/2512.19445v1)** | 2025-12-22 |  |
 | **[EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration](https://arxiv.org/abs/2512.19396v1)** | 2025-12-22 |  |
 | **[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331v1)** | 2025-12-22 | <details><summary>11 pa...</summary><p>11 pages,7 figures,8 tables</p></details> |
-| **[3SGen: Unified Subject, Style, and Structure-Driven Image Generation with Adaptive Task-specific Memory](https://arxiv.org/abs/2512.19271v1)** | 2025-12-22 |  |
-| **[Beyond Sliding Windows: Learning to Manage Memory in Non-Markovian Environments](https://arxiv.org/abs/2512.19154v1)** | 2025-12-22 |  |
-| **[Affordance RAG: Hierarchical Multimodal Retrieval with Affordance-Aware Embodied Memory for Mobile Manipulation](https://arxiv.org/abs/2512.18987v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted to IEEE RA-L, with presentation at ICRA 2026</p></details> |
-| **[Learning Hierarchical Procedural Memory for LLM Agents through Bayesian Selection and Contrastive Refinement](https://arxiv.org/abs/2512.18950v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at The 25th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2026). 21 pages including references, with 7 figures and 8 tables. Code is publicly available at the authors GitHub repository: https://github.com/S-Forouzandeh/MACLA-LLM-Agents-AAMAS-Conference</p></details> |
 
