@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 28, 2025
+title: Latest 15 Papers - December 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,10 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prefill vs. Decode Bottlenecks: SRAM-Frequency Tradeoffs and the Memory-Bandwidth Ceiling](https://arxiv.org/abs/2512.22066v1)** | 2025-12-26 |  |
+| **[LIME:Accelerating Collaborative Lossless LLM Inference on Memory-Constrained Edge Devices](https://arxiv.org/abs/2512.21835v1)** | 2025-12-26 | 15 pages, 18 figures |
+| **[AstraNav-Memory: Contexts Compression for Long Memory](https://arxiv.org/abs/2512.21627v1)** | 2025-12-25 |  |
+| **[Beyond Heuristics: A Decision-Theoretic Framework for Agent Memory Management](https://arxiv.org/abs/2512.21567v1)** | 2025-12-25 |  |
 | **[SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance](https://arxiv.org/abs/2512.21280v1)** | 2025-12-24 |  |
 | **[RevFFN: Memory-Efficient Full-Parameter Fine-Tuning of Mixture-of-Experts LLMs with Reversible Blocks](https://arxiv.org/abs/2512.20920v1)** | 2025-12-24 | Under submission |
 | **[Memory-Efficient Acceleration of Block Low-Rank Foundation Models on Resource Constrained GPUs](https://arxiv.org/abs/2512.20861v1)** | 2025-12-24 |  |
@@ -56,14 +60,12 @@ labels: documentation
 | **[Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents](https://arxiv.org/abs/2512.20092v1)** | 2025-12-23 |  |
 | **[Rethinking Knowledge Distillation in Collaborative Machine Learning: Memory, Knowledge, and Their Interactions](https://arxiv.org/abs/2512.19972v1)** | 2025-12-23 | <details><summary>Publi...</summary><p>Published in IEEE TNSE</p></details> |
 | **[PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient Language Generation](https://arxiv.org/abs/2512.20687v1)** | 2025-12-22 | 12 pages, 5 figures |
-| **[StoryMem: Multi-shot Long Video Storytelling with Memory](https://arxiv.org/abs/2512.19539v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://kevin-thu.github.io/StoryMem</p></details> |
-| **[Sensitivity-Aware Mixed-Precision Quantization for ReRAM-based Computing-in-Memory](https://arxiv.org/abs/2512.19445v1)** | 2025-12-22 |  |
-| **[EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration](https://arxiv.org/abs/2512.19396v1)** | 2025-12-22 |  |
-| **[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331v1)** | 2025-12-22 | <details><summary>11 pa...</summary><p>11 pages,7 figures,8 tables</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scene-VLM: Multimodal Video Scene Segmentation via Vision-Language Models](https://arxiv.org/abs/2512.21778v1)** | 2025-12-25 |  |
+| **[Understanding Virality: A Rubric based Vision-Language Model Framework for Short-Form Edutainment Evaluation](https://arxiv.org/abs/2512.21402v1)** | 2025-12-24 | Under Review |
 | **[Streaming Video Instruction Tuning](https://arxiv.org/abs/2512.21334v1)** | 2025-12-24 |  |
 | **[Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task](https://arxiv.org/abs/2512.20876v1)** | 2025-12-24 |  |
 | **[Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models](https://arxiv.org/abs/2512.20557v1)** | 2025-12-23 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[LinkedOut: Linking World Knowledge Representation Out of Video LLM for Next-Generation Video Recommendation](https://arxiv.org/abs/2512.16891v1)** | 2025-12-18 |  |
 | **[AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding](https://arxiv.org/abs/2512.16250v1)** | 2025-12-18 |  |
 | **[See It Before You Grab It: Deep Learning-based Action Anticipation in Basketball](https://arxiv.org/abs/2512.15386v1)** | 2025-12-17 |  |
-| **[Explainable Action Form Assessment by Exploiting Multimodal Chain-of-Thoughts Reasoning](https://arxiv.org/abs/2512.15153v1)** | 2025-12-17 |  |
-| **[HERBench: A Benchmark for Multi-Evidence Integration in Video Question Answering](https://arxiv.org/abs/2512.14870v1)** | 2025-12-16 |  |
 
