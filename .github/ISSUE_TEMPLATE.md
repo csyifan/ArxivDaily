@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 30, 2025
+title: Latest 15 Papers - January 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,26 +45,29 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MEIC-DT: Memory-Efficient Incremental Clustering for Long-Text Coreference Resolution with Dual-Threshold Constraints](https://arxiv.org/abs/2512.24711v1)** | 2025-12-31 |  |
+| **[R-Debater: Retrieval-Augmented Debate Generation through Argumentative Memory](https://arxiv.org/abs/2512.24684v1)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepteed by AAMAS 2026 full paper</p></details> |
+| **[Resolving State Ambiguity in Robot Manipulation via Adaptive Working Memory Recoding](https://arxiv.org/abs/2512.24638v1)** | 2025-12-31 |  |
+| **[MSched: GPU Multitasking via Proactive Memory Scheduling](https://arxiv.org/abs/2512.24637v1)** | 2025-12-31 |  |
+| **[PackKV: Reducing KV Cache Memory Footprint through LLM-Aware Lossy Compression](https://arxiv.org/abs/2512.24449v1)** | 2025-12-30 |  |
+| **[How Would Oblivious Memory Boost Graph Analytics on Trusted Processors?](https://arxiv.org/abs/2512.24255v1)** | 2025-12-30 |  |
+| **[Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling](https://arxiv.org/abs/2512.23959v1)** | 2025-12-30 | 21 pages |
+| **[Probing the Limits of Compressive Memory: A Study of Infini-Attention in Small-Scale Pretraining](https://arxiv.org/abs/2512.23862v1)** | 2025-12-29 |  |
+| **[Trellis: Learning to Compress Key-Value Memory in Attention Models](https://arxiv.org/abs/2512.23852v1)** | 2025-12-29 | <details><summary>In Se...</summary><p>In Second Conference on Language Modeling (COLM) (2025)</p></details> |
+| **[Pretraining Frame Preservation in Autoregressive Video Memory Compression](https://arxiv.org/abs/2512.23851v1)** | 2025-12-29 | <details><summary>https...</summary><p>https://github.com/lllyasviel/PFP</p></details> |
 | **[AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents](https://arxiv.org/abs/2512.23343v1)** | 2025-12-29 | 57 pages, 5 figures |
 | **[LIMO: Low-Power In-Memory-Annealer and Matrix-Multiplication Primitive for Edge Computing](https://arxiv.org/abs/2512.23212v1)** | 2025-12-29 | <details><summary>26 pa...</summary><p>26 pages, 12 figures; under review</p></details> |
 | **[Energy and Memory-Efficient Federated Learning With Ordered Layer Freezing](https://arxiv.org/abs/2512.23200v1)** | 2025-12-29 |  |
 | **[Breaking the Memory Wall: Exact Analytical Differentiation via Tiled Operator-Space Evolution](https://arxiv.org/abs/2512.23068v1)** | 2025-12-28 |  |
-| **[Evolution of Buffer Management in Database Systems: From Classical Algorithms to Machine Learning and Disaggregated Memory](https://arxiv.org/abs/2512.22995v1)** | 2025-12-28 |  |
-| **[Memento-II: Learning by Stateful Reflective Memory](https://arxiv.org/abs/2512.22716v1)** | 2025-12-27 | <details><summary>32 pa...</summary><p>32 pages, three figures</p></details> |
-| **[Synthesis of signal processing algorithms with constraints on minimal parallelism and memory space](https://arxiv.org/abs/2512.22676v1)** | 2025-12-27 | <details><summary>Engli...</summary><p>English translation of PhD thesis (Candidate of Physical and Mathematical Sciences), defended at Saint Petersburg State University (2017). 191 pages</p></details> |
-| **[Rethinking Memory Design in SAM-Based Visual Object Tracking](https://arxiv.org/abs/2512.22624v1)** | 2025-12-27 | <details><summary>\text...</summary><p>\textbf{This is a preprint. Some results are being finalized and may be updated in a future revision.}</p></details> |
-| **[Gold Price Prediction Using Long Short-Term Memory and Multi-Layer Perceptron with Gray Wolf Optimizer](https://arxiv.org/abs/2512.22606v1)** | 2025-12-27 |  |
-| **[Lessons from Neuroscience for AI: How integrating Actions, Compositional Structure and Episodic Memory could enable Safe, Interpretable and Human-Like AI](https://arxiv.org/abs/2512.22568v1)** | 2025-12-27 |  |
-| **[AnalogSAGE: Self-evolving Analog Design Multi-Agents with Stratified Memory and Grounded Experience](https://arxiv.org/abs/2512.22435v1)** | 2025-12-27 |  |
-| **[Prefill vs. Decode Bottlenecks: SRAM-Frequency Tradeoffs and the Memory-Bandwidth Ceiling](https://arxiv.org/abs/2512.22066v1)** | 2025-12-26 |  |
-| **[LIME:Accelerating Collaborative Lossless LLM Inference on Memory-Constrained Edge Devices](https://arxiv.org/abs/2512.21835v1)** | 2025-12-26 | 15 pages, 18 figures |
-| **[AstraNav-Memory: Contexts Compression for Long Memory](https://arxiv.org/abs/2512.21627v1)** | 2025-12-25 |  |
-| **[Beyond Heuristics: A Decision-Theoretic Framework for Agent Memory Management](https://arxiv.org/abs/2512.21567v1)** | 2025-12-25 |  |
+| **[Audited Skill-Graph Self-Improvement for Agentic LLMs via Verifiable Rewards, Experience Synthesis, and Continual Memory](https://arxiv.org/abs/2512.23760v1)** | 2025-12-28 | <details><summary>11 pa...</summary><p>11 pages, 4 figures. Includes a complete runnable reference implementation and audit logging framework</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion](https://arxiv.org/abs/2512.23649v1)** | 2025-12-29 |  |
+| **[Robust Egocentric Referring Video Object Segmentation via Dual-Modal Causal Intervention](https://arxiv.org/abs/2512.24323v1)** | 2025-12-30 | NeurIPS 2025 |
+| **[Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation](https://arxiv.org/abs/2512.24271v1)** | 2025-12-30 | 18 pages |
+| **[Factorized Learning for Temporally Grounded Video-Language Models](https://arxiv.org/abs/2512.24097v1)** | 2025-12-30 | <details><summary>ICCV ...</summary><p>ICCV 2025 paper. This arXiv version updates Figure 1 to include the concurrent work Qwen2.5-VL to ensure consistency with Table 1</p></details> |
+| **[RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion](https://arxiv.org/abs/2512.23649v2)** | 2025-12-30 |  |
 | **[OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding](https://arxiv.org/abs/2512.23646v1)** | 2025-12-29 | <details><summary>Websi...</summary><p>Website:https://kd-tao.github.io/OmniAgent/</p></details> |
 | **[VideoZoomer: Reinforcement-Learned Temporal Focusing for Long Video Reasoning](https://arxiv.org/abs/2512.22315v1)** | 2025-12-26 |  |
 | **[Scene-VLM: Multimodal Video Scene Segmentation via Vision-Language Models](https://arxiv.org/abs/2512.21778v1)** | 2025-12-25 |  |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning](https://arxiv.org/abs/2512.19687v1)** | 2025-12-22 |  |
 | **[FC-MIR: A Mobile Screen Awareness Framework for Intent-Aware Recommendation based on Frame-Compressed Multimodal Trajectory Reasoning](https://arxiv.org/abs/2512.19107v1)** | 2025-12-22 |  |
 | **[CrashChat: A Multimodal Large Language Model for Multitask Traffic Crash Video Analysis](https://arxiv.org/abs/2512.18878v1)** | 2025-12-21 |  |
-| **[Context-Aware Network Based on Multi-scale Spatio-temporal Attention for Action Recognition in Videos](https://arxiv.org/abs/2512.18750v1)** | 2025-12-21 | <details><summary>21 pa...</summary><p>21 pages, 4 figures. Preprint under review for journal submission</p></details> |
-| **[SmartSight: Mitigating Hallucination in Video-LLMs Without Compromising Video Understanding via Temporal Attention Collapse](https://arxiv.org/abs/2512.18671v1)** | 2025-12-21 | AAAI26 accepted |
-| **[Video Detective: Seek Critical Clues Recurrently to Answer Question from Long Videos](https://arxiv.org/abs/2512.17229v1)** | 2025-12-19 |  |
 
