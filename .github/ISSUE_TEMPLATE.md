@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 04, 2026
+title: Latest 15 Papers - January 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,21 +45,21 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memory Bank Compression for Continual Adaptation of Large Language Models](https://arxiv.org/abs/2601.00756v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted to the 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
+| **[QSLM: A Performance- and Memory-aware Quantization Framework with Tiered Search Strategy for Spike-driven Language Models](https://arxiv.org/abs/2601.00679v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted at the Design, Automation and Test in Europe Conference (DATE) 2025 on April 20th-22nd, 2025 in Verona, Italy</p></details> |
+| **[Fast-weight Product Key Memory](https://arxiv.org/abs/2601.00671v1)** | 2026-01-02 |  |
+| **[CoCo-Fed: A Unified Framework for Memory- and Communication-Efficient Federated Learning at the Wireless Edge](https://arxiv.org/abs/2601.00549v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 1 algorithm</p></details> |
+| **[RMAAT: Astrocyte-Inspired Memory Compression and Replay for Efficient Long-Context Transformers](https://arxiv.org/abs/2601.00426v1)** | 2026-01-01 |  |
+| **[Adaptive Causal Coordination Detection for Social Media: A Memory-Guided Framework with Semi-Supervised Learning](https://arxiv.org/abs/2601.00400v1)** | 2026-01-01 | <details><summary>15 pa...</summary><p>15 pages, 8 figures. Under review</p></details> |
+| **[Depth-Synergized Mamba Meets Memory Experts for All-Day Image Reflection Separation](https://arxiv.org/abs/2601.00322v1)** | 2026-01-01 | <details><summary>This ...</summary><p>This paper has been accepted by AAAI 2026</p></details> |
 | **[MEIC-DT: Memory-Efficient Incremental Clustering for Long-Text Coreference Resolution with Dual-Threshold Constraints](https://arxiv.org/abs/2512.24711v1)** | 2025-12-31 |  |
 | **[R-Debater: Retrieval-Augmented Debate Generation through Argumentative Memory](https://arxiv.org/abs/2512.24684v1)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepteed by AAMAS 2026 full paper</p></details> |
 | **[Resolving State Ambiguity in Robot Manipulation via Adaptive Working Memory Recoding](https://arxiv.org/abs/2512.24638v1)** | 2025-12-31 |  |
-| **[MSched: GPU Multitasking via Proactive Memory Scheduling](https://arxiv.org/abs/2512.24637v1)** | 2025-12-31 |  |
+| **[Towards Fully-fledged GPU Multitasking via Proactive Memory Scheduling](https://arxiv.org/abs/2512.24637v2)** | 2026-01-02 |  |
 | **[PackKV: Reducing KV Cache Memory Footprint through LLM-Aware Lossy Compression](https://arxiv.org/abs/2512.24449v1)** | 2025-12-30 |  |
 | **[How Would Oblivious Memory Boost Graph Analytics on Trusted Processors?](https://arxiv.org/abs/2512.24255v1)** | 2025-12-30 |  |
-| **[Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling](https://arxiv.org/abs/2512.23959v1)** | 2025-12-30 | 21 pages |
+| **[Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling](https://arxiv.org/abs/2512.23959v2)** | 2026-01-02 | 21 pages |
 | **[Probing the Limits of Compressive Memory: A Study of Infini-Attention in Small-Scale Pretraining](https://arxiv.org/abs/2512.23862v1)** | 2025-12-29 |  |
-| **[Trellis: Learning to Compress Key-Value Memory in Attention Models](https://arxiv.org/abs/2512.23852v1)** | 2025-12-29 | <details><summary>In Se...</summary><p>In Second Conference on Language Modeling (COLM) (2025)</p></details> |
-| **[Pretraining Frame Preservation in Autoregressive Video Memory Compression](https://arxiv.org/abs/2512.23851v1)** | 2025-12-29 | <details><summary>https...</summary><p>https://github.com/lllyasviel/PFP</p></details> |
-| **[AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents](https://arxiv.org/abs/2512.23343v1)** | 2025-12-29 | 57 pages, 5 figures |
-| **[LIMO: Low-Power In-Memory-Annealer and Matrix-Multiplication Primitive for Edge Computing](https://arxiv.org/abs/2512.23212v1)** | 2025-12-29 | <details><summary>26 pa...</summary><p>26 pages, 12 figures; under review</p></details> |
-| **[Energy and Memory-Efficient Federated Learning With Ordered Layer Freezing](https://arxiv.org/abs/2512.23200v1)** | 2025-12-29 |  |
-| **[Breaking the Memory Wall: Exact Analytical Differentiation via Tiled Operator-Space Evolution](https://arxiv.org/abs/2512.23068v1)** | 2025-12-28 |  |
-| **[Audited Skill-Graph Self-Improvement for Agentic LLMs via Verifiable Rewards, Experience Synthesis, and Continual Memory](https://arxiv.org/abs/2512.23760v1)** | 2025-12-28 | <details><summary>11 pa...</summary><p>11 pages, 4 figures. Includes a complete runnable reference implementation and audit logging framework</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
