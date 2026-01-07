@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 06, 2026
+title: Latest 15 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,21 +45,21 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents](https://arxiv.org/abs/2601.03236v1)** | 2026-01-06 |  |
+| **[SpANNS: Optimizing Approximate Nearest Neighbor Search for Sparse Vectors Using Near Memory Processing](https://arxiv.org/abs/2601.03229v1)** | 2026-01-06 |  |
+| **[MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192v1)** | 2026-01-06 | 23 pages, 11 figures |
+| **[Finite Memory Belief Approximation for Optimal Control in Partially Observable Markov Decision Processes](https://arxiv.org/abs/2601.03132v1)** | 2026-01-06 | 6 pages, 3 figures |
+| **[An Empirical Study on User Profile Analysis and SEO Performance: A Case of Taiwan Cultural Memory Bank 2.0](https://arxiv.org/abs/2601.03050v1)** | 2026-01-06 |  |
+| **[CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation](https://arxiv.org/abs/2601.02868v1)** | 2026-01-06 | preprint |
+| **[TiMem: Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents](https://arxiv.org/abs/2601.02845v1)** | 2026-01-06 |  |
+| **[Quantum-enhanced long short-term memory with attention for spatial permeability prediction in oilfield reservoirs](https://arxiv.org/abs/2601.02818v1)** | 2026-01-06 | 22 pages, 7 figures |
+| **[SYNAPSE: Empowering LLM Agents with Episodic-Semantic Memory via Spreading Activation](https://arxiv.org/abs/2601.02744v1)** | 2026-01-06 |  |
+| **[Language Hierarchization Provides the Optimal Solution to Human Working Memory Limits](https://arxiv.org/abs/2601.02740v1)** | 2026-01-06 |  |
+| **[Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices](https://arxiv.org/abs/2601.02732v1)** | 2026-01-06 | <details><summary>accep...</summary><p>accepted by ICSE-SEIP'26</p></details> |
+| **[CREAM: Continual Retrieval on Dynamic Streaming Corpora with Adaptive Soft Memory](https://arxiv.org/abs/2601.02708v1)** | 2026-01-06 | Accepted to KDD 2026 |
+| **[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553v1)** | 2026-01-05 |  |
 | **[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://arxiv.org/abs/2601.02163v1)** | 2026-01-05 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 12 tables. Code available at https://github.com/EverMind-AI/EverMemOS</p></details> |
 | **[Vector Search for the Future: From Memory-Resident, Static Heterogeneous Storage, to Cloud-Native Architectures](https://arxiv.org/abs/2601.01937v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted as a tutorial at SIGMOD 2026</p></details> |
-| **[MacVQA: Adaptive Memory Allocation and Global Noise Filtering for Continual Visual Question Answering](https://arxiv.org/abs/2601.01926v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[SafeLoad: Efficient Admission Control Framework for Identifying Memory-Overloading Queries in Cloud Data Warehouses](https://arxiv.org/abs/2601.01888v1)** | 2026-01-05 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at VLDB 2026</p></details> |
-| **[Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://arxiv.org/abs/2601.01885v1)** | 2026-01-05 |  |
-| **[Warp-Cortex: An Asynchronous, Memory-Efficient Architecture for Million-Agent Cognitive Scaling on Consumer Hardware](https://arxiv.org/abs/2601.01298v1)** | 2026-01-03 |  |
-| **[Does Memory Need Graphs? A Unified Framework and Empirical Analysis for Long-Term Dialog Memory](https://arxiv.org/abs/2601.01280v1)** | 2026-01-03 |  |
-| **[Correctness isnt Efficiency: Runtime Memory Divergence in LLM-Generated Code](https://arxiv.org/abs/2601.01215v1)** | 2026-01-03 | <details><summary>11 Pa...</summary><p>11 Pages, 11 figures, Accepted at ICSE SEIP</p></details> |
-| **[XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression](https://arxiv.org/abs/2601.01204v1)** | 2026-01-03 |  |
-| **[Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments](https://arxiv.org/abs/2601.01075v1)** | 2026-01-03 | <details><summary>11 ma...</summary><p>11 main text pages, 10 figures</p></details> |
-| **[Deep Clustering with Associative Memories](https://arxiv.org/abs/2601.00963v1)** | 2026-01-02 |  |
-| **[Memory Bank Compression for Continual Adaptation of Large Language Models](https://arxiv.org/abs/2601.00756v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted to the 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[QSLM: A Performance- and Memory-aware Quantization Framework with Tiered Search Strategy for Spike-driven Language Models](https://arxiv.org/abs/2601.00679v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted at the Design, Automation and Test in Europe Conference (DATE) 2025 on April 20th-22nd, 2025 in Verona, Italy</p></details> |
-| **[Fast-weight Product Key Memory](https://arxiv.org/abs/2601.00671v1)** | 2026-01-02 |  |
-| **[CoCo-Fed: A Unified Framework for Memory- and Communication-Efficient Federated Learning at the Wireless Edge](https://arxiv.org/abs/2601.00549v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 1 algorithm</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
