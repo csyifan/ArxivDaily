@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 07, 2026
+title: Latest 15 Papers - January 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,25 +45,27 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FOREVER: Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning](https://arxiv.org/abs/2601.03938v1)** | 2026-01-07 |  |
+| **[Membox: Weaving Topic Continuity into Long-Range Memory for LLM Agents](https://arxiv.org/abs/2601.03785v1)** | 2026-01-07 |  |
+| **[CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval](https://arxiv.org/abs/2601.03728v1)** | 2026-01-07 |  |
+| **[VideoMemory: Toward Consistent Video Generation via Memory Integration](https://arxiv.org/abs/2601.03655v1)** | 2026-01-07 | <details><summary>Proje...</summary><p>Project page: https://hit-perfect.github.io/VideoMemory/</p></details> |
+| **[EvolMem: A Cognitive-Driven Benchmark for Multi-Session Dialogue Memory](https://arxiv.org/abs/2601.03543v1)** | 2026-01-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 8 tables</p></details> |
+| **[Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents](https://arxiv.org/abs/2601.03515v1)** | 2026-01-07 | 34 pages, 18 figures |
+| **[Implicit Graph, Explicit Retrieval: Towards Efficient and Interpretable Long-horizon Memory for Large Language Models](https://arxiv.org/abs/2601.03417v1)** | 2026-01-06 | 11 pages, 5 figures |
 | **[MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents](https://arxiv.org/abs/2601.03236v1)** | 2026-01-06 |  |
 | **[SpANNS: Optimizing Approximate Nearest Neighbor Search for Sparse Vectors Using Near Memory Processing](https://arxiv.org/abs/2601.03229v1)** | 2026-01-06 |  |
 | **[MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192v1)** | 2026-01-06 | 23 pages, 11 figures |
 | **[Finite Memory Belief Approximation for Optimal Control in Partially Observable Markov Decision Processes](https://arxiv.org/abs/2601.03132v1)** | 2026-01-06 | 6 pages, 3 figures |
+| **[Bare-Metal Tensor Virtualization: Overcoming the Memory Wall in Edge-AI Inference on ARM64](https://arxiv.org/abs/2601.03324v1)** | 2026-01-06 | <details><summary>14 pa...</summary><p>14 pages, 2 figures. Code and data available at https://github.com/farukalpay/stories100m</p></details> |
 | **[An Empirical Study on User Profile Analysis and SEO Performance: A Case of Taiwan Cultural Memory Bank 2.0](https://arxiv.org/abs/2601.03050v1)** | 2026-01-06 |  |
 | **[CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation](https://arxiv.org/abs/2601.02868v1)** | 2026-01-06 | preprint |
 | **[TiMem: Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents](https://arxiv.org/abs/2601.02845v1)** | 2026-01-06 |  |
-| **[Quantum-enhanced long short-term memory with attention for spatial permeability prediction in oilfield reservoirs](https://arxiv.org/abs/2601.02818v1)** | 2026-01-06 | 22 pages, 7 figures |
-| **[SYNAPSE: Empowering LLM Agents with Episodic-Semantic Memory via Spreading Activation](https://arxiv.org/abs/2601.02744v1)** | 2026-01-06 |  |
-| **[Language Hierarchization Provides the Optimal Solution to Human Working Memory Limits](https://arxiv.org/abs/2601.02740v1)** | 2026-01-06 |  |
-| **[Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices](https://arxiv.org/abs/2601.02732v1)** | 2026-01-06 | <details><summary>accep...</summary><p>accepted by ICSE-SEIP'26</p></details> |
-| **[CREAM: Continual Retrieval on Dynamic Streaming Corpora with Adaptive Soft Memory](https://arxiv.org/abs/2601.02708v1)** | 2026-01-06 | Accepted to KDD 2026 |
-| **[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553v1)** | 2026-01-05 |  |
-| **[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://arxiv.org/abs/2601.02163v1)** | 2026-01-05 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 12 tables. Code available at https://github.com/EverMind-AI/EverMemOS</p></details> |
-| **[Vector Search for the Future: From Memory-Resident, Static Heterogeneous Storage, to Cloud-Native Architectures](https://arxiv.org/abs/2601.01937v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted as a tutorial at SIGMOD 2026</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VNU-Bench: A Benchmarking Dataset for Multi-Source Multimodal News Video Understanding](https://arxiv.org/abs/2601.03434v1)** | 2026-01-06 |  |
+| **[RiskCueBench: Benchmarking Anticipatory Reasoning from Early Risk Cues in Video-Language Models](https://arxiv.org/abs/2601.03369v1)** | 2026-01-06 |  |
 | **[Learning Action Hierarchies via Hybrid Geometric Diffusion](https://arxiv.org/abs/2601.01914v1)** | 2026-01-05 | Accepted at WACV-26 |
 | **[Causality-Aware Temporal Projection for Video Understanding in Video-LLMs](https://arxiv.org/abs/2601.01804v1)** | 2026-01-05 | 7 pages, 4 figures |
 | **[VideoCuRL: Video Curriculum Reinforcement Learning with Orthogonal Difficulty Decomposition](https://arxiv.org/abs/2601.00887v1)** | 2025-12-31 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Understanding Virality: A Rubric based Vision-Language Model Framework for Short-Form Edutainment Evaluation](https://arxiv.org/abs/2512.21402v1)** | 2025-12-24 | Under Review |
 | **[Streaming Video Instruction Tuning](https://arxiv.org/abs/2512.21334v1)** | 2025-12-24 |  |
 | **[Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task](https://arxiv.org/abs/2512.20876v1)** | 2025-12-24 |  |
-| **[Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models](https://arxiv.org/abs/2512.20557v1)** | 2025-12-23 |  |
-| **[VideoScaffold: Elastic-Scale Visual Hierarchies for Streaming Video Understanding in MLLMs](https://arxiv.org/abs/2512.22226v1)** | 2025-12-23 | 11 pages, 4 figures |
 
