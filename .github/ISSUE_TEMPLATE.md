@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 08, 2026
+title: Latest 15 Papers - January 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,25 +45,27 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents](https://arxiv.org/abs/2601.05215v1)** | 2026-01-08 |  |
+| **[Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems](https://arxiv.org/abs/2601.05171v1)** | 2026-01-08 |  |
+| **[Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human-Agent Interaction](https://arxiv.org/abs/2601.05107v1)** | 2026-01-08 |  |
+| **[Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning](https://arxiv.org/abs/2601.04726v1)** | 2026-01-08 | 19 pages,6 figures |
+| **[Prior-Informed Zeroth-Order Optimization with Adaptive Direction Alignment for Memory-Efficient LLM Fine-Tuning](https://arxiv.org/abs/2601.04710v1)** | 2026-01-08 | 12pages, 6figures |
+| **[Memory-Guided Unified Hardware Accelerator for Mixed-Precision Scientific Computing](https://arxiv.org/abs/2601.04476v1)** | 2026-01-08 | 22 pages |
+| **[Beyond Static Summarization: Proactive Memory Extraction for LLM Agents](https://arxiv.org/abs/2601.04463v1)** | 2026-01-08 |  |
 | **[FOREVER: Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning](https://arxiv.org/abs/2601.03938v1)** | 2026-01-07 |  |
 | **[Membox: Weaving Topic Continuity into Long-Range Memory for LLM Agents](https://arxiv.org/abs/2601.03785v1)** | 2026-01-07 |  |
 | **[CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval](https://arxiv.org/abs/2601.03728v1)** | 2026-01-07 |  |
+| **[MemKD: Memory-Discrepancy Knowledge Distillation for Efficient Time Series Classification](https://arxiv.org/abs/2601.04264v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025), Hyderabad, India</p></details> |
 | **[VideoMemory: Toward Consistent Video Generation via Memory Integration](https://arxiv.org/abs/2601.03655v1)** | 2026-01-07 | <details><summary>Proje...</summary><p>Project page: https://hit-perfect.github.io/VideoMemory/</p></details> |
 | **[EvolMem: A Cognitive-Driven Benchmark for Multi-Session Dialogue Memory](https://arxiv.org/abs/2601.03543v1)** | 2026-01-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 8 tables</p></details> |
 | **[Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents](https://arxiv.org/abs/2601.03515v1)** | 2026-01-07 | 34 pages, 18 figures |
 | **[Implicit Graph, Explicit Retrieval: Towards Efficient and Interpretable Long-horizon Memory for Large Language Models](https://arxiv.org/abs/2601.03417v1)** | 2026-01-06 | 11 pages, 5 figures |
-| **[MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents](https://arxiv.org/abs/2601.03236v1)** | 2026-01-06 |  |
-| **[SpANNS: Optimizing Approximate Nearest Neighbor Search for Sparse Vectors Using Near Memory Processing](https://arxiv.org/abs/2601.03229v1)** | 2026-01-06 |  |
-| **[MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192v1)** | 2026-01-06 | 23 pages, 11 figures |
-| **[Finite Memory Belief Approximation for Optimal Control in Partially Observable Markov Decision Processes](https://arxiv.org/abs/2601.03132v1)** | 2026-01-06 | 6 pages, 3 figures |
-| **[Bare-Metal Tensor Virtualization: Overcoming the Memory Wall in Edge-AI Inference on ARM64](https://arxiv.org/abs/2601.03324v1)** | 2026-01-06 | <details><summary>14 pa...</summary><p>14 pages, 2 figures. Code and data available at https://github.com/farukalpay/stories100m</p></details> |
-| **[An Empirical Study on User Profile Analysis and SEO Performance: A Case of Taiwan Cultural Memory Bank 2.0](https://arxiv.org/abs/2601.03050v1)** | 2026-01-06 |  |
-| **[CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation](https://arxiv.org/abs/2601.02868v1)** | 2026-01-06 | preprint |
-| **[TiMem: Temporal-Hierarchical Memory Consolidation for Long-Horizon Conversational Agents](https://arxiv.org/abs/2601.02845v1)** | 2026-01-06 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice](https://arxiv.org/abs/2601.05175v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project page: https://ivul-kaust.github.io/projects/videoauto-r1/</p></details> |
+| **[Scaling Vision Language Models for Pharmaceutical Long Form Video Reasoning on Industrial GenAI Platform](https://arxiv.org/abs/2601.04891v1)** | 2026-01-08 | <details><summary>Submi...</summary><p>Submitted to the Industry Track of Top Tier Conference; currently under peer review</p></details> |
 | **[VNU-Bench: A Benchmarking Dataset for Multi-Source Multimodal News Video Understanding](https://arxiv.org/abs/2601.03434v1)** | 2026-01-06 |  |
 | **[RiskCueBench: Benchmarking Anticipatory Reasoning from Early Risk Cues in Video-Language Models](https://arxiv.org/abs/2601.03369v1)** | 2026-01-06 |  |
 | **[Learning Action Hierarchies via Hybrid Geometric Diffusion](https://arxiv.org/abs/2601.01914v1)** | 2026-01-05 | Accepted at WACV-26 |
@@ -77,6 +79,4 @@ labels: documentation
 | **[VideoZoomer: Reinforcement-Learned Temporal Focusing for Long Video Reasoning](https://arxiv.org/abs/2512.22315v1)** | 2025-12-26 |  |
 | **[Scene-VLM: Multimodal Video Scene Segmentation via Vision-Language Models](https://arxiv.org/abs/2512.21778v1)** | 2025-12-25 |  |
 | **[Understanding Virality: A Rubric based Vision-Language Model Framework for Short-Form Edutainment Evaluation](https://arxiv.org/abs/2512.21402v1)** | 2025-12-24 | Under Review |
-| **[Streaming Video Instruction Tuning](https://arxiv.org/abs/2512.21334v1)** | 2025-12-24 |  |
-| **[Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task](https://arxiv.org/abs/2512.20876v1)** | 2025-12-24 |  |
 
