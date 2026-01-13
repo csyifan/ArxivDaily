@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Medical LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedEinst: Benchmarking the Einstellung Effect in Medical LLMs through Counterfactual Differential Diagnosis](https://arxiv.org/abs/2601.06636v1)** | 2026-01-10 | 19 pages, 7 figures |
+| **[MLB: A Scenario-Driven Benchmark for Evaluating Large Language Models in Clinical Applications](https://arxiv.org/abs/2601.06193v1)** | 2026-01-08 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 5 tables</p></details> |
 | **[Toward Global Large Language Models in Medicine](https://arxiv.org/abs/2601.02186v1)** | 2026-01-05 | <details><summary>182 p...</summary><p>182 pages, 65 figures</p></details> |
 | **[Black-Box Behavioral Distillation Breaks Safety Alignment in Medical LLMs](https://arxiv.org/abs/2512.09403v1)** | 2025-12-10 |  |
 | **[MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding](https://arxiv.org/abs/2512.06581v1)** | 2025-12-06 |  |
@@ -39,44 +41,42 @@ labels: documentation
 | **[MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts](https://arxiv.org/abs/2510.13500v2)** | 2025-11-03 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
 | **[Shallow Robustness, Deep Vulnerabilities: Multi-Turn Evaluation of Medical LLMs](https://arxiv.org/abs/2510.12255v1)** | 2025-10-14 | <details><summary>Datas...</summary><p>Dataset and code: https://huggingface.co/datasets/dynamoai-ml/MedQA-USMLE-4-MultiTurnRobust ; https://github.com/bmanczak/MedQA-MultiTurnRobustness Accepted as a poster at NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance</p></details> |
 | **[Enabling Doctor-Centric Medical AI with LLMs through Workflow-Aligned Tasks and Benchmarks](https://arxiv.org/abs/2510.11040v1)** | 2025-10-13 |  |
-| **[YpathRAG:A Retrieval-Augmented Generation Framework and Benchmark for Pathology](https://arxiv.org/abs/2510.08603v1)** | 2025-10-07 |  |
-| **[MedReflect: Teaching Medical LLMs to Self-Improve via Reflective Correction](https://arxiv.org/abs/2510.03687v1)** | 2025-10-04 |  |
 
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distilling Feedback into Memory-as-a-Tool](https://arxiv.org/abs/2601.05960v1)** | 2026-01-09 | <details><summary>Code:...</summary><p>Code: https://github.com/vicgalle/feedback-memory-as-a-tool Data: https://huggingface.co/datasets/vicgalle/rubric-feedback-bench</p></details> |
-| **[StackPlanner: A Centralized Hierarchical Multi-Agent System with Task-Experience Memory Management](https://arxiv.org/abs/2601.05890v1)** | 2026-01-09 |  |
-| **[Self-Evolving Distributed Memory Architecture for Scalable AI Systems](https://arxiv.org/abs/2601.05569v1)** | 2026-01-09 | 21 pages |
-| **[Generation-Based and Emotion-Reflected Memory Update: Creating the KEEM Dataset for Better Long-Term Conversation](https://arxiv.org/abs/2601.05548v1)** | 2026-01-09 | <details><summary>COLIN...</summary><p>COLING 2025 accepted paper (Main)</p></details> |
-| **[FlashMem: Distilling Intrinsic Latent Memory via Computation Reuse](https://arxiv.org/abs/2601.05505v1)** | 2026-01-09 |  |
-| **[Memory Poisoning Attack and Defense on Memory Based LLM-Agents](https://arxiv.org/abs/2601.05504v1)** | 2026-01-09 |  |
-| **[MemBuilder: Reinforcing LLMs for Long-Term Memory Construction via Attributed Dense Rewards](https://arxiv.org/abs/2601.05488v1)** | 2026-01-09 | <details><summary>19 pa...</summary><p>19 pages (9 main + 10 appendix), 7 figures, 3 tables</p></details> |
-| **[MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents](https://arxiv.org/abs/2601.05215v2)** | 2026-01-09 |  |
-| **[Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems](https://arxiv.org/abs/2601.05171v1)** | 2026-01-08 |  |
-| **[Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human-Agent Interaction](https://arxiv.org/abs/2601.05107v1)** | 2026-01-08 |  |
-| **[Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning](https://arxiv.org/abs/2601.04726v1)** | 2026-01-08 | 19 pages,6 figures |
-| **[MoEBlaze: Breaking the Memory Wall for Efficient MoE Training on Modern GPUs](https://arxiv.org/abs/2601.05296v1)** | 2026-01-08 |  |
-| **[Prior-Informed Zeroth-Order Optimization with Adaptive Direction Alignment for Memory-Efficient LLM Fine-Tuning](https://arxiv.org/abs/2601.04710v1)** | 2026-01-08 | 12pages, 6figures |
-| **[Memory-Guided Unified Hardware Accelerator for Mixed-Precision Scientific Computing](https://arxiv.org/abs/2601.04476v1)** | 2026-01-08 | 22 pages |
-| **[Beyond Static Summarization: Proactive Memory Extraction for LLM Agents](https://arxiv.org/abs/2601.04463v1)** | 2026-01-08 |  |
+| **[ES-Mem: Event Segmentation-Based Memory for Long-Term Dialogue Agents](https://arxiv.org/abs/2601.07582v1)** | 2026-01-12 |  |
+| **[Learning How to Remember: A Meta-Cognitive Management Method for Structured and Transferable Agent Memory](https://arxiv.org/abs/2601.07470v1)** | 2026-01-12 |  |
+| **[Beyond Dialogue Time: Temporal Semantic Memory for Personalized LLM Agents](https://arxiv.org/abs/2601.07468v1)** | 2026-01-12 |  |
+| **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372v1)** | 2026-01-12 |  |
+| **[Few-shot Class-Incremental Learning via Generative Co-Memory Regularization](https://arxiv.org/abs/2601.07117v1)** | 2026-01-12 | <details><summary>Accep...</summary><p>Accepted by International Journal on Computer Vision (IJCV)</p></details> |
+| **[CloneMem: Benchmarking Long-Term Memory for AI Clones](https://arxiv.org/abs/2601.07023v1)** | 2026-01-11 |  |
+| **[MemTrust: A Zero-Trust Architecture for Unified AI Memory System](https://arxiv.org/abs/2601.07004v1)** | 2026-01-11 | 18 pages, 5 figures |
+| **[LLMs Can't Play Hangman: On the Necessity of a Private Working Memory for Language Agents](https://arxiv.org/abs/2601.06973v1)** | 2026-01-11 |  |
+| **[RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction](https://arxiv.org/abs/2601.06966v1)** | 2026-01-11 |  |
+| **[DS-CIM: Digital Stochastic Computing-In-Memory Featuring Accurate OR-Accumulation via Sample Region Remapping for Edge AI Models](https://arxiv.org/abs/2601.06724v1)** | 2026-01-10 | <details><summary>Accep...</summary><p>Accepted by 2026 Design, Automation and Test in Europe Conference (DATE)</p></details> |
+| **[Mosaic: Unlocking Long-Context Inference for Diffusion LLMs via Global Memory Planning and Dynamic Peak Taming](https://arxiv.org/abs/2601.06562v1)** | 2026-01-10 | 11 pages, 18 figures |
+| **[Bi-Mem: Bidirectional Construction of Hierarchical Memory for Personalized LLMs via Inductive-Reflective Agents](https://arxiv.org/abs/2601.06490v1)** | 2026-01-10 |  |
+| **[Structured Episodic Event Memory](https://arxiv.org/abs/2601.06411v1)** | 2026-01-10 |  |
+| **[HiMem: Hierarchical Long-Term Memory for LLM Long-Horizon Agents](https://arxiv.org/abs/2601.06377v1)** | 2026-01-10 |  |
+| **[Rethinking Inter-Process Communication with Memory Operation Offloading](https://arxiv.org/abs/2601.06331v1)** | 2026-01-09 | <details><summary>Prepr...</summary><p>Preprint. 12 pages, 15 figures</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Video Evidence to Reasoning Efficient Video Understanding via Explicit Evidence Grounding](https://arxiv.org/abs/2601.07761v1)** | 2026-01-12 | 6 pages |
+| **[Mimic Human Cognition, Master Multi-Image Reasoning: A Meta-Action Framework for Enhanced Visual Understanding](https://arxiv.org/abs/2601.07298v1)** | 2026-01-12 |  |
+| **[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](https://arxiv.org/abs/2601.07290v1)** | 2026-01-12 |  |
+| **[Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models](https://arxiv.org/abs/2601.06843v1)** | 2026-01-11 |  |
+| **[QMAVIS: Long Video-Audio Understanding using Fusion of Large Multimodal Models](https://arxiv.org/abs/2601.06573v1)** | 2026-01-10 |  |
+| **[ArrowGEV: Grounding Events in Video via Learning the Arrow of Time](https://arxiv.org/abs/2601.06559v1)** | 2026-01-10 |  |
+| **[VideoWeave: A Data-Centric Approach for Efficient Video Understanding](https://arxiv.org/abs/2601.06309v1)** | 2026-01-09 |  |
 | **[MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding](https://arxiv.org/abs/2601.05495v1)** | 2026-01-09 | 13 pages, 11 figures |
 | **[VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice](https://arxiv.org/abs/2601.05175v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project page: https://ivul-kaust.github.io/projects/videoauto-r1/</p></details> |
 | **[Scaling Vision Language Models for Pharmaceutical Long Form Video Reasoning on Industrial GenAI Platform](https://arxiv.org/abs/2601.04891v1)** | 2026-01-08 | <details><summary>Submi...</summary><p>Submitted to the Industry Track of Top Tier Conference; currently under peer review</p></details> |
+| **[How Does India Cook Biryani?](https://arxiv.org/abs/2601.06198v1)** | 2026-01-08 |  |
 | **[VNU-Bench: A Benchmarking Dataset for Multi-Source Multimodal News Video Understanding](https://arxiv.org/abs/2601.03434v1)** | 2026-01-06 |  |
 | **[RiskCueBench: Benchmarking Anticipatory Reasoning from Early Risk Cues in Video-Language Models](https://arxiv.org/abs/2601.03369v1)** | 2026-01-06 |  |
 | **[Learning Action Hierarchies via Hybrid Geometric Diffusion](https://arxiv.org/abs/2601.01914v1)** | 2026-01-05 | Accepted at WACV-26 |
 | **[Causality-Aware Temporal Projection for Video Understanding in Video-LLMs](https://arxiv.org/abs/2601.01804v2)** | 2026-01-09 | 7 pages, 4 figures |
-| **[VideoCuRL: Video Curriculum Reinforcement Learning with Orthogonal Difficulty Decomposition](https://arxiv.org/abs/2601.00887v1)** | 2025-12-31 |  |
-| **[Robust Egocentric Referring Video Object Segmentation via Dual-Modal Causal Intervention](https://arxiv.org/abs/2512.24323v1)** | 2025-12-30 | NeurIPS 2025 |
-| **[Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation](https://arxiv.org/abs/2512.24271v1)** | 2025-12-30 | 18 pages |
-| **[Factorized Learning for Temporally Grounded Video-Language Models](https://arxiv.org/abs/2512.24097v1)** | 2025-12-30 | <details><summary>ICCV ...</summary><p>ICCV 2025 paper. This arXiv version updates Figure 1 to include the concurrent work Qwen2.5-VL to ensure consistency with Table 1</p></details> |
-| **[RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion](https://arxiv.org/abs/2512.23649v3)** | 2026-01-04 |  |
-| **[OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding](https://arxiv.org/abs/2512.23646v1)** | 2025-12-29 | <details><summary>Websi...</summary><p>Website:https://kd-tao.github.io/OmniAgent/</p></details> |
-| **[VideoZoomer: Reinforcement-Learned Temporal Focusing for Long Video Reasoning](https://arxiv.org/abs/2512.22315v1)** | 2025-12-26 |  |
-| **[Scene-VLM: Multimodal Video Scene Segmentation via Vision-Language Models](https://arxiv.org/abs/2512.21778v1)** | 2025-12-25 |  |
 
