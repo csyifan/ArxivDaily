@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 13, 2026
+title: Latest 15 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,25 +45,27 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ES-Mem: Event Segmentation-Based Memory for Long-Term Dialogue Agents](https://arxiv.org/abs/2601.07582v1)** | 2026-01-12 |  |
+| **[MemRec: Collaborative Memory-Augmented Agentic Recommender System](https://arxiv.org/abs/2601.08816v1)** | 2026-01-13 |  |
+| **[Memory DisOrder: Memory Re-orderings as a Timerless Side-channel](https://arxiv.org/abs/2601.08770v1)** | 2026-01-13 |  |
+| **[PrivGemo: Privacy-Preserving Dual-Tower Graph Retrieval for Empowering LLM Reasoning with Memory Augmentation](https://arxiv.org/abs/2601.08739v1)** | 2026-01-13 |  |
+| **[VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory](https://arxiv.org/abs/2601.08665v1)** | 2026-01-13 | <details><summary>Proje...</summary><p>Project page: https://wsakobe.github.io/VLingNav-web/</p></details> |
+| **[Fine-Mem: Fine-Grained Feedback Alignment for Long-Horizon Memory Management](https://arxiv.org/abs/2601.08435v1)** | 2026-01-13 | 18 pages, 5 figures |
+| **[Scalable Sequential Recommendation under Latency and Memory Constraints](https://arxiv.org/abs/2601.08360v1)** | 2026-01-13 |  |
+| **[AtomMem : Learnable Dynamic Agentic Memory with Atomic Memory Operation](https://arxiv.org/abs/2601.08323v1)** | 2026-01-13 |  |
+| **[Towards Principled Design of Mixture-of-Experts Language Models under Memory and Inference Constraints](https://arxiv.org/abs/2601.08215v1)** | 2026-01-13 | 10 pages, 5 figures |
+| **[SwiftMem: Fast Agentic Memory via Query-aware Indexing](https://arxiv.org/abs/2601.08160v1)** | 2026-01-13 |  |
+| **[MemoBrain: Executive Memory as an Agentic Brain for Reasoning](https://arxiv.org/abs/2601.08079v1)** | 2026-01-12 | <details><summary>Our c...</summary><p>Our codes are in https://github.com/qhjqhj00/MemoBrain</p></details> |
+| **[Cost and accuracy of long-term graph memory in distributed LLM-based multi-agent systems](https://arxiv.org/abs/2601.07978v1)** | 2026-01-12 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 7 tables</p></details> |
+| **[ES-Mem: Event Segmentation-Based Memory for Long-Term Dialogue Agents](https://arxiv.org/abs/2601.07582v2)** | 2026-01-13 |  |
 | **[Learning How to Remember: A Meta-Cognitive Management Method for Structured and Transferable Agent Memory](https://arxiv.org/abs/2601.07470v1)** | 2026-01-12 |  |
 | **[Beyond Dialogue Time: Temporal Semantic Memory for Personalized LLM Agents](https://arxiv.org/abs/2601.07468v1)** | 2026-01-12 |  |
 | **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372v1)** | 2026-01-12 |  |
-| **[Few-shot Class-Incremental Learning via Generative Co-Memory Regularization](https://arxiv.org/abs/2601.07117v1)** | 2026-01-12 | <details><summary>Accep...</summary><p>Accepted by International Journal on Computer Vision (IJCV)</p></details> |
-| **[CloneMem: Benchmarking Long-Term Memory for AI Clones](https://arxiv.org/abs/2601.07023v1)** | 2026-01-11 |  |
-| **[MemTrust: A Zero-Trust Architecture for Unified AI Memory System](https://arxiv.org/abs/2601.07004v1)** | 2026-01-11 | 18 pages, 5 figures |
-| **[LLMs Can't Play Hangman: On the Necessity of a Private Working Memory for Language Agents](https://arxiv.org/abs/2601.06973v1)** | 2026-01-11 |  |
-| **[RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction](https://arxiv.org/abs/2601.06966v1)** | 2026-01-11 |  |
-| **[DS-CIM: Digital Stochastic Computing-In-Memory Featuring Accurate OR-Accumulation via Sample Region Remapping for Edge AI Models](https://arxiv.org/abs/2601.06724v1)** | 2026-01-10 | <details><summary>Accep...</summary><p>Accepted by 2026 Design, Automation and Test in Europe Conference (DATE)</p></details> |
-| **[Mosaic: Unlocking Long-Context Inference for Diffusion LLMs via Global Memory Planning and Dynamic Peak Taming](https://arxiv.org/abs/2601.06562v1)** | 2026-01-10 | 11 pages, 18 figures |
-| **[Bi-Mem: Bidirectional Construction of Hierarchical Memory for Personalized LLMs via Inductive-Reflective Agents](https://arxiv.org/abs/2601.06490v1)** | 2026-01-10 |  |
-| **[Structured Episodic Event Memory](https://arxiv.org/abs/2601.06411v1)** | 2026-01-10 |  |
-| **[HiMem: Hierarchical Long-Term Memory for LLM Long-Horizon Agents](https://arxiv.org/abs/2601.06377v1)** | 2026-01-10 |  |
-| **[Rethinking Inter-Process Communication with Memory Operation Offloading](https://arxiv.org/abs/2601.06331v1)** | 2026-01-09 | <details><summary>Prepr...</summary><p>Preprint. 12 pages, 15 figures</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2](https://arxiv.org/abs/2601.08408v1)** | 2026-01-13 | <details><summary>The T...</summary><p>The Tenth International Conference on Data Mining and Big Data (DMBD'2025)</p></details> |
+| **[CASHEW: Stabilizing Multimodal Reasoning via Iterative Trajectory Aggregation](https://arxiv.org/abs/2601.08010v1)** | 2026-01-12 |  |
 | **[Video Evidence to Reasoning Efficient Video Understanding via Explicit Evidence Grounding](https://arxiv.org/abs/2601.07761v1)** | 2026-01-12 | 6 pages |
 | **[Mimic Human Cognition, Master Multi-Image Reasoning: A Meta-Action Framework for Enhanced Visual Understanding](https://arxiv.org/abs/2601.07298v1)** | 2026-01-12 |  |
 | **[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](https://arxiv.org/abs/2601.07290v1)** | 2026-01-12 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[How Does India Cook Biryani?](https://arxiv.org/abs/2601.06198v1)** | 2026-01-08 |  |
 | **[VNU-Bench: A Benchmarking Dataset for Multi-Source Multimodal News Video Understanding](https://arxiv.org/abs/2601.03434v1)** | 2026-01-06 |  |
 | **[RiskCueBench: Benchmarking Anticipatory Reasoning from Early Risk Cues in Video-Language Models](https://arxiv.org/abs/2601.03369v1)** | 2026-01-06 |  |
-| **[Learning Action Hierarchies via Hybrid Geometric Diffusion](https://arxiv.org/abs/2601.01914v1)** | 2026-01-05 | Accepted at WACV-26 |
-| **[Causality-Aware Temporal Projection for Video Understanding in Video-LLMs](https://arxiv.org/abs/2601.01804v2)** | 2026-01-09 | 7 pages, 4 figures |
 
