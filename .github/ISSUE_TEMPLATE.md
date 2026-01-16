@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 15, 2026
+title: Latest 15 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,25 +45,31 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Grounding Agent Memory in Contextual Intent](https://arxiv.org/abs/2601.10702v1)** | 2026-01-15 |  |
+| **[LOOKAT: Lookup-Optimized Key-Attention for Memory-Efficient Transformers](https://arxiv.org/abs/2601.10155v1)** | 2026-01-15 |  |
+| **[Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts](https://arxiv.org/abs/2601.10079v1)** | 2026-01-15 |  |
+| **[Resistive Memory based Efficient Machine Unlearning and Continual Learning](https://arxiv.org/abs/2601.10037v1)** | 2026-01-15 |  |
+| **[FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems](https://arxiv.org/abs/2601.09985v1)** | 2026-01-15 |  |
+| **[Continuum Memory Architectures for Long-Horizon LLM Agents](https://arxiv.org/abs/2601.09913v1)** | 2026-01-14 | 10 Pages |
 | **[SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3](https://arxiv.org/abs/2601.09699v1)** | 2026-01-14 | <details><summary>Code:...</summary><p>Code: https://github.com/FudanCVL/SAM3-DMS</p></details> |
 | **[Parallelizable memory recurrent units](https://arxiv.org/abs/2601.09495v1)** | 2026-01-14 | <details><summary>19 pa...</summary><p>19 pages, 12 figures. This work has been the subject of a patent application (Number: EP26151077). This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models](https://arxiv.org/abs/2601.09445v1)** | 2026-01-14 |  |
 | **[See More, Store Less: Memory-Efficient Resolution for Video Moment Retrieval](https://arxiv.org/abs/2601.09350v1)** | 2026-01-14 |  |
 | **[$A^3$-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation](https://arxiv.org/abs/2601.09274v1)** | 2026-01-14 |  |
+| **[Investigating Tool-Memory Conflicts in Tool-Augmented LLMs](https://arxiv.org/abs/2601.09760v1)** | 2026-01-14 | <details><summary>R2-FM...</summary><p>R2-FM Workshop @ ICML 2025</p></details> |
 | **[The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113v1)** | 2026-01-14 |  |
 | **[MemRec: Collaborative Memory-Augmented Agentic Recommender System](https://arxiv.org/abs/2601.08816v1)** | 2026-01-13 |  |
 | **[Memory DisOrder: Memory Re-orderings as a Timerless Side-channel](https://arxiv.org/abs/2601.08770v1)** | 2026-01-13 |  |
-| **[PrivGemo: Privacy-Preserving Dual-Tower Graph Retrieval for Empowering LLM Reasoning with Memory Augmentation](https://arxiv.org/abs/2601.08739v1)** | 2026-01-13 |  |
-| **[VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory](https://arxiv.org/abs/2601.08665v1)** | 2026-01-13 | <details><summary>Proje...</summary><p>Project page: https://wsakobe.github.io/VLingNav-web/</p></details> |
-| **[Fine-Mem: Fine-Grained Feedback Alignment for Long-Horizon Memory Management](https://arxiv.org/abs/2601.08435v1)** | 2026-01-13 | 18 pages, 5 figures |
-| **[Scalable Sequential Recommendation under Latency and Memory Constraints](https://arxiv.org/abs/2601.08360v1)** | 2026-01-13 |  |
-| **[AtomMem : Learnable Dynamic Agentic Memory with Atomic Memory Operation](https://arxiv.org/abs/2601.08323v1)** | 2026-01-13 |  |
-| **[Towards Principled Design of Mixture-of-Experts Language Models under Memory and Inference Constraints](https://arxiv.org/abs/2601.08215v1)** | 2026-01-13 | 10 pages, 5 figures |
-| **[SwiftMem: Fast Agentic Memory via Query-aware Indexing](https://arxiv.org/abs/2601.08160v1)** | 2026-01-13 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CURVE: A Benchmark for Cultural and Multilingual Long Video Reasoning](https://arxiv.org/abs/2601.10649v1)** | 2026-01-15 |  |
+| **[Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611v1)** | 2026-01-15 |  |
+| **[Action100M: A Large-scale Video Action Dataset](https://arxiv.org/abs/2601.10592v1)** | 2026-01-15 |  |
+| **[ROMA: Real-time Omni-Multimodal Assistant with Interactive Streaming Understanding](https://arxiv.org/abs/2601.10323v1)** | 2026-01-15 | <details><summary>Our p...</summary><p>Our project page is available at https://eureka-maggie.github.io/ROMA_show</p></details> |
+| **[Optimizing Multimodal LLMs for Egocentric Video Understanding: A Solution for the HD-EPIC VQA Challenge](https://arxiv.org/abs/2601.10228v1)** | 2026-01-15 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, CVPR 2025 EgoVis Workshop, 2nd Place in HD-EPIC Challenge</p></details> |
+| **[Advancing Adaptive Multi-Stage Video Anomaly Reasoning: A Benchmark Dataset and Method](https://arxiv.org/abs/2601.10165v1)** | 2026-01-15 |  |
 | **[Video Joint-Embedding Predictive Architectures for Facial Expression Recognition](https://arxiv.org/abs/2601.09524v1)** | 2026-01-14 | <details><summary>To ap...</summary><p>To appear in 2025 Proceedings of the 13th International Conference on Affective Computing and Intelligent Interaction (ACII), submitted to IEEE. \c{opyright} 2025 IEEE</p></details> |
 | **[See More, Store Less: Memory-Efficient Resolution for Video Moment Retrieval](https://arxiv.org/abs/2601.09350v1)** | 2026-01-14 |  |
 | **[Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2](https://arxiv.org/abs/2601.08408v1)** | 2026-01-13 | <details><summary>The T...</summary><p>The Tenth International Conference on Data Mining and Big Data (DMBD'2025)</p></details> |
@@ -73,10 +79,4 @@ labels: documentation
 | **[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](https://arxiv.org/abs/2601.07290v1)** | 2026-01-12 |  |
 | **[Semantic visually-guided acoustic highlighting with large vision-language models](https://arxiv.org/abs/2601.08871v1)** | 2026-01-12 |  |
 | **[Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models](https://arxiv.org/abs/2601.06843v1)** | 2026-01-11 |  |
-| **[QMAVIS: Long Video-Audio Understanding using Fusion of Large Multimodal Models](https://arxiv.org/abs/2601.06573v1)** | 2026-01-10 |  |
-| **[ArrowGEV: Grounding Events in Video via Learning the Arrow of Time](https://arxiv.org/abs/2601.06559v1)** | 2026-01-10 |  |
-| **[VideoWeave: A Data-Centric Approach for Efficient Video Understanding](https://arxiv.org/abs/2601.06309v1)** | 2026-01-09 |  |
-| **[MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding](https://arxiv.org/abs/2601.05495v1)** | 2026-01-09 | 13 pages, 11 figures |
-| **[VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice](https://arxiv.org/abs/2601.05175v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project page: https://ivul-kaust.github.io/projects/videoauto-r1/</p></details> |
-| **[Scaling Vision Language Models for Pharmaceutical Long Form Video Reasoning on Industrial GenAI Platform](https://arxiv.org/abs/2601.04891v1)** | 2026-01-08 | <details><summary>Submi...</summary><p>Submitted to the Industry Track of Top Tier Conference; currently under peer review</p></details> |
 
