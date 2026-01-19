@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 18, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Temporal Complexity and Self-Organization in an Exponential Dense Associative Memory Model](https://arxiv.org/abs/2601.11478v1)** | 2026-01-16 |  |
+| **[HOSL: Hybrid-Order Split Learning for Memory-Constrained Edge Training](https://arxiv.org/abs/2601.10940v1)** | 2026-01-16 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 6 tables. Submitted to WiOpt 2026</p></details> |
 | **[Grounding Agent Memory in Contextual Intent](https://arxiv.org/abs/2601.10702v1)** | 2026-01-15 |  |
 | **[LOOKAT: Lookup-Optimized Key-Attention for Memory-Efficient Transformers](https://arxiv.org/abs/2601.10155v1)** | 2026-01-15 |  |
 | **[Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts](https://arxiv.org/abs/2601.10079v1)** | 2026-01-15 |  |
@@ -58,12 +60,12 @@ labels: documentation
 | **[$A^3$-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation](https://arxiv.org/abs/2601.09274v1)** | 2026-01-14 |  |
 | **[Investigating Tool-Memory Conflicts in Tool-Augmented LLMs](https://arxiv.org/abs/2601.09760v1)** | 2026-01-14 | <details><summary>R2-FM...</summary><p>R2-FM Workshop @ ICML 2025</p></details> |
 | **[The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113v1)** | 2026-01-14 |  |
-| **[MemRec: Collaborative Memory-Augmented Agentic Recommender System](https://arxiv.org/abs/2601.08816v1)** | 2026-01-13 |  |
-| **[Memory DisOrder: Memory Re-orderings as a Timerless Side-channel](https://arxiv.org/abs/2601.08770v1)** | 2026-01-13 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Think-Clip-Sample: Slow-Fast Frame Selection for Video Understanding](https://arxiv.org/abs/2601.11359v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
+| **[Efficient On-Board Processing of Oblique UAV Video for Rapid Flood Extent Mapping](https://arxiv.org/abs/2601.11290v1)** | 2026-01-16 |  |
 | **[CURVE: A Benchmark for Cultural and Multilingual Long Video Reasoning](https://arxiv.org/abs/2601.10649v1)** | 2026-01-15 |  |
 | **[Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611v1)** | 2026-01-15 |  |
 | **[Action100M: A Large-scale Video Action Dataset](https://arxiv.org/abs/2601.10592v1)** | 2026-01-15 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Video Evidence to Reasoning Efficient Video Understanding via Explicit Evidence Grounding](https://arxiv.org/abs/2601.07761v1)** | 2026-01-12 | 6 pages |
 | **[Mimic Human Cognition, Master Multi-Image Reasoning: A Meta-Action Framework for Enhanced Visual Understanding](https://arxiv.org/abs/2601.07298v1)** | 2026-01-12 |  |
 | **[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](https://arxiv.org/abs/2601.07290v1)** | 2026-01-12 |  |
-| **[Semantic visually-guided acoustic highlighting with large vision-language models](https://arxiv.org/abs/2601.08871v1)** | 2026-01-12 |  |
-| **[Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models](https://arxiv.org/abs/2601.06843v1)** | 2026-01-11 |  |
 
