@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 20, 2026
+title: Latest 15 Papers - January 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,9 +26,13 @@ labels: documentation
 ## Medical LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Improving the Safety and Trustworthiness of Medical AI via Multi-Agent Evaluation Loops](https://arxiv.org/abs/2601.13268v1)** | 2026-01-19 |  |
+| **[Do Clinical Question Answering Systems Really Need Specialised Medical Fine Tuning?](https://arxiv.org/abs/2601.12812v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted at EACL 2026 (Industry Track)</p></details> |
+| **[Knowing When to Abstain: Medical LLMs Under Clinical Uncertainty](https://arxiv.org/abs/2601.12471v1)** | 2026-01-18 | <details><summary>Equal...</summary><p>Equal contribution for the first two authors; To appear in proceedings of the Main Conference of the European Chapter of the Association for Computational Linguistics (EACL) 2026</p></details> |
 | **[MedEinst: Benchmarking the Einstellung Effect in Medical LLMs through Counterfactual Differential Diagnosis](https://arxiv.org/abs/2601.06636v1)** | 2026-01-10 | 19 pages, 7 figures |
 | **[MLB: A Scenario-Driven Benchmark for Evaluating Large Language Models in Clinical Applications](https://arxiv.org/abs/2601.06193v1)** | 2026-01-08 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 5 tables</p></details> |
 | **[Toward Global Large Language Models in Medicine](https://arxiv.org/abs/2601.02186v1)** | 2026-01-05 | <details><summary>182 p...</summary><p>182 pages, 65 figures</p></details> |
+| **[Measuring Stability Beyond Accuracy in Small Open-Source Medical Large Language Models for Pediatric Endocrinology](https://arxiv.org/abs/2601.11567v1)** | 2025-12-26 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, accepted at 47 workshop Reproducible Artificial Intelligence (AAAI 2026, Singapore, January 27, 2026)</p></details> |
 | **[Black-Box Behavioral Distillation Breaks Safety Alignment in Medical LLMs](https://arxiv.org/abs/2512.09403v1)** | 2025-12-10 |  |
 | **[MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding](https://arxiv.org/abs/2512.06581v1)** | 2025-12-06 |  |
 | **[A Novel Hierarchical Integration Method for Efficient Model Merging in Medical LLMs](https://arxiv.org/abs/2511.13373v1)** | 2025-11-17 |  |
@@ -37,29 +41,25 @@ labels: documentation
 | **[MedRECT: A Medical Reasoning Benchmark for Error Correction in Clinical Texts](https://arxiv.org/abs/2511.00421v1)** | 2025-11-01 |  |
 | **[A Memory-Efficient Retrieval Architecture for RAG-Enabled Wearable Medical LLMs-Agents](https://arxiv.org/abs/2510.27107v1)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted by BioCAS2025</p></details> |
 | **[Dissecting Role Cognition in Medical LLMs via Neuronal Ablation](https://arxiv.org/abs/2510.24677v1)** | 2025-10-28 | 15 pages, 9 figures |
-| **[Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications](https://arxiv.org/abs/2510.17764v1)** | 2025-10-20 |  |
-| **[MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts](https://arxiv.org/abs/2510.13500v2)** | 2025-11-03 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
-| **[Shallow Robustness, Deep Vulnerabilities: Multi-Turn Evaluation of Medical LLMs](https://arxiv.org/abs/2510.12255v1)** | 2025-10-14 | <details><summary>Datas...</summary><p>Dataset and code: https://huggingface.co/datasets/dynamoai-ml/MedQA-USMLE-4-MultiTurnRobust ; https://github.com/bmanczak/MedQA-MultiTurnRobustness Accepted as a poster at NeurIPS 2025 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance</p></details> |
-| **[Enabling Doctor-Centric Medical AI with LLMs through Workflow-Aligned Tasks and Benchmarks](https://arxiv.org/abs/2510.11040v1)** | 2025-10-13 |  |
 
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-as-RNN: A Recurrent Language Model for Memory Updates and Sequence Prediction](https://arxiv.org/abs/2601.13352v1)** | 2026-01-19 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 6 tables</p></details> |
+| **[OPTIMUM-DERAM: Highly Consistent, Scalable, and Secure Multi-Object Memory using RLNC](https://arxiv.org/abs/2601.13146v1)** | 2026-01-19 |  |
+| **[Gated Differentiable Working Memory for Long-Context Language Modeling](https://arxiv.org/abs/2601.12906v1)** | 2026-01-19 |  |
+| **[Who Does This Name Remind You of? Nationality Prediction via Large Language Model Associative Memory](https://arxiv.org/abs/2601.12771v1)** | 2026-01-19 |  |
+| **[SplittingSecrets: A Compiler-Based Defense for Preventing Data Memory-Dependent Prefetcher Side-Channels](https://arxiv.org/abs/2601.12270v1)** | 2026-01-18 |  |
+| **[CroBIM-V: Memory-Quality Controlled Remote Sensing Referring Video Object Segmentation](https://arxiv.org/abs/2601.12076v1)** | 2026-01-17 |  |
+| **[$\texttt{MemoryRewardBench}$: Benchmarking Reward Models for Long-Term Memory Management in Large Language Models](https://arxiv.org/abs/2601.11969v1)** | 2026-01-17 |  |
+| **[LSTM-MAS: A Long Short-Term Memory Inspired Multi-Agent System for Long-Context Understanding](https://arxiv.org/abs/2601.11913v1)** | 2026-01-17 | 12 pages, 5 figures |
+| **[Age-Based Scheduling for a Memory-Constrained Quantum Switch](https://arxiv.org/abs/2601.11698v1)** | 2026-01-16 |  |
 | **[Temporal Complexity and Self-Organization in an Exponential Dense Associative Memory Model](https://arxiv.org/abs/2601.11478v1)** | 2026-01-16 |  |
 | **[HOSL: Hybrid-Order Split Learning for Memory-Constrained Edge Training](https://arxiv.org/abs/2601.10940v1)** | 2026-01-16 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 6 tables. Submitted to WiOpt 2026</p></details> |
 | **[Grounding Agent Memory in Contextual Intent](https://arxiv.org/abs/2601.10702v1)** | 2026-01-15 |  |
+| **[AI Agents Need Memory Control Over More Context](https://arxiv.org/abs/2601.11653v1)** | 2026-01-15 | 32 pages, 7 figures |
 | **[LOOKAT: Lookup-Optimized Key-Attention for Memory-Efficient Transformers](https://arxiv.org/abs/2601.10155v1)** | 2026-01-15 |  |
 | **[Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts](https://arxiv.org/abs/2601.10079v1)** | 2026-01-15 |  |
-| **[Resistive Memory based Efficient Machine Unlearning and Continual Learning](https://arxiv.org/abs/2601.10037v1)** | 2026-01-15 |  |
-| **[FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems](https://arxiv.org/abs/2601.09985v1)** | 2026-01-15 |  |
-| **[Continuum Memory Architectures for Long-Horizon LLM Agents](https://arxiv.org/abs/2601.09913v1)** | 2026-01-14 | 10 Pages |
-| **[SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3](https://arxiv.org/abs/2601.09699v1)** | 2026-01-14 | <details><summary>Code:...</summary><p>Code: https://github.com/FudanCVL/SAM3-DMS</p></details> |
-| **[Parallelizable memory recurrent units](https://arxiv.org/abs/2601.09495v1)** | 2026-01-14 | <details><summary>19 pa...</summary><p>19 pages, 12 figures. This work has been the subject of a patent application (Number: EP26151077). This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models](https://arxiv.org/abs/2601.09445v1)** | 2026-01-14 |  |
-| **[See More, Store Less: Memory-Efficient Resolution for Video Moment Retrieval](https://arxiv.org/abs/2601.09350v1)** | 2026-01-14 |  |
-| **[$A^3$-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation](https://arxiv.org/abs/2601.09274v1)** | 2026-01-14 |  |
-| **[Investigating Tool-Memory Conflicts in Tool-Augmented LLMs](https://arxiv.org/abs/2601.09760v1)** | 2026-01-14 | <details><summary>R2-FM...</summary><p>R2-FM Workshop @ ICML 2025</p></details> |
-| **[The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113v1)** | 2026-01-14 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
