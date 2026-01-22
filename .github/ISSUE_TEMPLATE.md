@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Medical LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Automated Rubrics for Reliable Evaluation of Medical Dialogue Systems](https://arxiv.org/abs/2601.15161v1)** | 2026-01-21 |  |
 | **[Improving the Safety and Trustworthiness of Medical AI via Multi-Agent Evaluation Loops](https://arxiv.org/abs/2601.13268v1)** | 2026-01-19 |  |
 | **[Do Clinical Question Answering Systems Really Need Specialised Medical Fine Tuning?](https://arxiv.org/abs/2601.12812v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted at EACL 2026 (Industry Track)</p></details> |
 | **[Knowing When to Abstain: Medical LLMs Under Clinical Uncertainty](https://arxiv.org/abs/2601.12471v1)** | 2026-01-18 | <details><summary>Equal...</summary><p>Equal contribution for the first two authors; To appear in proceedings of the Main Conference of the European Chapter of the Association for Computational Linguistics (EACL) 2026</p></details> |
@@ -40,30 +41,34 @@ labels: documentation
 | **[Rethinking Retrieval-Augmented Generation for Medicine: A Large-Scale, Systematic Expert Evaluation and Practical Insights](https://arxiv.org/abs/2511.06738v1)** | 2025-11-10 | 34 pages, 6 figures |
 | **[MedRECT: A Medical Reasoning Benchmark for Error Correction in Clinical Texts](https://arxiv.org/abs/2511.00421v1)** | 2025-11-01 |  |
 | **[A Memory-Efficient Retrieval Architecture for RAG-Enabled Wearable Medical LLMs-Agents](https://arxiv.org/abs/2510.27107v1)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted by BioCAS2025</p></details> |
-| **[Dissecting Role Cognition in Medical LLMs via Neuronal Ablation](https://arxiv.org/abs/2510.24677v1)** | 2025-10-28 | 15 pages, 9 figures |
 
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation](https://arxiv.org/abs/2601.15124v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted by the Web Conference 2026 (Research Track)</p></details> |
+| **[Memory Retention Is Not Enough to Master Memory Tasks in Reinforcement Learning](https://arxiv.org/abs/2601.15086v1)** | 2026-01-21 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[Fractional Diffusion on Graphs: Superposition of Laplacian Semigroups and Memory](https://arxiv.org/abs/2601.14977v1)** | 2026-01-21 | 47 pages, 4 figures |
+| **[SpatialMem: Unified 3D Memory with Metric Anchoring and Fast Retrieval](https://arxiv.org/abs/2601.14895v1)** | 2026-01-21 |  |
+| **[HiNS: Hierarchical Negative Sampling for More Comprehensive Memory Retrieval Embedding Model](https://arxiv.org/abs/2601.14857v1)** | 2026-01-21 |  |
+| **[HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding](https://arxiv.org/abs/2601.14724v1)** | 2026-01-21 |  |
+| **[QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design](https://arxiv.org/abs/2601.14549v1)** | 2026-01-21 |  |
+| **[CMind: An AI Agent for Localizing C Memory Bugs](https://arxiv.org/abs/2601.14434v1)** | 2026-01-20 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. To be published in 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026)</p></details> |
+| **[Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/abs/2601.14192v1)** | 2026-01-20 | <details><summary>35 pa...</summary><p>35 pages, 200 references</p></details> |
+| **[EEG-Titans: Long-Horizon Seizure Forecasting via Dual-Branch Attention and Neural Memory](https://arxiv.org/abs/2601.13748v1)** | 2026-01-20 |  |
+| **[OP-Bench: Benchmarking Over-Personalization for Memory-Augmented Personalized Conversational Agents](https://arxiv.org/abs/2601.13722v1)** | 2026-01-20 |  |
+| **[PRIMAL: Processing-In-Memory Based Low-Rank Adaptation for LLM Inference Accelerator](https://arxiv.org/abs/2601.13628v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE International Symposium on Circuits and Systems (ISCAS'26)</p></details> |
 | **[LLM-as-RNN: A Recurrent Language Model for Memory Updates and Sequence Prediction](https://arxiv.org/abs/2601.13352v1)** | 2026-01-19 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 6 tables</p></details> |
 | **[OPTIMUM-DERAM: Highly Consistent, Scalable, and Secure Multi-Object Memory using RLNC](https://arxiv.org/abs/2601.13146v1)** | 2026-01-19 |  |
 | **[Gated Differentiable Working Memory for Long-Context Language Modeling](https://arxiv.org/abs/2601.12906v1)** | 2026-01-19 |  |
-| **[Who Does This Name Remind You of? Nationality Prediction via Large Language Model Associative Memory](https://arxiv.org/abs/2601.12771v1)** | 2026-01-19 |  |
-| **[SplittingSecrets: A Compiler-Based Defense for Preventing Data Memory-Dependent Prefetcher Side-Channels](https://arxiv.org/abs/2601.12270v1)** | 2026-01-18 |  |
-| **[CroBIM-V: Memory-Quality Controlled Remote Sensing Referring Video Object Segmentation](https://arxiv.org/abs/2601.12076v1)** | 2026-01-17 |  |
-| **[$\texttt{MemoryRewardBench}$: Benchmarking Reward Models for Long-Term Memory Management in Large Language Models](https://arxiv.org/abs/2601.11969v1)** | 2026-01-17 |  |
-| **[LSTM-MAS: A Long Short-Term Memory Inspired Multi-Agent System for Long-Context Understanding](https://arxiv.org/abs/2601.11913v1)** | 2026-01-17 | 12 pages, 5 figures |
-| **[Age-Based Scheduling for a Memory-Constrained Quantum Switch](https://arxiv.org/abs/2601.11698v1)** | 2026-01-16 |  |
-| **[Temporal Complexity and Self-Organization in an Exponential Dense Associative Memory Model](https://arxiv.org/abs/2601.11478v1)** | 2026-01-16 |  |
-| **[HOSL: Hybrid-Order Split Learning for Memory-Constrained Edge Training](https://arxiv.org/abs/2601.10940v1)** | 2026-01-16 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 6 tables. Submitted to WiOpt 2026</p></details> |
-| **[Grounding Agent Memory in Contextual Intent](https://arxiv.org/abs/2601.10702v1)** | 2026-01-15 |  |
-| **[AI Agents Need Memory Control Over More Context](https://arxiv.org/abs/2601.11653v1)** | 2026-01-15 | 32 pages, 7 figures |
-| **[LOOKAT: Lookup-Optimized Key-Attention for Memory-Efficient Transformers](https://arxiv.org/abs/2601.10155v1)** | 2026-01-15 |  |
-| **[Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts](https://arxiv.org/abs/2601.10079v1)** | 2026-01-15 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LiViBench: An Omnimodal Benchmark for Interactive Livestream Video Understanding](https://arxiv.org/abs/2601.15016v1)** | 2026-01-21 | AAAI 2026 Main Track |
+| **[HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding](https://arxiv.org/abs/2601.14724v1)** | 2026-01-21 |  |
+| **[Two-Stream temporal transformer for video action classification](https://arxiv.org/abs/2601.14086v1)** | 2026-01-20 |  |
+| **[STEC: A Reference-Free Spatio-Temporal Entropy Coverage Metric for Evaluating Sampled Video Frames](https://arxiv.org/abs/2601.13974v1)** | 2026-01-20 | <details><summary>This ...</summary><p>This paper corresponds to the camera-ready version of a WACV 2026 Workshop paper</p></details> |
+| **[Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search](https://arxiv.org/abs/2601.13719v1)** | 2026-01-20 |  |
 | **[Think-Clip-Sample: Slow-Fast Frame Selection for Video Understanding](https://arxiv.org/abs/2601.11359v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
 | **[Efficient On-Board Processing of Oblique UAV Video for Rapid Flood Extent Mapping](https://arxiv.org/abs/2601.11290v1)** | 2026-01-16 |  |
 | **[CURVE: A Benchmark for Cultural and Multilingual Long Video Reasoning](https://arxiv.org/abs/2601.10649v1)** | 2026-01-15 |  |
@@ -74,9 +79,4 @@ labels: documentation
 | **[Advancing Adaptive Multi-Stage Video Anomaly Reasoning: A Benchmark Dataset and Method](https://arxiv.org/abs/2601.10165v1)** | 2026-01-15 |  |
 | **[Video Joint-Embedding Predictive Architectures for Facial Expression Recognition](https://arxiv.org/abs/2601.09524v1)** | 2026-01-14 | <details><summary>To ap...</summary><p>To appear in 2025 Proceedings of the 13th International Conference on Affective Computing and Intelligent Interaction (ACII), submitted to IEEE. \c{opyright} 2025 IEEE</p></details> |
 | **[See More, Store Less: Memory-Efficient Resolution for Video Moment Retrieval](https://arxiv.org/abs/2601.09350v1)** | 2026-01-14 |  |
-| **[Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2](https://arxiv.org/abs/2601.08408v1)** | 2026-01-13 | <details><summary>The T...</summary><p>The Tenth International Conference on Data Mining and Big Data (DMBD'2025)</p></details> |
-| **[CASHEW: Stabilizing Multimodal Reasoning via Iterative Trajectory Aggregation](https://arxiv.org/abs/2601.08010v1)** | 2026-01-12 |  |
-| **[Video Evidence to Reasoning Efficient Video Understanding via Explicit Evidence Grounding](https://arxiv.org/abs/2601.07761v1)** | 2026-01-12 | 6 pages |
-| **[Mimic Human Cognition, Master Multi-Image Reasoning: A Meta-Action Framework for Enhanced Visual Understanding](https://arxiv.org/abs/2601.07298v1)** | 2026-01-12 |  |
-| **[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](https://arxiv.org/abs/2601.07290v1)** | 2026-01-12 |  |
 
