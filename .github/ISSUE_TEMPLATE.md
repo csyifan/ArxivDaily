@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 25, 2026
+title: Latest 15 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,14 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Atom to Community: Structured and Evolving Agent Memory for User Behavior Modeling](https://arxiv.org/abs/2601.16872v1)** | 2026-01-23 |  |
+| **[EMemBench: Interactive Benchmarking of Episodic Memory for VLM Agents](https://arxiv.org/abs/2601.16690v1)** | 2026-01-23 | 25 pages |
+| **[How Does Personalized Memory Shape LLM Behavior? Benchmarking Rational Preference Utilization in Personalized Assistants](https://arxiv.org/abs/2601.16621v1)** | 2026-01-23 |  |
+| **[Process-Tensor Tomography of SGD: Measuring Non-Markovian Memory via Back-Flow of Distinguishability](https://arxiv.org/abs/2601.16563v1)** | 2026-01-23 | <details><summary>to be...</summary><p>to be published in the 29th International Conference on Artificial Intelligence and Statistics, in Proceedings of Machine Learning Research</p></details> |
+| **[W4A16 Mixed-Precision Matrix Multiplication on Decoupled Architecture: Kernel Design and Memory Bottleneck Analysis for Ascend NPUs](https://arxiv.org/abs/2601.16536v1)** | 2026-01-23 |  |
+| **[A Collision-Free Hot-Tier Extension for Engram-Style Conditional Memory: A Controlled Study of Training Dynamics](https://arxiv.org/abs/2601.16531v1)** | 2026-01-23 |  |
+| **[Brownian ReLU(Br-ReLU): A New Activation Function for a Long-Short Term Memory (LSTM) Network](https://arxiv.org/abs/2601.16446v1)** | 2026-01-23 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 6 tables</p></details> |
+| **[Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory](https://arxiv.org/abs/2601.16296v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project page: https://dohunlee1.github.io/MemoryV2V</p></details> |
 | **[AgentSM: Semantic Memory for Agentic Text-to-SQL](https://arxiv.org/abs/2601.15709v1)** | 2026-01-22 |  |
 | **[Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation](https://arxiv.org/abs/2601.15124v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted by the Web Conference 2026 (Research Track)</p></details> |
 | **[Memory Retention Is Not Enough to Master Memory Tasks in Reinforcement Learning](https://arxiv.org/abs/2601.15086v1)** | 2026-01-21 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
@@ -52,14 +60,6 @@ labels: documentation
 | **[SpatialMem: Unified 3D Memory with Metric Anchoring and Fast Retrieval](https://arxiv.org/abs/2601.14895v1)** | 2026-01-21 |  |
 | **[HiNS: Hierarchical Negative Sampling for More Comprehensive Memory Retrieval Embedding Model](https://arxiv.org/abs/2601.14857v1)** | 2026-01-21 |  |
 | **[HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding](https://arxiv.org/abs/2601.14724v1)** | 2026-01-21 |  |
-| **[QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design](https://arxiv.org/abs/2601.14549v1)** | 2026-01-21 |  |
-| **[CMind: An AI Agent for Localizing C Memory Bugs](https://arxiv.org/abs/2601.14434v1)** | 2026-01-20 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. To be published in 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026)</p></details> |
-| **[Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/abs/2601.14192v1)** | 2026-01-20 | <details><summary>35 pa...</summary><p>35 pages, 200 references</p></details> |
-| **[EEG-Titans: Long-Horizon Seizure Forecasting via Dual-Branch Attention and Neural Memory](https://arxiv.org/abs/2601.13748v1)** | 2026-01-20 |  |
-| **[OP-Bench: Benchmarking Over-Personalization for Memory-Augmented Personalized Conversational Agents](https://arxiv.org/abs/2601.13722v1)** | 2026-01-20 |  |
-| **[PRIMAL: Processing-In-Memory Based Low-Rank Adaptation for LLM Inference Accelerator](https://arxiv.org/abs/2601.13628v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE International Symposium on Circuits and Systems (ISCAS'26)</p></details> |
-| **[LLM-as-RNN: A Recurrent Language Model for Memory Updates and Sequence Prediction](https://arxiv.org/abs/2601.13352v1)** | 2026-01-19 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 6 tables</p></details> |
-| **[OPTIMUM-DERAM: Highly Consistent, Scalable, and Secure Multi-Object Memory using RLNC](https://arxiv.org/abs/2601.13146v1)** | 2026-01-19 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
