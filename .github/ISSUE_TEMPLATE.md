@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,10 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TokenSeek: Memory Efficient Fine Tuning via Instance-Aware Token Ditching](https://arxiv.org/abs/2601.19739v1)** | 2026-01-27 | ICLR 2026 |
+| **[Tactile Memory with Soft Robot: Robust Object Insertion via Masked Encoding and Soft Wrist](https://arxiv.org/abs/2601.19275v1)** | 2026-01-27 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[GLOVE: Global Verifier for LLM Memory-Environment Realignment](https://arxiv.org/abs/2601.19249v1)** | 2026-01-27 |  |
+| **[MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution](https://arxiv.org/abs/2601.19199v1)** | 2026-01-27 |  |
 | **[Dep-Search: Learning Dependency-Aware Reasoning Traces with Persistent Memory](https://arxiv.org/abs/2601.18771v1)** | 2026-01-26 | <details><summary>Dep-S...</summary><p>Dep-Search 1st version</p></details> |
 | **[FadeMem: Biologically-Inspired Forgetting for Efficient Agent Memory](https://arxiv.org/abs/2601.18642v1)** | 2026-01-26 |  |
 | **[KeyMemRT Compiler and Runtime: Unlocking Memory-Scalable FHE](https://arxiv.org/abs/2601.18445v1)** | 2026-01-26 |  |
@@ -52,18 +56,15 @@ labels: documentation
 | **[MemWeaver: Weaving Hybrid Memories for Traceable Long-Horizon Agentic Reasoning](https://arxiv.org/abs/2601.18204v1)** | 2026-01-26 |  |
 | **[Memory-Efficient FPGA Implementation of Stochastic Simulated Annealing](https://arxiv.org/abs/2601.18007v1)** | 2026-01-25 | 11 pages |
 | **[S$^3$-Attention:Attention-Aligned Endogenous Retrieval for Memory-Bounded Long-Context Inference](https://arxiv.org/abs/2601.17702v1)** | 2026-01-25 |  |
-| **[Memento: Towards Proactive Visualization of Everyday Memories with Personal Wearable AR Assistant](https://arxiv.org/abs/2601.17622v1)** | 2026-01-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. This is the author's version of the article that will appear at the IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW) 2026</p></details> |
+| **[Memento: Towards Proactive Visualization of Everyday Memories with Personal Wearable AR Assistant](https://arxiv.org/abs/2601.17622v2)** | 2026-01-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. This is the author's version of the article that will appear at the IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW) 2026</p></details> |
 | **[Clustering-driven Memory Compression for On-device Large Language Models](https://arxiv.org/abs/2601.17443v1)** | 2026-01-24 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[ClinNet: Evidential Ordinal Regression with Bilateral Asymmetry and Prototype Memory for Knee Osteoarthritis Grading](https://arxiv.org/abs/2601.17315v1)** | 2026-01-24 | 12 pages |
 | **[From Atom to Community: Structured and Evolving Agent Memory for User Behavior Modeling](https://arxiv.org/abs/2601.16872v2)** | 2026-01-26 |  |
-| **[EMemBench: Interactive Benchmarking of Episodic Memory for VLM Agents](https://arxiv.org/abs/2601.16690v1)** | 2026-01-23 | 25 pages |
-| **[How Does Personalized Memory Shape LLM Behavior? Benchmarking Rational Preference Utilization in Personalized Assistants](https://arxiv.org/abs/2601.16621v1)** | 2026-01-23 |  |
-| **[Process-Tensor Tomography of SGD: Measuring Non-Markovian Memory via Back-Flow of Distinguishability](https://arxiv.org/abs/2601.16563v1)** | 2026-01-23 | <details><summary>to be...</summary><p>to be published in the 29th International Conference on Artificial Intelligence and Statistics, in Proceedings of Machine Learning Research</p></details> |
-| **[W4A16 Mixed-Precision Matrix Multiplication on Decoupled Architecture: Kernel Design and Memory Bottleneck Analysis for Ascend NPUs](https://arxiv.org/abs/2601.16536v1)** | 2026-01-23 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Video-KTR: Reinforcing Video Reasoning via Key Token Attribution](https://arxiv.org/abs/2601.19686v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[Agentic Very Long Video Understanding](https://arxiv.org/abs/2601.18157v1)** | 2026-01-26 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 8 tables</p></details> |
 | **[Spatial-Conditioned Reasoning in Long-Egocentric Videos](https://arxiv.org/abs/2601.18100v1)** | 2026-01-26 |  |
 | **[VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding](https://arxiv.org/abs/2601.17868v1)** | 2026-01-25 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[STEC: A Reference-Free Spatio-Temporal Entropy Coverage Metric for Evaluating Sampled Video Frames](https://arxiv.org/abs/2601.13974v1)** | 2026-01-20 | <details><summary>This ...</summary><p>This paper corresponds to the camera-ready version of a WACV 2026 Workshop paper</p></details> |
 | **[Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search](https://arxiv.org/abs/2601.13719v1)** | 2026-01-20 |  |
 | **[Think-Clip-Sample: Slow-Fast Frame Selection for Video Understanding](https://arxiv.org/abs/2601.11359v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
-| **[Efficient On-Board Processing of Oblique UAV Video for Rapid Flood Extent Mapping](https://arxiv.org/abs/2601.11290v1)** | 2026-01-16 |  |
 
