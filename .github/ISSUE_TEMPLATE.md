@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 28, 2026
+title: Latest 15 Papers - January 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,14 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents](https://arxiv.org/abs/2601.20831v1)** | 2026-01-28 |  |
+| **[Data-driven sparse identification of vector-borne disease dynamics with memory effects](https://arxiv.org/abs/2601.20591v1)** | 2026-01-28 |  |
+| **[BMAM: Brain-inspired Multi-Agent Memory Framework](https://arxiv.org/abs/2601.20465v1)** | 2026-01-28 | <details><summary>Submi...</summary><p>Submitted to ACL (ARR 2026 January submission); non-anonymous preprint</p></details> |
+| **[Remember Me, Not Save Me: A Collective Memory System for Evolving Virtual Identities in Augmented Reality](https://arxiv.org/abs/2601.20437v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ACM SIGGRAPH VRCAI 2025 (Macau, China). 4 pages, 5 figures. DOI: 10.1145/3779232.3779468</p></details> |
+| **[AMA: Adaptive Memory via Multi-Agent Collaboration](https://arxiv.org/abs/2601.20352v1)** | 2026-01-28 | 8 pages |
+| **[SuperInfer: SLO-Aware Rotary Scheduling and Memory Management for LLM Inference on Superchips](https://arxiv.org/abs/2601.20309v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted by MLSys '26</p></details> |
+| **[Memory Retrieval in Transformers: Insights from The Encoding Specificity Principle](https://arxiv.org/abs/2601.20282v1)** | 2026-01-28 |  |
+| **[MALLOC: Benchmarking the Memory-aware Long Sequence Compression for Large Sequential Recommendation](https://arxiv.org/abs/2601.20234v1)** | 2026-01-28 |  |
 | **[TokenSeek: Memory Efficient Fine Tuning via Instance-Aware Token Ditching](https://arxiv.org/abs/2601.19739v1)** | 2026-01-27 | ICLR 2026 |
 | **[Tactile Memory with Soft Robot: Robust Object Insertion via Masked Encoding and Soft Wrist](https://arxiv.org/abs/2601.19275v1)** | 2026-01-27 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[GLOVE: Global Verifier for LLM Memory-Environment Realignment](https://arxiv.org/abs/2601.19249v1)** | 2026-01-27 |  |
@@ -52,14 +60,6 @@ labels: documentation
 | **[Dep-Search: Learning Dependency-Aware Reasoning Traces with Persistent Memory](https://arxiv.org/abs/2601.18771v1)** | 2026-01-26 | <details><summary>Dep-S...</summary><p>Dep-Search 1st version</p></details> |
 | **[FadeMem: Biologically-Inspired Forgetting for Efficient Agent Memory](https://arxiv.org/abs/2601.18642v1)** | 2026-01-26 |  |
 | **[KeyMemRT Compiler and Runtime: Unlocking Memory-Scalable FHE](https://arxiv.org/abs/2601.18445v1)** | 2026-01-26 |  |
-| **[Larger than memory image processing](https://arxiv.org/abs/2601.18407v1)** | 2026-01-26 | 10 pages |
-| **[MemWeaver: Weaving Hybrid Memories for Traceable Long-Horizon Agentic Reasoning](https://arxiv.org/abs/2601.18204v1)** | 2026-01-26 |  |
-| **[Memory-Efficient FPGA Implementation of Stochastic Simulated Annealing](https://arxiv.org/abs/2601.18007v1)** | 2026-01-25 | 11 pages |
-| **[S$^3$-Attention:Attention-Aligned Endogenous Retrieval for Memory-Bounded Long-Context Inference](https://arxiv.org/abs/2601.17702v1)** | 2026-01-25 |  |
-| **[Memento: Towards Proactive Visualization of Everyday Memories with Personal Wearable AR Assistant](https://arxiv.org/abs/2601.17622v2)** | 2026-01-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. This is the author's version of the article that will appear at the IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW) 2026</p></details> |
-| **[Clustering-driven Memory Compression for On-device Large Language Models](https://arxiv.org/abs/2601.17443v1)** | 2026-01-24 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
-| **[ClinNet: Evidential Ordinal Regression with Bilateral Asymmetry and Prototype Memory for Knee Osteoarthritis Grading](https://arxiv.org/abs/2601.17315v1)** | 2026-01-24 | 12 pages |
-| **[From Atom to Community: Structured and Evolving Agent Memory for User Behavior Modeling](https://arxiv.org/abs/2601.16872v2)** | 2026-01-26 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
