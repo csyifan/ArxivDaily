@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 04, 2026
+title: Latest 15 Papers - February 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Legendre Memory Unit with A Multi-Slice Compensation Model for Short-Term Wind Speed Forecasting Based on Wind Farm Cluster Data](https://arxiv.org/abs/2602.04782v1)** | 2026-02-04 | <details><summary>10 pa...</summary><p>10 pages, 11 figures,</p></details> |
+| **[Harmonia: Algorithm-Hardware Co-Design for Memory- and Compute-Efficient BFP-based LLM Inference](https://arxiv.org/abs/2602.04595v1)** | 2026-02-04 |  |
+| **[Can Vision Replace Text in Working Memory? Evidence from Spatial n-Back in Vision-Language Models](https://arxiv.org/abs/2602.04355v1)** | 2026-02-04 |  |
+| **[A computational account of dreaming: learning and memory consolidation](https://arxiv.org/abs/2602.04095v1)** | 2026-02-04 | <details><summary>30 pa...</summary><p>30 pages, 4 tables, 2 figures</p></details> |
+| **[A Comparative Study of Digital Memristor-Based Processing-In-Memory from a Device and Reliability Perspective](https://arxiv.org/abs/2602.04035v1)** | 2026-02-03 | <details><summary>23 pa...</summary><p>23 pages, 12 figures, 3 tables, invited review paper, published in: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202500348, T. Neuner and H. Padberg contributed equally to the work, S. Kvatinsky is the corresponding author</p></details> |
 | **[Soft Sensor for Bottom-Hole Pressure Estimation in Petroleum Wells Using Long Short-Term Memory and Transfer Learning](https://arxiv.org/abs/2602.03737v1)** | 2026-02-03 |  |
 | **[MeKi: Memory-based Expert Knowledge Injection for Efficient LLM Scaling](https://arxiv.org/abs/2602.03359v1)** | 2026-02-03 |  |
 | **[Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://arxiv.org/abs/2602.03315v1)** | 2026-02-03 |  |
@@ -17,15 +22,13 @@ labels: documentation
 | **[InfMem: Learning System-2 Memory Control for Long-Context Agent](https://arxiv.org/abs/2602.02704v1)** | 2026-02-02 |  |
 | **[MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://arxiv.org/abs/2602.02474v1)** | 2026-02-02 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/MemSkill</p></details> |
 | **[Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](https://arxiv.org/abs/2602.02393v2)** | 2026-02-03 | <details><summary>proje...</summary><p>project page: https://rq-wu.github.io/projects/infinite-world/index.html</p></details> |
-| **[Live-Evo: Online Evolution of Agentic Memory from Continuous Feedback](https://arxiv.org/abs/2602.02369v1)** | 2026-02-02 | 13 pages |
-| **[Out of the Memory Barrier: A Highly Memory Efficient Training System for LLMs with Million-Token Contexts](https://arxiv.org/abs/2602.02108v1)** | 2026-02-02 |  |
-| **[Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007v1)** | 2026-02-02 |  |
-| **[ProcMEM: Learning Reusable Procedural Memory from Experience via Non-Parametric PPO for LLM Agents](https://arxiv.org/abs/2602.01869v1)** | 2026-02-02 | <details><summary>20 Pa...</summary><p>20 Pages, 6 Figures, 4 Tables</p></details> |
-| **[Transformers as Measure-Theoretic Associative Memory: A Statistical Perspective and Minimax Optimality](https://arxiv.org/abs/2602.01863v1)** | 2026-02-02 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://arxiv.org/abs/2602.04804v1)** | 2026-02-04 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
+| **[VTok: A Unified Video Tokenizer with Decoupled Spatial-Temporal Latents](https://arxiv.org/abs/2602.04202v1)** | 2026-02-04 |  |
+| **[VideoBrain: Learning Adaptive Frame Sampling for Long Video Understanding](https://arxiv.org/abs/2602.04094v1)** | 2026-02-04 |  |
 | **[KTV: Keyframes and Key Tokens Selection for Efficient Training-Free Video LLMs](https://arxiv.org/abs/2602.03615v1)** | 2026-02-03 |  |
 | **[SlowFocus: Enhancing Fine-grained Temporal Understanding in Video LLM](https://arxiv.org/abs/2602.03589v1)** | 2026-02-03 | NeurIPS 2024 |
 | **[Morphe: High-Fidelity Generative Video Streaming with Vision Foundation Model](https://arxiv.org/abs/2602.03529v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted by NSDI 2026 Fall</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[TimeBlind: A Spatio-Temporal Compositionality Benchmark for Video LLMs](https://arxiv.org/abs/2602.00288v1)** | 2026-01-30 | <details><summary>For c...</summary><p>For code and data, see https://baiqi-li.github.io/timeblind_project/</p></details> |
 | **[Structured Over Scale: Learning Spatial Reasoning from Educational Video](https://arxiv.org/abs/2601.23251v1)** | 2026-01-30 |  |
 | **[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224v1)** | 2026-01-30 | <details><summary>24 pa...</summary><p>24 pages, 15 figures, 11 tables</p></details> |
-| **[Mitigating Hallucinations in Video Large Language Models via Spatiotemporal-Semantic Contrastive Decoding](https://arxiv.org/abs/2601.22574v1)** | 2026-01-30 | Preprint |
-| **[Understanding Multimodal Complementarity for Single-Frame Action Anticipation](https://arxiv.org/abs/2601.22039v1)** | 2026-01-29 |  |
-| **[SONIC-O1: A Real-World Benchmark for Evaluating Multimodal Large Language Models on Audio-Video Understanding](https://arxiv.org/abs/2601.21666v1)** | 2026-01-29 |  |
 
 ## Medical Agent
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Continuous Control of Editing Models via Adaptive-Origin Guidance](https://arxiv.org/abs/2602.03826v1)** | 2026-02-03 | <details><summary>Proje...</summary><p>Project page at https://adaor-paper.github.io/</p></details> |
-| **[Inference-time Unlearning Using Conformal Prediction](https://arxiv.org/abs/2602.03787v1)** | 2026-02-03 |  |
-| **[Reasoning with Latent Tokens in Diffusion Language Models](https://arxiv.org/abs/2602.03769v1)** | 2026-02-03 |  |
-| **[Test-Time Conditioning with Representation-Aligned Visual Features](https://arxiv.org/abs/2602.03753v1)** | 2026-02-03 |  |
-| **[Mitigating Conversational Inertia in Multi-Turn Agents](https://arxiv.org/abs/2602.03664v1)** | 2026-02-03 |  |
-| **[Tutorial on Reasoning for IR & IR for Reasoning](https://arxiv.org/abs/2602.03640v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to ECIR 2026</p></details> |
-| **[APEX: Probing Neural Networks via Activation Perturbation](https://arxiv.org/abs/2602.03586v1)** | 2026-02-03 |  |
-| **[MatGPTQ: Accurate and Efficient Post-Training Matryoshka Quantization](https://arxiv.org/abs/2602.03537v1)** | 2026-02-03 | Preprint |
-| **[Lookahead Path Likelihood Optimization for Diffusion LLMs](https://arxiv.org/abs/2602.03496v1)** | 2026-02-03 |  |
-| **[RankSteer: Activation Steering for Pointwise LLM Ranking](https://arxiv.org/abs/2602.03422v1)** | 2026-02-03 |  |
-| **[PokeFusion Attention: Enhancing Reference-Free Style-Conditioned Generation](https://arxiv.org/abs/2602.03220v1)** | 2026-02-03 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Under review at IJCNN 2026</p></details> |
-| **[Spectral Evolution Search: Efficient Inference-Time Scaling for Reward-Aligned Image Generation](https://arxiv.org/abs/2602.03208v1)** | 2026-02-03 |  |
-| **[Consensus Group Relative Policy Optimization for Text Generation](https://arxiv.org/abs/2602.03102v1)** | 2026-02-03 |  |
-| **[Rethinking Music Captioning with Music Metadata LLMs](https://arxiv.org/abs/2602.03023v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
-| **[Large Language Models Can Take False First Steps at Inference-time Planning](https://arxiv.org/abs/2602.02991v1)** | 2026-02-03 |  |
+| **[When LLaVA Meets Objects: Token Composition for Vision-Language-Models](https://arxiv.org/abs/2602.04864v1)** | 2026-02-04 |  |
+| **[Generative Modeling via Drifting](https://arxiv.org/abs/2602.04770v1)** | 2026-02-04 | <details><summary>Proje...</summary><p>Project page: https://lambertae.github.io/projects/drifting/</p></details> |
+| **[Beyond Many-Shot Translation: Scaling In-Context Demonstrations For Low-Resource Machine Translation](https://arxiv.org/abs/2602.04764v1)** | 2026-02-04 | <details><summary>8 pag...</summary><p>8 pages, 18 figures, EACL 2026 Conference - LoResMT workshop</p></details> |
+| **[Inference-Time Reasoning Selectively Reduces Implicit Social Bias in Large Language Models](https://arxiv.org/abs/2602.04742v1)** | 2026-02-04 |  |
+| **[Addressing Corpus Knowledge Poisoning Attacks on RAG Using Sparse Attention](https://arxiv.org/abs/2602.04711v1)** | 2026-02-04 |  |
+| **[Inference-Time Backdoors via Hidden Instructions in LLM Chat Templates](https://arxiv.org/abs/2602.04653v1)** | 2026-02-04 |  |
+| **[$C$-$ΔΘ$: Circuit-Restricted Weight Arithmetic for Selective Refusal](https://arxiv.org/abs/2602.04521v1)** | 2026-02-04 |  |
+| **[UnMaskFork: Test-Time Scaling for Masked Diffusion via Deterministic Action Branching](https://arxiv.org/abs/2602.04344v1)** | 2026-02-04 |  |
+| **[Proxy Compression for Language Modeling](https://arxiv.org/abs/2602.04289v1)** | 2026-02-04 |  |
+| **[Empirical-MCTS: Continuous Agent Evolution via Dual-Experience Monte Carlo Tree Search](https://arxiv.org/abs/2602.04248v1)** | 2026-02-04 | 9 pages, 5 figures |
+| **[OAT: Ordered Action Tokenization](https://arxiv.org/abs/2602.04215v1)** | 2026-02-04 |  |
+| **[Semantic Consensus Decoding: Backdoor Defense for Verilog Code Generation](https://arxiv.org/abs/2602.04195v1)** | 2026-02-04 | Under Review |
+| **[PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion](https://arxiv.org/abs/2602.04160v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
+| **[CoRe: Context-Robust Remasking for Diffusion Language Models](https://arxiv.org/abs/2602.04096v1)** | 2026-02-04 |  |
+| **[Scaling In-Context Online Learning Capability of LLMs via Cross-Episode Meta-RL](https://arxiv.org/abs/2602.04089v1)** | 2026-02-03 |  |
 
