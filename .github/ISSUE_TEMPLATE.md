@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 08, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parameter-free Dynamic Regret: Time-varying Movement Costs, Delayed Feedback, and Memory](https://arxiv.org/abs/2602.06902v1)** | 2026-02-06 |  |
+| **[Memory-Conditioned Flow-Matching for Stable Autoregressive PDE Rollouts](https://arxiv.org/abs/2602.06689v1)** | 2026-02-06 |  |
 | **[Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/abs/2602.06025v1)** | 2026-02-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/BudgetMem</p></details> |
 | **[Learning to Share: Selective Memory for Efficient Parallel Agentic Systems](https://arxiv.org/abs/2602.05965v1)** | 2026-02-05 |  |
 | **[UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents](https://arxiv.org/abs/2602.05832v1)** | 2026-02-05 | <details><summary>23 pa...</summary><p>23 pages, 16 figures. Project page: https://ui-mem.github.io</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Can Vision Replace Text in Working Memory? Evidence from Spatial n-Back in Vision-Language Models](https://arxiv.org/abs/2602.04355v1)** | 2026-02-04 |  |
 | **[A computational account of dreaming: learning and memory consolidation](https://arxiv.org/abs/2602.04095v1)** | 2026-02-04 | <details><summary>30 pa...</summary><p>30 pages, 4 tables, 2 figures</p></details> |
 | **[A Comparative Study of Digital Memristor-Based Processing-In-Memory from a Device and Reliability Perspective](https://arxiv.org/abs/2602.04035v1)** | 2026-02-03 | <details><summary>23 pa...</summary><p>23 pages, 12 figures, 3 tables, invited review paper, published in: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202500348, T. Neuner and H. Padberg contributed equally to the work, S. Kvatinsky is the corresponding author</p></details> |
-| **[Soft Sensor for Bottom-Hole Pressure Estimation in Petroleum Wells Using Long Short-Term Memory and Transfer Learning](https://arxiv.org/abs/2602.03737v1)** | 2026-02-03 |  |
-| **[MeKi: Memory-based Expert Knowledge Injection for Efficient LLM Scaling](https://arxiv.org/abs/2602.03359v1)** | 2026-02-03 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CauCLIP: Bridging the Sim-to-Real Gap in Surgical Video Understanding via Causality-Inspired Vision-Language Modeling](https://arxiv.org/abs/2602.06619v1)** | 2026-02-06 |  |
 | **[UniSurg: A Video-Native Foundation Model for Universal Understanding of Surgical Videos](https://arxiv.org/abs/2602.05638v1)** | 2026-02-05 |  |
 | **[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://arxiv.org/abs/2602.04804v1)** | 2026-02-04 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
 | **[VTok: A Unified Video Tokenizer with Decoupled Spatial-Temporal Latents](https://arxiv.org/abs/2602.04202v1)** | 2026-02-04 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Exposing and Defending the Achilles' Heel of Video Mixture-of-Experts](https://arxiv.org/abs/2602.01369v1)** | 2026-02-01 |  |
 | **[Video Understanding: Through A Temporal Lens](https://arxiv.org/abs/2602.00683v1)** | 2026-01-31 | <details><summary>PhD T...</summary><p>PhD Thesis, NUS, 2025</p></details> |
 | **[TimeBlind: A Spatio-Temporal Compositionality Benchmark for Video LLMs](https://arxiv.org/abs/2602.00288v1)** | 2026-01-30 | <details><summary>For c...</summary><p>For code and data, see https://baiqi-li.github.io/timeblind_project/</p></details> |
-| **[Structured Over Scale: Learning Spatial Reasoning from Educational Video](https://arxiv.org/abs/2601.23251v1)** | 2026-01-30 |  |
 
 ## Medical Agent
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning](https://arxiv.org/abs/2602.06041v1)** | 2026-02-05 |  |
-| **[Correctness-Optimized Residual Activation Lens (CORAL): Transferrable and Calibration-Aware Inference-Time Steering](https://arxiv.org/abs/2602.06022v1)** | 2026-02-05 |  |
-| **[Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps](https://arxiv.org/abs/2602.05993v1)** | 2026-02-05 |  |
-| **[LSA: Localized Semantic Alignment for Enhancing Temporal Consistency in Traffic Video Generation](https://arxiv.org/abs/2602.05966v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to IEEE IV 2026. 8 pages, 3 figures. Code available at https://github.com/mirlanium/LSA</p></details> |
-| **[End-to-End Compression for Tabular Foundation Models](https://arxiv.org/abs/2602.05649v1)** | 2026-02-05 |  |
-| **[Logical Guidance for the Exact Composition of Diffusion Models](https://arxiv.org/abs/2602.05549v1)** | 2026-02-05 |  |
-| **[Steering Large Reasoning Models towards Concise Reasoning via Flow Matching](https://arxiv.org/abs/2602.05539v1)** | 2026-02-05 | <details><summary>This ...</summary><p>This paper has been accepted to Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[SSG: Scaled Spatial Guidance for Multi-Scale Visual Autoregressive Generation](https://arxiv.org/abs/2602.05534v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/abs/2602.05327v1)** | 2026-02-05 |  |
-| **[MentorCollab: Selective Large-to-Small Inference-Time Guidance for Efficient Reasoning](https://arxiv.org/abs/2602.05307v1)** | 2026-02-05 |  |
-| **[Robust Inference-Time Steering of Protein Diffusion Models via Embedding Optimization](https://arxiv.org/abs/2602.05285v1)** | 2026-02-05 |  |
-| **[EGSS: Entropy-guided Stepwise Scaling for Reliable Software Engineering](https://arxiv.org/abs/2602.05242v1)** | 2026-02-05 |  |
-| **[The Single-Multi Evolution Loop for Self-Improving Model Collaboration Systems](https://arxiv.org/abs/2602.05182v1)** | 2026-02-05 | <details><summary>Code ...</summary><p>Code at https://github.com/BunsenFeng/moco_distill</p></details> |
-| **[RAG without Forgetting: Continual Query-Infused Key Memory](https://arxiv.org/abs/2602.05152v1)** | 2026-02-05 | 24 pages, 12 figures |
-| **[Private PoEtry: Private In-Context Learning via Product of Experts](https://arxiv.org/abs/2602.05012v1)** | 2026-02-04 | 8 pages |
+| **[InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning](https://arxiv.org/abs/2602.06960v1)** | 2026-02-06 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/InftyThink-Plus Code: https://github.com/ZJU-REAL/InftyThink-Plus</p></details> |
+| **[From Core to Detail: Unsupervised Disentanglement with Entropy-Ordered Flows](https://arxiv.org/abs/2602.06940v1)** | 2026-02-06 |  |
+| **[Next-generation cyberattack detection with large language models: anomaly analysis across heterogeneous logs](https://arxiv.org/abs/2602.06777v1)** | 2026-02-06 |  |
+| **[Crowd-FM: Learned Optimal Selection of Conditional Flow Matching-generated Trajectories for Crowd Navigation](https://arxiv.org/abs/2602.06698v1)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted at IEEE ICRA 2026. Authors Antareep Singha and Laksh Nanwani have equal contributions</p></details> |
+| **[TrapSuffix: Proactive Defense Against Adversarial Suffixes in Jailbreaking](https://arxiv.org/abs/2602.06630v1)** | 2026-02-06 | 23 pages, 11 figures |
+| **[Inference-Time Rethinking with Latent Thought Vectors for Math Reasoning](https://arxiv.org/abs/2602.06584v1)** | 2026-02-06 |  |
+| **[Live Knowledge Tracing: Real-Time Adaptation using Tabular Foundation Models](https://arxiv.org/abs/2602.06542v1)** | 2026-02-06 |  |
+| **[Adaptive Uncertainty-Aware Tree Search for Robust Reasoning](https://arxiv.org/abs/2602.06493v1)** | 2026-02-06 |  |
+| **[RelayGen: Intra-Generation Model Switching for Efficient Reasoning](https://arxiv.org/abs/2602.06454v1)** | 2026-02-06 |  |
+| **[Difficulty-Estimated Policy Optimization](https://arxiv.org/abs/2602.06375v1)** | 2026-02-06 |  |
+| **[Identifying Adversary Tactics and Techniques in Malware Binaries with an LLM Agent](https://arxiv.org/abs/2602.06325v1)** | 2026-02-06 |  |
+| **[How (Not) to Hybridize Neural and Mechanistic Models for Epidemiological Forecasting](https://arxiv.org/abs/2602.06323v1)** | 2026-02-06 |  |
+| **[Zero-shot Multi-Contrast Brain MRI Registration by Intensity Randomizing T1-weighted MRI (LUMIR25)](https://arxiv.org/abs/2602.06292v1)** | 2026-02-06 | <details><summary>Submi...</summary><p>Submitted to and reviewed by Learn2Reg MICCAI 2025</p></details> |
+| **[SOCKET: SOft Collison Kernel EsTimator for Sparse Attention](https://arxiv.org/abs/2602.06283v1)** | 2026-02-06 | 11 figures, 5 tables |
+| **[Steering Safely or Off a Cliff? Rethinking Specificity and Robustness in Inference-Time Interventions](https://arxiv.org/abs/2602.06256v1)** | 2026-02-05 | <details><summary>EACL ...</summary><p>EACL 2026 Main, Long Paper</p></details> |
 
