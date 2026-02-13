@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2026
+title: Latest 15 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Keeping a Secret Requires a Good Memory: Space Lower-Bounds for Private Algorithms](https://arxiv.org/abs/2602.12209v1)** | 2026-02-12 | comments welcome |
+| **[Learning to Forget Attention: Memory Consolidation for Adaptive Compute Reduction](https://arxiv.org/abs/2602.12204v1)** | 2026-02-12 |  |
+| **[Query-focused and Memory-aware Reranker for Long Context Processing](https://arxiv.org/abs/2602.12192v1)** | 2026-02-12 | 14 pages, 2 figures |
+| **[RAM-Net: Expressive Linear Attention with Selectively Addressable Memory](https://arxiv.org/abs/2602.11958v1)** | 2026-02-12 |  |
+| **[Device-Circuit Co-Design of Variation-Resilient Read and Write Drivers for Antiferromagnetic Tunnel Junction (AFMTJ) Memories](https://arxiv.org/abs/2602.11614v1)** | 2026-02-12 | <details><summary>Inter...</summary><p>International VLSI Symposium on Technology, Systems and Applications (VLSI-TSA) 2026</p></details> |
+| **[Scene-Aware Memory Discrimination: Deciding Which Personal Knowledge Stays](https://arxiv.org/abs/2602.11607v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted by Knowledge-Based Systems. Lincense: CC BY-NC-ND</p></details> |
+| **[Recurrent Preference Memory for Efficient Long-Sequence Generative Recommendation](https://arxiv.org/abs/2602.11605v1)** | 2026-02-12 | 12 pages, 6figures |
+| **[TS-Memory: Plug-and-Play Memory for Time Series Foundation Models](https://arxiv.org/abs/2602.11550v1)** | 2026-02-12 |  |
+| **[Pretraining A Large Language Model using Distributed GPUs: A Memory-Efficient Decentralized Paradigm](https://arxiv.org/abs/2602.11543v1)** | 2026-02-12 |  |
+| **[PAM: Processing Across Memory Hierarchy for Efficient KV-centric LLM Serving System](https://arxiv.org/abs/2602.11521v1)** | 2026-02-12 | 15 pages, 13 figures |
+| **[A 16 nm 1.60TOPS/W High Utilization DNN Accelerator with 3D Spatial Data Reuse and Efficient Shared Memory Access](https://arxiv.org/abs/2602.11357v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted at ISCAS 2026 (2026 IEEE International Symposium on Circuits and Systems)</p></details> |
+| **[Predictive Associative Memory: Retrieval Beyond Similarity Through Temporal Co-occurrence](https://arxiv.org/abs/2602.11322v1)** | 2026-02-11 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, for associated Git: https://github.com/EridosAI/PAM-Benchmark</p></details> |
+| **[Evaluating Memory Structure in LLM Agents](https://arxiv.org/abs/2602.11243v1)** | 2026-02-11 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
 | **[Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents](https://arxiv.org/abs/2602.10715v1)** | 2026-02-11 | 16 pages, 8 figures |
 | **[UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory](https://arxiv.org/abs/2602.10652v1)** | 2026-02-11 |  |
-| **[Pupillometry and Brain Dynamics for Cognitive Load in Working Memory](https://arxiv.org/abs/2602.10614v1)** | 2026-02-11 | <details><summary>6 Pag...</summary><p>6 Pages, 3 Figures, 5 Tables, Code Available at: https://github.com/NusaibahFarrukh/PupillometryBrainDynamics</p></details> |
-| **[When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning](https://arxiv.org/abs/2602.10560v1)** | 2026-02-11 | 26 pages |
-| **[Scaling Routers with In-Package Optics and High-Bandwidth Memories](https://arxiv.org/abs/2602.10505v1)** | 2026-02-11 |  |
-| **[Towards Remote Sensing Change Detection with Neural Memory](https://arxiv.org/abs/2602.10491v1)** | 2026-02-11 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Geoscience & Remote Sensing</p></details> |
-| **[GPU-Fuzz: Finding Memory Errors in Deep Learning Frameworks](https://arxiv.org/abs/2602.10478v1)** | 2026-02-11 |  |
-| **[Area-Efficient In-Memory Computing for Mixture-of-Experts via Multiplexing and Caching](https://arxiv.org/abs/2602.10254v1)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted by ISCAS 2026</p></details> |
-| **[Internalizing Meta-Experience into Memory for Guided Reinforcement Learning in Large Language Models](https://arxiv.org/abs/2602.10224v1)** | 2026-02-10 |  |
-| **[TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces](https://arxiv.org/abs/2602.09712v1)** | 2026-02-10 |  |
-| **[Timing and Memory Telemetry on GPUs for AI Governance](https://arxiv.org/abs/2602.09369v1)** | 2026-02-10 |  |
-| **[STaR: Scalable Task-Conditioned Retrieval for Long-Horizon Multimodal Robot Memory](https://arxiv.org/abs/2602.09255v1)** | 2026-02-09 |  |
-| **[Dispersion of Gaussian Sources with Memory and an Extension to Abstract Sources](https://arxiv.org/abs/2602.09176v1)** | 2026-02-09 |  |
-| **[ALPHA-PIM: Analysis of Linear Algebraic Processing for High-Performance Graph Applications on a Real Processing-In-Memory System](https://arxiv.org/abs/2602.09174v1)** | 2026-02-09 |  |
-| **[AMEM4Rec: Leveraging Cross-User Similarity for Memory Evolution in Agentic LLM Recommenders](https://arxiv.org/abs/2602.08837v1)** | 2026-02-09 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Agentic Test-Time Scaling for WebAgents](https://arxiv.org/abs/2602.12276v1)** | 2026-02-12 |  |
+| **[Amortized Molecular Optimization via Group Relative Policy Optimization](https://arxiv.org/abs/2602.12162v1)** | 2026-02-12 | 23 pages, 5 figures |
+| **[Meta-Sel: Efficient Demonstration Selection for In-Context Learning via Supervised Meta-Learning](https://arxiv.org/abs/2602.12123v1)** | 2026-02-12 |  |
+| **[In-Context Function Learning in Large Language Models](https://arxiv.org/abs/2602.11863v1)** | 2026-02-12 |  |
+| **[Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2602.11858v1)** | 2026-02-12 |  |
+| **[TSR: Trajectory-Search Rollouts for Multi-Turn RL of LLM Agents](https://arxiv.org/abs/2602.11767v1)** | 2026-02-12 |  |
+| **[ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces](https://arxiv.org/abs/2602.11683v1)** | 2026-02-12 | Work in Progress |
+| **[Learn from Your Mistakes: Self-Correcting Masked Diffusion Models](https://arxiv.org/abs/2602.11590v1)** | 2026-02-12 |  |
+| **[Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use](https://arxiv.org/abs/2602.11541v1)** | 2026-02-12 |  |
+| **[Jailbreaking Leaves a Trace: Understanding and Detecting Jailbreak Attacks from Internal Representations of Large Language Models](https://arxiv.org/abs/2602.11495v1)** | 2026-02-12 |  |
+| **[Compiler-Guided Inference-Time Adaptation: Improving GPT-5 Programming Performance in Idris](https://arxiv.org/abs/2602.11481v1)** | 2026-02-12 |  |
 | **[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](https://arxiv.org/abs/2602.11146v1)** | 2026-02-11 | <details><summary>Code:...</summary><p>Code: https://github.com/HKUST-C4G/diffusion-rm</p></details> |
 | **[Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away](https://arxiv.org/abs/2602.11096v1)** | 2026-02-11 |  |
 | **[When Fusion Helps and When It Breaks: View-Aligned Robustness in Same-Source Financial Imaging](https://arxiv.org/abs/2602.11020v1)** | 2026-02-11 |  |
 | **[Enhancing Predictability of Multi-Tenant DNN Inference for Autonomous Vehicles' Perception](https://arxiv.org/abs/2602.11004v1)** | 2026-02-11 | 13 pages, 12 figures |
-| **[Sample Efficient Generative Molecular Optimization with Joint Self-Improvement](https://arxiv.org/abs/2602.10984v1)** | 2026-02-11 | 14 pages, 5 figures |
-| **[CMAD: Cooperative Multi-Agent Diffusion via Stochastic Optimal Control](https://arxiv.org/abs/2602.10933v1)** | 2026-02-11 |  |
-| **[Reinforcing Chain-of-Thought Reasoning with Self-Evolving Rubrics](https://arxiv.org/abs/2602.10885v1)** | 2026-02-11 | 21 pages |
-| **[Kill it with FIRE: On Leveraging Latent Space Directions for Runtime Backdoor Mitigation in Deep Neural Networks](https://arxiv.org/abs/2602.10780v1)** | 2026-02-11 |  |
-| **[Enhancing YOLOv11n for Reliable Child Detection in Noisy Surveillance Footage](https://arxiv.org/abs/2602.10592v1)** | 2026-02-11 |  |
-| **[ReSPEC: A Framework for Online Multispectral Sensor Reconfiguration in Dynamic Environments](https://arxiv.org/abs/2602.10547v1)** | 2026-02-11 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Analyzing Fairness of Neural Network Prediction via Counterfactual Dataset Generation](https://arxiv.org/abs/2602.10457v1)** | 2026-02-11 | <details><summary>Prese...</summary><p>Presented at NLDL 2026</p></details> |
-| **[SecCodePRM: A Process Reward Model for Code Security](https://arxiv.org/abs/2602.10418v1)** | 2026-02-11 | 20 pages |
-| **[Are More Tokens Rational? Inference-Time Scaling in Language Models as Adaptive Resource Rationality](https://arxiv.org/abs/2602.10329v1)** | 2026-02-10 |  |
-| **[Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training](https://arxiv.org/abs/2602.10314v1)** | 2026-02-10 |  |
-| **[Towards Autonomous Mathematics Research](https://arxiv.org/abs/2602.10177v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://github.com/google-deepmind/superhuman/tree/main/aletheia</p></details> |
 
