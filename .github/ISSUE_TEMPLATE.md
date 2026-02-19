@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2026
+title: Latest 15 Papers - February 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMA: Multimodal Memory Agent](https://arxiv.org/abs/2602.16493v1)** | 2026-02-18 |  |
+| **[MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](https://arxiv.org/abs/2602.16313v1)** | 2026-02-18 |  |
+| **[Revolutionizing Long-Term Memory in AI: New Horizons with High-Capacity and High-Speed Storage](https://arxiv.org/abs/2602.16192v1)** | 2026-02-18 | 13 pages, 5 figures |
+| **[DARTH-PUM: A Hybrid Processing-Using-Memory Architecture](https://arxiv.org/abs/2602.16075v1)** | 2026-02-17 | <details><summary>To ap...</summary><p>To appear in the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2026</p></details> |
+| **[Visual Memory Injection Attacks for Multi-Turn Conversations](https://arxiv.org/abs/2602.15927v1)** | 2026-02-17 |  |
 | **[Improving MLLMs in Embodied Exploration and Question Answering with Human-Inspired Memory Modeling](https://arxiv.org/abs/2602.15513v1)** | 2026-02-17 |  |
 | **[Memory Reallocation with Polylogarithmic Overhead](https://arxiv.org/abs/2602.15417v1)** | 2026-02-17 | To appear at STOC'26 |
 | **[FlashMem: Supporting Modern DNN Workloads on Mobile with GPU Memory Hierarchy Optimizations](https://arxiv.org/abs/2602.15379v1)** | 2026-02-17 |  |
@@ -17,15 +22,13 @@ labels: documentation
 | **[AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories](https://arxiv.org/abs/2602.14941v1)** | 2026-02-16 | <details><summary>Proje...</summary><p>Project website: https://zunwang1.github.io/AnchorWeave</p></details> |
 | **[FactorMiner: A Self-Evolving Agent with Skills and Experience Memory for Financial Alpha Discovery](https://arxiv.org/abs/2602.14670v1)** | 2026-02-16 |  |
 | **[KernelBlaster: Continual Cross-Task CUDA Optimization via Memory-Augmented In-Context Reinforcement Learning](https://arxiv.org/abs/2602.14293v1)** | 2026-02-15 | <details><summary>15 pa...</summary><p>15 pages, 33 pages with appendix</p></details> |
-| **[Choosing How to Remember: Adaptive Memory Structures for LLM Agents](https://arxiv.org/abs/2602.14038v1)** | 2026-02-15 |  |
-| **[Neuromem: A Granular Decomposition of the Streaming Lifecycle in External Memory for LLMs](https://arxiv.org/abs/2602.13967v1)** | 2026-02-15 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 15 tables. Preprint</p></details> |
-| **[HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling](https://arxiv.org/abs/2602.13933v1)** | 2026-02-15 |  |
-| **[MEMTS: Internalizing Domain Knowledge via Parameterized Memory for Retrieval-Free Domain Adaptation of Time Series Foundation Models](https://arxiv.org/abs/2602.13783v1)** | 2026-02-14 |  |
-| **[AllMem: A Memory-centric Recipe for Efficient Long-context Modeling](https://arxiv.org/abs/2602.13680v1)** | 2026-02-14 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Let's Split Up: Zero-Shot Classifier Edits for Fine-Grained Video Understanding](https://arxiv.org/abs/2602.16545v1)** | 2026-02-18 | ICLR 2026 |
+| **[ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding](https://arxiv.org/abs/2602.16412v1)** | 2026-02-18 |  |
+| **[DataCube: A Video Retrieval Platform via Natural Language Semantic Profiling](https://arxiv.org/abs/2602.16231v1)** | 2026-02-18 | <details><summary>This ...</summary><p>This paper is under review for the IJCAI-ECAI 2026 Demonstrations Track</p></details> |
 | **[EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use](https://arxiv.org/abs/2602.15329v1)** | 2026-02-17 |  |
 | **[Dual-Signal Adaptive KV-Cache Optimization for Long-Form Video Understanding in Vision-Language Models](https://arxiv.org/abs/2602.14236v1)** | 2026-02-15 |  |
 | **[A generalizable foundation model for intraoperative understanding across surgical procedures](https://arxiv.org/abs/2602.13633v1)** | 2026-02-14 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[VideoSTF: Stress-Testing Output Repetition in Video Large Language Models](https://arxiv.org/abs/2602.10639v1)** | 2026-02-11 |  |
 | **[RoboSubtaskNet: Temporal Sub-task Segmentation for Human-to-Robot Skill Transfer in Real-World Environments](https://arxiv.org/abs/2602.10015v2)** | 2026-02-11 |  |
 | **[SemanticMoments: Training-Free Motion Similarity via Third Moment Features](https://arxiv.org/abs/2602.09146v1)** | 2026-02-09 |  |
-| **[Designing Multi-Robot Ground Video Sensemaking with Public Safety Professionals](https://arxiv.org/abs/2602.08882v2)** | 2026-02-10 |  |
-| **[TiFRe: Text-guided Video Frame Reduction for Efficient Video Multi-modal Large Language Models](https://arxiv.org/abs/2602.08861v1)** | 2026-02-09 |  |
-| **[OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence](https://arxiv.org/abs/2602.08683v2)** | 2026-02-15 |  |
 
 ## Medical Agent
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning](https://arxiv.org/abs/2602.16702v1)** | 2026-02-18 | <details><summary>prepr...</summary><p>preprint 10 pages, 4 figures</p></details> |
+| **[Why Thinking Hurts? Diagnosing and Rectifying the Reasoning Shift in Foundation Recommender Models](https://arxiv.org/abs/2602.16587v1)** | 2026-02-18 |  |
+| **[Steering diffusion models with quadratic rewards: a fine-grained analysis](https://arxiv.org/abs/2602.16570v1)** | 2026-02-18 |  |
+| **[From Growing to Looping: A Unified View of Iterative Computation in LLMs](https://arxiv.org/abs/2602.16490v1)** | 2026-02-18 |  |
+| **[How Much Does Machine Identity Matter in Anomalous Sound Detection at Test Time?](https://arxiv.org/abs/2602.16253v1)** | 2026-02-18 |  |
+| **[Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents](https://arxiv.org/abs/2602.16246v1)** | 2026-02-18 |  |
+| **[Training-Free Adaptation of Diffusion Models via Doob's $h$-Transform](https://arxiv.org/abs/2602.16198v1)** | 2026-02-18 | 36 pages, 3 figures |
+| **[Uncertainty-Guided Inference-Time Depth Adaptation for Transformer-Based Visual Tracking](https://arxiv.org/abs/2602.16160v1)** | 2026-02-18 | <details><summary>Submi...</summary><p>Submitted to IJCNN 2026</p></details> |
+| **[IRIS: Intent Resolution via Inference-time Saccades for Open-Ended VQA in Large Vision-Language Models](https://arxiv.org/abs/2602.16138v1)** | 2026-02-18 |  |
+| **[Evolutionary Context Search for Automated Skill Acquisition](https://arxiv.org/abs/2602.16113v1)** | 2026-02-18 |  |
 | **[FAST-EQA: Efficient Embodied Question Answering with Global and Local Region Relevancy](https://arxiv.org/abs/2602.15813v1)** | 2026-02-17 | WACV 2026 |
 | **[Spanning the Visual Analogy Space with a Weight Basis of LoRAs](https://arxiv.org/abs/2602.15727v1)** | 2026-02-17 | <details><summary>Code ...</summary><p>Code and data are in https://research.nvidia.com/labs/par/lorweb</p></details> |
 | **[PERSONA: Dynamic and Compositional Inference-Time Personality Control via Activation Vector Algebra](https://arxiv.org/abs/2602.15669v1)** | 2026-02-17 | ICLR 2026 |
 | **[Guided Diffusion by Optimized Loss Functions on Relaxed Parameters for Inverse Material Design](https://arxiv.org/abs/2602.15648v1)** | 2026-02-17 |  |
 | **[Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL](https://arxiv.org/abs/2602.15564v1)** | 2026-02-17 |  |
-| **[Fine-Tuning LLMs to Generate Economical and Reliable Actions for the Power Grid](https://arxiv.org/abs/2602.15350v1)** | 2026-02-17 |  |
-| **[Panini: Continual Learning in Token Space via Structured Memory](https://arxiv.org/abs/2602.15156v1)** | 2026-02-16 | <details><summary>35 pa...</summary><p>35 pages, code available at: https://github.com/roychowdhuryresearch/gsw-memory</p></details> |
-| **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
-| **[Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation](https://arxiv.org/abs/2602.15005v1)** | 2026-02-16 |  |
-| **[PAct: Part-Decomposed Single-View Articulated Object Generation](https://arxiv.org/abs/2602.14965v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report(11 figures, 14 pages), Project Page: https://PAct-project.github.io</p></details> |
-| **[Inner Loop Inference for Pretrained Transformers: Unlocking Latent Capabilities Without Training](https://arxiv.org/abs/2602.14759v1)** | 2026-02-16 |  |
-| **[StrokeNeXt: A Siamese-encoder Approach for Brain Stroke Classification in Computed Tomography Imagery](https://arxiv.org/abs/2602.15087v1)** | 2026-02-16 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 11 tables</p></details> |
-| **[Depth Completion as Parameter-Efficient Test-Time Adaptation](https://arxiv.org/abs/2602.14751v1)** | 2026-02-16 |  |
-| **[WebWorld: A Large-Scale World Model for Web Agent Training](https://arxiv.org/abs/2602.14721v1)** | 2026-02-16 |  |
-| **[VariViT: A Vision Transformer for Variable Image Sizes](https://arxiv.org/abs/2602.14615v1)** | 2026-02-16 |  |
 
