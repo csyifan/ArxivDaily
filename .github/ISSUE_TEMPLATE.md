@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 01, 2026
+title: Latest 15 Papers - March 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,12 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memory Caching: RNNs with Growing Memory](https://arxiv.org/abs/2602.24281v1)** | 2026-02-27 |  |
+| **[MemEmo: Evaluating Emotion in Memory Systems of Agents](https://arxiv.org/abs/2602.23944v1)** | 2026-02-27 |  |
+| **[On the Need for (Quantum) Memory with Short Outputs](https://arxiv.org/abs/2602.23763v1)** | 2026-02-27 |  |
+| **[KEEP: A KV-Cache-Centric Memory Management System for Efficient Embodied Planning](https://arxiv.org/abs/2602.23592v1)** | 2026-02-27 | DAC 2026 |
 | **[FlashOptim: Optimizers for Memory Efficient Training](https://arxiv.org/abs/2602.23349v1)** | 2026-02-26 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/databricks/flashoptim</p></details> |
-| **[ParamMem: Augmenting Language Agents with Parametric Reflective Memory](https://arxiv.org/abs/2602.23320v1)** | 2026-02-26 | 20 pages |
+| **[ParamMem: Augmenting Language Agents with Parametric Reflective Memory](https://arxiv.org/abs/2602.23320v2)** | 2026-02-27 | 20 pages |
 | **[Generalized Rapid Action Value Estimation in Memory-Constrained Environments](https://arxiv.org/abs/2602.23318v1)** | 2026-02-26 |  |
 | **[Tell Me What To Learn: Generalizing Neural Memory to be Controllable in Natural Language](https://arxiv.org/abs/2602.23201v1)** | 2026-02-26 | <details><summary>58 Pa...</summary><p>58 Pages, 16 Figures, Code at https://github.com/maxbennett/Generalized-Neural-Memory</p></details> |
 | **[PRAC: Principal-Random Subspace for LLM Activation Compression and Memory-Efficient Training](https://arxiv.org/abs/2602.23111v1)** | 2026-02-26 |  |
@@ -18,14 +22,13 @@ labels: documentation
 | **[CCCL: Node-Spanning GPU Collectives with CXL Memory Pooling](https://arxiv.org/abs/2602.22457v1)** | 2026-02-25 |  |
 | **[Exploring Multimodal LMMs for Online Episodic Memory Question Answering on the Edge](https://arxiv.org/abs/2602.22455v1)** | 2026-02-25 |  |
 | **[Towards Autonomous Memory Agents](https://arxiv.org/abs/2602.22406v1)** | 2026-02-25 |  |
-| **[Contextual Memory Virtualisation: DAG-Based State Management and Structurally Lossless Trimming for LLM Agents](https://arxiv.org/abs/2602.22402v1)** | 2026-02-25 | <details><summary>11 pa...</summary><p>11 pages. 6 figures. Introduces a DAG-based state management system for LLM agents. Evaluation on 76 coding sessions shows up to 86% token reduction (mean 20%) while remaining economically viable under prompt caching. Includes reference implementation for Claude Code</p></details> |
-| **[XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression](https://arxiv.org/abs/2602.21780v1)** | 2026-02-25 | <details><summary>Submi...</summary><p>Submission to the Journal of the Society for Information Display</p></details> |
-| **[Structurally Aligned Subtask-Level Memory for Software Engineering Agents](https://arxiv.org/abs/2602.21611v1)** | 2026-02-25 |  |
-| **[Pancake: Hierarchical Memory System for Multi-Agent LLM Serving](https://arxiv.org/abs/2602.21477v1)** | 2026-02-25 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hierarchical Action Learning for Weakly-Supervised Action Segmentation](https://arxiv.org/abs/2602.24275v1)** | 2026-02-27 |  |
+| **[EgoGraph: Temporal Knowledge Graph for Egocentric Video Understanding](https://arxiv.org/abs/2602.23709v1)** | 2026-02-27 | Under review |
+| **[LE-NeuS: Latency-Efficient Neuro-Symbolic Video Understanding via Adaptive Temporal Verification](https://arxiv.org/abs/2602.23553v1)** | 2026-02-26 | Under review |
 | **[Align then Adapt: Rethinking Parameter-Efficient Transfer Learning in 4D Perception](https://arxiv.org/abs/2602.23069v1)** | 2026-02-26 |  |
 | **[MSJoE: Jointly Evolving MLLM and Sampler for Efficient Long-Form Video Understanding](https://arxiv.org/abs/2602.22932v1)** | 2026-02-26 | Accepted by CVPR2026 |
 | **[TrajTok: Learning Trajectory Tokens enables better Video Understanding](https://arxiv.org/abs/2602.22779v1)** | 2026-02-26 | CVPR 2026 |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Think with Grounding: Curriculum Reinforced Reasoning with Video Grounding for Long Video Understanding](https://arxiv.org/abs/2602.18702v1)** | 2026-02-21 |  |
 | **[Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory](https://arxiv.org/abs/2602.18434v1)** | 2026-02-20 | <details><summary>Proje...</summary><p>Project page: see https://vatsalag99.github.io/memstream/</p></details> |
 | **[DeepSVU: Towards In-depth Security-oriented Video Understanding via Unified Physical-world Regularized MoE](https://arxiv.org/abs/2602.18019v1)** | 2026-02-20 |  |
-| **[Learning Compact Video Representations for Efficient Long-form Video Understanding in Large Multimodal Models](https://arxiv.org/abs/2602.17869v1)** | 2026-02-19 |  |
-| **[KPM-Bench: A Kinematic Parsing Motion Benchmark for Fine-grained Motion-centric Video Understanding](https://arxiv.org/abs/2602.17768v1)** | 2026-02-19 | 26 pages |
-| **[Xray-Visual Models: Scaling Vision models on Industry Scale Data](https://arxiv.org/abs/2602.16918v1)** | 2026-02-18 |  |
 
 ## Medical Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,12 @@ labels: documentation
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Task-Centric Acceleration of Small-Language Models](https://arxiv.org/abs/2602.24174v1)** | 2026-02-27 |  |
+| **[Look Carefully: Adaptive Visual Reinforcements in Multimodal Large Language Models for Hallucination Mitigation](https://arxiv.org/abs/2602.24041v1)** | 2026-02-27 | ICLR 2026 |
+| **[Inference-time optimization for experiment-grounded protein ensemble generation](https://arxiv.org/abs/2602.24007v1)** | 2026-02-27 |  |
+| **[Clinically-aligned ischemic stroke segmentation and ASPECTS scoring on NCCT imaging using a slice-gated loss on foundation representations](https://arxiv.org/abs/2602.23961v1)** | 2026-02-27 |  |
+| **[Suppressing Prior-Comparison Hallucinations in Radiology Report Generation via Semantically Decoupled Latent Steering](https://arxiv.org/abs/2602.23676v1)** | 2026-02-27 | 15 pages, 5 figures |
+| **[DesignSense: A Human Preference Dataset and Reward Modeling Framework for Graphic Layout Generation](https://arxiv.org/abs/2602.23438v1)** | 2026-02-26 | 14 pages, 3 figures |
 | **[Generative Recommendation for Large-Scale Advertising](https://arxiv.org/abs/2602.22732v1)** | 2026-02-26 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, under review</p></details> |
 | **[AgentSentry: Mitigating Indirect Prompt Injection in LLM Agents via Temporal Causal Diagnostics and Context Purification](https://arxiv.org/abs/2602.22724v1)** | 2026-02-26 | <details><summary>23 pa...</summary><p>23 pages, 8 figures. Under review</p></details> |
 | **[Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://arxiv.org/abs/2602.22647v1)** | 2026-02-26 | 14 pages, 4 figures |
@@ -72,11 +78,5 @@ labels: documentation
 | **[GIFSplat: Generative Prior-Guided Iterative Feed-Forward 3D Gaussian Splatting from Sparse Views](https://arxiv.org/abs/2602.22571v1)** | 2026-02-26 |  |
 | **[Beyond Dominant Patches: Spatial Credit Redistribution For Grounded Vision-Language Models](https://arxiv.org/abs/2602.22469v1)** | 2026-02-25 |  |
 | **[Decoder-based Sense Knowledge Distillation](https://arxiv.org/abs/2602.22351v1)** | 2026-02-25 |  |
-| **[When Should a Model Change Its Mind? An Energy-Based Theory and Regularizer for Concept Drift in Electrocardiogram (ECG) Signals](https://arxiv.org/abs/2602.22294v1)** | 2026-02-25 |  |
-| **[Offline Reasoning for Efficient Recommendation: LLM-Empowered Persona-Profiled Item Indexing](https://arxiv.org/abs/2602.21756v1)** | 2026-02-25 | Under review |
-| **[Learning spatially adaptive sparsity level maps for arbitrary convolutional dictionaries](https://arxiv.org/abs/2602.21707v1)** | 2026-02-25 |  |
-| **[Sparsity Induction for Accurate Post-Training Pruning of Large Language Models](https://arxiv.org/abs/2602.21652v1)** | 2026-02-25 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 4 tables</p></details> |
-| **[When More Is Less: A Systematic Analysis of Spatial and Commonsense Information for Visual Spatial Reasoning](https://arxiv.org/abs/2602.21619v1)** | 2026-02-25 | <details><summary>5 pag...</summary><p>5 pages, 6 figures, Under review</p></details> |
-| **[Training-free Composition of Pre-trained GFlowNets for Multi-Objective Generation](https://arxiv.org/abs/2602.21565v1)** | 2026-02-25 | <details><summary>22 pa...</summary><p>22 pages, 12 figures, 12 tables</p></details> |
-| **[Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information](https://arxiv.org/abs/2602.21496v1)** | 2026-02-25 | Under Review |
+| **[When Should a Model Change Its Mind? An Energy-Based Theory and Regularizer for Concept Drift in Electrocardiogram (ECG) Signals](https://arxiv.org/abs/2602.22294v2)** | 2026-02-27 |  |
 
