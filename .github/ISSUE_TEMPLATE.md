@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 04, 2026
+title: Latest 15 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory](https://arxiv.org/abs/2603.04257v1)** | 2026-03-04 |  |
+| **[PRAM-R: A Perception-Reasoning-Action-Memory Framework with LLM-Guided Modality Routing for Adaptive Autonomous Driving](https://arxiv.org/abs/2603.04222v1)** | 2026-03-04 |  |
+| **[Joint Hardware-Workload Co-Optimization for In-Memory Computing Accelerators](https://arxiv.org/abs/2603.03880v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to IEEE Access</p></details> |
+| **[LifeBench: A Benchmark for Long-Horizon Multi-Source Memory](https://arxiv.org/abs/2603.03781v1)** | 2026-03-04 | <details><summary>A tot...</summary><p>A total of 28 pages, 8 pages of main text, and 15 figures and tables</p></details> |
+| **[A New Class of Geometric Analog Error Correction Codes for Crossbar Based In-Memory Computing](https://arxiv.org/abs/2603.03723v1)** | 2026-03-04 | <details><summary>Submi...</summary><p>Submitted to IEEE communication letters</p></details> |
+| **[MEM: Multi-Scale Embodied Memory for Vision Language Action Models](https://arxiv.org/abs/2603.03596v1)** | 2026-03-04 | <details><summary>Websi...</summary><p>Website: https://pi.website/research/memory</p></details> |
+| **[When Small Variations Become Big Failures: Reliability Challenges in Compute-in-Memory Neural Accelerators](https://arxiv.org/abs/2603.03491v1)** | 2026-03-03 | <details><summary>2026 ...</summary><p>2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)</p></details> |
+| **[Graph Hopfield Networks: Energy-Based Node Classification with Associative Memory](https://arxiv.org/abs/2603.03464v1)** | 2026-03-03 | <details><summary>10 Pa...</summary><p>10 Pages, 4 Figures, Acceptted at ICLR NFAM Workshop 2026</p></details> |
 | **[Virtual-Memory Assisted Buffer Management In Tiered Memory](https://arxiv.org/abs/2603.03271v1)** | 2026-03-03 |  |
 | **[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://arxiv.org/abs/2603.03269v1)** | 2026-03-03 | <details><summary>Proje...</summary><p>Project page: https://LoGeR-project.github.io/</p></details> |
 | **[Look Forward to Walk Backward: Efficient Terrain Memory for Backward Locomotion with Forward Vision](https://arxiv.org/abs/2603.03138v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted for 2026 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
 | **[Learning Memory-Enhanced Improvement Heuristics for Flexible Job Shop Scheduling](https://arxiv.org/abs/2603.02846v1)** | 2026-03-03 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[Fast and memory-efficient classical simulation of quantum machine learning via forward and backward gate fusion](https://arxiv.org/abs/2603.02804v1)** | 2026-03-03 |  |
 | **[Rate-Fidelity Tradeoffs in All-Photonic and Memory-Equipped Quantum Switches](https://arxiv.org/abs/2603.02610v1)** | 2026-03-03 |  |
-| **[Diagnosing Retrieval vs. Utilization Bottlenecks in LLM Agent Memory](https://arxiv.org/abs/2603.02473v1)** | 2026-03-02 |  |
-| **[FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding](https://arxiv.org/abs/2603.02096v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Project page: https://yiwengxie.com/FluxMem/</p></details> |
-| **[WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories](https://arxiv.org/abs/2603.02049v1)** | 2026-03-02 |  |
-| **[According to Me: Long-Term Personalized Referential Memory QA](https://arxiv.org/abs/2603.01990v1)** | 2026-03-02 | Preprint |
-| **[AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations](https://arxiv.org/abs/2603.01966v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Bentō: Optimizing Persistent Memory Programs](https://arxiv.org/abs/2603.01889v1)** | 2026-03-02 |  |
-| **[Emerging Human-like Strategies for Semantic Memory Foraging in Large Language Models](https://arxiv.org/abs/2603.01822v1)** | 2026-03-02 |  |
-| **[SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph](https://arxiv.org/abs/2603.01813v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by 2026 ICRA</p></details> |
-| **[GAM-RAG: Gain-Adaptive Memory for Evolving Retrieval in Retrieval-Augmented Generation](https://arxiv.org/abs/2603.01783v1)** | 2026-03-02 |  |
+| **[MemSifter: Offloading LLM Memory Retrieval via Outcome-Driven Proxy Reasoning](https://arxiv.org/abs/2603.03379v1)** | 2026-03-03 | <details><summary>Code ...</summary><p>Code and datasets are available at https://github.com/plageon/MemSifter</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FocusGraph: Graph-Structured Frame Selection for Embodied Long Video Question Answering](https://arxiv.org/abs/2603.04349v1)** | 2026-03-04 |  |
+| **[RIVER: A Real-Time Interaction Benchmark for Video LLMs](https://arxiv.org/abs/2603.03985v1)** | 2026-03-04 |  |
+| **[Proact-VL: A Proactive VideoLLM for Real-Time AI Companions](https://arxiv.org/abs/2603.03447v1)** | 2026-03-03 |  |
 | **[Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2603.02872v1)** | 2026-03-03 |  |
 | **[FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding](https://arxiv.org/abs/2603.02096v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Project page: https://yiwengxie.com/FluxMem/</p></details> |
 | **[From Verbatim to Gist: Distilling Pyramidal Multimodal Memory via Semantic Information Bottleneck for Long-Horizon Video Agents](https://arxiv.org/abs/2603.01455v1)** | 2026-03-02 | <details><summary>TL;DR...</summary><p>TL;DR: We propose MM-Mem, a cognition-inspired, dual-trace hierarchical memory framework for long-horizon video understanding grounded in Fuzzy-Trace Theory. It features adaptive memory compression via the Information Bottleneck and employs an entropy-driven top-down retrieval to access fine-grained details only when necessary. 16 pages, 7 figures, 7 tables</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Align then Adapt: Rethinking Parameter-Efficient Transfer Learning in 4D Perception](https://arxiv.org/abs/2602.23069v1)** | 2026-02-26 |  |
 | **[MSJoE: Jointly Evolving MLLM and Sampler for Efficient Long-Form Video Understanding](https://arxiv.org/abs/2602.22932v1)** | 2026-02-26 | Accepted by CVPR2026 |
 | **[TrajTok: Learning Trajectory Tokens enables better Video Understanding](https://arxiv.org/abs/2602.22779v1)** | 2026-02-26 | CVPR 2026 |
-| **[UniVBench: Towards Unified Evaluation for Video Foundation Models](https://arxiv.org/abs/2602.21835v1)** | 2026-02-25 |  |
-| **[LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding](https://arxiv.org/abs/2602.20913v1)** | 2026-02-24 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, 8 tables, accepted to CVPR 2026</p></details> |
-| **[PyVision-RL: Forging Open Agentic Vision Models via RL](https://arxiv.org/abs/2602.20739v1)** | 2026-02-24 | preprint |
 
 ## Medical Agent
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Low-Resource Guidance for Controllable Latent Audio Diffusion](https://arxiv.org/abs/2603.04366v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
+| **[FocusGraph: Graph-Structured Frame Selection for Embodied Long Video Question Answering](https://arxiv.org/abs/2603.04349v1)** | 2026-03-04 |  |
+| **[$V_1$: Unifying Generation and Self-Verification for Parallel Reasoners](https://arxiv.org/abs/2603.04304v1)** | 2026-03-04 |  |
+| **[Mask-Guided Attention Regulation for Anatomically Consistent Counterfactual CXR Synthesis](https://arxiv.org/abs/2603.04130v1)** | 2026-03-04 |  |
+| **[Inference-Time Toxicity Mitigation in Protein Language Models](https://arxiv.org/abs/2603.04045v1)** | 2026-03-04 |  |
+| **[Phi-4-reasoning-vision-15B Technical Report](https://arxiv.org/abs/2603.03975v1)** | 2026-03-04 |  |
+| **[Dual-Solver: A Generalized ODE Solver for Diffusion Models with Dual Prediction](https://arxiv.org/abs/2603.03973v1)** | 2026-03-04 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. 36 pages, 18 figures</p></details> |
+| **[N-gram Injection into Transformers for Dynamic Language Model Adaptation in Handwritten Text Recognition](https://arxiv.org/abs/2603.03930v1)** | 2026-03-04 |  |
+| **[A Rubric-Supervised Critic from Sparse Real-World Outcomes](https://arxiv.org/abs/2603.03800v1)** | 2026-03-04 |  |
+| **[MPFlow: Multi-modal Posterior-Guided Flow Matching for Zero-Shot MRI Reconstruction](https://arxiv.org/abs/2603.03710v1)** | 2026-03-04 |  |
+| **[Confidence-aware Monocular Depth Estimation for Minimally Invasive Surgery](https://arxiv.org/abs/2603.03571v1)** | 2026-03-03 | 12 pages, 4 figures |
+| **[Test-Time Meta-Adaptation with Self-Synthesis](https://arxiv.org/abs/2603.03524v1)** | 2026-03-03 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table. Accepted to ICLR 2026 LIT and Data-FM Workshops</p></details> |
+| **[DKD-KAN: A Lightweight knowledge-distilled KAN intrusion detection framework, based on MLP and KAN](https://arxiv.org/abs/2603.03486v1)** | 2026-03-03 |  |
 | **[Understanding and Mitigating Dataset Corruption in LLM Steering](https://arxiv.org/abs/2603.03206v1)** | 2026-03-03 |  |
 | **[Conditioned Activation Transport for T2I Safety Steering](https://arxiv.org/abs/2603.03163v1)** | 2026-03-03 |  |
-| **[Spatial Autoregressive Modeling of DINOv3 Embeddings for Unsupervised Anomaly Detection](https://arxiv.org/abs/2603.02974v1)** | 2026-03-03 |  |
-| **[Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency](https://arxiv.org/abs/2603.02936v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at ICRA 2026</p></details> |
-| **[Eliciting Numerical Predictive Distributions of LLMs Without Autoregression](https://arxiv.org/abs/2603.02913v1)** | 2026-03-03 | <details><summary>First...</summary><p>First two authors contributed equally. Published as a conference paper at ICLR2026</p></details> |
-| **[Tracing Back Error Sources to Explain and Mitigate Pose Estimation Failures](https://arxiv.org/abs/2603.02881v1)** | 2026-03-03 |  |
-| **[Improving Diffusion Planners by Self-Supervised Action Gating with Energies](https://arxiv.org/abs/2603.02650v1)** | 2026-03-03 |  |
-| **[Compositional Visual Planning via Inference-Time Diffusion Scaling](https://arxiv.org/abs/2603.02646v1)** | 2026-03-03 |  |
-| **[Heterogeneous Agent Collaborative Reinforcement Learning](https://arxiv.org/abs/2603.02604v1)** | 2026-03-03 |  |
-| **[Learning Object-Centric Spatial Reasoning for Sequential Manipulation in Cluttered Environments](https://arxiv.org/abs/2603.02511v1)** | 2026-03-03 |  |
-| **[Recursive Think-Answer Process for LLMs and VLMs](https://arxiv.org/abs/2603.02099v2)** | 2026-03-03 | <details><summary>CVPR ...</summary><p>CVPR 2026 Findings, Project page: https://litcoderr.github.io/rtap_page/</p></details> |
-| **[Phishing the Phishers with SpecularNet: Hierarchical Graph Autoencoding for Reference-Free Web Phishing Detection](https://arxiv.org/abs/2603.01874v1)** | 2026-03-02 |  |
-| **[Co-Evolutionary Multi-Modal Alignment via Structured Adversarial Evolution](https://arxiv.org/abs/2603.01784v1)** | 2026-03-02 | Preprint |
-| **[Inference-Time Safety For Code LLMs Via Retrieval-Augmented Revision](https://arxiv.org/abs/2603.01494v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026 Workshop on Principled Design for Trustworthy AI: Interpretability, Robustness, and Safety Across Modalities</p></details> |
-| **[VidDoS: Universal Denial-of-Service Attack on Video-based Large Language Models](https://arxiv.org/abs/2603.01454v1)** | 2026-03-02 |  |
 
