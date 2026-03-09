@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 08, 2026
+title: Latest 15 Papers - March 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Omni-Masked Gradient Descent: Memory-Efficient Optimization via Mask Traversal with Improved Convergence](https://arxiv.org/abs/2603.05960v1)** | 2026-03-06 |  |
+| **[A Persistent-State Dataflow Accelerator for Memory-Bound Linear Attention Decode on FPGA](https://arxiv.org/abs/2603.05931v1)** | 2026-03-06 | 6 pages, 6 figures |
+| **[Shifting Adaptation from Weight Space to Memory Space: A Memory-Augmented Agent for Medical Image Segmentation](https://arxiv.org/abs/2603.05873v1)** | 2026-03-06 |  |
+| **[Scalable Digital Compute-in-Memory Ising Machines for Robustness Verification of Binary Neural Networks](https://arxiv.org/abs/2603.05677v1)** | 2026-03-05 |  |
+| **[Space-efficient B-tree Implementation for Memory-Constrained Flash Embedded Devices](https://arxiv.org/abs/2603.05632v1)** | 2026-03-05 | <details><summary>Exten...</summary><p>Extended version of CoopIS 2024 paper. 19 pages</p></details> |
 | **[POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation](https://arxiv.org/abs/2603.05500v1)** | 2026-03-05 | <details><summary>Techn...</summary><p>Technical report v1 (14 pages, 7 figures, project page: https://spherelab.ai/poetx/)</p></details> |
 | **[Programmable superconducting neuron with intrinsic in-memory computation and dual-timescale plasticity for ultra-efficient neuromorphic computing](https://arxiv.org/abs/2603.04966v1)** | 2026-03-05 |  |
 | **[VPWEM: Non-Markovian Visuomotor Policy with Working and Episodic Memory](https://arxiv.org/abs/2603.04910v1)** | 2026-03-05 |  |
@@ -17,34 +22,30 @@ labels: documentation
 | **[RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://arxiv.org/abs/2603.04639v1)** | 2026-03-04 |  |
 | **[Adaptive Memory Admission Control for LLM Agents](https://arxiv.org/abs/2603.04549v1)** | 2026-03-04 |  |
 | **[Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory](https://arxiv.org/abs/2603.04257v1)** | 2026-03-04 |  |
-| **[PRAM-R: A Perception-Reasoning-Action-Memory Framework with LLM-Guided Modality Routing for Adaptive Autonomous Driving](https://arxiv.org/abs/2603.04222v1)** | 2026-03-04 |  |
-| **[Joint Hardware-Workload Co-Optimization for In-Memory Computing Accelerators](https://arxiv.org/abs/2603.03880v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to IEEE Access</p></details> |
-| **[LifeBench: A Benchmark for Long-Horizon Multi-Source Memory](https://arxiv.org/abs/2603.03781v1)** | 2026-03-04 | <details><summary>A tot...</summary><p>A total of 28 pages, 8 pages of main text, and 15 figures and tables</p></details> |
-| **[A New Class of Geometric Analog Error Correction Codes for Crossbar Based In-Memory Computing](https://arxiv.org/abs/2603.03723v2)** | 2026-03-05 | <details><summary>Submi...</summary><p>Submitted to IEEE communication letters</p></details> |
-| **[MEM: Multi-Scale Embodied Memory for Vision Language Action Models](https://arxiv.org/abs/2603.03596v1)** | 2026-03-04 | <details><summary>Websi...</summary><p>Website: https://pi.website/research/memory</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://arxiv.org/abs/2603.06569v1)** | 2026-03-06 | <details><summary>Pengu...</summary><p>Penguin-VL Technical Report; Code: https://github.com/tencent-ailab/Penguin-VL</p></details> |
+| **[EgoReasoner: Learning Egocentric 4D Reasoning via Task-Adaptive Structured Thinking](https://arxiv.org/abs/2603.06561v1)** | 2026-03-06 | preprint |
+| **[MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents](https://arxiv.org/abs/2603.05697v1)** | 2026-03-05 |  |
 | **[Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline](https://arxiv.org/abs/2603.05484v1)** | 2026-03-05 |  |
 | **[Think, Then Verify: A Hypothesis-Verification Multi-Agent Framework for Long Video Understanding](https://arxiv.org/abs/2603.04977v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[Are Multimodal LLMs Ready for Surveillance? A Reality Check on Zero-Shot Anomaly Detection in the Wild](https://arxiv.org/abs/2603.04727v1)** | 2026-03-05 |  |
 | **[FocusGraph: Graph-Structured Frame Selection for Embodied Long Video Question Answering](https://arxiv.org/abs/2603.04349v1)** | 2026-03-04 |  |
 | **[RIVER: A Real-Time Interaction Benchmark for Video LLMs](https://arxiv.org/abs/2603.03985v1)** | 2026-03-04 |  |
 | **[Proact-VL: A Proactive VideoLLM for Real-Time AI Companions](https://arxiv.org/abs/2603.03447v1)** | 2026-03-03 |  |
-| **[Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2603.02872v1)** | 2026-03-03 |  |
+| **[Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2603.02872v2)** | 2026-03-06 |  |
 | **[FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding](https://arxiv.org/abs/2603.02096v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Project page: https://yiwengxie.com/FluxMem/</p></details> |
 | **[From Verbatim to Gist: Distilling Pyramidal Multimodal Memory via Semantic Information Bottleneck for Long-Horizon Video Agents](https://arxiv.org/abs/2603.01455v1)** | 2026-03-02 | <details><summary>TL;DR...</summary><p>TL;DR: We propose MM-Mem, a cognition-inspired, dual-trace hierarchical memory framework for long-horizon video understanding grounded in Fuzzy-Trace Theory. It features adaptive memory compression via the Information Bottleneck and employs an entropy-driven top-down retrieval to access fine-grained details only when necessary. 16 pages, 7 figures, 7 tables</p></details> |
 | **[Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models](https://arxiv.org/abs/2603.01400v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[Event-Anchored Frame Selection for Effective Long-Video Understanding](https://arxiv.org/abs/2603.00983v1)** | 2026-03-01 |  |
 | **[Wavelet-based Frame Selection by Detecting Semantic Boundary for Long Video Understanding](https://arxiv.org/abs/2603.00512v1)** | 2026-02-28 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Hierarchical Action Learning for Weakly-Supervised Action Segmentation](https://arxiv.org/abs/2602.24275v1)** | 2026-02-27 |  |
-| **[EgoGraph: Temporal Knowledge Graph for Egocentric Video Understanding](https://arxiv.org/abs/2602.23709v1)** | 2026-02-27 | Under review |
-| **[LE-NeuS: Latency-Efficient Neuro-Symbolic Video Understanding via Adaptive Temporal Verification](https://arxiv.org/abs/2602.23553v1)** | 2026-02-26 | Under review |
 
 ## Medical Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery](https://arxiv.org/abs/2603.05860v1)** | 2026-03-06 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 3 tables</p></details> |
 | **[TARSE: Test-Time Adaptation via Retrieval of Skills and Experience for Reasoning Agents](https://arxiv.org/abs/2603.01241v1)** | 2026-03-01 |  |
 | **[DUCX: Decomposing Unfairness in Tool-Using Chest X-ray Agents](https://arxiv.org/abs/2603.00777v1)** | 2026-02-28 | 11 pages, 3 figures |
 | **[OPGAgent: An Agent for Auditable Dental Panoramic X-ray Interpretation](https://arxiv.org/abs/2603.00462v1)** | 2026-02-28 | 10 pages, 2 figures |
@@ -59,24 +60,23 @@ labels: documentation
 | **[MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](https://arxiv.org/abs/2506.00555v3)** | 2026-01-26 | ICLR 2026 |
 | **[Learning to Be A Doctor: Searching for Effective Medical Agent Architectures](https://arxiv.org/abs/2504.11301v2)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
 | **[A Survey of LLM-based Agents in Medicine: How far are we from Baymax?](https://arxiv.org/abs/2502.11211v2)** | 2025-05-26 | ACL 2025 Findings |
-| **[Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios](https://arxiv.org/abs/2411.14461v1)** | 2024-11-16 |  |
 
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[COLD-Steer: Steering Large Language Models via In-Context One-step Learning Dynamics](https://arxiv.org/abs/2603.06495v1)** | 2026-03-06 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/Ksartik/cold-steer</p></details> |
+| **[Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion](https://arxiv.org/abs/2603.06397v1)** | 2026-03-06 |  |
+| **[Whisper-CD: Accurate Long-Form Speech Recognition using Multi-Negative Contrastive Decoding](https://arxiv.org/abs/2603.06193v1)** | 2026-03-06 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
+| **[Reflective Flow Sampling Enhancement](https://arxiv.org/abs/2603.06165v1)** | 2026-03-06 |  |
+| **[Restoring Linguistic Grounding in VLA Models via Train-Free Attention Recalibration](https://arxiv.org/abs/2603.06001v1)** | 2026-03-06 |  |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v1)** | 2026-03-06 |  |
+| **[A Closed-Loop CPR Training Glove with Integrated Tactile Sensing and Haptic Feedback](https://arxiv.org/abs/2603.05793v1)** | 2026-03-06 | <details><summary>8page...</summary><p>8pages, 10 figures, This paper is accepted in ICRA 2026</p></details> |
+| **[EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation](https://arxiv.org/abs/2603.05757v1)** | 2026-03-05 |  |
+| **[Safe-Night VLA: Seeing the Unseen via Thermal-Perceptive Vision-Language-Action Models for Safety-Critical Manipulation](https://arxiv.org/abs/2603.05754v1)** | 2026-03-05 |  |
+| **[Revisiting the (Sub)Optimality of Best-of-N for Inference-Time Alignment](https://arxiv.org/abs/2603.05739v1)** | 2026-03-05 | 52 pages |
+| **[Safer Reasoning Traces: Measuring and Mitigating Chain-of-Thought Leakage in LLMs](https://arxiv.org/abs/2603.05618v1)** | 2026-03-05 |  |
 | **[FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning](https://arxiv.org/abs/2603.05506v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project page: https://weijielyu.github.io/FaceCam</p></details> |
 | **[Accelerating Text-to-Video Generation with Calibrated Sparse Attention](https://arxiv.org/abs/2603.05503v1)** | 2026-03-05 |  |
 | **[InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context](https://arxiv.org/abs/2603.05353v1)** | 2026-03-05 |  |
 | **[Boosting ASR Robustness via Test-Time Reinforcement Learning with Audio-Text Semantic Rewards](https://arxiv.org/abs/2603.05231v1)** | 2026-03-05 |  |
-| **[Transducing Language Models](https://arxiv.org/abs/2603.05193v1)** | 2026-03-05 |  |
-| **[$\nabla$-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space](https://arxiv.org/abs/2603.04948v1)** | 2026-03-05 | ICLR 2026 |
-| **[LocalSUG: Geography-Aware LLM for Query Suggestion in Local-Life Services](https://arxiv.org/abs/2603.04946v1)** | 2026-03-05 |  |
-| **[Design Behaviour Codes (DBCs): A Taxonomy-Driven Layered Governance Benchmark for Large Language Models](https://arxiv.org/abs/2603.04837v1)** | 2026-03-05 | 14 pages, 3 figures |
-| **[Decoding the Pulse of Reasoning VLMs in Multi-Image Understanding Tasks](https://arxiv.org/abs/2603.04676v1)** | 2026-03-04 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables</p></details> |
-| **[Mask-aware inference with State-Space Models](https://arxiv.org/abs/2603.04568v1)** | 2026-03-04 |  |
-| **[Low-Resource Guidance for Controllable Latent Audio Diffusion](https://arxiv.org/abs/2603.04366v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
-| **[FocusGraph: Graph-Structured Frame Selection for Embodied Long Video Question Answering](https://arxiv.org/abs/2603.04349v1)** | 2026-03-04 |  |
-| **[$V_1$: Unifying Generation and Self-Verification for Parallel Reasoners](https://arxiv.org/abs/2603.04304v1)** | 2026-03-04 |  |
-| **[Mask-Guided Attention Regulation for Anatomically Consistent Counterfactual CXR Synthesis](https://arxiv.org/abs/2603.04130v1)** | 2026-03-04 |  |
-| **[Inference-Time Toxicity Mitigation in Protein Language Models](https://arxiv.org/abs/2603.04045v1)** | 2026-03-04 |  |
 
