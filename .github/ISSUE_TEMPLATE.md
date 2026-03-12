@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2026
+title: Latest 15 Papers - March 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Cold-Start Drafting and Continual Refining: A Value-Driven Memory Approach with Application to NPU Kernel Synthesis](https://arxiv.org/abs/2603.10846v1)** | 2026-03-11 |  |
+| **[MAD: Memory Allocation meets Software Diversity](https://arxiv.org/abs/2603.10840v1)** | 2026-03-11 |  |
+| **[Trajectory-Informed Memory Generation for Self-Improving Agent Systems](https://arxiv.org/abs/2603.10600v1)** | 2026-03-11 |  |
+| **[In-Memory ADC-Based Nonlinear Activation Quantization for Efficient In-Memory Computing](https://arxiv.org/abs/2603.10540v1)** | 2026-03-11 |  |
+| **[AsyncMDE: Real-Time Monocular Depth Estimation via Asynchronous Spatial Memory](https://arxiv.org/abs/2603.10438v1)** | 2026-03-11 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables</p></details> |
+| **[Hybrid Self-evolving Structured Memory for GUI Agents](https://arxiv.org/abs/2603.10291v1)** | 2026-03-11 |  |
+| **[OilSAM2: Memory-Augmented SAM2 for Scalable SAR Oil Spill Detection](https://arxiv.org/abs/2603.10231v1)** | 2026-03-10 |  |
 | **[PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs](https://arxiv.org/abs/2603.09943v1)** | 2026-03-10 |  |
 | **[MSSR: Memory-Aware Adaptive Replay for Continual LLM Fine-Tuning](https://arxiv.org/abs/2603.09892v1)** | 2026-03-10 |  |
 | **[AutoAgent: Evolving Cognition and Elastic Memory Orchestration for Adaptive Agents](https://arxiv.org/abs/2603.09716v1)** | 2026-03-10 |  |
+| **[Pooling Engram Conditional Memory in Large Language Models using CXL](https://arxiv.org/abs/2603.10087v1)** | 2026-03-10 | <details><summary>Submi...</summary><p>Submitted to EuroMLSys'26</p></details> |
 | **[Memory-Guided View Refinement for Dynamic Human-in-the-loop EQA](https://arxiv.org/abs/2603.09541v1)** | 2026-03-10 |  |
 | **[Beyond Short-Horizon: VQ-Memory for Robust Long-Horizon Manipulation in Non-Markovian Simulation Benchmarks](https://arxiv.org/abs/2603.09513v1)** | 2026-03-10 | 9 pages |
 | **[TA-Mem: Tool-Augmented Autonomous Memory Retrieval for LLM in Long-Term Conversational QA](https://arxiv.org/abs/2603.09297v1)** | 2026-03-10 |  |
 | **[Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval](https://arxiv.org/abs/2603.09250v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229v1)** | 2026-03-10 |  |
-| **[PIM-SHERPA: Software Method for On-device LLM Inference by Resolving PIM Memory Attribute and Layout Inconsistencies](https://arxiv.org/abs/2603.09216v1)** | 2026-03-10 | 13 pages, 13 figures |
-| **[The Missing Memory Hierarchy: Demand Paging for LLM Context Windows](https://arxiv.org/abs/2603.09023v1)** | 2026-03-09 |  |
-| **[MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games](https://arxiv.org/abs/2603.09022v1)** | 2026-03-09 |  |
-| **[Grow, Assess, Compress: Adaptive Backbone Scaling for Memory-Efficient Class Incremental Learning](https://arxiv.org/abs/2603.08426v1)** | 2026-03-09 |  |
-| **[Adaptive Loops and Memory in Transformers: Think Harder or Know More?](https://arxiv.org/abs/2603.08391v2)** | 2026-03-10 | <details><summary>Publi...</summary><p>Published at Latent & Implicit Thinking Workshop @ ICLR 2026</p></details> |
-| **[CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval](https://arxiv.org/abs/2603.07997v1)** | 2026-03-09 |  |
-| **[FrameVGGT: Frame Evidence Rolling Memory for streaming VGGT](https://arxiv.org/abs/2603.07690v1)** | 2026-03-08 | <details><summary>24pag...</summary><p>24pages including appendix</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PPGuide: Steering Diffusion Policies with Performance Predictive Guidance](https://arxiv.org/abs/2603.10980v1)** | 2026-03-11 | Accepted by ICRA'26 |
+| **[GroundCount: Grounding Vision-Language Models with Object Detection for Mitigating Counting Hallucinations](https://arxiv.org/abs/2603.10978v1)** | 2026-03-11 |  |
+| **[Overcoming Visual Clutter in Vision Language Action Models via Concept-Gated Visual Distillation](https://arxiv.org/abs/2603.10340v1)** | 2026-03-11 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 3 tables</p></details> |
+| **[Adaptive Activation Cancellation for Hallucination Mitigation in Large Language Models](https://arxiv.org/abs/2603.10195v1)** | 2026-03-10 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 23 tables</p></details> |
 | **[Beyond Test-Time Training: Learning to Reason via Hardware-Efficient Optimal Control](https://arxiv.org/abs/2603.09221v1)** | 2026-03-10 |  |
 | **[The Radio-Frequency Transformer for Signal Separation](https://arxiv.org/abs/2603.09201v1)** | 2026-03-10 |  |
 | **[Explainable Innovation Engine: Dual-Tree Agent-RAG with Methods-as-Nodes and Verifiable Write-Back](https://arxiv.org/abs/2603.09192v1)** | 2026-03-10 | <details><summary>15pag...</summary><p>15pages, 4figures, code available on Github</p></details> |
@@ -72,11 +76,7 @@ labels: documentation
 | **[The Coupling Within: Flow Matching via Distilled Normalizing Flows](https://arxiv.org/abs/2603.09014v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted to ICML 2026</p></details> |
 | **[The $qs$ Inequality: Quantifying the Double Penalty of Mixture-of-Experts at Inference](https://arxiv.org/abs/2603.08960v1)** | 2026-03-09 | 10 pages, 6 tables |
 | **[CODA: Difficulty-Aware Compute Allocation for Adaptive Reasoning](https://arxiv.org/abs/2603.08659v1)** | 2026-03-09 |  |
+| **[Cluster-Aware Attention-Based Deep Reinforcement Learning for Pickup and Delivery Problems](https://arxiv.org/abs/2603.10053v1)** | 2026-03-09 |  |
 | **[CAST: Modeling Visual State Transitions for Consistent Video Retrieval](https://arxiv.org/abs/2603.08648v1)** | 2026-03-09 |  |
 | **[R2F: Repurposing Ray Frontiers for LLM-free Object Navigation](https://arxiv.org/abs/2603.08475v1)** | 2026-03-09 |  |
-| **[Revealing Behavioral Plasticity in Large Language Models: A Token-Conditional Perspective](https://arxiv.org/abs/2603.08398v1)** | 2026-03-09 | <details><summary>Work ...</summary><p>Work done during an internship at the Qwen Team, Alibaba Group</p></details> |
-| **[DARC: Disagreement-Aware Alignment via Risk-Constrained Decoding](https://arxiv.org/abs/2603.08145v1)** | 2026-03-09 |  |
-| **[TRIAGE: Type-Routed Interventions via Aleatoric-Epistemic Gated Estimation in Robotic Manipulation and Adaptive Perception -- Don't Treat All Uncertainty the Same](https://arxiv.org/abs/2603.08128v1)** | 2026-03-09 |  |
-| **[Invisible Safety Threat: Malicious Finetuning for LLM via Steganography](https://arxiv.org/abs/2603.08104v1)** | 2026-03-09 |  |
-| **[Amortizing Maximum Inner Product Search with Learned Support Functions](https://arxiv.org/abs/2603.08001v1)** | 2026-03-09 |  |
 
