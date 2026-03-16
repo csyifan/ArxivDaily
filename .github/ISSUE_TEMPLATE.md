@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 15, 2026
+title: Latest 15 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation](https://arxiv.org/abs/2603.13116v1)** | 2026-03-13 | Accepted to CHI 2026 |
+| **[Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation](https://arxiv.org/abs/2603.13017v1)** | 2026-03-13 | <details><summary>6 fig...</summary><p>6 figures. Code: https://github.com/Process-Point-Technologies-Corporation/searchat</p></details> |
+| **[ReMem-VLA: Empowering Vision-Language-Action Model with Memory via Dual-Level Recurrent Queries](https://arxiv.org/abs/2603.12942v1)** | 2026-03-13 | 14 pages, 6 figures |
+| **[RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics](https://arxiv.org/abs/2603.12939v1)** | 2026-03-13 |  |
+| **[SRAM-Based Compute-in-Memory Accelerator for Linear-decay Spiking Neural Networks](https://arxiv.org/abs/2603.12739v1)** | 2026-03-13 |  |
+| **[Collaborative Multi-Agent Optimization for Personalized Memory System](https://arxiv.org/abs/2603.12631v1)** | 2026-03-13 |  |
+| **[LMEB: Long-horizon Memory Embedding Benchmark](https://arxiv.org/abs/2603.12572v1)** | 2026-03-13 | <details><summary>35 pa...</summary><p>35 pages, 9 figures, 23 tables</p></details> |
+| **[MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens](https://arxiv.org/abs/2603.12513v1)** | 2026-03-12 | <details><summary>9 pag...</summary><p>9 pages main, 3 pages references, 6 pages appendix. Project page: https://memrope.github.io</p></details> |
+| **[SpectralGuard: Detecting Memory Collapse Attacks in State Space Models](https://arxiv.org/abs/2603.12414v1)** | 2026-03-12 | <details><summary>24 pa...</summary><p>24 pages, 10 figures. Code, dataset, and demo: https://github.com/DaviBonetto/spectralguard</p></details> |
+| **[Spatial PDE-aware Selective State-space with Nested Memory for Mobile Traffic Grid Forecasting](https://arxiv.org/abs/2603.12353v1)** | 2026-03-12 |  |
 | **[Time, Message and Memory-Optimal Distributed Minimum Spanning Tree and Partwise Aggregation](https://arxiv.org/abs/2603.12156v1)** | 2026-03-12 |  |
 | **[Resource-Efficient Iterative LLM-Based NAS with Feedback Memory](https://arxiv.org/abs/2603.12091v1)** | 2026-03-12 |  |
 | **[Think While Watching: Online Streaming Segment-Level Memory for Multi-Turn Video Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2603.11896v1)** | 2026-03-12 |  |
 | **[Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework](https://arxiv.org/abs/2603.11768v1)** | 2026-03-12 |  |
 | **[SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory](https://arxiv.org/abs/2603.11746v1)** | 2026-03-12 |  |
-| **[LHGstore: An In-Memory Learned Graph Storage for Fast Updates and Analytics](https://arxiv.org/abs/2603.11596v1)** | 2026-03-12 | Accepted by DAC 2026 |
-| **[Towards Cold-Start Drafting and Continual Refining: A Value-Driven Memory Approach with Application to NPU Kernel Synthesis](https://arxiv.org/abs/2603.10846v1)** | 2026-03-11 |  |
-| **[MAD: Memory Allocation meets Software Diversity](https://arxiv.org/abs/2603.10840v1)** | 2026-03-11 |  |
-| **[Trajectory-Informed Memory Generation for Self-Improving Agent Systems](https://arxiv.org/abs/2603.10600v1)** | 2026-03-11 |  |
-| **[In-Memory ADC-Based Nonlinear Activation Quantization for Efficient In-Memory Computing](https://arxiv.org/abs/2603.10540v1)** | 2026-03-11 |  |
-| **[AsyncMDE: Real-Time Monocular Depth Estimation via Asynchronous Spatial Memory](https://arxiv.org/abs/2603.10438v1)** | 2026-03-11 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables</p></details> |
-| **[Hybrid Self-evolving Structured Memory for GUI Agents](https://arxiv.org/abs/2603.10291v1)** | 2026-03-11 |  |
-| **[OilSAM2: Memory-Augmented SAM2 for Scalable SAR Oil Spill Detection](https://arxiv.org/abs/2603.10231v1)** | 2026-03-10 |  |
-| **[PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs](https://arxiv.org/abs/2603.09943v1)** | 2026-03-10 |  |
-| **[MSSR: Memory-Aware Adaptive Replay for Continual LLM Fine-Tuning](https://arxiv.org/abs/2603.09892v1)** | 2026-03-10 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reasoning over Video: Evaluating How MLLMs Extract, Integrate, and Reconstruct Spatiotemporal Evidence](https://arxiv.org/abs/2603.13091v1)** | 2026-03-13 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 21 tables</p></details> |
+| **[VCBench: A Streaming Counting Benchmark for Spatial-Temporal State Maintenance in Long Videos](https://arxiv.org/abs/2603.12703v1)** | 2026-03-13 |  |
+| **[Less Data, Faster Convergence: Goal-Driven Data Optimization for Multimodal Instruction Tuning](https://arxiv.org/abs/2603.12478v1)** | 2026-03-12 |  |
+| **[SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs](https://arxiv.org/abs/2603.12382v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026; Project page: https://risys-lab.github.io/SPARROW; Repository: https://github.com/RISys-Lab/SPARROW</p></details> |
 | **[Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously](https://arxiv.org/abs/2603.12262v1)** | 2026-03-12 |  |
 | **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
 | **[Think While Watching: Online Streaming Segment-Level Memory for Multi-Turn Video Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2603.11896v1)** | 2026-03-12 |  |
@@ -37,10 +41,6 @@ labels: documentation
 | **[EgoReasoner: Learning Egocentric 4D Reasoning via Task-Adaptive Structured Thinking](https://arxiv.org/abs/2603.06561v1)** | 2026-03-06 | preprint |
 | **[MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents](https://arxiv.org/abs/2603.05697v1)** | 2026-03-05 |  |
 | **[Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline](https://arxiv.org/abs/2603.05484v1)** | 2026-03-05 |  |
-| **[Think, Then Verify: A Hypothesis-Verification Multi-Agent Framework for Long Video Understanding](https://arxiv.org/abs/2603.04977v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Are Multimodal LLMs Ready for Surveillance? A Reality Check on Zero-Shot Anomaly Detection in the Wild](https://arxiv.org/abs/2603.04727v1)** | 2026-03-05 |  |
-| **[FocusGraph: Graph-Structured Frame Selection for Embodied Long Video Question Answering](https://arxiv.org/abs/2603.04349v1)** | 2026-03-04 |  |
-| **[RIVER: A Real-Time Interaction Benchmark for Video LLMs](https://arxiv.org/abs/2603.03985v1)** | 2026-03-04 |  |
 
 ## Medical Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mitigating Memorization in Text-to-Image Diffusion via Region-Aware Prompt Augmentation and Multimodal Copy Detection](https://arxiv.org/abs/2603.13070v1)** | 2026-03-13 |  |
+| **[SteerRM: Debiasing Reward Models via Sparse Autoencoders](https://arxiv.org/abs/2603.12795v1)** | 2026-03-13 |  |
+| **[Spend Less, Reason Better: Budget-Aware Value Tree Search for LLM Agents](https://arxiv.org/abs/2603.12634v1)** | 2026-03-13 |  |
+| **[TaxBreak: Unmasking the Hidden Costs of LLM Inference Through Overhead Decomposition](https://arxiv.org/abs/2603.12465v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted at IEEE ISPASS 2026. Copyright assigned to IEEE</p></details> |
 | **[Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training](https://arxiv.org/abs/2603.12246v1)** | 2026-03-12 |  |
 | **[A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition](https://arxiv.org/abs/2603.12221v1)** | 2026-03-12 | 10 pages, 4 figures |
 | **[Single Pixel Image Classification using an Ultrafast Digital Light Projector](https://arxiv.org/abs/2603.12036v1)** | 2026-03-12 |  |
@@ -75,8 +79,4 @@ labels: documentation
 | **[Gen-Fab: A Variation-Aware Generative Model for Predicting Fabrication Variations in Nanophotonic Devices](https://arxiv.org/abs/2603.11505v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted and published in Structural and Multidisciplinary Optimization (2026)</p></details> |
 | **[PRMB: Benchmarking Reward Models in Long-Horizon CBT-based Counseling Dialogue](https://arxiv.org/abs/2603.11494v1)** | 2026-03-12 |  |
 | **[Detect Anything in Real Time: From Single-Prompt Segmentation to Multi-Class Detection](https://arxiv.org/abs/2603.11441v1)** | 2026-03-12 |  |
-| **[Real-time Rendering-based Surgical Instrument Tracking via Evolutionary Optimization](https://arxiv.org/abs/2603.11404v1)** | 2026-03-12 |  |
-| **[Relaxed Efficient Acquisition of Context and Temporal Features](https://arxiv.org/abs/2603.11370v1)** | 2026-03-11 |  |
-| **[Jailbreak Scaling Laws for Large Language Models: Polynomial-Exponential Crossover](https://arxiv.org/abs/2603.11331v1)** | 2026-03-11 |  |
-| **[Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios](https://arxiv.org/abs/2603.11214v1)** | 2026-03-11 |  |
 
