@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 17, 2026
+title: Latest 15 Papers - March 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory](https://arxiv.org/abs/2603.16862v1)** | 2026-03-17 |  |
+| **[BenchPreS: A Benchmark for Context-Aware Personalized Preference Selectivity of Persistent-Memory LLMs](https://arxiv.org/abs/2603.16557v1)** | 2026-03-17 |  |
+| **[AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents](https://arxiv.org/abs/2603.16496v1)** | 2026-03-17 |  |
+| **[ETM2: Empowering Traditional Memory Bandwidth Regulation using ETM](https://arxiv.org/abs/2603.16490v1)** | 2026-03-17 | <details><summary>Exten...</summary><p>Extended version or the paper accepted to appear at IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2026</p></details> |
+| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v1)** | 2026-03-17 | <details><summary>29 pa...</summary><p>29 pages, 1 table, 3 appendices with extended examples</p></details> |
+| **[Trained Persistent Memory for Frozen Encoder--Decoder LLMs: Six Architectural Methods](https://arxiv.org/abs/2603.16413v1)** | 2026-03-17 |  |
+| **[MemX: A Local-First Long-Term Memory System for AI Assistants](https://arxiv.org/abs/2603.16171v1)** | 2026-03-17 | <details><summary>18 pa...</summary><p>18 pages, 2 figures, 13 tables</p></details> |
+| **[Selective Memory for Artificial Intelligence: Write-Time Gating with Hierarchical Archiving](https://arxiv.org/abs/2603.15994v1)** | 2026-03-16 | 20 pages, 8 figures |
+| **[FlashSampling: Fast and Memory-Efficient Exact Sampling](https://arxiv.org/abs/2603.15854v1)** | 2026-03-16 | <details><summary>Proje...</summary><p>Project Page: https://github.com/FlashSampling/FlashSampling</p></details> |
+| **[Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory](https://arxiv.org/abs/2603.15800v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Project page: https://echosafe-mllm.github.io</p></details> |
 | **[SmartSearch: How Ranking Beats Structure for Conversational Memory Retrieval](https://arxiv.org/abs/2603.15599v1)** | 2026-03-16 |  |
 | **[Co-Design of Memory-Storage Systems for Workload Awareness with Interpretable Models](https://arxiv.org/abs/2603.15571v1)** | 2026-03-16 | 9 pages, 10 figures |
 | **[CLAG: Adaptive Memory Organization via Agent-Driven Clustering for Small Language Model Agents](https://arxiv.org/abs/2603.15421v1)** | 2026-03-16 |  |
 | **[Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory](https://arxiv.org/abs/2603.15280v1)** | 2026-03-16 | 11 pages, 6 figures |
 | **[Question-guided Visual Compression with Memory Feedback for Long-Term Video Understanding](https://arxiv.org/abs/2603.15167v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. The first two authors contributed equally to this work</p></details> |
-| **[From Storage to Steering: Memory Control Flow Attacks on LLM Agents](https://arxiv.org/abs/2603.15125v1)** | 2026-03-16 |  |
-| **[Writer-R1: Enhancing Generative Writing in LLMs via Memory-augmented Replay Policy Optimization](https://arxiv.org/abs/2603.15061v1)** | 2026-03-16 |  |
-| **[Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks](https://arxiv.org/abs/2603.14864v1)** | 2026-03-16 | <details><summary>Subbm...</summary><p>Subbmited to ACL 2026</p></details> |
-| **[HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System](https://arxiv.org/abs/2603.14807v1)** | 2026-03-16 | 9 pages, 7 figures |
-| **[RenderMem: Rendering as Spatial Memory Retrieval](https://arxiv.org/abs/2603.14669v1)** | 2026-03-15 |  |
-| **[Dynamic Theory of Mind as a Temporal Memory Problem: Evidence from Large Language Models](https://arxiv.org/abs/2603.14646v1)** | 2026-03-15 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables, conference</p></details> |
-| **[D-MEM: Dopamine-Gated Agentic Memory via Reward Prediction Error Routing](https://arxiv.org/abs/2603.14597v1)** | 2026-03-15 |  |
-| **[SuperLocalMemory V3: Information-Geometric Foundations for Zero-LLM Enterprise Agent Memory](https://arxiv.org/abs/2603.14588v1)** | 2026-03-15 | <details><summary>43 pa...</summary><p>43 pages, 5 figures, 9 tables, 3 appendices. Code: https://github.com/qualixar/superlocalmemory. Zenodo DOI: 10.5281/zenodo.19038659</p></details> |
-| **[Machine Learning-Driven Intelligent Memory System Design: From On-Chip Caches to Storage](https://arxiv.org/abs/2603.14583v1)** | 2026-03-15 | <details><summary>Exten...</summary><p>Extended version of the IEEE Micro 2026 article</p></details> |
-| **[Learning to Forget: Sleep-Inspired Memory Consolidation for Resolving Proactive Interference in Large Language Models](https://arxiv.org/abs/2603.14517v1)** | 2026-03-15 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fanar 2.0: Arabic Generative AI Stack](https://arxiv.org/abs/2603.16397v1)** | 2026-03-17 |  |
+| **[GATS: Gaussian Aware Temporal Scaling Transformer for Invariant 4D Spatio-Temporal Point Cloud Representation](https://arxiv.org/abs/2603.16154v1)** | 2026-03-17 |  |
 | **[RieMind: Geometry-Grounded Spatial Agent for Scene Understanding](https://arxiv.org/abs/2603.15386v1)** | 2026-03-16 |  |
 | **[Question-guided Visual Compression with Memory Feedback for Long-Term Video Understanding](https://arxiv.org/abs/2603.15167v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. The first two authors contributed equally to this work</p></details> |
 | **[Clue Matters: Leveraging Latent Visual Clues to Empower Video Reasoning](https://arxiv.org/abs/2603.15008v1)** | 2026-03-16 | 18 pages, 7 figures |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously](https://arxiv.org/abs/2603.12262v1)** | 2026-03-12 |  |
 | **[Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](https://arxiv.org/abs/2603.12254v1)** | 2026-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://autogaze.github.io/</p></details> |
 | **[WAT: Online Video Understanding Needs Watching Before Thinking](https://arxiv.org/abs/2603.13412v1)** | 2026-03-12 |  |
-| **[Think While Watching: Online Streaming Segment-Level Memory for Multi-Turn Video Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2603.11896v1)** | 2026-03-12 |  |
-| **[Beyond Single-Sample: Reliable Multi-Sample Distillation for Video Understanding](https://arxiv.org/abs/2603.11423v1)** | 2026-03-12 |  |
 
 ## Medical Agent
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Physics-Informed Neural Systems for the Simulation of EUV Electromagnetic Wave Diffraction from a Lithography Mask](https://arxiv.org/abs/2603.15584v1)** | 2026-03-16 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2507.04153</p></details> |
-| **[Mamba-3: Improved Sequence Modeling using State Space Principles](https://arxiv.org/abs/2603.15569v1)** | 2026-03-16 | ICLR 2026 |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[MeMix: Writing Less, Remembering More for Streaming 3D Reconstruction](https://arxiv.org/abs/2603.15330v1)** | 2026-03-16 |  |
-| **[Directional Embedding Smoothing for Robust Vision Language Models](https://arxiv.org/abs/2603.15259v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 Workshop on Agents in the Wild</p></details> |
-| **[HapticVLA: Contact-Rich Manipulation via Vision-Language-Action Model without Inference-Time Tactile Sensing](https://arxiv.org/abs/2603.15257v1)** | 2026-03-16 |  |
-| **[To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation](https://arxiv.org/abs/2603.15159v1)** | 2026-03-16 | 12 pages |
-| **[Transformers As Generalizable Optimal Controllers](https://arxiv.org/abs/2603.14910v1)** | 2026-03-16 | 6 pages |
-| **[ExPosST: Explicit Positioning with Adaptive Masking for LLM-Based Simultaneous Machine Translation](https://arxiv.org/abs/2603.14903v1)** | 2026-03-16 |  |
-| **[Two Birds, One Projection: Harmonizing Safety and Utility in LVLMs via Inference-time Feature Projection](https://arxiv.org/abs/2603.14825v1)** | 2026-03-16 |  |
-| **[VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting](https://arxiv.org/abs/2603.14659v1)** | 2026-03-15 | <details><summary>Proje...</summary><p>Project website: https://visioncoach.github.io/</p></details> |
-| **[Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models](https://arxiv.org/abs/2603.14636v1)** | 2026-03-15 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2 tables</p></details> |
-| **[Compute Allocation for Reasoning-Intensive Retrieval Agents](https://arxiv.org/abs/2603.14635v1)** | 2026-03-15 |  |
-| **[$PA^3$: $\textbf{P}$olicy-$\textbf{A}$ware $\textbf{A}$gent $\textbf{A}$lignment through Chain-of-Thought](https://arxiv.org/abs/2603.14602v1)** | 2026-03-15 |  |
-| **[FlashHead: Efficient Drop-In Replacement for the Classification Head in Language Model Inference](https://arxiv.org/abs/2603.14591v1)** | 2026-03-15 | <details><summary>A col...</summary><p>A collection of models with FlashHead optimization can be found at: https://huggingface.co/collections/embedl/flashhead</p></details> |
+| **[SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation](https://arxiv.org/abs/2603.16864v1)** | 2026-03-17 |  |
+| **[SOMA: Unifying Parametric Human Body Models](https://arxiv.org/abs/2603.16858v1)** | 2026-03-17 |  |
+| **[HMAR: Hierarchical Modality-Aware Expert and Dynamic Routing Medical Image Retrieval Architecture](https://arxiv.org/abs/2603.16679v1)** | 2026-03-17 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 1 table</p></details> |
+| **[Can Linguistically Related Languages Guide LLM Translation in Low-Resource Settings?](https://arxiv.org/abs/2603.16660v1)** | 2026-03-17 | <details><summary>18 pa...</summary><p>18 pages (9 main paper and 9 Appendix), 1 figure, 19 tables. Accepted at LoResMT 2026: EACL 2026 Workshop. OpenReview link: https://openreview.net/forum?id=mg0UfW2sdc#discussion</p></details> |
+| **[Segmentation-Based Attention Entropy: Detecting and Mitigating Object Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2603.16558v1)** | 2026-03-17 |  |
+| **[AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents](https://arxiv.org/abs/2603.16496v1)** | 2026-03-17 |  |
+| **[TRACE: Evaluating Execution Efficiency of LLM-Based Code Translation](https://arxiv.org/abs/2603.16479v1)** | 2026-03-17 |  |
+| **[IndexRAG: Bridging Facts for Cross-Document Reasoning at Index Time](https://arxiv.org/abs/2603.16415v1)** | 2026-03-17 |  |
+| **[Trained Persistent Memory for Frozen Encoder--Decoder LLMs: Six Architectural Methods](https://arxiv.org/abs/2603.16413v1)** | 2026-03-17 |  |
+| **[Encoding Predictability and Legibility for Style-Conditioned Diffusion Policy](https://arxiv.org/abs/2603.16368v1)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to the 18th International Conference on Social Robotics (ICSR 2026)</p></details> |
+| **[DynamicGate MLP Conditional Computation via Learned Structural Dropout and Input Dependent Gating for Functional Plasticity](https://arxiv.org/abs/2603.16367v1)** | 2026-03-17 | 27 pages, 8 Figures |
+| **[Behavioral Steering in a 35B MoE Language Model via SAE-Decoded Probe Vectors: One Agency Axis, Not Five Traits](https://arxiv.org/abs/2603.16335v1)** | 2026-03-17 | 14 pages, 3 figures |
+| **[VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment](https://arxiv.org/abs/2603.16271v1)** | 2026-03-17 |  |
+| **[MOSAIC: Composable Safety Alignment with Modular Control Tokens](https://arxiv.org/abs/2603.16210v1)** | 2026-03-17 |  |
+| **[ECHO: Edge-Cloud Humanoid Orchestration for Language-to-Motion Control](https://arxiv.org/abs/2603.16188v1)** | 2026-03-17 |  |
 
