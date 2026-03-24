@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2026
+title: Latest 15 Papers - March 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Memori: A Persistent Memory Layer for Efficient, Context-Aware LLM Agents](https://arxiv.org/abs/2603.19935v1)** | 2026-03-20 | <details><summary>9 pag...</summary><p>9 pages; 2 figures; white paper</p></details> |
-| **[All-Mem: Agentic Lifelong Memory via Dynamic Topology Evolution](https://arxiv.org/abs/2603.19595v1)** | 2026-03-20 |  |
-| **[CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management](https://arxiv.org/abs/2603.19571v1)** | 2026-03-20 |  |
-| **[GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning](https://arxiv.org/abs/2603.19137v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page at https://vulab-ai.github.io/GSMem/</p></details> |
-| **[MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution](https://arxiv.org/abs/2603.18718v1)** | 2026-03-19 | 23 pages, 5 figures |
-| **[TurboMem: High-Performance Lock-Free Memory Pool with Transparent Huge Page Auto-Merging for DPDK](https://arxiv.org/abs/2603.18690v1)** | 2026-03-19 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 4 tables; v2: Added explicit disclaimer in abstract clarifying that all performance numbers are based on mock benchmarks (real VTune results forthcoming). Minor formatting corrections</p></details> |
-| **[MANAR: Memory-augmented Attention with Navigational Abstract Conceptual Representation](https://arxiv.org/abs/2603.18676v1)** | 2026-03-19 |  |
-| **[D-Mem: A Dual-Process Memory System for LLM Agents](https://arxiv.org/abs/2603.18631v1)** | 2026-03-19 |  |
-| **[Quantifying Memory Cells Vulnerability for DRAM Security](https://arxiv.org/abs/2603.18549v1)** | 2026-03-19 |  |
-| **[MemoAct: Atkinson-Shiffrin-Inspired Memory-Augmented Visuomotor Policy for Robotic Manipulation](https://arxiv.org/abs/2603.18494v1)** | 2026-03-19 |  |
-| **[AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents](https://arxiv.org/abs/2603.18429v1)** | 2026-03-19 |  |
-| **[From Topic to Transition Structure: Unsupervised Concept Discovery at Corpus Scale via Predictive Associative Memory](https://arxiv.org/abs/2603.18420v1)** | 2026-03-19 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Code and demo: https://github.com/EridosAI/PAM-Concept-Discovery</p></details> |
-| **[MemArchitect: A Policy Driven Memory Governance Layer](https://arxiv.org/abs/2603.18330v1)** | 2026-03-18 | <details><summary>This ...</summary><p>This is an on going research work and will be updated periodically</p></details> |
-| **[RPMS: Enhancing LLM-Based Embodied Planning through Rule-Augmented Memory Synergy](https://arxiv.org/abs/2603.17831v1)** | 2026-03-18 |  |
-| **[Governed Memory: A Production Architecture for Multi-Agent Workflows](https://arxiv.org/abs/2603.17787v1)** | 2026-03-18 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 11 tables, 7 appendices. Code and datasets: https://github.com/personizeai/governed-memory</p></details> |
+| **[MemDLM: Memory-Enhanced DLM Training](https://arxiv.org/abs/2603.22241v1)** | 2026-03-23 |  |
+| **[GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning](https://arxiv.org/abs/2603.22096v1)** | 2026-03-23 |  |
+| **[Memory-Efficient Boundary Map for Large-Scale Occupancy Grid Mapping](https://arxiv.org/abs/2603.21774v1)** | 2026-03-23 |  |
+| **[Optimal Memory Encoding Through Fluctuation-Response Structure](https://arxiv.org/abs/2603.21666v1)** | 2026-03-23 | 6pages, 2 figures |
+| **[PRISM: Breaking the O(n) Memory Wall in Long-Context LLM Inference via O(1) Photonic Block Selection](https://arxiv.org/abs/2603.21576v1)** | 2026-03-23 | <details><summary>28 pa...</summary><p>28 pages, 27 figures, 15 tables, including supplementary material. Code available at https://github.com/hyoseokp/PRISM</p></details> |
+| **[Toward a Theory of Hierarchical Memory for Language Agents](https://arxiv.org/abs/2603.21564v1)** | 2026-03-23 |  |
+| **[Generalizable Self-Evolving Memory for Automatic Prompt Optimization](https://arxiv.org/abs/2603.21520v1)** | 2026-03-23 |  |
+| **[Exploring Experiential Differences Between Virtual and Physical Memory-Linked Objects in Extended Reality](https://arxiv.org/abs/2603.21381v1)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted to ACM CHI 2026 Extended Abstracts (Poster Track)</p></details> |
+| **[Constrained Online Convex Optimization with Memory and Predictions](https://arxiv.org/abs/2603.21375v1)** | 2026-03-22 | <details><summary>accep...</summary><p>accepted to AAAI 2026</p></details> |
+| **[Relax Forcing: Relaxed KV-Memory for Consistent Long Video Generation](https://arxiv.org/abs/2603.21366v1)** | 2026-03-22 | <details><summary>Proje...</summary><p>Project page: see https://zengqunzhao.github.io/Relax-Forcing</p></details> |
+| **[Fusing Memory and Attention: A study on LSTM, Transformer and Hybrid Architectures for Symbolic Music Generation](https://arxiv.org/abs/2603.21282v1)** | 2026-03-22 | <details><summary>20 pa...</summary><p>20 pages, 6 figures. Published in Expert Systems with Applications (Elsevier), 2026. DOI: https://doi.org/10.1016/j.eswa.2026.131173</p></details> |
+| **[PC2IM: An Efficient In-Memory Computing Accelerator for 3D Point Cloud](https://arxiv.org/abs/2603.21167v1)** | 2026-03-22 |  |
+| **[One Pool Is Not Enough: Multi-Cluster Memory for Practical Test-Time Adaptation](https://arxiv.org/abs/2603.21135v1)** | 2026-03-22 | 14 pages, 6 figures |
+| **[Mixture of Chapters: Scaling Learnt Memory in Transformers](https://arxiv.org/abs/2603.21096v1)** | 2026-03-22 | <details><summary>20 pa...</summary><p>20 pages, 2 figures, 8 tables. Accepted at ICLR 2026 New Frontiers in Associative Memory Workshop. Code available at https://github.com/Tasmay-Tibrewal/Memory</p></details> |
+| **[ME-IQA: Memory-Enhanced Image Quality Assessment via Re-Ranking](https://arxiv.org/abs/2603.20785v1)** | 2026-03-21 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding](https://arxiv.org/abs/2603.22285v1)** | 2026-03-23 |  |
+| **[StreamingClaw Technical Report](https://arxiv.org/abs/2603.22120v1)** | 2026-03-23 | Under Progress |
+| **[Unified Spatiotemporal Token Compression for Video-LLMs at Ultra-Low Retention](https://arxiv.org/abs/2603.21957v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[FedCVU: Federated Learning for Cross-View Video Understanding](https://arxiv.org/abs/2603.21647v1)** | 2026-03-23 |  |
+| **[CataractSAM-2: A Domain-Adapted Model for Anterior Segment Surgery Segmentation and Scalable Ground-Truth Annotation](https://arxiv.org/abs/2603.21566v1)** | 2026-03-23 |  |
+| **[StreamingEval: A Unified Evaluation Protocol towards Realistic Streaming Video Understanding](https://arxiv.org/abs/2603.21493v1)** | 2026-03-23 |  |
+| **[PEARL: Personalized Streaming Video Understanding Model](https://arxiv.org/abs/2603.20422v1)** | 2026-03-20 | Arxiv Submission |
 | **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[Adaptive Greedy Frame Selection for Long Video Understanding](https://arxiv.org/abs/2603.20180v1)** | 2026-03-20 |  |
-| **[ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding](https://arxiv.org/abs/2603.19610v1)** | 2026-03-20 |  |
+| **[Leum-VL Technical Report](https://arxiv.org/abs/2603.20354v1)** | 2026-03-20 | 27 pages, 5 figures |
+| **[ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding](https://arxiv.org/abs/2603.19610v2)** | 2026-03-23 |  |
 | **[CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management](https://arxiv.org/abs/2603.19571v1)** | 2026-03-20 |  |
 | **[LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs](https://arxiv.org/abs/2603.19217v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page: https://kd-tao.github.io/LVOmniBench/</p></details> |
 | **[TAU-R1: Visual Language Model for Traffic Anomaly Understanding](https://arxiv.org/abs/2603.19098v1)** | 2026-03-19 |  |
 | **[Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding](https://arxiv.org/abs/2603.19054v1)** | 2026-03-19 |  |
-| **[Motion-o: Trajectory-Grounded Video Reasoning](https://arxiv.org/abs/2603.18856v1)** | 2026-03-19 |  |
-| **[VideoAtlas: Navigating Long-Form Video in Logarithmic Compute](https://arxiv.org/abs/2603.17948v1)** | 2026-03-18 |  |
-| **[Video Understanding: From Geometry and Semantics to Unified Models](https://arxiv.org/abs/2603.17840v1)** | 2026-03-18 | <details><summary>A com...</summary><p>A comprehensive survey of video understanding, spanning low-level geometry, high-level semantics, and unified understanding models</p></details> |
-| **[Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2603.18118v1)** | 2026-03-18 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2411.14432</p></details> |
-| **[M2P: Improving Visual Foundation Models with Mask-to-Point Weakly-Supervised Learning for Dense Point Tracking](https://arxiv.org/abs/2603.17813v1)** | 2026-03-18 |  |
-| **[Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos](https://arxiv.org/abs/2603.17693v1)** | 2026-03-18 |  |
-| **[Shot-Aware Frame Sampling for Video Understanding](https://arxiv.org/abs/2603.17374v1)** | 2026-03-18 |  |
-| **[Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress](https://arxiv.org/abs/2603.17312v1)** | 2026-03-18 | CVPR 2026 |
 
 ## Medical Agent
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation](https://arxiv.org/abs/2603.20191v1)** | 2026-03-20 |  |
-| **[Improving Image-to-Image Translation via a Rectified Flow Reformulation](https://arxiv.org/abs/2603.20186v1)** | 2026-03-20 |  |
-| **[Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery](https://arxiv.org/abs/2603.20045v1)** | 2026-03-20 |  |
-| **[ReViSQL: Achieving Human-Level Text-to-SQL](https://arxiv.org/abs/2603.20004v1)** | 2026-03-20 |  |
-| **[PanORama: Multiview Consistent Panoptic Segmentation in Operating Rooms](https://arxiv.org/abs/2603.19920v1)** | 2026-03-20 |  |
-| **[A Subgoal-driven Framework for Improving Long-Horizon LLM Agents](https://arxiv.org/abs/2603.19685v1)** | 2026-03-20 | 50 pages, 15 figures |
-| **[Zero Shot Deformation Reconstruction for Soft Robots Using a Flexible Sensor Array and Cage Based 3D Gaussian Modeling](https://arxiv.org/abs/2603.19543v1)** | 2026-03-20 |  |
-| **[MoCA3D: Monocular 3D Bounding Box Prediction in the Image Plane](https://arxiv.org/abs/2603.19538v1)** | 2026-03-20 | <details><summary>27 pa...</summary><p>27 pages, 9 figures, including supplementary material</p></details> |
-| **[ICLAD: In-Context Learning for Unified Tabular Anomaly Detection Across Supervision Regimes](https://arxiv.org/abs/2603.19497v1)** | 2026-03-19 | 33 pages, 17 figures |
-| **[TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis](https://arxiv.org/abs/2603.19386v1)** | 2026-03-19 |  |
-| **[SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation](https://arxiv.org/abs/2603.19053v1)** | 2026-03-19 | CVPR 2026 |
-| **[SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction](https://arxiv.org/abs/2603.18774v1)** | 2026-03-19 |  |
-| **[6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models](https://arxiv.org/abs/2603.18742v1)** | 2026-03-19 |  |
-| **[Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism](https://arxiv.org/abs/2603.18712v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
-| **[EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models](https://arxiv.org/abs/2603.18489v1)** | 2026-03-19 |  |
+| **[MemDLM: Memory-Enhanced DLM Training](https://arxiv.org/abs/2603.22241v1)** | 2026-03-23 |  |
+| **[Revisiting Quantum Code Generation: Where Should Domain Knowledge Live?](https://arxiv.org/abs/2603.22184v1)** | 2026-03-23 | <details><summary>Submi...</summary><p>Submitted to Quantum Machine Intelligence</p></details> |
+| **[DTVI: Dual-Stage Textual and Visual Intervention for Safe Text-to-Image Generation](https://arxiv.org/abs/2603.22041v1)** | 2026-03-23 |  |
+| **[Future-Interactions-Aware Trajectory Prediction via Braid Theory](https://arxiv.org/abs/2603.22035v1)** | 2026-03-23 | <details><summary>To be...</summary><p>To be published in IEEE Intelligent Vehicles Symposium (IV) 2026</p></details> |
+| **[Tuning Real-World Image Restoration at Inference: A Test-Time Scaling Paradigm for Flow Matching Models](https://arxiv.org/abs/2603.22027v1)** | 2026-03-23 | 27 pages, 10 figures |
+| **[GeoFlow: Real-Time Fine-Grained Cross-View Geolocalization via Iterative Flow Prediction](https://arxiv.org/abs/2603.21943v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
+| **[FeatDistill: A Feature Distillation Enhanced Multi-Expert Ensemble Framework for Robust AI-generated Image Detection](https://arxiv.org/abs/2603.21939v1)** | 2026-03-23 | <details><summary>6th p...</summary><p>6th place (6/507) technical report at the NTIRE 2026: Robust AI-Generated Image Detection in the Wild Challenge</p></details> |
+| **[Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation](https://arxiv.org/abs/2603.21864v1)** | 2026-03-23 |  |
+| **[EvoIdeator: Evolving Scientific Ideas through Checklist-Grounded Reinforcement Learning](https://arxiv.org/abs/2603.21728v1)** | 2026-03-23 |  |
+| **[Thinking Deeper, Not Longer: Depth-Recurrent Transformers for Compositional Generalization](https://arxiv.org/abs/2603.21676v1)** | 2026-03-23 |  |
+| **[SARe: Structure-Aware Large-Scale 3D Fragment Reassembly](https://arxiv.org/abs/2603.21611v1)** | 2026-03-23 | 18 pages, 4 figures |
+| **[DSPA: Dynamic SAE Steering for Data-Efficient Preference Alignment](https://arxiv.org/abs/2603.21461v1)** | 2026-03-23 |  |
+| **[TIDE: Token-Informed Depth Execution for Per-Token Early Exit in LLM Inference](https://arxiv.org/abs/2603.21365v1)** | 2026-03-22 | <details><summary>9 pag...</summary><p>9 pages, 5 tables, 2 figures. Code: https://github.com/RightNow-AI/TIDE</p></details> |
+| **[enhancing reasoning accuracy in large language models during inference time](https://arxiv.org/abs/2603.21301v1)** | 2026-03-22 |  |
+| **[DepthTCM: High Efficient Depth Compression via Physics-aware Transformer-CNN Mixed Architecture](https://arxiv.org/abs/2603.21233v1)** | 2026-03-22 |  |
 
