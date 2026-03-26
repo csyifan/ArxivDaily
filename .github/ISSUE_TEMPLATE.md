@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2603.24576v1)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code is available at https://github.com/gxyes/MARS_Chameleon</p></details> |
+| **[Infrastructure for Valuable, Tradable, and Verifiable Agent Memory](https://arxiv.org/abs/2603.24564v1)** | 2026-03-25 |  |
+| **[Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning](https://arxiv.org/abs/2603.24257v1)** | 2026-03-25 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, 7 tables (including Supplementary Materials)</p></details> |
+| **[Walma: Learning to See Memory Corruption in WebAssembly](https://arxiv.org/abs/2603.24167v1)** | 2026-03-25 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 3 tables</p></details> |
+| **[LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds](https://arxiv.org/abs/2603.24146v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation](https://arxiv.org/abs/2603.24060v1)** | 2026-03-25 | <details><summary>9 pag...</summary><p>9 pages, 16 figures, 3 table. Submitted to IROS 2026</p></details> |
+| **[Attention-aware Inference Optimizations for Large Vision-Language Models with Memory-efficient Decoding](https://arxiv.org/abs/2603.23914v1)** | 2026-03-25 |  |
+| **[VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents](https://arxiv.org/abs/2603.23840v1)** | 2026-03-25 |  |
+| **[PIM-CACHE: High-Efficiency Content-Aware Copy for Processing-In-Memory](https://arxiv.org/abs/2603.23762v1)** | 2026-03-24 | <details><summary>12 pa...</summary><p>12 pages, 27th ACM/IFIP International Middleware Conference</p></details> |
 | **[I3DM: Implicit 3D-aware Memory Retrieval and Injection for Consistent Video Scene Generation](https://arxiv.org/abs/2603.23413v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://riga2.github.io/i3dm</p></details> |
 | **[MemCollab: Cross-Agent Memory Collaboration via Contrastive Trajectory Distillation](https://arxiv.org/abs/2603.23234v1)** | 2026-03-24 |  |
 | **[PERMA: Benchmarking Personalized Memory Agents via Event-Driven Preference and Realistic Task Environments](https://arxiv.org/abs/2603.23231v1)** | 2026-03-24 |  |
-| **[Mind Your HEARTBEAT! Claw Background Execution Inherently Enables Silent Memory Pollution](https://arxiv.org/abs/2603.23064v1)** | 2026-03-24 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 7 tables; The vulnerability of Claw's heartbeat mechanism</p></details> |
+| **[StateLinFormer: Stateful Training Enhancing Long-term Memory in Navigation](https://arxiv.org/abs/2603.23571v1)** | 2026-03-24 | 9 pages, 4 figures |
+| **[Mind Your HEARTBEAT! Claw Background Execution Inherently Enables Silent Memory Pollution](https://arxiv.org/abs/2603.23064v2)** | 2026-03-25 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 7 tables; The vulnerability of Claw's heartbeat mechanism</p></details> |
 | **[Knowledge Access Beats Model Size: Memory Augmented Routing for Persistent AI Agents](https://arxiv.org/abs/2603.23013v1)** | 2026-03-24 |  |
-| **[The Coordinate System Problem in Persistent Structural Memory for Neural Architectures](https://arxiv.org/abs/2603.22858v1)** | 2026-03-24 |  |
-| **[Wake Up to the Past: Using Memory to Model Fluid Wake Effects on Robots](https://arxiv.org/abs/2603.22472v1)** | 2026-03-23 | <details><summary>8 pag...</summary><p>8 pages, 7 figures. Submitted to IROS 2026. Project website: https://sites.google.com/view/wake-up-to-the-past</p></details> |
-| **[MemDLM: Memory-Enhanced DLM Training](https://arxiv.org/abs/2603.22241v1)** | 2026-03-23 |  |
-| **[GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning](https://arxiv.org/abs/2603.22096v1)** | 2026-03-23 |  |
-| **[Memory-Efficient Boundary Map for Large-Scale Occupancy Grid Mapping](https://arxiv.org/abs/2603.21774v1)** | 2026-03-23 |  |
-| **[Optimal Memory Encoding Through Fluctuation-Response Structure](https://arxiv.org/abs/2603.21666v1)** | 2026-03-23 | 6pages, 2 figures |
-| **[PRISM: Breaking the O(n) Memory Wall in Long-Context LLM Inference via O(1) Photonic Block Selection](https://arxiv.org/abs/2603.21576v1)** | 2026-03-23 | <details><summary>28 pa...</summary><p>28 pages, 27 figures, 15 tables, including supplementary material. Code available at https://github.com/hyoseokp/PRISM</p></details> |
-| **[Toward a Theory of Hierarchical Memory for Language Agents](https://arxiv.org/abs/2603.21564v1)** | 2026-03-23 |  |
-| **[Generalizable Self-Evolving Memory for Automatic Prompt Optimization](https://arxiv.org/abs/2603.21520v1)** | 2026-03-23 |  |
-| **[Exploring Experiential Differences Between Virtual and Physical Memory-Linked Objects in Extended Reality](https://arxiv.org/abs/2603.21381v1)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted to ACM CHI 2026 Extended Abstracts (Poster Track)</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
+| **[CliPPER: Contextual Video-Language Pretraining on Long-form Intraoperative Surgical Procedures for Event Recognition](https://arxiv.org/abs/2603.24539v1)** | 2026-03-25 |  |
+| **[GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents](https://arxiv.org/abs/2603.24329v1)** | 2026-03-25 |  |
 | **[EVA: Efficient Reinforcement Learning for End-to-End Video Agent](https://arxiv.org/abs/2603.22918v1)** | 2026-03-24 | CVPR2026 |
 | **[MVPBench: A Multi-Video Perception Evaluation Benchmark for Multi-Modal Video Understanding](https://arxiv.org/abs/2603.22756v1)** | 2026-03-24 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, accepted by IJCNN 2026, code and dataset available at https://github.com/MVPBench/MVPBench</p></details> |
 | **[TrajLoom: Dense Future Trajectory Generation from Video](https://arxiv.org/abs/2603.22606v1)** | 2026-03-23 | <details><summary>Proje...</summary><p>Project page, code, model checkpoints, and datasets: https://trajloom.github.io/</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[CataractSAM-2: A Domain-Adapted Model for Anterior Segment Surgery Segmentation and Scalable Ground-Truth Annotation](https://arxiv.org/abs/2603.21566v1)** | 2026-03-23 |  |
 | **[StreamingEval: A Unified Evaluation Protocol towards Realistic Streaming Video Understanding](https://arxiv.org/abs/2603.21493v1)** | 2026-03-23 |  |
 | **[PEARL: Personalized Streaming Video Understanding Model](https://arxiv.org/abs/2603.20422v1)** | 2026-03-20 | Arxiv Submission |
-| **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Adaptive Greedy Frame Selection for Long Video Understanding](https://arxiv.org/abs/2603.20180v1)** | 2026-03-20 |  |
-| **[Leum-VL Technical Report](https://arxiv.org/abs/2603.20354v1)** | 2026-03-20 | 27 pages, 5 figures |
 
 ## Medical Agent
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models](https://arxiv.org/abs/2603.24584v1)** | 2026-03-25 |  |
+| **[GRMLR: Knowledge-Enhanced Small-Data Learning for Deep-Sea Cold Seep Stage Inference](https://arxiv.org/abs/2603.23961v1)** | 2026-03-25 |  |
+| **[Attention-aware Inference Optimizations for Large Vision-Language Models with Memory-efficient Decoding](https://arxiv.org/abs/2603.23914v1)** | 2026-03-25 |  |
+| **[Self-Evolving Multi-Agent Framework for Efficient Decision Making in Real-Time Strategy Scenarios](https://arxiv.org/abs/2603.23875v1)** | 2026-03-25 | <details><summary>17 pa...</summary><p>17 pages, 6 figures. Submitted to SCIS (Science China Information Science)</p></details> |
+| **[SCoOP: Semantic Consistent Opinion Pooling for Uncertainty Quantification in Multiple Vision-Language Model Systems](https://arxiv.org/abs/2603.23853v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to ICLR 2024 Workshop on Agentic AI in the Wild: From Hallucinations to Reliable Autonomy</p></details> |
+| **[An Adapter-free Fine-tuning Approach for Tuning 3D Foundation Models](https://arxiv.org/abs/2603.23730v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted at The Fifth International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI 2026)</p></details> |
+| **[MoCHA: Denoising Caption Supervision for Motion-Text Retrieval](https://arxiv.org/abs/2603.23684v1)** | 2026-03-24 |  |
+| **[Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition](https://arxiv.org/abs/2603.23673v1)** | 2026-03-24 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Affective Computing submission</p></details> |
+| **[Steering Code LLMs with Activation Directions for Language and Library Control](https://arxiv.org/abs/2603.23629v1)** | 2026-03-24 |  |
 | **[Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation](https://arxiv.org/abs/2603.23398v1)** | 2026-03-24 |  |
 | **[Object Pose Transformer: Unifying Unseen Object Pose Estimation](https://arxiv.org/abs/2603.23370v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project Page: https://colin-de.github.io/OPT-Pose/</p></details> |
 | **[Mamba-driven MRI-to-CT Synthesis for MRI-only Radiotherapy Planning](https://arxiv.org/abs/2603.23295v1)** | 2026-03-24 |  |
 | **[A Learning Method with Gap-Aware Generation for Heterogeneous DAG Scheduling](https://arxiv.org/abs/2603.23249v1)** | 2026-03-24 | 30pages, 8 figures |
 | **[MemCollab: Cross-Agent Memory Collaboration via Contrastive Trajectory Distillation](https://arxiv.org/abs/2603.23234v1)** | 2026-03-24 |  |
 | **[GEM: Guided Expectation-Maximization for Behavior-Normalized Candidate Action Selection in Offline RL](https://arxiv.org/abs/2603.23232v1)** | 2026-03-24 |  |
-| **[Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2603.23202v1)** | 2026-03-24 |  |
-| **[Can Graph Foundation Models Generalize Over Architecture?](https://arxiv.org/abs/2603.22984v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages main text + 18 pages references and appendix (27 pages total), 5 figures. Accepted to GRaM Workshop @ ICLR 2026: Workshop on Geometry-grounded Representation Learning and Generative Modeling (to appear in PMLR)</p></details> |
-| **[Optimizing Small Language Models for NL2SQL via Chain-of-Thought Fine-Tuning](https://arxiv.org/abs/2603.22942v1)** | 2026-03-24 | 9 pages , 3 fifures |
-| **[The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration](https://arxiv.org/abs/2603.22862v1)** | 2026-03-24 |  |
-| **[Caterpillar of Thoughts: The Optimal Test-Time Algorithm for Large Language Models](https://arxiv.org/abs/2603.22784v1)** | 2026-03-24 |  |
-| **[A Foundation Model for Instruction-Conditioned In-Context Time Series Tasks](https://arxiv.org/abs/2603.22586v1)** | 2026-03-23 |  |
-| **[Tiny Inference-Time Scaling with Latent Verifiers](https://arxiv.org/abs/2603.22492v1)** | 2026-03-23 |  |
-| **[LLM-guided headline rewriting for clickability enhancement without clickbait](https://arxiv.org/abs/2603.22459v1)** | 2026-03-23 | 14 pages, 4 figures |
-| **[Model Predictive Control with Differentiable World Models for Offline Reinforcement Learning](https://arxiv.org/abs/2603.22430v1)** | 2026-03-23 |  |
 
