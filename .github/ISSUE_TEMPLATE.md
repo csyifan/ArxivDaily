@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 05, 2026
+title: Latest 15 Papers - April 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding](https://arxiv.org/abs/2604.03201v1)** | 2026-04-03 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 3 tables</p></details> |
+| **[CIDER: Boosting Memory-Disaggregated Key-Value Stores with Pessimistic Synchronization](https://arxiv.org/abs/2604.03007v1)** | 2026-04-03 | <details><summary>This ...</summary><p>This paper is accepted by VLDB'26</p></details> |
+| **[Accelerating Nonlinear Time-History Analysis with Complex Constitutive Laws via Heterogeneous Memory Management: From 3D Seismic Simulation to Neural Network Training](https://arxiv.org/abs/2604.02755v1)** | 2026-04-03 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, accepted for IHPCES/ICCS 2026 (16th International Workshop on Advances in High-Performance Computational Earth Sciences: Numerical Methods, Frameworks & Applications / 26th International Conference on Computational Science)</p></details> |
+| **[Aligning Progress and Feasibility: A Neuro-Symbolic Dual Memory Framework for Long-Horizon LLM Agents](https://arxiv.org/abs/2604.02734v1)** | 2026-04-03 |  |
+| **[Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents](https://arxiv.org/abs/2604.02623v1)** | 2026-04-03 |  |
+| **[Opal: Private Memory for Personal AI](https://arxiv.org/abs/2604.02522v1)** | 2026-04-02 |  |
+| **[SelRoute: Query-Type-Aware Routing for Long-Term Conversational Memory Retrieval](https://arxiv.org/abs/2604.02431v1)** | 2026-04-02 | <details><summary>12 pa...</summary><p>12 pages, 12 tables, 3 appendices</p></details> |
 | **[Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency](https://arxiv.org/abs/2604.02280v1)** | 2026-04-02 |  |
 | **[Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation](https://arxiv.org/abs/2604.01974v1)** | 2026-04-02 |  |
 | **[Memory in the LLM Era: Modular Architectures and Strategies in a Unified Framework](https://arxiv.org/abs/2604.01707v1)** | 2026-04-02 |  |
@@ -15,17 +22,11 @@ labels: documentation
 | **[ByteRover: Agent-Native Memory Through LLM-Curated Hierarchical Context](https://arxiv.org/abs/2604.01599v1)** | 2026-04-02 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 7 tables</p></details> |
 | **[DeltaMem: Towards Agentic Memory Management via Reinforcement Learning](https://arxiv.org/abs/2604.01560v1)** | 2026-04-02 | <details><summary>prepr...</summary><p>preprint, under review</p></details> |
 | **[Oscillator-Based Associative Memory with Exponential Capacity: Theory, Algorithms, and Hardware Implementation](https://arxiv.org/abs/2604.01469v1)** | 2026-04-01 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Control of Network Systems</p></details> |
-| **[Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory](https://arxiv.org/abs/2604.01007v2)** | 2026-04-02 |  |
-| **[Cost-Penalized Fitness in FMA-Orchestrated Mixture of Experts: Experimental Evidence for Molecular Memory in Domain Adaptation](https://arxiv.org/abs/2604.00812v1)** | 2026-04-01 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, draft</p></details> |
-| **[UCMNet: Uncertainty-Aware Context Memory Network for Under-Display Camera Image Restoration](https://arxiv.org/abs/2604.00381v1)** | 2026-04-01 | <details><summary>We pr...</summary><p>We propose UCMNet, an uncertainty-aware adaptive framework that restores high-frequency details in regions with varying levels of degradation in under-display camera images</p></details> |
-| **[Oblivion: Self-Adaptive Agentic Memory Control through Decay-Driven Activation](https://arxiv.org/abs/2604.00131v1)** | 2026-03-31 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, and 4 tables</p></details> |
-| **[SurgTEMP: Temporal-Aware Surgical Video Question Answering with Text-guided Visual Memory for Laparoscopic Cholecystectomy](https://arxiv.org/abs/2603.29962v2)** | 2026-04-01 | <details><summary>29 pa...</summary><p>29 pages, 14 figures, 9 tables</p></details> |
-| **[Temporal Memory for Resource-Constrained Agents: Continual Learning via Stochastic Compress-Add-Smooth](https://arxiv.org/abs/2604.00067v1)** | 2026-03-31 | 33 pages, 22 figures |
-| **[MemFactory: Unified Inference & Training Framework for Agent Memory](https://arxiv.org/abs/2603.29493v3)** | 2026-04-02 | <details><summary>v3:fi...</summary><p>v3:fixed Figure 1 typos, clarified ambiguous wording in the abstract, added 1 missing citation, Code: https://github.com/Valsure/MemFactory</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Progressive Video Condensation with MLLM Agent for Long-form Video Understanding](https://arxiv.org/abs/2604.02891v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted to ICME 2026</p></details> |
 | **[A Simple Baseline for Streaming Video Understanding](https://arxiv.org/abs/2604.02317v1)** | 2026-04-02 | <details><summary>Proje...</summary><p>Project page: https://simple-stream.github.io/</p></details> |
 | **[Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges](https://arxiv.org/abs/2604.02211v1)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted for publication in The Nineteenth ACM International Conference on Web Search and Data Mining (WSDM Companion 2026)</p></details> |
 | **[GroundVTS: Visual Token Sampling in Multimodal Large Language Models for Video Temporal Grounding](https://arxiv.org/abs/2604.02093v1)** | 2026-04-02 | <details><summary>Publi...</summary><p>Published as a conference paper at CVPR 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Scaling Video Pretraining for Surgical Foundation Models](https://arxiv.org/abs/2603.29966v2)** | 2026-04-02 |  |
 | **[Video-Oasis: Rethinking Evaluation of Video Understanding](https://arxiv.org/abs/2603.29616v1)** | 2026-03-31 |  |
 | **[VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference](https://arxiv.org/abs/2603.29494v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism](https://arxiv.org/abs/2603.29252v1)** | 2026-03-31 | CVPR 2026 |
 
 ## Medical Agent
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## inference time
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hierarchical Planning with Latent World Models](https://arxiv.org/abs/2604.03208v1)** | 2026-04-03 |  |
+| **[Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation](https://arxiv.org/abs/2604.03174v1)** | 2026-04-03 | 7 pages, 4 tables |
+| **[PAFT: Preservation Aware Fine-Tuning for Minimal-Edit Program Repair](https://arxiv.org/abs/2604.03113v1)** | 2026-04-03 |  |
+| **[Co-Evolution of Policy and Internal Reward for Language Agents](https://arxiv.org/abs/2604.03098v1)** | 2026-04-03 | 20 pages, 13 figures |
+| **[Combining Static Code Analysis and Large Language Models Improves Correctness and Performance of Algorithm Recognition](https://arxiv.org/abs/2604.03048v1)** | 2026-04-03 |  |
+| **[Deformation-based In-Context Learning for Point Cloud Understanding](https://arxiv.org/abs/2604.02845v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Code: https://github.com/linchengxing/DeformPIC</p></details> |
+| **[Generalized Small Object Detection:A Point-Prompted Paradigm and Benchmark](https://arxiv.org/abs/2604.02773v1)** | 2026-04-03 |  |
+| **[DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.02753v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[Reinforcement Learning from Human Feedback: A Statistical Perspective](https://arxiv.org/abs/2604.02507v1)** | 2026-04-02 |  |
+| **[Do We Need Frontier Models to Verify Mathematical Proofs?](https://arxiv.org/abs/2604.02450v1)** | 2026-04-02 | 21 pages, 11 figures |
 | **[SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization](https://arxiv.org/abs/2604.02268v1)** | 2026-04-02 |  |
 | **[Modular Energy Steering for Safe Text-to-Image Generation with Foundation Models](https://arxiv.org/abs/2604.02265v1)** | 2026-04-02 |  |
 | **[Do Lexical and Contextual Coreference Resolution Systems Degrade Differently under Mention Noise? An Empirical Study on Scientific Software Mentions](https://arxiv.org/abs/2604.02171v1)** | 2026-04-02 | 8 pages |
 | **[SAFE: Stepwise Atomic Feedback for Error correction in Multi-hop Reasoning](https://arxiv.org/abs/2604.01993v1)** | 2026-04-02 |  |
 | **[Combining Boundary Supervision and Segment-Level Regularization for Fine-Grained Action Segmentation](https://arxiv.org/abs/2604.01859v1)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted by CVPR2026 Workshop "AI-driven Skilled Activity Understanding, Assessment & Feedback Generation (SAUAFG)"</p></details> |
-| **[Causal Scene Narration with Runtime Safety Supervision for Vision-Language-Action Driving](https://arxiv.org/abs/2604.01723v1)** | 2026-04-02 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[Can Heterogeneous Language Models Be Fused?](https://arxiv.org/abs/2604.01674v1)** | 2026-04-02 |  |
-| **[OSCAR: Orchestrated Self-verification and Cross-path Refinement](https://arxiv.org/abs/2604.01624v1)** | 2026-04-02 |  |
-| **[Why Instruction-Based Unlearning Fails in Diffusion Models?](https://arxiv.org/abs/2604.01514v1)** | 2026-04-02 |  |
-| **[Beyond Logit Adjustment: A Residual Decomposition Framework for Long-Tailed Reranking](https://arxiv.org/abs/2604.01506v1)** | 2026-04-02 | Preprint |
-| **[When Reward Hacking Rebounds: Understanding and Mitigating It with Representation-Level Signals](https://arxiv.org/abs/2604.01476v1)** | 2026-04-01 | 15 pages, 8 figures |
-| **[Wired for Overconfidence: A Mechanistic Perspective on Inflated Verbalized Confidence in LLMs](https://arxiv.org/abs/2604.01457v1)** | 2026-04-01 |  |
-| **[Procedural Knowledge at Scale Improves Reasoning](https://arxiv.org/abs/2604.01348v1)** | 2026-04-01 |  |
-| **[Look Twice: Training-Free Evidence Highlighting in Multimodal Large Language Models](https://arxiv.org/abs/2604.01280v1)** | 2026-04-01 | <details><summary>Proje...</summary><p>Project Page: https://aimagelab.github.io/LoT/</p></details> |
-| **[Universal YOCO for Efficient Depth Scaling](https://arxiv.org/abs/2604.01220v1)** | 2026-04-01 |  |
 
