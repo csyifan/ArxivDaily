@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast Spatial Memory with Elastic Test-Time Training](https://arxiv.org/abs/2604.07350v1)** | 2026-04-08 | <details><summary>Proje...</summary><p>Project Page: https://fast-spatial-memory.github.io/</p></details> |
+| **[Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training](https://arxiv.org/abs/2604.07279v1)** | 2026-04-08 | <details><summary>Proje...</summary><p>Project page: https://lck666666.github.io/Mem3R/</p></details> |
+| **[Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent](https://arxiv.org/abs/2604.07269v1)** | 2026-04-08 |  |
+| **[A-MBER: Affective Memory Benchmark for Emotion Recognition](https://arxiv.org/abs/2604.07017v1)** | 2026-04-08 |  |
+| **[HingeMem: Boundary Guided Long-Term Memory with Query Adaptive Retrieval for Scalable Dialogues](https://arxiv.org/abs/2604.06845v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted by TheWebConf 2026</p></details> |
+| **[MemoryDiorama: Generating Dynamic 3D Diorama from Everyday Photos for Memory Recall](https://arxiv.org/abs/2604.06773v1)** | 2026-04-08 | 11 pages, 11 figures |
+| **[Computing In Spintronic Memory: A Thermal Perspective](https://arxiv.org/abs/2604.06667v1)** | 2026-04-08 | 12 pages, 10 figures |
 | **[Improving Sparse Memory Finetuning](https://arxiv.org/abs/2604.05248v1)** | 2026-04-06 |  |
 | **[Memory Dial: A Training Framework for Controllable Memorization in Language Models](https://arxiv.org/abs/2604.05074v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to ACL Findings 2026</p></details> |
 | **[Phase-Associative Memory: Sequence Modeling in Complex Hilbert Space](https://arxiv.org/abs/2604.05030v1)** | 2026-04-06 | <details><summary>submi...</summary><p>submitting to APS Open Science, 10 pages, 1 figure, code and training logs available at https://github.com/gowrav-vishwakarma/qllm2</p></details> |
@@ -15,13 +22,6 @@ labels: documentation
 | **[Springdrift: An Auditable Persistent Runtime for LLM Agents with Case-Based Memory, Normative Safety, and Ambient Self-Perception](https://arxiv.org/abs/2604.04660v1)** | 2026-04-06 |  |
 | **[SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems](https://arxiv.org/abs/2604.04514v1)** | 2026-04-06 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 11 tables. Third paper in the SuperLocalMemory trilogy. Code: https://github.com/qualixar/superlocalmemory (v3.3.26). npm: superlocalmemory. PyPI: superlocalmemory</p></details> |
 | **[Memory Intelligence Agent](https://arxiv.org/abs/2604.04503v2)** | 2026-04-07 |  |
-| **[STRIDe: Cross-Coupled STT-MRAM Enabling Robust In-Memory-Computing for Deep Neural Network Accelerators](https://arxiv.org/abs/2604.04483v1)** | 2026-04-06 |  |
-| **[Discrete Prototypical Memories for Federated Time Series Foundation Models](https://arxiv.org/abs/2604.04475v1)** | 2026-04-06 | 13 pages,5 figures |
-| **[How Long short-term memory artificial neural network, synthetic data, and fine-tuning improve the classification of raw EEG data](https://arxiv.org/abs/2604.04316v1)** | 2026-04-05 | <details><summary>4 pag...</summary><p>4 pages, 4 figures, 2 tables</p></details> |
-| **[Negative-Voltage-Enabled Energy Efficient Nonvolatile Memories And In-Memory Computing Based On 2D Piezoelectric Transistors](https://arxiv.org/abs/2604.03959v1)** | 2026-04-05 |  |
-| **[LightThinker++: From Reasoning Compression to Memory Management](https://arxiv.org/abs/2604.03679v1)** | 2026-04-04 | <details><summary>Work ...</summary><p>Work in progress. This is an extended version of LightThinker</p></details> |
-| **[Rashomon Memory: Towards Argumentation-Driven Retrieval for Multi-Perspective Agent Memory](https://arxiv.org/abs/2604.03588v1)** | 2026-04-04 | <details><summary>Accep...</summary><p>Accepted to the EXTRAAMAS workshop at AAMAS 2026</p></details> |
-| **[Contextual Control without Memory Growth in a Context-Switching Task](https://arxiv.org/abs/2604.03479v1)** | 2026-04-03 | 25 pages, 3 figures |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Walk the Talk: Bridging the Reasoning-Action Gap for Thinking with Images via Multimodal Agentic Policy Optimization](https://arxiv.org/abs/2604.06777v1)** | 2026-04-08 |  |
 | **[EpiBench: Benchmarking Multi-turn Research Workflows for Multimodal Agents](https://arxiv.org/abs/2604.05557v1)** | 2026-04-07 |  |
 | **[OGA-AID: Clinician-in-the-loop AI Report Drafting Assistant for Multimodal Observational Gait Analysis in Post-Stroke Rehabilitation](https://arxiv.org/abs/2604.05360v1)** | 2026-04-07 | <details><summary>2026 ...</summary><p>2026 CV4Clinic CVPR Workshop Proceedings</p></details> |
 | **[BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging](https://arxiv.org/abs/2604.04078v1)** | 2026-04-05 |  |
@@ -59,11 +60,16 @@ labels: documentation
 | **[MANA: Towards Efficient Mobile Ad Detection via Multimodal Agentic UI Navigation](https://arxiv.org/abs/2603.20351v1)** | 2026-03-20 |  |
 | **[Anticipatory Planning for Multimodal AI Agents](https://arxiv.org/abs/2603.16777v1)** | 2026-03-17 | <details><summary>Publi...</summary><p>Published at CVPR 2026 Findings Track</p></details> |
 | **[OMNIFLOW: A Physics-Grounded Multimodal Agent for Generalized Scientific Reasoning](https://arxiv.org/abs/2603.15797v2)** | 2026-03-18 |  |
-| **[Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory](https://arxiv.org/abs/2603.15280v1)** | 2026-03-16 | 11 pages, 6 figures |
 
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Systematic Study of Retrieval Pipeline Design for Retrieval-Augmented Medical Question Answering](https://arxiv.org/abs/2604.07274v1)** | 2026-04-08 |  |
+| **[To Adapt or not to Adapt, Rethinking the Value of Medical Knowledge-Aware Large Language Models](https://arxiv.org/abs/2604.06854v1)** | 2026-04-08 |  |
+| **[GPAFormer: Graph-guided Patch Aggregation Transformer for Efficient 3D Medical Image Segmentation](https://arxiv.org/abs/2604.06658v1)** | 2026-04-08 |  |
+| **[Adaptive Differential Privacy for Federated Medical Image Segmentation Across Diverse Modalities](https://arxiv.org/abs/2604.06518v1)** | 2026-04-07 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Accepted in SPIE Medical Imaging 2026. Recipient of CAD Best Paper Award: 1st Place, and Robert F. Wagner All-Conference Best Paper Award: Finalist</p></details> |
+| **[A Severity-Based Curriculum Learning Strategy for Arabic Medical Text Generation](https://arxiv.org/abs/2604.06365v1)** | 2026-04-07 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables, ICTIS2026</p></details> |
+| **[Severity-Aware Weighted Loss for Arabic Medical Text Generation](https://arxiv.org/abs/2604.06346v1)** | 2026-04-07 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 2 tables, ICTIS2026</p></details> |
 | **[Extending ZACH-ViT to Robust Medical Imaging: Corruption and Adversarial Stress Testing in Low-Data Regimes](https://arxiv.org/abs/2604.06099v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 Workshop (PHAROS-AIF-MIH)</p></details> |
 | **[Toward Aristotelian Medical Representations: Backpropagation-Free Layer-wise Analysis for Interpretable Generalized Metric Learning on MedMNIST](https://arxiv.org/abs/2604.06017v1)** | 2026-04-07 |  |
 | **[MedLayBench-V: A Large-Scale Benchmark for Expert-Lay Semantic Alignment in Medical Vision Language Models](https://arxiv.org/abs/2604.05738v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings (Oral). 9 pages, 5 figures, 11 tables, plus appendix</p></details> |
@@ -73,10 +79,4 @@ labels: documentation
 | **[From Retinal Evidence to Safe Decisions: RETINA-SAFE and ECRT for Hallucination Risk Triage in Medical LLMs](https://arxiv.org/abs/2604.05348v1)** | 2026-04-07 |  |
 | **[This Treatment Works, Right? Evaluating LLM Sensitivity to Patient Question Framing in Medical QA](https://arxiv.org/abs/2604.05051v1)** | 2026-04-06 | <details><summary>31 pa...</summary><p>31 pages, 4 tables, 19 figures</p></details> |
 | **[Learning, Potential, and Retention: An Approach for Evaluating Adaptive AI-Enabled Medical Devices](https://arxiv.org/abs/2604.04878v1)** | 2026-04-06 |  |
-| **[Ruling Out to Rule In: Contrastive Hypothesis Retrieval for Medical Question Answering](https://arxiv.org/abs/2604.04593v1)** | 2026-04-06 |  |
-| **[MedROI: Codec-Agnostic Region of Interest-Centric Compression for Medical Images](https://arxiv.org/abs/2604.04511v1)** | 2026-04-06 |  |
-| **[Benchmarking Multi-turn Medical Diagnosis: Hold, Lure, and Self-Correction](https://arxiv.org/abs/2604.04325v1)** | 2026-04-06 |  |
-| **[PR3DICTR: A modular AI framework for medical 3D image-based detection and outcome prediction](https://arxiv.org/abs/2604.03203v1)** | 2026-04-03 | <details><summary>16 pa...</summary><p>16 pages, 6 figures and 1 table</p></details> |
-| **[SD-FSMIS: Adapting Stable Diffusion for Few-Shot Medical Image Segmentation](https://arxiv.org/abs/2604.03134v1)** | 2026-04-03 | CVPR2026 |
-| **[Few-Shot Distribution-Aligned Flow Matching for Data Synthesis in Medical Image Segmentation](https://arxiv.org/abs/2604.02868v1)** | 2026-04-03 |  |
 
