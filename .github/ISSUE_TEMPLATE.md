@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 19, 2026
+title: Latest 15 Papers - April 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast and Memory Efficient Multimodal Journey Planning with Delays](https://arxiv.org/abs/2604.16149v1)** | 2026-04-17 |  |
+| **[MemExplorer: Navigating the Heterogeneous Memory Design Space for Agentic Inference NPUs](https://arxiv.org/abs/2604.16007v1)** | 2026-04-17 |  |
+| **[jMT: Testing Correctness of Java Memory Models (Extended Version)](https://arxiv.org/abs/2604.15978v1)** | 2026-04-17 | <details><summary>This ...</summary><p>This is the extended version referenced in the TACAS proceedings</p></details> |
+| **[Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents](https://arxiv.org/abs/2604.15877v1)** | 2026-04-17 |  |
+| **[Low-Stack HAETAE for Memory-Constrained Microcontrollers](https://arxiv.org/abs/2604.15868v1)** | 2026-04-17 |  |
+| **[MemEvoBench: Benchmarking Memory MisEvolution in LLM Agents](https://arxiv.org/abs/2604.15774v1)** | 2026-04-17 |  |
+| **[PoSME: Proof of Sequential Memory Execution via Latency-Bound Pointer Chasing with Causal Hash Binding](https://arxiv.org/abs/2604.15751v1)** | 2026-04-17 | <details><summary>10 pa...</summary><p>10 pages, 6 algorithms, 9 tables, 2 figures</p></details> |
+| **[Long-Term Memory for VLA-based Agents in Open-World Task Execution](https://arxiv.org/abs/2604.15671v1)** | 2026-04-17 |  |
+| **[CIG: Measuring Conversational Information Gain in Deliberative Dialogues with Semantic Memory Dynamics](https://arxiv.org/abs/2604.15647v1)** | 2026-04-17 | 24 pages, 5 figures |
+| **[Overmind NSA: A Unified Neuro-Symbolic Computing Architecture with Approximate Nonlinear Activations and Preemptive Memory Bypass](https://arxiv.org/abs/2604.15623v1)** | 2026-04-17 | Accepted to DAC 2026 |
+| **[GroupDPO: Memory efficient Group-wise Direct Preference Optimization](https://arxiv.org/abs/2604.15602v1)** | 2026-04-17 |  |
+| **[LLM4C2Rust: Large Language Models for Automated Memory-Safe Code Transpilation](https://arxiv.org/abs/2604.15485v1)** | 2026-04-16 |  |
 | **[SRMU: Relevance-Gated Updates for Streaming Hyperdimensional Memories](https://arxiv.org/abs/2604.15121v1)** | 2026-04-16 |  |
 | **[Serving Chain-structured Jobs with Large Memory Footprints with Application to Large Foundation Model Serving](https://arxiv.org/abs/2604.14993v1)** | 2026-04-16 | Technical report |
 | **[Sublinear Spectral Clustering Oracle with Little Memory](https://arxiv.org/abs/2604.14981v1)** | 2026-04-16 | ICLR 2026 |
-| **[Response-Aware User Memory Selection for LLM Personalization](https://arxiv.org/abs/2604.14473v1)** | 2026-04-15 | <details><summary>Code ...</summary><p>Code at: https://github.com/jfisher52/Response_Utility_Optimized_Memory_Selection</p></details> |
-| **[Parallel R-tree-based Spatial Query Processing on a Commercial Processing-in-Memory System](https://arxiv.org/abs/2604.14445v1)** | 2026-04-15 | <details><summary>12 pa...</summary><p>12 pages, 10 figures. Accepted at ISC 2026</p></details> |
-| **[APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI](https://arxiv.org/abs/2604.14362v1)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Mains</p></details> |
-| **[Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents](https://arxiv.org/abs/2604.14004v1)** | 2026-04-15 | Preprint |
-| **[GEM3D CIM General Purpose Matrix Computation Using 3D Integrated SRAM eDRAM Hybrid Compute In Memory on Memory Architecture](https://arxiv.org/abs/2604.13969v1)** | 2026-04-15 |  |
-| **[Temporally Consistent Long-Term Memory for 3D Single Object Tracking](https://arxiv.org/abs/2604.13789v1)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings</p></details> |
-| **[From Anchors to Supervision: Memory-Graph Guided Corpus-Free Unlearning for Large Language Models](https://arxiv.org/abs/2604.13777v1)** | 2026-04-15 | <details><summary>15 pa...</summary><p>15 pages, appendix included</p></details> |
-| **[High-Risk Memories? Comparative audit of the representation of Second World War atrocities in Ukraine by generative AI applications](https://arxiv.org/abs/2604.13765v1)** | 2026-04-15 | 16 pages |
-| **[ESCAPE: Episodic Spatial Memory and Adaptive Execution Policy for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2604.13633v1)** | 2026-04-15 |  |
-| **[DTCO Exploration of NOR-Type IGZO FeFETs for Read-Dominated Memories](https://arxiv.org/abs/2604.13624v1)** | 2026-04-15 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE ESSERC'26 conference for possible publication</p></details> |
-| **[Tensor Memory Engine: On-the-fly Data Reorganization for Ideal Locality](https://arxiv.org/abs/2604.13319v1)** | 2026-04-14 |  |
-| **[Drawing on Memory: Dual-Trace Encoding Improves Cross-Session Recall in LLM Agents](https://arxiv.org/abs/2604.12948v1)** | 2026-04-14 | <details><summary>16 pa...</summary><p>16 pages, 2 tables, 2 figures</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RefereeBench: Are Video MLLMs Ready to be Multi-Sport Referees](https://arxiv.org/abs/2604.15736v1)** | 2026-04-17 | Work in Progress |
 | **[Chain-of-Glimpse: Search-Guided Progressive Object-Grounded Reasoning for Video Understanding](https://arxiv.org/abs/2604.14692v1)** | 2026-04-16 |  |
 | **[One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding](https://arxiv.org/abs/2604.14149v2)** | 2026-04-16 | <details><summary>Appea...</summary><p>Appear in the proceedings of NeurIPS 2025</p></details> |
 | **[Relaxing Anchor-Frame Dominance for Mitigating Hallucinations in Video Large Language Models](https://arxiv.org/abs/2604.12582v1)** | 2026-04-14 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Demographic and Linguistic Bias Evaluation in Omnimodal Language Models](https://arxiv.org/abs/2604.10014v1)** | 2026-04-11 | <details><summary>Accep...</summary><p>Accepted at ICPR 2026. Full paper with complete appendix (31 pages total)</p></details> |
 | **[Tango: Taming Visual Signals for Efficient Video Large Language Models](https://arxiv.org/abs/2604.09547v2)** | 2026-04-13 | <details><summary>Code:...</summary><p>Code: https://github.com/xjtupanda/Tango</p></details> |
 | **[Efficient Spatial-Temporal Focal Adapter with SSM for Temporal Action Detection](https://arxiv.org/abs/2604.09164v1)** | 2026-04-10 | ICME2026 |
-| **[StreamMeCo: Long-Term Agent Memory Compression for Efficient Streaming Video Understanding](https://arxiv.org/abs/2604.09000v1)** | 2026-04-10 | 2026ACL Findings |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
@@ -64,8 +64,9 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RelativeFlow: Taming Medical Image Denoising Learning with Noisy Reference](https://arxiv.org/abs/2604.15459v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation](https://arxiv.org/abs/2604.15271v1)** | 2026-04-16 |  |
-| **[Can LLMs Score Medical Diagnoses and Clinical Reasoning as well as Expert Panels?](https://arxiv.org/abs/2604.14892v1)** | 2026-04-16 |  |
+| **[Can LLMs Score Medical Diagnoses and Clinical Reasoning as well as Expert Panels?](https://arxiv.org/abs/2604.14892v2)** | 2026-04-17 |  |
 | **[Efficient Search of Implantable Adaptive Cells for Medical Image Segmentation](https://arxiv.org/abs/2604.14849v1)** | 2026-04-16 | 20 pages, 7 figures |
 | **[Beyond Literal Summarization: Redefining Hallucination for Medical SOAP Note Evaluation](https://arxiv.org/abs/2604.14829v1)** | 2026-04-16 | <details><summary>12 pa...</summary><p>12 pages, 2 figures,3 tables</p></details> |
 | **[Co-distilled attention guided masked image modeling with noisy teacher for self-supervised learning on medical images](https://arxiv.org/abs/2604.14506v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at MIDL 2025</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Risk-Calibrated Learning: Minimizing Fatal Errors in Medical AI](https://arxiv.org/abs/2604.12693v1)** | 2026-04-14 | <details><summary>This ...</summary><p>This work has been accepted for publication in the Proceedings of the 2026 International Joint Conference on Neural Networks (IJCNN 2026). The final published version should be cited</p></details> |
 | **[Adaptive Query Routing: A Tier-Based Framework for Hybrid Retrieval Across Financial, Legal, and Medical Documents](https://arxiv.org/abs/2604.14222v1)** | 2026-04-14 |  |
 | **[DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation](https://arxiv.org/abs/2604.12411v1)** | 2026-04-14 | 27 pages,6 figures |
-| **[Domain-Specific Latent Representations Improve the Fidelity of Diffusion-Based Medical Image Super-Resolution](https://arxiv.org/abs/2604.12152v1)** | 2026-04-14 |  |
 
