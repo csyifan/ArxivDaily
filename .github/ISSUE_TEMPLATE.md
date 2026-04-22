@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,14 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EgoSelf: From Memory to Personalized Egocentric Assistant](https://arxiv.org/abs/2604.19564v1)** | 2026-04-21 |  |
+| **[Mesh Memory Protocol: Semantic Infrastructure for Multi-Agent LLM Systems](https://arxiv.org/abs/2604.19540v1)** | 2026-04-21 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 2 listings, 1 table. MMP v0.2.3 specification at https://sym.bot/spec/mmp (CC BY 4.0). Reference implementations on npm (@sym-bot/sym, @sym-bot/mesh-channel; Apache 2.0)</p></details> |
+| **[Gated Memory Policy](https://arxiv.org/abs/2604.18933v1)** | 2026-04-21 |  |
+| **[HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation](https://arxiv.org/abs/2604.18791v1)** | 2026-04-20 | 9 pages, 2 figures |
 | **[WorldDB: A Vector Graph-of-Worlds Memory Engine with Ontology-Aware Write-Time Reconciliation](https://arxiv.org/abs/2604.18478v1)** | 2026-04-20 |  |
 | **[HiGMem: A Hierarchical and LLM-Guided Memory System for Long-Term Conversational Agents](https://arxiv.org/abs/2604.18349v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: ACL 2026. Camera-ready version. 10 pages, 2 figures. Code: https://github.com/ZeroLoss-Lab/HiGMem</p></details> |
 | **[EmbodiedLGR: Integrating Lightweight Graph Representation and Retrieval for Semantic-Spatial Memory in Robotic Agents](https://arxiv.org/abs/2604.18271v1)** | 2026-04-20 | 8 pages, 3 figures |
-| **[Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation](https://arxiv.org/abs/2604.18215v1)** | 2026-04-20 | <details><summary>24 pa...</summary><p>24 pages, with supplementary material</p></details> |
+| **[Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation](https://arxiv.org/abs/2604.18215v2)** | 2026-04-21 | <details><summary>24 pa...</summary><p>24 pages, with supplementary material</p></details> |
 | **[A Control Architecture for Training-Free Memory Use](https://arxiv.org/abs/2604.18206v1)** | 2026-04-20 |  |
 | **[Linear-Time and Constant-Memory Text Embeddings Based on Recurrent Language Models](https://arxiv.org/abs/2604.18199v1)** | 2026-04-20 |  |
 | **[AQPIM: Breaking the PIM Capacity Wall for LLMs with In-Memory Activation Quantization](https://arxiv.org/abs/2604.18137v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to HPCA 2026</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Optimizing Memory Allocation in Distributed Clusters with Predictive Modeling](https://arxiv.org/abs/2604.18043v1)** | 2026-04-20 |  |
 | **[Architecture Matters More Than Scale: A Comparative Study of Retrieval and Memory Augmentation for Financial QA Under SME Compute Constraints](https://arxiv.org/abs/2604.17979v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted at the 2026 6th International Conference on Artificial Intelligence and Industrial Technology Applications (AIITA 2026), to be published by IEEE. 12 pages, 5 figures</p></details> |
 | **[Memory Centric Power Allocation for Multi-Agent Embodied Question Answering](https://arxiv.org/abs/2604.17810v1)** | 2026-04-20 | <details><summary>6 pag...</summary><p>6 pages, submitted to GLOBECOM 2026</p></details> |
-| **[AccelCIM: Systematic Dataflow Exploration for SRAM Compute-in-Memory Accelerator](https://arxiv.org/abs/2604.17692v1)** | 2026-04-20 | Accepted by DAC'26 |
-| **[FlowC2S: Flowing from Current to Succeeding Frames for Fast and Memory-Efficient Video Continuation](https://arxiv.org/abs/2604.17625v1)** | 2026-04-19 |  |
-| **[AnchorMem: Anchored Facts with Associative Contexts for Building Memory in Large Language Models](https://arxiv.org/abs/2604.17377v1)** | 2026-04-19 | ACL 2026 Findings |
-| **[MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search](https://arxiv.org/abs/2604.17265v1)** | 2026-04-19 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,12 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Drifting for Conditional Medical Image Generation](https://arxiv.org/abs/2604.19736v1)** | 2026-04-21 |  |
+| **[MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention](https://arxiv.org/abs/2604.19675v1)** | 2026-04-21 |  |
+| **[RF-HiT: Rectified Flow Hierarchical Transformer for General Medical Image Segmentation](https://arxiv.org/abs/2604.19570v1)** | 2026-04-21 |  |
+| **[Can Continual Pre-training Bridge the Performance Gap between General-purpose and Specialized Language Models in the Medical Domain?](https://arxiv.org/abs/2604.19394v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, San Diego, California, July 2 - 7, 2026) as a main conference paper</p></details> |
+| **[Beyond Semantic Similarity: A Component-Wise Evaluation Framework for Medical Question Answering Systems with Health Equity Implications](https://arxiv.org/abs/2604.19281v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted in the Ninth Annual ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT) 2026</p></details> |
+| **[Improved Anomaly Detection in Medical Images via Mean Shift Density Enhancement](https://arxiv.org/abs/2604.19191v1)** | 2026-04-21 |  |
 | **[MedProbeBench: Systematic Benchmarking at Deep Evidence Integration for Expert-level Medical Guideline](https://arxiv.org/abs/2604.18418v1)** | 2026-04-20 |  |
 | **[Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework](https://arxiv.org/abs/2604.18145v1)** | 2026-04-20 | <details><summary>16 pa...</summary><p>16 pages; Accepted to appear in ACL 2026</p></details> |
 | **[Federated Rule Ensemble Method in Medical Data](https://arxiv.org/abs/2604.17956v1)** | 2026-04-20 |  |
@@ -73,10 +79,4 @@ labels: documentation
 | **[SegTTA: Training-Free Test-Time Augmentation for Zero-Shot Medical Imaging Segmentation](https://arxiv.org/abs/2604.17451v1)** | 2026-04-19 |  |
 | **[T-DuMpRa: Teacher-guided Dual-path Multi-prototype Retrieval Augmented framework for fine-grained medical image classification](https://arxiv.org/abs/2604.17360v1)** | 2026-04-19 |  |
 | **[When Background Matters: Breaking Medical Vision Language Models by Transferable Attack](https://arxiv.org/abs/2604.17318v1)** | 2026-04-19 | ACL Main 2026 |
-| **[Calibrated? Not for Everyone: How Sexual Orientation and Religious Markers Distort LLM Accuracy and Confidence in Medical QA](https://arxiv.org/abs/2604.17316v1)** | 2026-04-19 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (Main Conference)</p></details> |
-| **[MedPRMBench: A Fine-grained Benchmark for Process Reward Models in Medical Reasoning](https://arxiv.org/abs/2604.17282v1)** | 2026-04-19 |  |
-| **[Beyond the Basics: Leveraging Large Language Model for Fine-Grained Medical Entity Recognition](https://arxiv.org/abs/2604.17214v1)** | 2026-04-19 |  |
-| **[DREAM: Dynamic Retinal Enhancement with Adaptive Multi-modal Fusion for Expert Precision Medical Report Generation](https://arxiv.org/abs/2604.17209v1)** | 2026-04-19 | <details><summary>Accep...</summary><p>Accepted at the IEEE Engineering in Medicine and Biology Society Annual International Conference (Proceedings of the 48th International Conference), 2026</p></details> |
-| **[Representation Before Training: A Fixed-Budget Benchmark for Generative Medical Event Models](https://arxiv.org/abs/2604.16775v1)** | 2026-04-18 | <details><summary>39 pa...</summary><p>39 pages. Submitted to Machine Learning for Healthcare 2026</p></details> |
-| **[Beyond Attack Success Rate: A Multi-Metric Evaluation of Adversarial Transferability in Medical Imaging Models](https://arxiv.org/abs/2604.16532v1)** | 2026-04-16 | 8 pages |
 
