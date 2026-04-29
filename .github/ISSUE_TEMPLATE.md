@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2026
+title: Latest 15 Papers - April 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Soliloquy to Agora: Memory-Enhanced LLM Agents with Decentralized Debate for Optimization Modeling](https://arxiv.org/abs/2604.25847v1)** | 2026-04-28 | Working Paper |
+| **[Emergent Self-Attention from Astrocyte-Gated Associative Memory Dynamics](https://arxiv.org/abs/2604.25481v1)** | 2026-04-28 | 11 pages, 4 figures |
+| **[TetrisG-SDK: Efficient Convolutional Layer Mapping with Adaptive Windows and Grouped Convolutions for Fast In-Memory Computing](https://arxiv.org/abs/2604.25377v1)** | 2026-04-28 | <details><summary>14 pa...</summary><p>14 pages, 20 figures, accepted by JETCAS</p></details> |
+| **[FusionCIM: Accelerating LLM Inference with Fusion-Driven Computing-in-Memory Architecture](https://arxiv.org/abs/2604.25317v1)** | 2026-04-28 | 7 Pages, 10 figures |
+| **[AFA: Identity-Aware Memory for Preventing Persona Confusion in Multi-User Dialogue](https://arxiv.org/abs/2604.25022v1)** | 2026-04-27 |  |
+| **[Interactive Episodic Memory with User Feedback](https://arxiv.org/abs/2604.24893v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project Page: https://nsubedi11.github.io/refocus</p></details> |
 | **[Balancing Quantum Memories in Asymmetric Repeaters for High-Fidelity Entanglement Distribution](https://arxiv.org/abs/2604.24554v1)** | 2026-04-27 |  |
 | **[MEMCoder: Multi-dimensional Evolving Memory for Private-Library-Oriented Code Generation](https://arxiv.org/abs/2604.24222v1)** | 2026-04-27 |  |
 | **[FedSLoP: Memory-Efficient Federated Learning with Low-Rank Gradient Projection](https://arxiv.org/abs/2604.24012v1)** | 2026-04-27 | 27 pages, 7 figures |
@@ -16,16 +22,14 @@ labels: documentation
 | **[GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs](https://arxiv.org/abs/2604.23626v1)** | 2026-04-26 |  |
 | **[A Parametric Memory Head for Continual Generative Retrieval](https://arxiv.org/abs/2604.23388v1)** | 2026-04-25 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 3 tables; accepted to the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, July 20-24, 2026, Melbourne/Naarm, Australia</p></details> |
 | **[Nonlinear Non-Gaussian Density Steering with Input and Noise Channel Mismatch: Sinkhorn with Memory for Solving the Control-affine Schrödinger Bridge Problem](https://arxiv.org/abs/2604.23370v1)** | 2026-04-25 |  |
-| **[Maximizing Memory-Level Parallelism via Integrated Stochastic Logic-in-Memory Architectures](https://arxiv.org/abs/2604.23146v1)** | 2026-04-25 |  |
-| **[ContextWeaver: Selective and Dependency-Structured Memory Construction for LLM Agents](https://arxiv.org/abs/2604.23069v1)** | 2026-04-24 |  |
-| **[Shape of Memory: a Geometric Analysis of Machine Unlearning in Second-Order Optimizers](https://arxiv.org/abs/2604.23046v1)** | 2026-04-24 | <details><summary>Full ...</summary><p>Full experiment data available at secondstreetlabs.io</p></details> |
-| **[Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces](https://arxiv.org/abs/2604.22948v1)** | 2026-04-24 |  |
-| **[SpaMEM: Benchmarking Dynamic Spatial Reasoning via Perception-Memory Integration in Embodied Environments](https://arxiv.org/abs/2604.22409v1)** | 2026-04-24 |  |
-| **[Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents](https://arxiv.org/abs/2604.22085v1)** | 2026-04-23 | <details><summary>13 Pa...</summary><p>13 Pages, 10 Tables, 8 Figures</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MarkIt: Training-Free Visual Markers for Precise Video Temporal Grounding](https://arxiv.org/abs/2604.25886v1)** | 2026-04-28 |  |
+| **[DualFact+: A Multimodal Fact Verification Framework for Procedural Video Understanding](https://arxiv.org/abs/2604.25584v1)** | 2026-04-28 | ACL 2026 Findings |
+| **[OmniVTG: A Large-Scale Dataset and Training Paradigm for Open-World Video Temporal Grounding](https://arxiv.org/abs/2604.25276v1)** | 2026-04-28 | CVPR 2026 |
+| **[FCMBench-Video: Benchmarking Document Video Intelligence](https://arxiv.org/abs/2604.25186v1)** | 2026-04-28 |  |
 | **[Exploring Audio Hallucination in Egocentric Video Understanding](https://arxiv.org/abs/2604.23860v1)** | 2026-04-26 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
 | **[PushupBench: Your VLM is not good at counting pushups](https://arxiv.org/abs/2604.23407v1)** | 2026-04-25 |  |
 | **[One Identity, Many Roles: Multimodal Entity Coreference for Enhanced Video Situation Recognition](https://arxiv.org/abs/2604.23173v1)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings. Project Page: https://katha-ai.github.io/projects/cinemec/</p></details> |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Exploring High-Order Self-Similarity for Video Understanding](https://arxiv.org/abs/2604.20760v1)** | 2026-04-22 |  |
 | **[Sink-Token-Aware Pruning for Fine-Grained Video Understanding in Efficient Video LLMs](https://arxiv.org/abs/2604.20937v1)** | 2026-04-22 | Under Review |
 | **[Video-ToC: Video Tree-of-Cue Reasoning](https://arxiv.org/abs/2604.20473v1)** | 2026-04-22 |  |
-| **[Building a Precise Video Language with Human-AI Oversight](https://arxiv.org/abs/2604.21718v2)** | 2026-04-26 | <details><summary>CVPR ...</summary><p>CVPR 2026 Highlight. Project page: https://linzhiqiu.github.io/papers/chai/</p></details> |
-| **[IMPACT-CYCLE: A Contract-Based Multi-Agent System for Claim-Level Supervisory Correction of Long-Video Semantic Memory](https://arxiv.org/abs/2604.20136v1)** | 2026-04-22 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, code are available at https://github.com/MKong17/IMPACT_CYCLE</p></details> |
-| **[Progressive Online Video Understanding with Evidence-Aligned Timing and Transparent Decisions](https://arxiv.org/abs/2604.18459v1)** | 2026-04-20 |  |
-| **[Spatiotemporal Sycophancy: Negation-Based Gaslighting in Video Large Language Models](https://arxiv.org/abs/2604.17873v1)** | 2026-04-20 |  |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TopoMamba: Topology-Aware Scanning and Fusion for Segmenting Heterogeneous Medical Visual Media](https://arxiv.org/abs/2604.25545v1)** | 2026-04-28 | 15 pages, 9 figures |
+| **[Language corpora for the Dutch medical domain](https://arxiv.org/abs/2604.25374v1)** | 2026-04-28 | 11 pages, no figures |
+| **[Learning from Medical Entity Trees: An Entity-Centric Medical Data Engineering Framework for MLLMs](https://arxiv.org/abs/2604.25296v1)** | 2026-04-28 |  |
+| **[ESICA: A Scalable Framework for Text-Guided 3D Medical Image Segmentation](https://arxiv.org/abs/2604.24876v1)** | 2026-04-27 |  |
 | **[DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation](https://arxiv.org/abs/2604.24719v1)** | 2026-04-27 |  |
 | **[Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings](https://arxiv.org/abs/2604.24597v1)** | 2026-04-27 |  |
 | **[SemiSAM-O1: How far can we push the boundary of annotation-efficient medical image segmentation?](https://arxiv.org/abs/2604.24109v1)** | 2026-04-27 |  |
@@ -75,8 +79,4 @@ labels: documentation
 | **[SemiGDA: Generative Dual-distribution Alignment for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2604.23274v1)** | 2026-04-25 | <details><summary>This ...</summary><p>This paper have been accepted by CVPR 2026</p></details> |
 | **[CheXmix: Unified Generative Pretraining for Vision Language Models in Medical Imaging](https://arxiv.org/abs/2604.22989v1)** | 2026-04-24 | CVPR Findings (2026) |
 | **[VS-DDPM: Efficient Low-Cost Diffusion Model for Medical Modality Translation](https://arxiv.org/abs/2604.22942v1)** | 2026-04-24 |  |
-| **[A Nationwide Japanese Medical Claims Foundation Model: Balancing Model Scaling and Task-Specific Computational Efficiency](https://arxiv.org/abs/2604.22348v1)** | 2026-04-24 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 3 tables</p></details> |
-| **[Inferring High-Level Events from Timestamped Data: Complexity and Medical Applications](https://arxiv.org/abs/2604.21793v1)** | 2026-04-23 | <details><summary>This ...</summary><p>This is the full version (with appendix) of a paper appearing at the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026)</p></details> |
-| **[Weighting What Matters: Boosting Sample Efficiency in Medical Report Generation via Token Reweighting](https://arxiv.org/abs/2604.21082v1)** | 2026-04-22 |  |
-| **[Serialisation Strategy Matters: How FHIR Data Format Affects LLM Medication Reconciliation](https://arxiv.org/abs/2604.21076v1)** | 2026-04-22 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, independent research</p></details> |
 
