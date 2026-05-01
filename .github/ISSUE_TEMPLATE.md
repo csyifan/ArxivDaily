@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2026
+title: Latest 15 Papers - May 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption](https://arxiv.org/abs/2604.28157v1)** | 2026-04-30 | <details><summary>The c...</summary><p>The code is available at https://github.com/Wang-Yanting/FlashRT</p></details> |
+| **[From Unstructured Recall to Schema-Grounded Memory: Reliable AI Memory via Iterative, Schema-Aware Extraction](https://arxiv.org/abs/2604.27906v1)** | 2026-04-30 | 33 pages, 7 figures |
+| **[AME-PIM: Can Memory be Your Next Tensor Accelerator?](https://arxiv.org/abs/2604.27808v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted as conference paper at 23rd ACM International Conference on Computing Frontiers (CF'26)</p></details> |
+| **[Contextual Agentic Memory is a Memo, Not True Memory](https://arxiv.org/abs/2604.27707v1)** | 2026-04-30 |  |
+| **[EviMem: Evidence-Gap-Driven Iterative Retrieval for Long-Term Conversational Memory](https://arxiv.org/abs/2604.27695v1)** | 2026-04-30 |  |
+| **[Learning When to Remember: Risk-Sensitive Contextual Bandits for Abstention-Aware Memory Retrieval in LLM-Based Coding Agents](https://arxiv.org/abs/2604.27283v1)** | 2026-04-30 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 10 tables. Code and deterministic local artifacts are available at the repository listed in the paper</p></details> |
+| **[Detecting Clinical Discrepancies in Health Coaching Agents: A Dual-Stream Memory and Reconciliation Architecture](https://arxiv.org/abs/2604.27045v1)** | 2026-04-29 |  |
 | **[Language Diffusion Models are Associative Memories Capable of Retrieving Unseen Data](https://arxiv.org/abs/2604.26841v1)** | 2026-04-29 | <details><summary>Also ...</summary><p>Also see arXiv:2505.21777 for a related work</p></details> |
 | **[Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving](https://arxiv.org/abs/2604.26837v1)** | 2026-04-29 | 15 pages |
 | **[MemOVCD: Training-Free Open-Vocabulary Change Detection via Cross-Temporal Memory Reasoning and Global-Local Adaptive Rectification](https://arxiv.org/abs/2604.26774v1)** | 2026-04-29 |  |
 | **[OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory](https://arxiv.org/abs/2604.26622v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (Main Conference)</p></details> |
+| **[When Continual Learning Moves to Memory: A Study of Experience Reuse in LLM Agents](https://arxiv.org/abs/2604.27003v1)** | 2026-04-29 | Working in progress |
 | **[Folding Tensor and Sequence Parallelism for Memory-Efficient Transformer Training & Inference](https://arxiv.org/abs/2604.26294v1)** | 2026-04-29 |  |
 | **[MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution](https://arxiv.org/abs/2604.26283v1)** | 2026-04-29 | <details><summary>Medic...</summary><p>Medical latent reasoning; Memory evolution</p></details> |
 | **[StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall](https://arxiv.org/abs/2604.26243v1)** | 2026-04-29 | <details><summary>20 pa...</summary><p>20 pages, accepted by ACL 2026 (main)</p></details> |
-| **[Hierarchical Long-Term Semantic Memory for LinkedIn's Hiring Agent](https://arxiv.org/abs/2604.26197v1)** | 2026-04-29 |  |
-| **[AMMA: A Multi-Chiplet Memory-Centric Architecture for Low-Latency 1M Context Attention Serving](https://arxiv.org/abs/2604.26103v1)** | 2026-04-28 |  |
-| **[DAK: Direct-Access-Enabled GPU Memory Offloading with Optimal Efficiency for LLM Inference](https://arxiv.org/abs/2604.26074v1)** | 2026-04-28 |  |
-| **[From Soliloquy to Agora: Memory-Enhanced LLM Agents with Decentralized Debate for Optimization Modeling](https://arxiv.org/abs/2604.25847v1)** | 2026-04-28 | Working Paper |
-| **[Emergent Self-Attention from Astrocyte-Gated Associative Memory Dynamics](https://arxiv.org/abs/2604.25481v1)** | 2026-04-28 | 11 pages, 4 figures |
-| **[TetrisG-SDK: Efficient Convolutional Layer Mapping with Adaptive Windows and Grouped Convolutions for Fast In-Memory Computing](https://arxiv.org/abs/2604.25377v1)** | 2026-04-28 | <details><summary>14 pa...</summary><p>14 pages, 20 figures, accepted by JETCAS</p></details> |
-| **[FusionCIM: Accelerating LLM Inference with Fusion-Driven Computing-in-Memory Architecture](https://arxiv.org/abs/2604.25317v1)** | 2026-04-28 | 7 Pages, 10 figures |
-| **[AFA: Identity-Aware Memory for Preventing Persona Confusion in Multi-User Dialogue](https://arxiv.org/abs/2604.25022v1)** | 2026-04-27 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
@@ -33,7 +33,7 @@ labels: documentation
 | **[MarkIt: Training-Free Visual Markers for Precise Video Temporal Grounding](https://arxiv.org/abs/2604.25886v1)** | 2026-04-28 |  |
 | **[DualFact+: A Multimodal Fact Verification Framework for Procedural Video Understanding](https://arxiv.org/abs/2604.25584v1)** | 2026-04-28 | ACL 2026 Findings |
 | **[OmniVTG: A Large-Scale Dataset and Training Paradigm for Open-World Video Temporal Grounding](https://arxiv.org/abs/2604.25276v1)** | 2026-04-28 | CVPR 2026 |
-| **[FCMBench-Video: Benchmarking Document Video Intelligence](https://arxiv.org/abs/2604.25186v1)** | 2026-04-28 |  |
+| **[FCMBench-Video: Benchmarking Document Video Intelligence](https://arxiv.org/abs/2604.25186v2)** | 2026-04-30 |  |
 | **[Exploring Audio Hallucination in Egocentric Video Understanding](https://arxiv.org/abs/2604.23860v1)** | 2026-04-26 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
 | **[PushupBench: Your VLM is not good at counting pushups](https://arxiv.org/abs/2604.23407v1)** | 2026-04-25 |  |
 | **[One Identity, Many Roles: Multimodal Entity Coreference for Enhanced Video Situation Recognition](https://arxiv.org/abs/2604.23173v1)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings. Project Page: https://katha-ai.github.io/projects/cinemec/</p></details> |
@@ -45,6 +45,8 @@ labels: documentation
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?](https://arxiv.org/abs/2604.27419v1)** | 2026-04-30 | <details><summary>21 pa...</summary><p>21 pages, 13 figures, 7 tables</p></details> |
+| **[OptimusKG: Unifying biomedical knowledge in a modern multimodal graph](https://arxiv.org/abs/2604.27269v1)** | 2026-04-29 |  |
 | **[GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752v1)** | 2026-04-29 |  |
 | **[Source-Modality Monitoring in Vision-Language Models](https://arxiv.org/abs/2604.22038v1)** | 2026-04-23 | <details><summary>All r...</summary><p>All resources will be available at https://github.com/ethahtz/source-modality-monitoring</p></details> |
 | **[Sema: Semantic Transport for Real-Time Multimodal Agents](https://arxiv.org/abs/2604.20940v1)** | 2026-04-22 |  |
@@ -58,14 +60,15 @@ labels: documentation
 | **[GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents](https://arxiv.org/abs/2604.07429v1)** | 2026-04-08 | 23 pages, 8 figures |
 | **[Walk the Talk: Bridging the Reasoning-Action Gap for Thinking with Images via Multimodal Agentic Policy Optimization](https://arxiv.org/abs/2604.06777v1)** | 2026-04-08 |  |
 | **[EpiBench: Benchmarking Multi-turn Research Workflows for Multimodal Agents](https://arxiv.org/abs/2604.05557v1)** | 2026-04-07 |  |
-| **[OGA-AID: Clinician-in-the-loop AI Report Drafting Assistant for Multimodal Observational Gait Analysis in Post-Stroke Rehabilitation](https://arxiv.org/abs/2604.05360v1)** | 2026-04-07 | <details><summary>2026 ...</summary><p>2026 CV4Clinic CVPR Workshop Proceedings</p></details> |
-| **[BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging](https://arxiv.org/abs/2604.04078v1)** | 2026-04-05 |  |
 
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](https://arxiv.org/abs/2604.27724v1)** | 2026-04-30 |  |
+| **[Auditing Frontier Vision-Language Models for Trustworthy Medical VQA: Grounding Failures, Format Collapse, and Domain Adaptation](https://arxiv.org/abs/2604.27720v1)** | 2026-04-30 |  |
 | **[Asynchronous Federated Unlearning with Invariance Calibration for Medical Imaging](https://arxiv.org/abs/2604.26809v1)** | 2026-04-29 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, the article is accepted by IEEE IJCNN 2026</p></details> |
 | **[Federated Medical Image Classification under Class and Domain Imbalance exploiting Synthetic Sample Generation](https://arxiv.org/abs/2604.26324v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted at ICPR 2026, 13 pages, 3 figures, 5 tables</p></details> |
+| **[People-Centred Medical Image Analysis](https://arxiv.org/abs/2604.26991v1)** | 2026-04-28 | <details><summary>Submi...</summary><p>Submitted to Medical Image Analysis</p></details> |
 | **[TopoMamba: Topology-Aware Scanning and Fusion for Segmenting Heterogeneous Medical Visual Media](https://arxiv.org/abs/2604.25545v2)** | 2026-04-29 | 15 pages, 9 figures |
 | **[Language corpora for the Dutch medical domain](https://arxiv.org/abs/2604.25374v1)** | 2026-04-28 | 11 pages, no figures |
 | **[Learning from Medical Entity Trees: An Entity-Centric Medical Data Engineering Framework for MLLMs](https://arxiv.org/abs/2604.25296v1)** | 2026-04-28 |  |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Risk-Aware Robust Learning: Reducing Clinical Risk under Label Noise in Medical Image Classification](https://arxiv.org/abs/2604.23875v1)** | 2026-04-26 | Accepted at SBCAS'26 |
 | **[Does Machine Unlearning Preserve Clinical Safety? A Risk Analysis for Medical Image Classification](https://arxiv.org/abs/2604.23854v1)** | 2026-04-26 | Accepted at SBCAS'26 |
 | **[Domain Fine-Tuning vs. Retrieval-Augmented Generation for Medical Multiple-Choice Question Answering: A Controlled Comparison at the 4B-Parameter Scale](https://arxiv.org/abs/2604.23801v1)** | 2026-04-26 |  |
-| **[VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs](https://arxiv.org/abs/2604.23356v1)** | 2026-04-25 |  |
-| **[Au-M-ol: A Unified Model for Medical Audio and Language Understanding](https://arxiv.org/abs/2604.23284v1)** | 2026-04-25 |  |
-| **[SemiGDA: Generative Dual-distribution Alignment for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2604.23274v1)** | 2026-04-25 | <details><summary>This ...</summary><p>This paper have been accepted by CVPR 2026</p></details> |
 
