@@ -4,24 +4,24 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Memory
+## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption](https://arxiv.org/abs/2604.28157v1)** | 2026-04-30 | <details><summary>The c...</summary><p>The code is available at https://github.com/Wang-Yanting/FlashRT</p></details> |
-| **[From Unstructured Recall to Schema-Grounded Memory: Reliable AI Memory via Iterative, Schema-Aware Extraction](https://arxiv.org/abs/2604.27906v1)** | 2026-04-30 | 33 pages, 7 figures |
-| **[AME-PIM: Can Memory be Your Next Tensor Accelerator?](https://arxiv.org/abs/2604.27808v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted as conference paper at 23rd ACM International Conference on Computing Frontiers (CF'26)</p></details> |
-| **[Contextual Agentic Memory is a Memo, Not True Memory](https://arxiv.org/abs/2604.27707v1)** | 2026-04-30 |  |
-| **[EviMem: Evidence-Gap-Driven Iterative Retrieval for Long-Term Conversational Memory](https://arxiv.org/abs/2604.27695v1)** | 2026-04-30 |  |
-| **[Learning When to Remember: Risk-Sensitive Contextual Bandits for Abstention-Aware Memory Retrieval in LLM-Based Coding Agents](https://arxiv.org/abs/2604.27283v1)** | 2026-04-30 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 10 tables. Code and deterministic local artifacts are available at the repository listed in the paper</p></details> |
-| **[Detecting Clinical Discrepancies in Health Coaching Agents: A Dual-Stream Memory and Reconciliation Architecture](https://arxiv.org/abs/2604.27045v1)** | 2026-04-29 |  |
-| **[Language Diffusion Models are Associative Memories Capable of Retrieving Unseen Data](https://arxiv.org/abs/2604.26841v1)** | 2026-04-29 | <details><summary>Also ...</summary><p>Also see arXiv:2505.21777 for a related work</p></details> |
-| **[Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving](https://arxiv.org/abs/2604.26837v1)** | 2026-04-29 | 15 pages |
-| **[MemOVCD: Training-Free Open-Vocabulary Change Detection via Cross-Temporal Memory Reasoning and Global-Local Adaptive Rectification](https://arxiv.org/abs/2604.26774v1)** | 2026-04-29 |  |
-| **[OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory](https://arxiv.org/abs/2604.26622v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (Main Conference)</p></details> |
-| **[When Continual Learning Moves to Memory: A Study of Experience Reuse in LLM Agents](https://arxiv.org/abs/2604.27003v1)** | 2026-04-29 | Working in progress |
-| **[Folding Tensor and Sequence Parallelism for Memory-Efficient Transformer Training & Inference](https://arxiv.org/abs/2604.26294v1)** | 2026-04-29 |  |
-| **[MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution](https://arxiv.org/abs/2604.26283v1)** | 2026-04-29 | <details><summary>Medic...</summary><p>Medical latent reasoning; Memory evolution</p></details> |
-| **[StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall](https://arxiv.org/abs/2604.26243v1)** | 2026-04-29 | <details><summary>20 pa...</summary><p>20 pages, accepted by ACL 2026 (main)</p></details> |
+| **[Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](https://arxiv.org/abs/2604.25850v3)** | 2026-04-30 |  |
+| **[The Last Harness You'll Ever Build](https://arxiv.org/abs/2604.21003v2)** | 2026-04-28 |  |
+| **[Synthesizing Multi-Agent Harnesses for Vulnerability Discovery](https://arxiv.org/abs/2604.20801v1)** | 2026-04-22 |  |
+| **[HARBOR: Automated Harness Optimization](https://arxiv.org/abs/2604.20938v1)** | 2026-04-22 |  |
+| **[HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation](https://arxiv.org/abs/2604.18791v1)** | 2026-04-20 | 9 pages, 2 figures |
+| **[Compiling Deterministic Structure into SLM Harnesses](https://arxiv.org/abs/2604.17450v1)** | 2026-04-19 |  |
+| **[Clover: A Neural-Symbolic Agentic Harness with Stochastic Tree-of-Thoughts for Verified RTL Repair](https://arxiv.org/abs/2604.17288v1)** | 2026-04-19 |  |
+| **[Harness as an Asset: Enforcing Determinism via the Convergent AI Agent Framework (CAAF)](https://arxiv.org/abs/2604.17025v2)** | 2026-04-25 | <details><summary>39 pa...</summary><p>39 pages, 13 figures. Code: https://github.com/TianbaoZhang001/OpenCAAF (Apache-2.0)</p></details> |
+| **[MambaKick: Early Penalty Direction Prediction from HAR Embeddings](https://arxiv.org/abs/2604.16588v1)** | 2026-04-17 |  |
+| **[The World Leaks the Future: Harness Evolution for Future Prediction Agents](https://arxiv.org/abs/2604.15719v2)** | 2026-04-20 | Work in progress |
+| **[HadAgent: Harness-Aware Decentralized Agentic AI Serving with Proof-of-Inference Blockchain Consensus](https://arxiv.org/abs/2604.18614v1)** | 2026-04-15 | 9 pages, 5 figures |
+| **[SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering](https://arxiv.org/abs/2604.11548v1)** | 2026-04-13 |  |
+| **[ClawVM: Harness-Managed Virtual Memory for Stateful Tool-Using LLM Agents](https://arxiv.org/abs/2604.10352v1)** | 2026-04-11 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 10 tables; accepted at EuroMLSys '26 (6th Workshop on Machine Learning and Systems, co-located with EuroSys 2026)</p></details> |
+| **[DRIFT: Harnessing Inherent Fault Tolerance for Efficient and Reliable Diffusion Model Inference](https://arxiv.org/abs/2604.09073v1)** | 2026-04-10 | <details><summary>7 pag...</summary><p>7 pages, 14 figures. Accepted by DAC 2026</p></details> |
+| **[M$^\star$: Every Task Deserves Its Own Memory Harness](https://arxiv.org/abs/2604.11811v1)** | 2026-04-10 | Preprint |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
