@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 03, 2026
+title: Latest 15 Papers - May 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,12 +7,14 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Affordance Agent Harness: Verification-Gated Skill Orchestration](https://arxiv.org/abs/2605.00663v1)** | 2026-05-01 | <details><summary>43 pa...</summary><p>43 pages, 22 figures, 8 tables. Ongoing work</p></details> |
+| **[ClozeMaster: Fuzzing Rust Compiler by Harnessing LLMs for Infilling Masked Real Programs](https://arxiv.org/abs/2605.00413v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted at ICSE 2025</p></details> |
 | **[Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](https://arxiv.org/abs/2604.25850v3)** | 2026-04-30 |  |
 | **[The Last Harness You'll Ever Build](https://arxiv.org/abs/2604.21003v2)** | 2026-04-28 |  |
 | **[Synthesizing Multi-Agent Harnesses for Vulnerability Discovery](https://arxiv.org/abs/2604.20801v1)** | 2026-04-22 |  |
 | **[HARBOR: Automated Harness Optimization](https://arxiv.org/abs/2604.20938v1)** | 2026-04-22 |  |
 | **[HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation](https://arxiv.org/abs/2604.18791v1)** | 2026-04-20 | 9 pages, 2 figures |
-| **[Compiling Deterministic Structure into SLM Harnesses](https://arxiv.org/abs/2604.17450v1)** | 2026-04-19 |  |
+| **[Compiling Deterministic Structure into SLM Harnesses](https://arxiv.org/abs/2604.17450v2)** | 2026-04-30 |  |
 | **[Clover: A Neural-Symbolic Agentic Harness with Stochastic Tree-of-Thoughts for Verified RTL Repair](https://arxiv.org/abs/2604.17288v1)** | 2026-04-19 |  |
 | **[Harness as an Asset: Enforcing Determinism via the Convergent AI Agent Framework (CAAF)](https://arxiv.org/abs/2604.17025v2)** | 2026-04-25 | <details><summary>39 pa...</summary><p>39 pages, 13 figures. Code: https://github.com/TianbaoZhang001/OpenCAAF (Apache-2.0)</p></details> |
 | **[MambaKick: Early Penalty Direction Prediction from HAR Embeddings](https://arxiv.org/abs/2604.16588v1)** | 2026-04-17 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[HadAgent: Harness-Aware Decentralized Agentic AI Serving with Proof-of-Inference Blockchain Consensus](https://arxiv.org/abs/2604.18614v1)** | 2026-04-15 | 9 pages, 5 figures |
 | **[SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering](https://arxiv.org/abs/2604.11548v1)** | 2026-04-13 |  |
 | **[ClawVM: Harness-Managed Virtual Memory for Stateful Tool-Using LLM Agents](https://arxiv.org/abs/2604.10352v1)** | 2026-04-11 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 10 tables; accepted at EuroMLSys '26 (6th Workshop on Machine Learning and Systems, co-located with EuroSys 2026)</p></details> |
-| **[DRIFT: Harnessing Inherent Fault Tolerance for Efficient and Reliable Diffusion Model Inference](https://arxiv.org/abs/2604.09073v1)** | 2026-04-10 | <details><summary>7 pag...</summary><p>7 pages, 14 figures. Accepted by DAC 2026</p></details> |
-| **[M$^\star$: Every Task Deserves Its Own Memory Harness](https://arxiv.org/abs/2604.11811v1)** | 2026-04-10 | Preprint |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Video Understanding via Compact Latent Multi-Agent Collaboration](https://arxiv.org/abs/2605.00444v1)** | 2026-05-01 | 12 pages |
 | **[CurEvo: Curriculum-Guided Self-Evolution for Video Understanding](https://arxiv.org/abs/2604.26707v1)** | 2026-04-29 | 10 pages, 5 figures |
 | **[DenseStep2M: A Scalable, Training-Free Pipeline for Dense Instructional Video Annotation](https://arxiv.org/abs/2604.26565v1)** | 2026-04-29 |  |
 | **[$\text{PKS}^4$:Parallel Kinematic Selective State Space Scanners for Efficient Video Understanding](https://arxiv.org/abs/2604.26461v1)** | 2026-04-29 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[UpstreamQA: A Modular Framework for Explicit Reasoning on Video Question Answering Tasks](https://arxiv.org/abs/2604.23145v1)** | 2026-04-25 |  |
 | **[Towards Temporal Compositional Reasoning in Long-Form Sports Videos](https://arxiv.org/abs/2604.22226v1)** | 2026-04-24 |  |
 | **[Grounding Video Reasoning in Physical Signals](https://arxiv.org/abs/2604.21873v1)** | 2026-04-23 | <details><summary>Bench...</summary><p>Benchmark for Grounding Video Reasoning in Physical Signals</p></details> |
-| **[HiCrew: Hierarchical Reasoning for Long-Form Video Understanding via Question-Aware Multi-Agent Collaboration](https://arxiv.org/abs/2604.21444v1)** | 2026-04-23 |  |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When RAG Chatbots Expose Their Backend: An Anonymized Case Study of Privacy and Security Risks in Patient-Facing Medical AI](https://arxiv.org/abs/2605.00796v1)** | 2026-05-01 |  |
+| **[FedKPer: Tackling Generalization and Personalization in Medical Federated Learning via Knowledge Personalization](https://arxiv.org/abs/2605.00698v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Image Processing (ICIP)</p></details> |
+| **[DMDSC: A Dynamic-Margin Deep Simplex Classifier for Open-Set Recognition on Medical Image Datasets](https://arxiv.org/abs/2605.00675v1)** | 2026-05-01 |  |
+| **[Learning from Compressed CT: Feature Attention Style Transfer and Structured Factorized Projections for Resource-Efficient Medical Image Analysis](https://arxiv.org/abs/2605.00448v1)** | 2026-05-01 |  |
+| **[Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization](https://arxiv.org/abs/2605.00130v1)** | 2026-04-30 |  |
 | **[Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](https://arxiv.org/abs/2604.27724v1)** | 2026-04-30 |  |
 | **[Auditing Frontier Vision-Language Models for Trustworthy Medical VQA: Grounding Failures, Format Collapse, and Domain Adaptation](https://arxiv.org/abs/2604.27720v1)** | 2026-04-30 |  |
 | **[Asynchronous Federated Unlearning with Invariance Calibration for Medical Imaging](https://arxiv.org/abs/2604.26809v1)** | 2026-04-29 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, the article is accepted by IEEE IJCNN 2026</p></details> |
@@ -74,9 +79,4 @@ labels: documentation
 | **[Learning from Medical Entity Trees: An Entity-Centric Medical Data Engineering Framework for MLLMs](https://arxiv.org/abs/2604.25296v1)** | 2026-04-28 |  |
 | **[ESICA: A Scalable Framework for Text-Guided 3D Medical Image Segmentation](https://arxiv.org/abs/2604.24876v1)** | 2026-04-27 |  |
 | **[DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation](https://arxiv.org/abs/2604.24719v1)** | 2026-04-27 |  |
-| **[Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings](https://arxiv.org/abs/2604.24597v1)** | 2026-04-27 |  |
-| **[SemiSAM-O1: How far can we push the boundary of annotation-efficient medical image segmentation?](https://arxiv.org/abs/2604.24109v1)** | 2026-04-27 |  |
-| **[Risk-Aware Robust Learning: Reducing Clinical Risk under Label Noise in Medical Image Classification](https://arxiv.org/abs/2604.23875v1)** | 2026-04-26 | Accepted at SBCAS'26 |
-| **[Does Machine Unlearning Preserve Clinical Safety? A Risk Analysis for Medical Image Classification](https://arxiv.org/abs/2604.23854v1)** | 2026-04-26 | Accepted at SBCAS'26 |
-| **[Domain Fine-Tuning vs. Retrieval-Augmented Generation for Medical Multiple-Choice Question Answering: A Controlled Comparison at the 4B-Parameter Scale](https://arxiv.org/abs/2604.23801v1)** | 2026-04-26 |  |
 
