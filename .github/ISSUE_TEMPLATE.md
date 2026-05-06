@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2026
+title: Latest 15 Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,8 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition](https://arxiv.org/abs/2605.02834v1)** | 2026-05-04 | <details><summary>proje...</summary><p>project website at https://tanu.sh/videonet</p></details> |
+| **[VEBench:Benchmarking Large Multimodal Models for Real-World Video Editing](https://arxiv.org/abs/2605.03276v1)** | 2026-05-05 | CVPR Findings 2026 |
+| **[VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition](https://arxiv.org/abs/2605.02834v2)** | 2026-05-05 | <details><summary>CVPR ...</summary><p>CVPR 2026 Highlight. Website at https://tanu.sh/videonet</p></details> |
 | **[Video Generation with Predictive Latents](https://arxiv.org/abs/2605.02134v1)** | 2026-05-04 |  |
 | **[Decouple and Cache: KV Cache Construction for Streaming Video Understanding](https://arxiv.org/abs/2605.01858v1)** | 2026-05-03 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 10 tables</p></details> |
 | **[Video Active Perception: Effective Inference-Time Long-Form Video Understanding with Vision-Language Models](https://arxiv.org/abs/2605.01662v1)** | 2026-05-03 | ICCV 2025 workshop |
@@ -40,7 +41,6 @@ labels: documentation
 | **[MarkIt: Training-Free Visual Markers for Precise Video Temporal Grounding](https://arxiv.org/abs/2604.25886v2)** | 2026-05-02 |  |
 | **[DualFact+: A Multimodal Fact Verification Framework for Procedural Video Understanding](https://arxiv.org/abs/2604.25584v1)** | 2026-04-28 | ACL 2026 Findings |
 | **[OmniVTG: A Large-Scale Dataset and Training Paradigm for Open-World Video Temporal Grounding](https://arxiv.org/abs/2604.25276v1)** | 2026-04-28 | CVPR 2026 |
-| **[FCMBench-Video: Benchmarking Document Video Intelligence](https://arxiv.org/abs/2604.25186v2)** | 2026-04-30 |  |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Robust Unsupervised Domain Adaptation Framework for Medical Image Classification Using RKHS-MMD](https://arxiv.org/abs/2605.03787v1)** | 2026-05-05 | 13 Pages, 6 figures |
+| **[Enhance the after-discharge mortality rate prediction via learning from the medical notes](https://arxiv.org/abs/2605.03560v1)** | 2026-05-05 |  |
+| **[MedSR-Vision: Deep Learning Framework for Multi-Domain Medical Image Super-Resolution](https://arxiv.org/abs/2605.03343v1)** | 2026-05-05 |  |
+| **[Synthetic Data Generation for Long-Tail Medical Image Classification: A Case Study in Skin Lesions](https://arxiv.org/abs/2605.03221v1)** | 2026-05-04 |  |
 | **[Foundation Models to Unlock Real-World Evidence from Nationwide Medical Claims](https://arxiv.org/abs/2605.02740v1)** | 2026-05-04 |  |
 | **[Coherent Hierarchical Multi-Label Learning to Defer for Medical Imaging](https://arxiv.org/abs/2605.02734v1)** | 2026-05-04 |  |
 | **[Graph-Augmented Topological Internalization with Dual-Stream Classifiers for Medical Report Generation](https://arxiv.org/abs/2605.02376v1)** | 2026-05-04 |  |
@@ -75,8 +79,4 @@ labels: documentation
 | **[When RAG Chatbots Expose Their Backend: An Anonymized Case Study of Privacy and Security Risks in Patient-Facing Medical AI](https://arxiv.org/abs/2605.00796v1)** | 2026-05-01 |  |
 | **[MedMosaic: A Challenging Large Scale Benchmark of Diverse Medical Audio](https://arxiv.org/abs/2605.00969v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. 12 pages main text, 35 pages appendix, 5 figures, 7 tables</p></details> |
 | **[FedKPer: Tackling Generalization and Personalization in Medical Federated Learning via Knowledge Personalization](https://arxiv.org/abs/2605.00698v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Image Processing (ICIP)</p></details> |
-| **[DMDSC: A Dynamic-Margin Deep Simplex Classifier for Open-Set Recognition on Medical Image Datasets](https://arxiv.org/abs/2605.00675v1)** | 2026-05-01 |  |
-| **[Learning from Compressed CT: Feature Attention Style Transfer and Structured Factorized Projections for Resource-Efficient Medical Image Analysis](https://arxiv.org/abs/2605.00448v1)** | 2026-05-01 |  |
-| **[Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization](https://arxiv.org/abs/2605.00130v1)** | 2026-04-30 |  |
-| **[Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](https://arxiv.org/abs/2604.27724v1)** | 2026-04-30 |  |
 
