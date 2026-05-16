@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 13, 2026
+title: Latest 15 Papers - May 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](https://arxiv.org/abs/2605.15184v1)** | 2026-05-14 |  |
+| **[Auditing Agent Harness Safety](https://arxiv.org/abs/2605.14271v1)** | 2026-05-14 | 11 Pages, 8 Figures |
+| **[LLMs Know When They Know, but Do Not Act on It: A Metacognitive Harness for Test-time Scaling](https://arxiv.org/abs/2605.14186v1)** | 2026-05-13 |  |
+| **[Harnessing Agentic Evolution](https://arxiv.org/abs/2605.13821v1)** | 2026-05-13 |  |
+| **[AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents](https://arxiv.org/abs/2605.13357v1)** | 2026-05-13 | 16 pages |
 | **[Harness Engineering as Categorical Architecture](https://arxiv.org/abs/2605.12239v1)** | 2026-05-12 |  |
 | **[It's Not the Size: Harness Design Determines Operational Stability in Small Language Models](https://arxiv.org/abs/2605.12129v1)** | 2026-05-12 |  |
 | **[Cochise: A Reference Harness for Autonomous Penetration Testing](https://arxiv.org/abs/2605.11671v1)** | 2026-05-12 |  |
@@ -17,34 +22,33 @@ labels: documentation
 | **[NORA: A Harness-Engineered Autonomous Research Agent for End-to-End Spatial Data Science](https://arxiv.org/abs/2605.02092v1)** | 2026-05-03 |  |
 | **[Affordance Agent Harness: Verification-Gated Skill Orchestration](https://arxiv.org/abs/2605.00663v2)** | 2026-05-08 | <details><summary>43 pa...</summary><p>43 pages, 22 figures, 8 tables. Ongoing work</p></details> |
 | **[ClozeMaster: Fuzzing Rust Compiler by Harnessing LLMs for Infilling Masked Real Programs](https://arxiv.org/abs/2605.00413v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted at ICSE 2025</p></details> |
-| **[Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](https://arxiv.org/abs/2604.25850v3)** | 2026-04-30 |  |
-| **[The Last Harness You'll Ever Build](https://arxiv.org/abs/2604.21003v3)** | 2026-05-01 |  |
-| **[Synthesizing Multi-Agent Harnesses for Vulnerability Discovery](https://arxiv.org/abs/2604.20801v1)** | 2026-04-22 |  |
-| **[HARBOR: Automated Harness Optimization](https://arxiv.org/abs/2604.20938v1)** | 2026-04-22 |  |
-| **[HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation](https://arxiv.org/abs/2604.18791v1)** | 2026-04-20 | 9 pages, 2 figures |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Video-Zero: Self-Evolution Video Understanding](https://arxiv.org/abs/2605.14733v1)** | 2026-05-14 |  |
+| **[ViMU: Benchmarking Video Metaphorical Understanding](https://arxiv.org/abs/2605.14607v1)** | 2026-05-14 |  |
+| **[CoRDS: Coreset-based Representative and Diverse Selection for Streaming Video Understanding](https://arxiv.org/abs/2605.14310v1)** | 2026-05-14 |  |
+| **[Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context](https://arxiv.org/abs/2605.13831v1)** | 2026-05-13 | work in progress |
+| **[ReTool-Video: Recursive Tool-Using Video Agents with Meta-Augmented Tool Grounding](https://arxiv.org/abs/2605.13228v1)** | 2026-05-13 |  |
+| **[Learning to See What You Need: Gaze Attention for Multimodal Large Language Models](https://arxiv.org/abs/2605.13080v1)** | 2026-05-13 |  |
+| **[AdaFocus: Adaptive Relevance-Diversity Sampling with Zero-Cache Look-back for Efficient Long Video Understanding](https://arxiv.org/abs/2605.12954v1)** | 2026-05-13 | <details><summary>9 pag...</summary><p>9 pages, 4 figures. Authors Xiao Yang and Yingzhe Ma contributed equally</p></details> |
 | **[BARISTA: A Multi-Task Egocentric Benchmark for Compositional Visual Understanding](https://arxiv.org/abs/2605.12074v1)** | 2026-05-12 |  |
 | **[OmniRefine: Alignment-Aware Cooperative Compression for Efficient Omnimodal Large Language Models](https://arxiv.org/abs/2605.12056v1)** | 2026-05-12 |  |
+| **[VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](https://arxiv.org/abs/2605.12571v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. 33 pages, 13 figures. Code and models are available at https://github.com/Echochef/VideoSEAL</p></details> |
 | **[LDDR: Linear-DPP-Based Dynamic-Resolution Frame Sampling for Video MLLMs](https://arxiv.org/abs/2605.11477v1)** | 2026-05-12 | 21 pages, 4 figures |
 | **[MMVIAD: Multi-view Multi-task Video Understanding for Industrial Anomaly Detection](https://arxiv.org/abs/2605.10833v1)** | 2026-05-11 |  |
 | **[GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs](https://arxiv.org/abs/2605.10762v1)** | 2026-05-11 |  |
 | **[EvoStreaming: Your Offline Video Model Is a Natively Streaming Assistant](https://arxiv.org/abs/2605.10343v1)** | 2026-05-11 | 33 pages, 9 figures |
 | **[EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs](https://arxiv.org/abs/2605.10050v1)** | 2026-05-11 | 9 pages |
-| **[TOC-Bench: A Temporal Object Consistency Benchmark for Video Large Language Models](https://arxiv.org/abs/2605.09904v2)** | 2026-05-12 |  |
-| **[EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding](https://arxiv.org/abs/2605.09874v1)** | 2026-05-11 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project website: https://egomemreason.github.io/</p></details> |
-| **[SoccerLens: Grounded Soccer Video Understanding Beyond Accuracy](https://arxiv.org/abs/2605.09598v2)** | 2026-05-12 | Preprint |
-| **[Perception Without Engagement: Dissecting the Causal Discovery Deficit in LMMs](https://arxiv.org/abs/2605.09422v1)** | 2026-05-10 | 17 pages, 5 figures |
-| **[CATS: Curvature Aware Temporal Selection for efficient long video understanding](https://arxiv.org/abs/2605.09223v1)** | 2026-05-09 |  |
-| **[Tracking the Truth: Object-Centric Spatio-Temporal Monitoring for Video Large Language Models](https://arxiv.org/abs/2605.08974v1)** | 2026-05-09 | <details><summary>Code:...</summary><p>Code: https://github.com/nguyentthong/video_hallucination</p></details> |
-| **[SYNCR: A Cross-Video Reasoning Benchmark with Synthetic Grounding](https://arxiv.org/abs/2605.08412v1)** | 2026-05-08 |  |
-| **[Semantic-Aware Adaptive Visual Memory for Streaming Video Understanding](https://arxiv.org/abs/2605.07897v1)** | 2026-05-08 |  |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory](https://arxiv.org/abs/2605.15128v1)** | 2026-05-14 | 46 pages, 15 figures |
+| **[MediaClaw: Multimodal Intelligent-Agent Platform Technical Report](https://arxiv.org/abs/2605.14771v1)** | 2026-05-14 |  |
+| **[MMSkills: Towards Multimodal Skills for General Visual Agents](https://arxiv.org/abs/2605.13527v2)** | 2026-05-14 | <details><summary>25 pa...</summary><p>25 pages, 8 figures, 8 tables. Project page: https://deepexperience.github.io/MMSkills</p></details> |
+| **[GeoBuildBench: A Benchmark for Interactive and Executable Geometry Construction from Natural Language](https://arxiv.org/abs/2605.13167v1)** | 2026-05-13 |  |
 | **[Ace-Skill: Bootstrapping Multimodal Agents with Prioritized and Clustered Evolution](https://arxiv.org/abs/2605.08887v1)** | 2026-05-09 |  |
 | **[Omni-DeepSearch: A Benchmark for Audio-Driven Omni-Modal Deep Search](https://arxiv.org/abs/2605.08762v1)** | 2026-05-09 | 43 pages |
 | **[Skill-CMIB: Multimodal Agent Skill for Consistent Action via Conditional Multimodal Information Bottleneck](https://arxiv.org/abs/2605.08526v1)** | 2026-05-08 |  |
@@ -56,27 +60,23 @@ labels: documentation
 | **[From Where Things Are to What They Are For: Benchmarking Spatial-Functional Intelligence in Multimodal LLMs](https://arxiv.org/abs/2605.02130v1)** | 2026-05-04 | CVPR 2026 |
 | **[InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?](https://arxiv.org/abs/2604.27419v1)** | 2026-04-30 | <details><summary>21 pa...</summary><p>21 pages, 13 figures, 7 tables</p></details> |
 | **[OptimusKG: Unifying biomedical knowledge in a modern multimodal graph](https://arxiv.org/abs/2604.27269v1)** | 2026-04-29 |  |
-| **[GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752v3)** | 2026-05-12 |  |
-| **[Source-Modality Monitoring in Vision-Language Models](https://arxiv.org/abs/2604.22038v1)** | 2026-04-23 | <details><summary>All r...</summary><p>All resources will be available at https://github.com/ethahtz/source-modality-monitoring</p></details> |
-| **[Sema: Semantic Transport for Real-Time Multimodal Agents](https://arxiv.org/abs/2604.20940v1)** | 2026-04-22 |  |
-| **[ProMMSearchAgent: A Generalizable Multimodal Search Agent Trained with Process-Oriented Rewards](https://arxiv.org/abs/2604.20486v1)** | 2026-04-22 |  |
 
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Instance-Level Self-Supervision in 3D Multi-Modal Medical Imaging](https://arxiv.org/abs/2605.14654v1)** | 2026-05-14 | ICML2026 |
+| **[Med-DisSeg: Dispersion-Driven Representation Learning for Fine-Grained Medical Image Segmentation](https://arxiv.org/abs/2605.14579v1)** | 2026-05-14 |  |
+| **[SpectraFlow: Unifying Structural Pretraining and Frequency Adaptation for Medical Image Segmentation](https://arxiv.org/abs/2605.14566v1)** | 2026-05-14 |  |
+| **[RxEval: A Prescription-Level Benchmark for Evaluating LLM Medication Recommendation](https://arxiv.org/abs/2605.14543v1)** | 2026-05-14 |  |
+| **[DSTAN-Med: Dual-Channel Spatiotemporal Attention with Physiological Plausibility Filtering for False Data Injection Attack Detection in IoT-Based Medical Devices](https://arxiv.org/abs/2605.14165v1)** | 2026-05-13 | 14 pages, 5 figures |
+| **[MedCore: Boundary-Preserving Medical Core Pruning for MedSAM](https://arxiv.org/abs/2605.13688v1)** | 2026-05-13 | 3 figures, 17 pages |
+| **[Cross Modality Image Translation In Medical Imaging Using Generative Frameworks](https://arxiv.org/abs/2605.13686v1)** | 2026-05-13 |  |
+| **[CA-GCL: Cross-Anatomy Global-Local Contrastive Learning for Robust 3D Medical Image Understanding](https://arxiv.org/abs/2605.13544v1)** | 2026-05-13 |  |
+| **[IndicMedDialog: A Parallel Multi-Turn Medical Dialogue Dataset for Accessible Healthcare in Indic Languages](https://arxiv.org/abs/2605.13292v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted in BioNLP @ ACL 2026 Conference</p></details> |
+| **[Large Language Models Lack Temporal Awareness of Medical Knowledge](https://arxiv.org/abs/2605.13045v1)** | 2026-05-13 | 35 pages, 18 figures |
+| **[Adaptive Conformal Prediction for Reliable and Explainable Medical Image Classification](https://arxiv.org/abs/2605.12917v1)** | 2026-05-13 | <details><summary>To ap...</summary><p>To appear in IEA/AIE 2026 (Springer LNAI)</p></details> |
+| **[CRAFT: Clinical Reward-Aligned Finetuning for Medical Image Synthesis](https://arxiv.org/abs/2605.12650v1)** | 2026-05-12 |  |
 | **[What Does It Mean for a Medical AI System to Be Right?](https://arxiv.org/abs/2605.11963v1)** | 2026-05-12 | <details><summary>Part ...</summary><p>Part of a PhD ethics course</p></details> |
 | **[Beyond Masks: The Case for Medical Image Parsing](https://arxiv.org/abs/2605.11438v1)** | 2026-05-12 |  |
 | **[USEMA: a Scalable Efficient Mamba Like Attention for Medical Image Segmentation](https://arxiv.org/abs/2605.11131v1)** | 2026-05-11 |  |
-| **[Geometry-aware Prototype Learning for Cross-domain Few-shot Medical Image Segmentation](https://arxiv.org/abs/2605.10885v1)** | 2026-05-11 |  |
-| **[SplitFed-CL: A Split Federated Co-Learning Framework for Medical Image Segmentation with Inaccurate Labels](https://arxiv.org/abs/2605.11060v1)** | 2026-05-11 |  |
-| **[Verification Mirage: Mapping the Reliability Boundary of Self-Verification in Medical VQA](https://arxiv.org/abs/2605.10850v1)** | 2026-05-11 | 31 pages, 12 figures |
-| **[GenMed: A Pairwise Generative Reformulation of Medical Diagnostic Tasks](https://arxiv.org/abs/2605.10645v1)** | 2026-05-11 |  |
-| **[DuetFair: Coupling Inter- and Intra-Subgroup Robustness for Fair Medical Image Segmentation](https://arxiv.org/abs/2605.10521v1)** | 2026-05-11 | 16 pages, 2 figures |
-| **[Knowledge Poisoning Attacks on Medical Multi-Modal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.10253v1)** | 2026-05-11 | Accepted by ACL 2026 |
-| **[Medical Incident Causal Factors and Preventive Measures Generation Using Tag-based Example Selection in Few-shot Learning](https://arxiv.org/abs/2605.10025v1)** | 2026-05-11 |  |
-| **[Med-StepBench: A Hierarchical Reasoning Framework for Evaluating Hallucinations in Medical Vision-Language Models](https://arxiv.org/abs/2605.10002v1)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted at IJCAI-ECAI 2026</p></details> |
-| **[Frequency Adapter with SAM for Generalized Medical Image Segmentation](https://arxiv.org/abs/2605.09925v1)** | 2026-05-11 | <details><summary>Under...</summary><p>Under review, 10 pages, 1 figure, 2 tables</p></details> |
-| **[DeepTumorVQA: A Hierarchical 3D CT Benchmark for Stage-Wise Evaluation of Medical VLMs and Tool-Augmented Agents](https://arxiv.org/abs/2605.09679v1)** | 2026-05-10 |  |
-| **[MedMeta: A Benchmark for LLMs in Synthesizing Meta-Analysis Conclusion from Medical Studies](https://arxiv.org/abs/2605.09661v1)** | 2026-05-10 |  |
-| **[LiteMedCoT-VL: Parameter-Efficient Adaptation for Medical Visual Question Answering](https://arxiv.org/abs/2605.09384v1)** | 2026-05-10 | 17 pages, 5 figures |
 
