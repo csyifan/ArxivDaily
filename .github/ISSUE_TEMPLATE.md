@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 23, 2026
+title: Latest 15 Papers - May 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ETCHR: Editing To Clarify and Harness Reasoning](https://arxiv.org/abs/2605.23897v1)** | 2026-05-22 | <details><summary>Code,...</summary><p>Code, model and data are open-sourced at https://github.com/InternLM/ETCHR</p></details> |
+| **[HARNESS-LM: A Three-Phase Training Recipe for Harnessing SLMs in Sponsored Search Retrieval](https://arxiv.org/abs/2605.23572v1)** | 2026-05-22 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 10 tables</p></details> |
 | **[Towards Direct Evaluation of Harness Optimizers via Priority Ranking](https://arxiv.org/abs/2605.22505v1)** | 2026-05-21 | <details><summary>Prepr...</summary><p>Preprint. Work in Progress</p></details> |
 | **[Sibyl-AutoResearch: Autonomous Research Needs Self-Evolving Trial-and-Error Harnesses, Not Paper Generators](https://arxiv.org/abs/2605.22343v1)** | 2026-05-21 |  |
 | **[Adapting the Interface, Not the Model: Runtime Harness Adaptation for Deterministic LLM Agents](https://arxiv.org/abs/2605.22166v1)** | 2026-05-21 | Work in progress |
@@ -20,12 +22,13 @@ labels: documentation
 | **[Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](https://arxiv.org/abs/2605.15184v1)** | 2026-05-14 |  |
 | **[Auditing Agent Harness Safety](https://arxiv.org/abs/2605.14271v2)** | 2026-05-16 | 11 Pages, 8 Figures |
 | **[LLMs Know When They Know, but Do Not Act on It: A Metacognitive Harness for Test-time Scaling](https://arxiv.org/abs/2605.14186v1)** | 2026-05-13 |  |
-| **[Harnessing Agentic Evolution](https://arxiv.org/abs/2605.13821v1)** | 2026-05-13 |  |
-| **[AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents](https://arxiv.org/abs/2605.13357v1)** | 2026-05-13 | 16 pages |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FAST-ME: Foundation-aware Adaptive Stopping for Motion Estimation for Efficient IoT Video Analysis](https://arxiv.org/abs/2605.23428v1)** | 2026-05-22 |  |
+| **[Decoupling Spatio-Temporal Adapter for Fine-Grained Badminton Action Localization](https://arxiv.org/abs/2605.23355v1)** | 2026-05-22 | 11 pages, 11figures |
+| **[VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding](https://arxiv.org/abs/2605.22907v1)** | 2026-05-21 |  |
 | **[Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs](https://arxiv.org/abs/2605.22823v1)** | 2026-05-21 | <details><summary>Prepr...</summary><p>Preprint. 59 pages, including appendix. Code: https://github.com/KHU-VLL/DeltaDirect</p></details> |
 | **[Cambrian-P: Pose-Grounded Video Understanding](https://arxiv.org/abs/2605.22819v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project Page: https://cambrian-mllm.github.io/</p></details> |
 | **[Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking](https://arxiv.org/abs/2605.22538v1)** | 2026-05-21 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[USV: Towards Understanding the User-generated Short-form Videos](https://arxiv.org/abs/2605.20838v1)** | 2026-05-20 |  |
 | **[ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning](https://arxiv.org/abs/2605.20342v2)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project Page: https://evolvinglmms-lab.github.io/ParaVT/</p></details> |
 | **[FineBench: Benchmarking and Enhancing Vision-Language Models for Fine-grained Human Activity Understanding](https://arxiv.org/abs/2605.19846v2)** | 2026-05-20 | <details><summary>CVPR'...</summary><p>CVPR'26 (Workshop on Video Large Language Models). Project Page: https://joslefaure.github.io/assets/html/finebench.html</p></details> |
-| **[EgoCoT-Bench: Benchmarking Grounded and Verifiable Operation-Centric Chain of Thought Reasoning for MLLMs](https://arxiv.org/abs/2605.19559v1)** | 2026-05-19 |  |
-| **[LMM-Track4D: Eliciting 4D Dynamic Reasoning in LMMs via Trajectory-Grounded Dialogue](https://arxiv.org/abs/2605.19390v1)** | 2026-05-19 |  |
-| **[DynaTok: Temporally Adaptive and Positional Bias-Aware Token Compression for Video-LLMs](https://arxiv.org/abs/2605.19322v1)** | 2026-05-19 |  |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DDX-TRACE: A Benchmark for Medical Diagnostic Trajectories in VLMs](https://arxiv.org/abs/2605.23629v1)** | 2026-05-22 | 41 pages |
 | **[Case-Aware Medical Image Classification with Multimodal Knowledge Graphs and Reliability-Guided Refinement](https://arxiv.org/abs/2605.22547v1)** | 2026-05-21 |  |
 | **[JMed48k: A Multi-Profession Japanese Medical Licensing Benchmark for Vision-Language Model Evaluation](https://arxiv.org/abs/2605.22080v1)** | 2026-05-21 |  |
 | **[Entropy-Guided Self-Supervised Learning for Medical Image Classification](https://arxiv.org/abs/2605.21970v1)** | 2026-05-21 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Neuron Incidence Redistribution for Fairness in Medical Image Classification](https://arxiv.org/abs/2605.19393v1)** | 2026-05-19 | 4 Pages, 1 Figure |
 | **[Worst-Group Equalized Odds Regularization for Multi-Attribute Fair Medical Image Classification](https://arxiv.org/abs/2605.19214v1)** | 2026-05-19 | 11 Pages, 2 Figures |
 | **[Quantized Machine Learning Models for Medical Imaging in Low-Resource Healthcare Settings](https://arxiv.org/abs/2605.19207v1)** | 2026-05-19 |  |
-| **[Reducing Waiting Time for Medical Tourists Through Hybrid Agent-Based and Discrete-Event Simulation: A Hospital Case Study](https://arxiv.org/abs/2605.19139v1)** | 2026-05-18 | <details><summary>41 Pa...</summary><p>41 Pages including appedix</p></details> |
 
