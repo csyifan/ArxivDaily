@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2026
+title: Latest 15 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoMegaKernel: A Statically-Checked Agent Harness for Self-Retargeting Megakernel Synthesis](https://arxiv.org/abs/2606.09682v1)** | 2026-06-08 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Open-source code, data, and agent harness: https://github.com/RightNow-AI/AutoMegaKernel</p></details> |
+| **[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498v1)** | 2026-06-08 |  |
+| **[Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer](https://arxiv.org/abs/2606.09416v1)** | 2026-06-08 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 2 tables. Big Ideas track submission to the 27th ACM/IFIP International Middleware Conference (Middleware 2026)</p></details> |
+| **[AlloSpatial: Agentic Harness Framework for Spatial Reasoning in Foundation Models](https://arxiv.org/abs/2606.08952v1)** | 2026-06-08 |  |
+| **[SkillHone: A Harness for Continual Agent Skill Evolution Through Persistent Decision History](https://arxiv.org/abs/2606.08671v1)** | 2026-06-07 | Work in progress |
+| **[Harnessing Streaming Video in the Wild](https://arxiv.org/abs/2606.08615v1)** | 2026-06-07 |  |
+| **[HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610v1)** | 2026-06-07 |  |
+| **[Bayesian-Agent: Posterior-Guided Skill Evolution for LLM Agent Harnesses](https://arxiv.org/abs/2606.08348v1)** | 2026-06-06 | 15 pages, 6 figures |
 | **[From Failed Trajectories to Reliable LLM Agents: Diagnosing and Repairing Harness Flaws](https://arxiv.org/abs/2606.06324v1)** | 2026-06-04 |  |
 | **[Harnessing Structural Context for Entity Alignment Foundation Models](https://arxiv.org/abs/2606.06109v1)** | 2026-06-04 |  |
 | **[Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts](https://arxiv.org/abs/2606.05922v1)** | 2026-06-04 | <details><summary>Code:...</summary><p>Code: https://github.com/wbopan/retro-harness ; Project website: https://paper-rho.wenbo.io</p></details> |
@@ -14,18 +22,15 @@ labels: documentation
 | **[Harnessing Generalist Agents for Contextualized Time Series](https://arxiv.org/abs/2606.05404v1)** | 2026-06-03 | Preprint. 38 Pages |
 | **[DAR: Deontic Reasoning with Agentic Harnesses](https://arxiv.org/abs/2606.05009v1)** | 2026-06-03 |  |
 | **[EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning](https://arxiv.org/abs/2606.03108v1)** | 2026-06-02 |  |
-| **[MUSE: A Unified Agentic Harness for MLLMs](https://arxiv.org/abs/2606.03005v1)** | 2026-06-02 |  |
-| **[WISE-HAR: A Generalizable Ensemble Deep Learning Framework for WiFi-Based Human Activity Recognition](https://arxiv.org/abs/2606.02974v1)** | 2026-06-02 | 8 pages, 5 figures |
-| **[Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses](https://arxiv.org/abs/2606.02373v1)** | 2026-06-01 |  |
-| **[Absorbing Complexity: An Interaction-Native Knowledge Harness for Financial LLM Agents](https://arxiv.org/abs/2606.01886v1)** | 2026-06-01 | 17 pages, 3 figures |
-| **[HarnessForge: Joint Harness and Policy Evolution for Adaptive Agent Systems](https://arxiv.org/abs/2606.01779v1)** | 2026-06-01 | 25 pages, 13 figures |
-| **[Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams](https://arxiv.org/abs/2606.01770v2)** | 2026-06-03 |  |
-| **[Dialectics of Alignment: Harnessing Unsafe Knowledge for Dynamic Safety Routing](https://arxiv.org/abs/2606.00686v1)** | 2026-05-30 |  |
-| **[From Prompt Injection to Persistent Control: Defending Agentic Harness Against Trojan Backdoors](https://arxiv.org/abs/2605.31042v1)** | 2026-05-29 | <details><summary>Code ...</summary><p>Code and data are available at https://github.com/RUC-NLPIR/ClawTrojan</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MAVIS: Multi-Agent Video Retrieval via Structured Video Understanding](https://arxiv.org/abs/2606.09641v1)** | 2026-06-08 |  |
+| **[See More, Think Deeper: Query-Expanded Visual Evidence and Answer-Clue Guided Reflection for Long Video Understanding](https://arxiv.org/abs/2606.09064v1)** | 2026-06-08 |  |
+| **[Harnessing Streaming Video in the Wild](https://arxiv.org/abs/2606.08615v1)** | 2026-06-07 |  |
+| **[OmniCap-IF: Benchmarking and Improving Instruction Following Abilities for Omni-Video Captioning](https://arxiv.org/abs/2606.08572v1)** | 2026-06-07 |  |
+| **[When No Answer Is Correct: Diagnosing Absent Answer Detection for MLLMs in Video Understanding](https://arxiv.org/abs/2606.08239v1)** | 2026-06-06 | Under review |
 | **[MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism](https://arxiv.org/abs/2606.07512v1)** | 2026-06-05 |  |
 | **[Watch, Remember, Reason: Human-View Video Understanding with MLLMs](https://arxiv.org/abs/2606.07433v1)** | 2026-06-05 |  |
 | **[Don't Pause: Streaming Video-Language Synchrony for Online Video Understanding](https://arxiv.org/abs/2606.06991v1)** | 2026-06-05 |  |
@@ -36,15 +41,12 @@ labels: documentation
 | **[VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](https://arxiv.org/abs/2606.05259v1)** | 2026-06-03 | ICML 2026 Spotlight |
 | **[M$^3$Eval: Multi-Modal Memory Evaluation through Cognitively-Grounded Video Tasks](https://arxiv.org/abs/2606.05008v1)** | 2026-06-03 | <details><summary>We pr...</summary><p>We present an evaluation designed for multi-modal memory in multi-modal models</p></details> |
 | **[A Systematic Evaluation of Positional Bias in Multi-Video Summarization with MLLMs](https://arxiv.org/abs/2606.04596v1)** | 2026-06-03 |  |
-| **[VCIFBench: Evaluating Complex Instruction Following for Video Understanding](https://arxiv.org/abs/2606.04588v1)** | 2026-06-03 |  |
-| **[Benchmarking Visual State Tracking in Multimodal Video Understanding](https://arxiv.org/abs/2606.03920v1)** | 2026-06-02 | <details><summary>Websi...</summary><p>Website: https://vision-x-nyu.github.io/vstat-site/</p></details> |
-| **[Where Do We (Not) Need Temporal Context in Low-Resource Video Task Adaptation?](https://arxiv.org/abs/2606.03837v1)** | 2026-06-02 |  |
-| **[VidMsg: A Benchmark for Implicit Message Inference in Short Videos](https://arxiv.org/abs/2606.03635v1)** | 2026-06-02 | <details><summary>Proje...</summary><p>Project page: https://iyttor.github.io/VidMsg</p></details> |
-| **[Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events](https://arxiv.org/abs/2606.02522v1)** | 2026-06-01 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 11 tables</p></details> |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks](https://arxiv.org/abs/2606.09669v1)** | 2026-06-08 |  |
+| **[Aligned but Not Partner-Specific: Distinguishing How Multimodal LLM Agents Succeed in Reference Games Without Human-Like Conventions](https://arxiv.org/abs/2606.08081v1)** | 2026-06-06 |  |
 | **[OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs](https://arxiv.org/abs/2606.03890v1)** | 2026-06-02 | <details><summary>48 pa...</summary><p>48 pages, 12 figures, 15 tables. Project page: https://internlm.github.io/OVO-S-Bench/</p></details> |
 | **[HLL: Can Agents Cross Humanity's Last Line of Verification?](https://arxiv.org/abs/2606.02449v1)** | 2026-06-01 | 27 pages, 14 figures |
 | **[Do Multimodal Agents Really Benefit from Tool Use? A Systematic Study of Capability Gains](https://arxiv.org/abs/2606.02357v1)** | 2026-06-01 |  |
@@ -53,17 +55,22 @@ labels: documentation
 | **[Sandboxed Coding Agents are Competitive Omni-modal Task Solvers](https://arxiv.org/abs/2606.00579v1)** | 2026-05-30 | Paper under review |
 | **[Task-Focused Memorization for Multimodal Agents](https://arxiv.org/abs/2605.31075v1)** | 2026-05-29 |  |
 | **[World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications](https://arxiv.org/abs/2606.00133v1)** | 2026-05-28 |  |
+| **[Syll: Open-Source Personal Automation with Cross-Surface Execution](https://arxiv.org/abs/2606.07594v1)** | 2026-05-28 | <details><summary>Code:...</summary><p>Code: https://github.com/THU-SAGE/syll</p></details> |
 | **[GenClaw: Code-Driven Agentic Image Generation](https://arxiv.org/abs/2605.30248v2)** | 2026-05-29 | 21 pages, 7 figures |
 | **[WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction](https://arxiv.org/abs/2605.29341v2)** | 2026-06-01 | 25 pages, 8 figures |
 | **[VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis](https://arxiv.org/abs/2605.28978v1)** | 2026-05-27 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 2 tables. Equal contribution: Jiachen Zhang and Junyi Lao. Corresponding author: Songfang Huang. Preprint</p></details> |
 | **[Agent Explorative Policy Optimization for Multimodal Agentic Reasoning](https://arxiv.org/abs/2605.28774v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/AXPO-page/</p></details> |
-| **[Adaptive Multimodal Agents-Based Framework for Automatic Workflow Execution](https://arxiv.org/abs/2605.28607v1)** | 2026-05-27 | <details><summary>Copyr...</summary><p>Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses. Accepted for publication at the 2026 IEEE International Conference on Evolving and Adaptive Intelligent Systems (EAIS 2026)</p></details> |
-| **[AgroTools: A Benchmark for Tool-Augmented Multimodal Agents in Agriculture](https://arxiv.org/abs/2605.22366v1)** | 2026-05-21 |  |
-| **[Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles](https://arxiv.org/abs/2605.22177v1)** | 2026-05-21 |  |
 
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Clinically Grounded Privacy Evaluation of Medical LMs](https://arxiv.org/abs/2606.09590v1)** | 2026-06-08 |  |
+| **[Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory](https://arxiv.org/abs/2606.09365v1)** | 2026-06-08 |  |
+| **[TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs](https://arxiv.org/abs/2606.09030v1)** | 2026-06-08 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HyeongWon-Jang/TRIAGE</p></details> |
+| **[Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care](https://arxiv.org/abs/2606.08982v1)** | 2026-06-08 |  |
+| **[CARE: A Conformal Safety Layer for Medical Summarization](https://arxiv.org/abs/2606.08969v1)** | 2026-06-08 | 29 pages, 5 figures |
+| **[Shift-Dependent Asymmetry: Orthogonal Inverse Low-Rank Adaptation for Federated Medical Segmentation](https://arxiv.org/abs/2606.08687v1)** | 2026-06-07 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Stress-testing medical large language models reveals latent safety pathology beyond benchmark accuracy](https://arxiv.org/abs/2606.07929v1)** | 2026-06-06 | 34 pages, 5 figures |
 | **[LLM-Guided Evolution for Medical Decision Pipelines](https://arxiv.org/abs/2606.07342v1)** | 2026-06-05 |  |
 | **[MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](https://arxiv.org/abs/2606.06760v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 | **[EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models](https://arxiv.org/abs/2606.06379v1)** | 2026-06-04 |  |
@@ -72,11 +79,4 @@ labels: documentation
 | **[Severity-Aware Curriculum Learning with Multi-Model Response Selection for Medical Text Generation](https://arxiv.org/abs/2606.05510v1)** | 2026-06-03 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, IMSA2026</p></details> |
 | **[Attention Consistent Longitudinal Medical Visual Question Answering Guided by Vision Foundation Models](https://arxiv.org/abs/2606.06534v1)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Workshop PHAROS-AIF-MIH</p></details> |
 | **[Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation](https://arxiv.org/abs/2606.04705v1)** | 2026-06-03 |  |
-| **[Beyond Symmetric Alignment: Spectral Diagnostics of Modality Imbalance in Vision-Language Models in the Medical Domain](https://arxiv.org/abs/2606.04613v1)** | 2026-06-03 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 9 tables</p></details> |
-| **[XSSR: Cross-Domain Self-Supervised Representative Selection for Efficient Annotation in Medical Image Segmentation](https://arxiv.org/abs/2606.04301v1)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted to the Third International Conference on AI in Healthcare (AIiH 2026). This is the preprint version of the paper</p></details> |
-| **[Does Language Shift Break Medical Vision-Language Models? Indonesian Radiology Visual Question Answering Case Study](https://arxiv.org/abs/2606.03693v1)** | 2026-06-02 | <details><summary>accep...</summary><p>accepted to MMFM-BIOMED Workshop @ CVPR 2026</p></details> |
-| **[Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency](https://arxiv.org/abs/2606.03641v1)** | 2026-06-02 | <details><summary>7 pag...</summary><p>7 pages, 3 tables. Multi-model replication across Gemini, Claude, and GPT. Code and data: https://github.com/wongqihan/ai-behavioral-experiments</p></details> |
-| **[The Word and the Way: Strategies for Domain-Specific BERT Pre-Training in German Medical NLP](https://arxiv.org/abs/2606.03250v1)** | 2026-06-02 | <details><summary>Under...</summary><p>Under revision at BMC Medical Informatics and Decision Making</p></details> |
-| **[Automated Report-Derived Oncology VQA Benchmark for Evaluating Vision-Language Models on 3D Medical Imaging](https://arxiv.org/abs/2606.02809v1)** | 2026-06-01 |  |
-| **[Entropy Minimization without Model Collapse: Mitigating Prediction Bias in Medical Imaging](https://arxiv.org/abs/2606.02339v1)** | 2026-06-01 |  |
 
