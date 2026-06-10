@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2026
+title: Latest 15 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Closing the Modality Gap in Zero-Shot HAR: Contrastive Training and Separability-Optimized Prototypes on IMU Data](https://arxiv.org/abs/2606.10789v1)** | 2026-06-09 | 17 pages, 7 figures |
+| **[AgenticNav: Zero-Shot Vision-and-Language Navigation as a Tool-Calling Harness](https://arxiv.org/abs/2606.10577v1)** | 2026-06-09 |  |
+| **[What makes a harness a harness: necessary and sufficient conditions for an agent harness](https://arxiv.org/abs/2606.10106v1)** | 2026-06-08 |  |
 | **[AutoMegaKernel: A Statically-Checked Agent Harness for Self-Retargeting Megakernel Synthesis](https://arxiv.org/abs/2606.09682v1)** | 2026-06-08 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Open-source code, data, and agent harness: https://github.com/RightNow-AI/AutoMegaKernel</p></details> |
 | **[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498v1)** | 2026-06-08 |  |
 | **[Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer](https://arxiv.org/abs/2606.09416v1)** | 2026-06-08 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 2 tables. Big Ideas track submission to the 27th ACM/IFIP International Middleware Conference (Middleware 2026)</p></details> |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Harnessing Structural Context for Entity Alignment Foundation Models](https://arxiv.org/abs/2606.06109v1)** | 2026-06-04 |  |
 | **[Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts](https://arxiv.org/abs/2606.05922v1)** | 2026-06-04 | <details><summary>Code:...</summary><p>Code: https://github.com/wbopan/retro-harness ; Project website: https://paper-rho.wenbo.io</p></details> |
 | **[Statistical Priors for Implicit Preferences: Decoupling Skill Selection as a Local Harness in Personal Agents](https://arxiv.org/abs/2606.05828v1)** | 2026-06-04 |  |
-| **[Harnessing Generalist Agents for Contextualized Time Series](https://arxiv.org/abs/2606.05404v1)** | 2026-06-03 | Preprint. 38 Pages |
-| **[DAR: Deontic Reasoning with Agentic Harnesses](https://arxiv.org/abs/2606.05009v1)** | 2026-06-03 |  |
-| **[EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning](https://arxiv.org/abs/2606.03108v1)** | 2026-06-02 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Kwai Keye-VL-2.0 Technical Report](https://arxiv.org/abs/2606.10651v1)** | 2026-06-09 | 31 pages, 11 figures |
 | **[MAVIS: Multi-Agent Video Retrieval via Structured Video Understanding](https://arxiv.org/abs/2606.09641v1)** | 2026-06-08 |  |
 | **[See More, Think Deeper: Query-Expanded Visual Evidence and Answer-Clue Guided Reflection for Long Video Understanding](https://arxiv.org/abs/2606.09064v1)** | 2026-06-08 |  |
 | **[Harnessing Streaming Video in the Wild](https://arxiv.org/abs/2606.08615v1)** | 2026-06-07 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[GOPAgen: Motion-Aware and Efficient Agentic Long-Video Understanding with Structural Memory and Hierarchical Reasoning](https://arxiv.org/abs/2606.06532v1)** | 2026-06-03 |  |
 | **[VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](https://arxiv.org/abs/2606.05259v1)** | 2026-06-03 | ICML 2026 Spotlight |
 | **[M$^3$Eval: Multi-Modal Memory Evaluation through Cognitively-Grounded Video Tasks](https://arxiv.org/abs/2606.05008v1)** | 2026-06-03 | <details><summary>We pr...</summary><p>We present an evaluation designed for multi-modal memory in multi-modal models</p></details> |
-| **[A Systematic Evaluation of Positional Bias in Multi-Video Summarization with MLLMs](https://arxiv.org/abs/2606.04596v1)** | 2026-06-03 |  |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Kwai Keye-VL-2.0 Technical Report](https://arxiv.org/abs/2606.10651v1)** | 2026-06-09 | 31 pages, 11 figures |
 | **[SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks](https://arxiv.org/abs/2606.09669v1)** | 2026-06-08 |  |
 | **[Aligned but Not Partner-Specific: Distinguishing How Multimodal LLM Agents Succeed in Reference Games Without Human-Like Conventions](https://arxiv.org/abs/2606.08081v1)** | 2026-06-06 |  |
 | **[OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs](https://arxiv.org/abs/2606.03890v1)** | 2026-06-02 | <details><summary>48 pa...</summary><p>48 pages, 12 figures, 15 tables. Project page: https://internlm.github.io/OVO-S-Bench/</p></details> |
@@ -59,15 +60,15 @@ labels: documentation
 | **[GenClaw: Code-Driven Agentic Image Generation](https://arxiv.org/abs/2605.30248v2)** | 2026-05-29 | 21 pages, 7 figures |
 | **[WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction](https://arxiv.org/abs/2605.29341v2)** | 2026-06-01 | 25 pages, 8 figures |
 | **[VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis](https://arxiv.org/abs/2605.28978v1)** | 2026-05-27 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 2 tables. Equal contribution: Jiachen Zhang and Junyi Lao. Corresponding author: Songfang Huang. Preprint</p></details> |
-| **[Agent Explorative Policy Optimization for Multimodal Agentic Reasoning](https://arxiv.org/abs/2605.28774v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/AXPO-page/</p></details> |
 
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Controlled Audit of Pretraining Contamination in Public Medical Vision-Language Benchmarks](https://arxiv.org/abs/2606.10066v1)** | 2026-06-08 | <details><summary>30 pa...</summary><p>30 pages, 7 figures, 9 tables. Preprint</p></details> |
 | **[Clinically Grounded Privacy Evaluation of Medical LMs](https://arxiv.org/abs/2606.09590v1)** | 2026-06-08 |  |
 | **[Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory](https://arxiv.org/abs/2606.09365v1)** | 2026-06-08 |  |
 | **[TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs](https://arxiv.org/abs/2606.09030v1)** | 2026-06-08 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HyeongWon-Jang/TRIAGE</p></details> |
-| **[Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care](https://arxiv.org/abs/2606.08982v1)** | 2026-06-08 |  |
+| **[Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care](https://arxiv.org/abs/2606.08982v2)** | 2026-06-09 |  |
 | **[CARE: A Conformal Safety Layer for Medical Summarization](https://arxiv.org/abs/2606.08969v1)** | 2026-06-08 | 29 pages, 5 figures |
 | **[Shift-Dependent Asymmetry: Orthogonal Inverse Low-Rank Adaptation for Federated Medical Segmentation](https://arxiv.org/abs/2606.08687v1)** | 2026-06-07 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[Stress-testing medical large language models reveals latent safety pathology beyond benchmark accuracy](https://arxiv.org/abs/2606.07929v1)** | 2026-06-06 | 34 pages, 5 figures |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Noise-Aware Visual Representation Learning for Medical Visual Question Answering](https://arxiv.org/abs/2606.05535v1)** | 2026-06-04 | <details><summary>15 pa...</summary><p>15 pages, 2 figures. Conference submission</p></details> |
 | **[Severity-Aware Curriculum Learning with Multi-Model Response Selection for Medical Text Generation](https://arxiv.org/abs/2606.05510v1)** | 2026-06-03 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, IMSA2026</p></details> |
 | **[Attention Consistent Longitudinal Medical Visual Question Answering Guided by Vision Foundation Models](https://arxiv.org/abs/2606.06534v1)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Workshop PHAROS-AIF-MIH</p></details> |
-| **[Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation](https://arxiv.org/abs/2606.04705v1)** | 2026-06-03 |  |
 
