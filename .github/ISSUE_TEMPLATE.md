@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 14, 2026
+title: Latest 15 Papers - June 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry](https://arxiv.org/abs/2606.14249v1)** | 2026-06-12 |  |
 | **[Recursive Agent Harnesses](https://arxiv.org/abs/2606.13643v1)** | 2026-06-11 |  |
 | **[HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness](https://arxiv.org/abs/2606.12882v1)** | 2026-06-11 |  |
 | **[Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344v1)** | 2026-06-10 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer](https://arxiv.org/abs/2606.09416v1)** | 2026-06-08 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 2 tables. Big Ideas track submission to the 27th ACM/IFIP International Middleware Conference (Middleware 2026)</p></details> |
 | **[AlloSpatial: Agentic Harness Framework for Spatial Reasoning in Foundation Models](https://arxiv.org/abs/2606.08952v1)** | 2026-06-08 |  |
 | **[SkillHone: A Harness for Continual Agent Skill Evolution Through Persistent Decision History](https://arxiv.org/abs/2606.08671v1)** | 2026-06-07 | Work in progress |
-| **[Harnessing Streaming Video in the Wild](https://arxiv.org/abs/2606.08615v1)** | 2026-06-07 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
@@ -64,9 +64,12 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning](https://arxiv.org/abs/2606.14697v1)** | 2026-06-12 | <details><summary>Code ...</summary><p>Code and datasets: https://github.com/alibaba-damo-academy/ClinHallu</p></details> |
+| **[Can Post-Training Turn LLMs into Good Medical Coders? An Empirical Study of Generative ICD Coding](https://arxiv.org/abs/2606.13940v1)** | 2026-06-11 |  |
 | **[ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages](https://arxiv.org/abs/2606.13572v1)** | 2026-06-11 |  |
 | **[Hallucination in Medical Imaging AI: A Cross-Modality Analytical Framework for Taxonomy, Detection, and Mitigation under Regulatory Constraints](https://arxiv.org/abs/2606.13211v1)** | 2026-06-11 |  |
 | **[Comparing Commercial Depth Sensor Accuracy for Medical Applications](https://arxiv.org/abs/2606.13028v1)** | 2026-06-11 | 4 Pages |
+| **[Nomenclature Ontology for Medical And Disease names (NOMAD): taxonomy of types and origins of disease names](https://arxiv.org/abs/2606.13719v1)** | 2026-06-11 |  |
 | **[OpenMedQ: Broad Open Pretraining for Medical Vision-Language Models](https://arxiv.org/abs/2606.12953v1)** | 2026-06-11 | <details><summary>Medic...</summary><p>Medical Imaging with Deep Learning (MIDL) 2026, Short Paper Track</p></details> |
 | **[Analyzing and Improving Fine-grained Preference Optimization in Medical LVLMs](https://arxiv.org/abs/2606.12590v1)** | 2026-06-10 |  |
 | **[Measuring Epistemic Resilience of LLMs Under Misleading Medical Context](https://arxiv.org/abs/2606.12291v1)** | 2026-06-10 |  |
@@ -76,7 +79,4 @@ labels: documentation
 | **[UniReason-Med: A Shared Grounded Reasoning Interface for 2D-to-3D Transfer in Medical VQA](https://arxiv.org/abs/2606.11740v1)** | 2026-06-10 |  |
 | **[A Controlled Audit of Pretraining Contamination in Public Medical Vision-Language Benchmarks](https://arxiv.org/abs/2606.10066v1)** | 2026-06-08 | <details><summary>30 pa...</summary><p>30 pages, 7 figures, 9 tables. Preprint</p></details> |
 | **[Clinically Grounded Privacy Evaluation of Medical LMs](https://arxiv.org/abs/2606.09590v1)** | 2026-06-08 |  |
-| **[Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory](https://arxiv.org/abs/2606.09365v2)** | 2026-06-10 |  |
-| **[TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs](https://arxiv.org/abs/2606.09030v1)** | 2026-06-08 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HyeongWon-Jang/TRIAGE</p></details> |
-| **[Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care](https://arxiv.org/abs/2606.08982v2)** | 2026-06-09 |  |
 
