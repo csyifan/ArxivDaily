@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 16, 2026
+title: Latest 15 Papers - June 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams](https://arxiv.org/abs/2606.17798v1)** | 2026-06-16 |  |
 | **[Decoupled Object-Centric Video Understanding for Generating Robotic Manipulation Commands](https://arxiv.org/abs/2606.16470v1)** | 2026-06-15 |  |
 | **[What Should a Streaming Video Model Remember?](https://arxiv.org/abs/2606.16353v1)** | 2026-06-15 |  |
 | **[KeepLoRA++: Continual Learning with Layer-Scaled Residual Gradient Adaptation](https://arxiv.org/abs/2606.16256v1)** | 2026-06-15 |  |
@@ -40,16 +41,16 @@ labels: documentation
 | **[Metadata-Aware Multi-Prompt Reasoning for Zero-Shot Accident Understanding](https://arxiv.org/abs/2606.12047v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the AUTOPILOT Workshop, CVPR 2026 (non-archival). Workshop Paper ID 15</p></details> |
 | **[SpikeTAD: Spiking Neural Networks for End-to-End Temporal Action Detection](https://arxiv.org/abs/2606.12033v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted by Pattern Recognition</p></details> |
 | **[From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations](https://arxiv.org/abs/2606.11913v1)** | 2026-06-10 |  |
-| **[MultiToP: Learning to Patch Visual Tokens to Mitigate Hallucinations in Video Large Multimodal Models](https://arxiv.org/abs/2606.11792v2)** | 2026-06-11 | Preprint |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Seeing Is Not Screening: Multimodal Hidden Instruction Attacks on Agent Skill Scanners](https://arxiv.org/abs/2606.18198v1)** | 2026-06-16 |  |
 | **[VisualClaw: A Real-Time, Personalized Agent for the Physical World](https://arxiv.org/abs/2606.16295v1)** | 2026-06-15 | <details><summary>H. T....</summary><p>H. T. and J. C. contribute to this project equally</p></details> |
 | **[Visual-Seeker: Towards Visual-Native Multimodal Agentic Search via Active Visual Reasoning](https://arxiv.org/abs/2606.15231v1)** | 2026-06-13 |  |
 | **[Can Agents Read the Room? Benchmarking Visual Social Intelligence in Multimodal Simulation](https://arxiv.org/abs/2606.15152v1)** | 2026-06-13 |  |
 | **[IterCAD: An Iterative Multimodal Agent for Visually-Grounded CAD Generation and Editing](https://arxiv.org/abs/2606.13368v1)** | 2026-06-11 |  |
-| **[CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents](https://arxiv.org/abs/2606.12666v1)** | 2026-06-10 |  |
+| **[CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents](https://arxiv.org/abs/2606.12666v2)** | 2026-06-16 |  |
 | **[IAPO: Input Attribution-Aware Policy Optimization for Tool Use in Small Multimodal Agents](https://arxiv.org/abs/2606.11652v1)** | 2026-06-10 |  |
 | **[Kwai Keye-VL-2.0 Technical Report](https://arxiv.org/abs/2606.10651v1)** | 2026-06-09 | 31 pages, 11 figures |
 | **[SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks](https://arxiv.org/abs/2606.09669v2)** | 2026-06-13 |  |
@@ -59,24 +60,23 @@ labels: documentation
 | **[Do Multimodal Agents Really Benefit from Tool Use? A Systematic Study of Capability Gains](https://arxiv.org/abs/2606.02357v1)** | 2026-06-01 |  |
 | **[MetaForge: A Self-Evolving Multimodal Agent that Retrieves, Adapts, and Forges Tools On Demand](https://arxiv.org/abs/2606.01801v1)** | 2026-06-01 |  |
 | **[TechRAG: Evidence-Gated Multimodal Agentic RAG for Technical Literature Reasoning](https://arxiv.org/abs/2606.01613v2)** | 2026-06-13 |  |
-| **[Agent Skills Should Go Beyond Text: The Case for Visual Skills](https://arxiv.org/abs/2606.01414v1)** | 2026-05-31 |  |
 
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Visual Cues: CoT-Enhanced Reasoning for Semi-supervised Medical Image Segmentation](https://arxiv.org/abs/2606.17958v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 | **[From 911 to Hospital: Challenges and Opportunities for AI Integration in Emergency Medical Services](https://arxiv.org/abs/2606.16984v1)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of CHIWORK 2026</p></details> |
 | **[Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection](https://arxiv.org/abs/2606.16868v1)** | 2026-06-15 |  |
 | **[Medical world models: representing medical states, modelling clinical dynamics and guiding intervention policies](https://arxiv.org/abs/2606.16721v1)** | 2026-06-15 |  |
 | **[Input-Dependent Fisher Information for Local Sensitivity Analysis of Medical Image Classifiers](https://arxiv.org/abs/2606.16362v1)** | 2026-06-15 |  |
-| **[Medical Heuristic Learning: An LLM-Driven Framework for Interpretable and Auditable Clinical Decision Rules](https://arxiv.org/abs/2606.16337v1)** | 2026-06-15 |  |
+| **[Medical Heuristic Learning: An LLM-Driven Framework for Interpretable and Auditable Clinical Decision Rules](https://arxiv.org/abs/2606.16337v2)** | 2026-06-16 |  |
 | **[Attention-Based Prototype Calibration for Multi-Rater Few-Shot Medical Image Segmentation](https://arxiv.org/abs/2606.16325v1)** | 2026-06-15 | <details><summary>MICCA...</summary><p>MICCAI 2026 main track</p></details> |
 | **[A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, and Beyond](https://arxiv.org/abs/2606.16153v1)** | 2026-06-15 | <details><summary>12 pa...</summary><p>12 pages,3 figures,1 table. All related resources are available at https://github.com/andrew-pengyu/Awsome_MedSeg/tree/main</p></details> |
 | **[DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning over Historical Medical Texts](https://arxiv.org/abs/2606.15931v1)** | 2026-06-14 |  |
 | **[Calibrated Triage, Not Autonomy: Confidence Estimation for Medical Vision-Language Models](https://arxiv.org/abs/2606.15910v1)** | 2026-06-14 |  |
-| **[NeRD: Neuro-Symbolic Rule Distillation for Efficient Ontology-Grounded Chain-of-Thought in Medical Image Diagnosis](https://arxiv.org/abs/2606.15617v1)** | 2026-06-14 |  |
+| **[NeRD: Neuro-Symbolic Rule Distillation for Efficient Ontology-Grounded Chain-of-Thought in Medical Image Diagnosis](https://arxiv.org/abs/2606.15617v2)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026</p></details> |
 | **[Let LLMs Judge Each Other: Multi-Agent Peer-Reviewed Reasoning for Medical Question Answering](https://arxiv.org/abs/2606.15419v1)** | 2026-06-13 | <details><summary>Accep...</summary><p>Accepted by the Journal of the American Medical Informatics Association</p></details> |
 | **[MNet++: Extended 2D/3D Networks for Anisotropic Medical Image Segmentation](https://arxiv.org/abs/2606.15370v1)** | 2026-06-13 |  |
 | **[PPDM: Pixel Puzzling Diffusion Model for Speed and Memory Efficient Volumetric Medical Image Translation](https://arxiv.org/abs/2606.15323v1)** | 2026-06-13 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables</p></details> |
 | **[ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning](https://arxiv.org/abs/2606.14697v1)** | 2026-06-12 | <details><summary>Code ...</summary><p>Code and datasets: https://github.com/alibaba-damo-academy/ClinHallu</p></details> |
-| **[Can Post-Training Turn LLMs into Good Medical Coders? An Empirical Study of Generative ICD Coding](https://arxiv.org/abs/2606.13940v1)** | 2026-06-11 |  |
 
