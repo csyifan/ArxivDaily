@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2026
+title: Latest 15 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness](https://arxiv.org/abs/2606.18874v1)** | 2026-06-17 | <details><summary>65 pa...</summary><p>65 pages, 14 figures, 19 tables</p></details> |
+| **[Guava: An Effective and Universal Harness for Embodied Manipulation](https://arxiv.org/abs/2606.18363v1)** | 2026-06-16 |  |
 | **[Harnessing cortical geometry, wiring, and function as inductive biases for recurrent neural networks](https://arxiv.org/abs/2606.14975v1)** | 2026-06-12 |  |
 | **[PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions](https://arxiv.org/abs/2606.14832v1)** | 2026-06-12 | <details><summary>Proje...</summary><p>Project Page: https://phoneharness.github.io/</p></details> |
 | **[HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry](https://arxiv.org/abs/2606.14249v1)** | 2026-06-12 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents](https://arxiv.org/abs/2606.11256v1)** | 2026-06-08 | <details><summary>27 pa...</summary><p>27 pages | 10 figures</p></details> |
 | **[What makes a harness a harness: necessary and sufficient conditions for an agent harness](https://arxiv.org/abs/2606.10106v1)** | 2026-06-08 |  |
 | **[AutoMegaKernel: A Statically-Checked Agent Harness for Self-Retargeting Megakernel Synthesis](https://arxiv.org/abs/2606.09682v1)** | 2026-06-08 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Open-source code, data, and agent harness: https://github.com/RightNow-AI/AutoMegaKernel</p></details> |
-| **[Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498v1)** | 2026-06-08 |  |
-| **[Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer](https://arxiv.org/abs/2606.09416v1)** | 2026-06-08 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 2 tables. Big Ideas track submission to the 27th ACM/IFIP International Middleware Conference (Middleware 2026)</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Native Active Perception as Reasoning for Omni-Modal Understanding](https://arxiv.org/abs/2606.19341v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Code and models: https://github.com/harryhsing/omniagent</p></details> |
+| **[APT: Atomic Physical Transitions for Causal Video-Language Understanding](https://arxiv.org/abs/2606.18586v1)** | 2026-06-17 |  |
 | **[LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams](https://arxiv.org/abs/2606.17798v1)** | 2026-06-16 |  |
 | **[Decoupled Object-Centric Video Understanding for Generating Robotic Manipulation Commands](https://arxiv.org/abs/2606.16470v1)** | 2026-06-15 |  |
 | **[What Should a Streaming Video Model Remember?](https://arxiv.org/abs/2606.16353v1)** | 2026-06-15 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning](https://arxiv.org/abs/2606.12195v1)** | 2026-06-10 |  |
 | **[Q-Fold: Query-Aware Focus-Context Spatio-Temporal Folding for Long Video Understanding](https://arxiv.org/abs/2606.12125v1)** | 2026-06-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 8 tables. Code will be made publicly available</p></details> |
 | **[Metadata-Aware Multi-Prompt Reasoning for Zero-Shot Accident Understanding](https://arxiv.org/abs/2606.12047v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the AUTOPILOT Workshop, CVPR 2026 (non-archival). Workshop Paper ID 15</p></details> |
-| **[SpikeTAD: Spiking Neural Networks for End-to-End Temporal Action Detection](https://arxiv.org/abs/2606.12033v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted by Pattern Recognition</p></details> |
-| **[From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations](https://arxiv.org/abs/2606.11913v1)** | 2026-06-10 |  |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,12 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Algorithms: Conceptual Innovation in Medical Imaging AI](https://arxiv.org/abs/2606.19270v1)** | 2026-06-17 |  |
+| **[Trade-offs in Medical LLM Adaptation: An Empirical Study in French QA](https://arxiv.org/abs/2606.19266v1)** | 2026-06-17 |  |
+| **[Improving Medical Communication using Rubric-Guided Counterfactual Recommendations](https://arxiv.org/abs/2606.18889v1)** | 2026-06-17 | 4 Tables, 8 Figures |
+| **[Toward Training-Free Zero-Shot Anomaly Detection in 3D Medical Images: A Batch-Based Approach Using 2D Foundation Models](https://arxiv.org/abs/2606.18749v1)** | 2026-06-17 |  |
+| **[PEFT-MedSAM: Efficient Fine-Tuning of Medical Foundation Models for Explainable Skin Lesion Segmentation](https://arxiv.org/abs/2606.18707v1)** | 2026-06-17 |  |
+| **[Hallucination Detection and Correction in Medical VLMs via Counter-Evidence Verification](https://arxiv.org/abs/2606.18609v1)** | 2026-06-17 | <details><summary>MICCA...</summary><p>MICCAI 2026 Accept. Submission Version</p></details> |
 | **[Beyond Visual Cues: CoT-Enhanced Reasoning for Semi-supervised Medical Image Segmentation](https://arxiv.org/abs/2606.17958v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 | **[From 911 to Hospital: Challenges and Opportunities for AI Integration in Emergency Medical Services](https://arxiv.org/abs/2606.16984v1)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of CHIWORK 2026</p></details> |
 | **[Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection](https://arxiv.org/abs/2606.16868v1)** | 2026-06-15 |  |
@@ -73,10 +79,4 @@ labels: documentation
 | **[Attention-Based Prototype Calibration for Multi-Rater Few-Shot Medical Image Segmentation](https://arxiv.org/abs/2606.16325v1)** | 2026-06-15 | <details><summary>MICCA...</summary><p>MICCAI 2026 main track</p></details> |
 | **[A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, and Beyond](https://arxiv.org/abs/2606.16153v1)** | 2026-06-15 | <details><summary>12 pa...</summary><p>12 pages,3 figures,1 table. All related resources are available at https://github.com/andrew-pengyu/Awsome_MedSeg/tree/main</p></details> |
 | **[DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning over Historical Medical Texts](https://arxiv.org/abs/2606.15931v1)** | 2026-06-14 |  |
-| **[Calibrated Triage, Not Autonomy: Confidence Estimation for Medical Vision-Language Models](https://arxiv.org/abs/2606.15910v1)** | 2026-06-14 |  |
-| **[NeRD: Neuro-Symbolic Rule Distillation for Efficient Ontology-Grounded Chain-of-Thought in Medical Image Diagnosis](https://arxiv.org/abs/2606.15617v2)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026</p></details> |
-| **[Let LLMs Judge Each Other: Multi-Agent Peer-Reviewed Reasoning for Medical Question Answering](https://arxiv.org/abs/2606.15419v1)** | 2026-06-13 | <details><summary>Accep...</summary><p>Accepted by the Journal of the American Medical Informatics Association</p></details> |
-| **[MNet++: Extended 2D/3D Networks for Anisotropic Medical Image Segmentation](https://arxiv.org/abs/2606.15370v1)** | 2026-06-13 |  |
-| **[PPDM: Pixel Puzzling Diffusion Model for Speed and Memory Efficient Volumetric Medical Image Translation](https://arxiv.org/abs/2606.15323v1)** | 2026-06-13 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 5 tables</p></details> |
-| **[ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning](https://arxiv.org/abs/2606.14697v1)** | 2026-06-12 | <details><summary>Code ...</summary><p>Code and datasets: https://github.com/alibaba-damo-academy/ClinHallu</p></details> |
 
