@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2026
+title: Latest 15 Papers - June 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning](https://arxiv.org/abs/2606.20559v1)** | 2026-06-18 |  |
+| **[CARE: Competence-Aware Reward Shaping for Adaptive Reasoning Length in Video-MLLMs](https://arxiv.org/abs/2606.19927v1)** | 2026-06-18 |  |
+| **[NEST: Narrative Event Structures in Time for Long Video Understanding](https://arxiv.org/abs/2606.19706v1)** | 2026-06-18 |  |
 | **[Native Active Perception as Reasoning for Omni-Modal Understanding](https://arxiv.org/abs/2606.19341v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Code and models: https://github.com/harryhsing/omniagent</p></details> |
 | **[APT: Atomic Physical Transitions for Causal Video-Language Understanding](https://arxiv.org/abs/2606.18586v1)** | 2026-06-17 |  |
 | **[LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams](https://arxiv.org/abs/2606.17798v1)** | 2026-06-16 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[OR-Action: Multi-Role Video Understanding with Fine-Grained Actions](https://arxiv.org/abs/2606.13332v1)** | 2026-06-11 |  |
 | **[HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers](https://arxiv.org/abs/2606.13289v1)** | 2026-06-11 |  |
 | **[Two-Layer Linear Auto-Regressive Models Estimate Latent States](https://arxiv.org/abs/2606.12691v1)** | 2026-06-10 | ICML 2026 |
-| **[InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning](https://arxiv.org/abs/2606.12195v1)** | 2026-06-10 |  |
-| **[Q-Fold: Query-Aware Focus-Context Spatio-Temporal Folding for Long Video Understanding](https://arxiv.org/abs/2606.12125v1)** | 2026-06-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 8 tables. Code will be made publicly available</p></details> |
-| **[Metadata-Aware Multi-Prompt Reasoning for Zero-Shot Accident Understanding](https://arxiv.org/abs/2606.12047v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the AUTOPILOT Workshop, CVPR 2026 (non-archival). Workshop Paper ID 15</p></details> |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PU-UNet: Stable Multiplicative Interactions for Medical Image Segmentation](https://arxiv.org/abs/2606.20035v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted to the ICANN 2026</p></details> |
+| **[QG-MIL: A Gated Transformer Aggregator for Domain-Agnostic Multiple Instance Learning in Medical Imaging](https://arxiv.org/abs/2606.20027v1)** | 2026-06-18 |  |
+| **[Confidence Calibration for Multimodal LLMs: An Empirical Study through Medical VQA](https://arxiv.org/abs/2606.19950v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025</p></details> |
+| **[OTCHA: Optimal Transport-driven Confidence-aware Latent Hub Alignment for Multi-View Medical Image Classification](https://arxiv.org/abs/2606.19838v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026</p></details> |
 | **[Beyond Algorithms: Conceptual Innovation in Medical Imaging AI](https://arxiv.org/abs/2606.19270v1)** | 2026-06-17 |  |
 | **[Trade-offs in Medical LLM Adaptation: An Empirical Study in French QA](https://arxiv.org/abs/2606.19266v1)** | 2026-06-17 |  |
 | **[Improving Medical Communication using Rubric-Guided Counterfactual Recommendations](https://arxiv.org/abs/2606.18889v1)** | 2026-06-17 | 4 Tables, 8 Figures |
@@ -75,8 +79,4 @@ labels: documentation
 | **[Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection](https://arxiv.org/abs/2606.16868v1)** | 2026-06-15 |  |
 | **[Medical world models: representing medical states, modelling clinical dynamics and guiding intervention policies](https://arxiv.org/abs/2606.16721v1)** | 2026-06-15 |  |
 | **[Input-Dependent Fisher Information for Local Sensitivity Analysis of Medical Image Classifiers](https://arxiv.org/abs/2606.16362v1)** | 2026-06-15 |  |
-| **[Medical Heuristic Learning: An LLM-Driven Framework for Interpretable and Auditable Clinical Decision Rules](https://arxiv.org/abs/2606.16337v2)** | 2026-06-16 |  |
-| **[Attention-Based Prototype Calibration for Multi-Rater Few-Shot Medical Image Segmentation](https://arxiv.org/abs/2606.16325v1)** | 2026-06-15 | <details><summary>MICCA...</summary><p>MICCAI 2026 main track</p></details> |
-| **[A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, and Beyond](https://arxiv.org/abs/2606.16153v1)** | 2026-06-15 | <details><summary>12 pa...</summary><p>12 pages,3 figures,1 table. All related resources are available at https://github.com/andrew-pengyu/Awsome_MedSeg/tree/main</p></details> |
-| **[DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning over Historical Medical Texts](https://arxiv.org/abs/2606.15931v1)** | 2026-06-14 |  |
 
