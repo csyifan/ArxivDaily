@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2026
+title: Latest 15 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PSP: Harnessing Position and Shape Priors for Cross-Domain Few-Shot Medical Image Segmentation](https://arxiv.org/abs/2606.28799v1)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026. This is the pre-review submitted version, not the camera-ready version. The final authenticated version will be available in the MICCAI 2026 proceedings</p></details> |
 | **[NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems](https://arxiv.org/abs/2606.27243v2)** | 2026-06-26 | 12 pages, 3 figures |
 | **[A Process Harness for Uplifting Legacy Workflows to Agentic BPM: Design and Realization in CUGA FLO](https://arxiv.org/abs/2606.27188v1)** | 2026-06-25 | 24 pages, 5 figures |
 | **[Focusing on What Matters: Saliency-Harnessing Accurate Routing for Diffusion MoE](https://arxiv.org/abs/2606.26938v1)** | 2026-06-25 | ECCV 2026 |
@@ -21,14 +22,16 @@ labels: documentation
 | **[Building Agent Harnesses for Scientific Curation from Multimodal Sources](https://arxiv.org/abs/2606.21005v1)** | 2026-06-19 |  |
 | **[Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness](https://arxiv.org/abs/2606.18874v2)** | 2026-06-24 | <details><summary>65 pa...</summary><p>65 pages, 14 figures, 19 tables</p></details> |
 | **[Guava: An Effective and Universal Harness for Embodied Manipulation](https://arxiv.org/abs/2606.18363v1)** | 2026-06-16 |  |
-| **[Toward Self-Evolution-Ready Workflow Harnesses: A Reversible Migration Path and Convertibility Taxonomy for Expert LLM Pipelines](https://arxiv.org/abs/2606.24598v1)** | 2026-06-15 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VisReflect: Latent Visual Reflection for Fine-Grained Perception in Long Visual Context](https://arxiv.org/abs/2606.30288v1)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026; Project page: https://xiaoqian-shen.github.io/VisReflect</p></details> |
+| **[Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction](https://arxiv.org/abs/2606.29445v1)** | 2026-06-28 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Project Page: https://vg-gui-tasker.github.io/</p></details> |
+| **[SciFlow: Semantic Cross Interference for Self-Supervised Optical Flow Domain Generalization](https://arxiv.org/abs/2606.29004v1)** | 2026-06-27 | 4 pages |
 | **[PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation](https://arxiv.org/abs/2606.28128v1)** | 2026-06-26 | <details><summary>Githu...</summary><p>Github: https://github.com/DAGroup-PKU/PhysisForcing Project website: https://dagroup-pku.github.io/PhysisForcing.github.io/#</p></details> |
-| **[HumanMoveVQA: Can Video MLLMs reason about human movement in videos?](https://arxiv.org/abs/2606.27999v1)** | 2026-06-26 |  |
-| **[Reflect-R1: Evidence-Driven Reflection for Self-Correction in Long Video Understanding](https://arxiv.org/abs/2606.27922v1)** | 2026-06-26 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, ECCV</p></details> |
+| **[HumanMoveVQA: Can Video MLLMs reason about human movement in videos?](https://arxiv.org/abs/2606.27999v2)** | 2026-06-29 |  |
+| **[Reflect-R1: Evidence-Driven Reflection for Self-Correction in Long Video Understanding](https://arxiv.org/abs/2606.27922v2)** | 2026-06-29 | 2026 ECCV |
 | **[TRUST: Efficient Abdominal Trauma Recognition via Image-to-Ultrasound-Video Transfer Learning](https://arxiv.org/abs/2606.27777v1)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026, 11 pages, 5 figures</p></details> |
 | **[DnA: Denoising Attention for Visual Tasks](https://arxiv.org/abs/2606.27372v1)** | 2026-06-25 |  |
 | **[HarmVideoBench: Benchmarking Harmful Video Understanding in Large Multimodal Models](https://arxiv.org/abs/2606.27187v1)** | 2026-06-25 |  |
@@ -38,45 +41,42 @@ labels: documentation
 | **[Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs](https://arxiv.org/abs/2606.25842v1)** | 2026-06-24 |  |
 | **[Towards a Dynamic and Fixed-budget Memory Bank for Efficient Streaming Video Understanding](https://arxiv.org/abs/2606.25658v1)** | 2026-06-24 |  |
 | **[EG-VQA: Benchmarking Verifiable Video Question Answering with Grounded Temporal Evidence](https://arxiv.org/abs/2606.24797v1)** | 2026-06-23 |  |
-| **[CineCap: Structured Reasoning with Spatio-Temporal Anchors for Cinematographic Video Captioning](https://arxiv.org/abs/2606.24636v1)** | 2026-06-23 | 10 pages, 4 figures |
-| **[video-SALMONN-R$^3$: Learning to ReWatch, ReAsk, and ReAnswer for Efficient Video Understanding](https://arxiv.org/abs/2606.24477v1)** | 2026-06-23 |  |
-| **[AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retrieval-Inspired Token Compression](https://arxiv.org/abs/2606.24286v1)** | 2026-06-23 |  |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ManimAgent: Self-Evolving Multimodal Agents for Visual Education](https://arxiv.org/abs/2606.30296v1)** | 2026-06-29 | <details><summary>Proje...</summary><p>Project page: https://manimagent.github.io/. Code: https://github.com/jwj1342/Paper2Manim</p></details> |
+| **[MemLeak: Diagnosing Information Leaks in Multimodal Agent Memory](https://arxiv.org/abs/2606.29788v1)** | 2026-06-29 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, includes appendix</p></details> |
+| **[GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes](https://arxiv.org/abs/2606.28514v1)** | 2026-06-26 | <details><summary>Proje...</summary><p>Project website and code at https://gptnt.github.io</p></details> |
 | **[DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection](https://arxiv.org/abs/2606.27499v1)** | 2026-06-25 | 16 pages |
 | **[MIRROR: Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG](https://arxiv.org/abs/2606.26793v1)** | 2026-06-25 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted at the 2026 International Joint Conference on Neural Networks (IJCNN 2026), IEEE WCCI 2026; presented as an oral talk. Code and ART-SafeBench benchmark: https://github.com/FujitsuResearch/mirror</p></details> |
 | **[Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse](https://arxiv.org/abs/2606.23581v1)** | 2026-06-22 |  |
 | **[ENVS: Environment-Native Verified Search for Long-Horizon GUI Agents](https://arxiv.org/abs/2606.22948v1)** | 2026-06-22 |  |
 | **[Holmes: Multimodal Agentic Diagnosis for Mixed-Language Mobile Crashes at Industrial Scale](https://arxiv.org/abs/2606.21963v1)** | 2026-06-20 | <details><summary>Accep...</summary><p>Accepted at FSE'26 Industry Track</p></details> |
-| **[SwarmX: Agentic Scheduling for Low-Latency Agentic Systems](https://arxiv.org/abs/2606.21401v1)** | 2026-06-19 | 14 pages |
+| **[SwarmX: Agentic Scheduling for Low-Latency Agentic Systems](https://arxiv.org/abs/2606.21401v2)** | 2026-06-28 | 14 pages |
 | **[Seeing Is Not Screening: Multimodal Hidden Instruction Attacks on Agent Skill Scanners](https://arxiv.org/abs/2606.18198v1)** | 2026-06-16 |  |
 | **[VisualClaw: A Real-Time, Personalized Agent for the Physical World](https://arxiv.org/abs/2606.16295v1)** | 2026-06-15 | <details><summary>H. T....</summary><p>H. T. and J. C. contribute to this project equally</p></details> |
 | **[Visual-Seeker: Towards Visual-Native Multimodal Agentic Search via Active Visual Reasoning](https://arxiv.org/abs/2606.15231v1)** | 2026-06-13 |  |
 | **[Can Agents Read the Room? Benchmarking Visual Social Intelligence in Multimodal Simulation](https://arxiv.org/abs/2606.15152v1)** | 2026-06-13 |  |
 | **[IterCAD: An Iterative Multimodal Agent for Visually-Grounded CAD Generation and Editing](https://arxiv.org/abs/2606.13368v1)** | 2026-06-11 |  |
 | **[CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents](https://arxiv.org/abs/2606.12666v2)** | 2026-06-16 |  |
-| **[IAPO: Input Attribution-Aware Policy Optimization for Tool Use in Small Multimodal Agents](https://arxiv.org/abs/2606.11652v1)** | 2026-06-10 |  |
-| **[Kwai Keye-VL-2.0 Technical Report](https://arxiv.org/abs/2606.10651v1)** | 2026-06-09 | 31 pages, 11 figures |
-| **[SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks](https://arxiv.org/abs/2606.09669v2)** | 2026-06-13 |  |
 
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[APRIL-MedSeg: A Modular Medical Image Segmentation Toolbox Embracing Modern Paradigms](https://arxiv.org/abs/2606.30577v1)** | 2026-06-29 | <details><summary>31 pa...</summary><p>31 pages, 1 figure, and 8 tables</p></details> |
+| **[TopoAgent: An Agentic Framework for Automated Topology Learning in Medical Imaging](https://arxiv.org/abs/2606.29763v1)** | 2026-06-29 |  |
+| **[DEEPMED Search: An Open-Source Agentic Platform for Medical Deep Research with Introspective Verification](https://arxiv.org/abs/2606.29746v1)** | 2026-06-29 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 2 tables. Accepted to IJCAI-ECAI 2026 Demo Track. Project website: https://www.deepmedsearch.cloud. Demo video: https://youtu.be/4U4aok8yLpk</p></details> |
+| **[MAM-AI: An On-Device Medical Retrieval-Augmented Generation System for Nurses and Midwives in Zanzibar](https://arxiv.org/abs/2606.29580v1)** | 2026-06-28 | <details><summary>36 pa...</summary><p>36 pages. Video demo: https://www.youtube.com/watch?v=M_Kruluel28 ; browser demo, code, models, and benchmarks linked in the paper</p></details> |
+| **[The Verbose Context Problem in Medical Records](https://arxiv.org/abs/2606.29503v1)** | 2026-06-28 | <details><summary>SD4H ...</summary><p>SD4H ICML 2026 Spotlight</p></details> |
+| **[mamabench and mamaretrieval: Benchmarks for Evaluating Medical Retrieval-Augmented Generation in Maternal, Neonatal, and Reproductive Health](https://arxiv.org/abs/2606.29467v1)** | 2026-06-28 | <details><summary>13 pa...</summary><p>13 pages, 3 tables. Datasets and construction code linked in the paper</p></details> |
+| **[TriageRA-CCF: Source-Side Clinical Confidence and Coverage Signals for Adaptive Rank Budgeting in Medical LLMs](https://arxiv.org/abs/2606.29375v1)** | 2026-06-28 |  |
+| **[When Does Synthetic CT Transfer? A Label-Free Donor/Host Diagnostic for Medical Vision-Language Model Routing on Real Lung CT](https://arxiv.org/abs/2606.29232v1)** | 2026-06-28 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 1 table, 1 supplement</p></details> |
+| **[BTI-Net: Bidirectional Decoder-Level Task Interaction via Uncertainty-Aware Gating for Multi-Task Medical Image Analysis](https://arxiv.org/abs/2606.29102v1)** | 2026-06-27 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 6 tables; supplementary material included (8 pages, 19 figures, 18 tables)</p></details> |
+| **[PSP: Harnessing Position and Shape Priors for Cross-Domain Few-Shot Medical Image Segmentation](https://arxiv.org/abs/2606.28799v1)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026. This is the pre-review submitted version, not the camera-ready version. The final authenticated version will be available in the MICCAI 2026 proceedings</p></details> |
+| **[Designing Automation Boundaries for Trustworthy Smart Medication Support](https://arxiv.org/abs/2606.28777v1)** | 2026-06-27 |  |
+| **[IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations](https://arxiv.org/abs/2606.28556v1)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted at ECML PKDD 2026. 22 pages, 2 figures</p></details> |
 | **[Text as Illumination: Spatial Contrastive Retinex Learning for Language-guided Medical Image Segmentation](https://arxiv.org/abs/2606.27794v1)** | 2026-06-26 | <details><summary>Aceep...</summary><p>Aceepted by MICCAI2026. More modifications may be performed</p></details> |
 | **[RecallRisk-BERT: A Multi-Task Framework for Post-Report Medical Device Recall Triage](https://arxiv.org/abs/2606.27174v1)** | 2026-06-25 |  |
-| **[Just how sure are you? Improving Verbalized Uncertainty Calibration in Medical VQA](https://arxiv.org/abs/2606.27023v1)** | 2026-06-25 |  |
-| **[TriPAH: Imbalance-Aware Tri-Prompt Affinity Hashing for Cross-Modal Medical Retrieval](https://arxiv.org/abs/2606.27010v1)** | 2026-06-25 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 4 tables</p></details> |
-| **[MedSWFlow: An Open-Source LLM Workflow for Drafting Medical Social Work Case Plans](https://arxiv.org/abs/2606.26884v1)** | 2026-06-25 | <details><summary>26pag...</summary><p>26pages, 8tables, 2figuers</p></details> |
-| **[Dual-Prior Guided Null-Space Learning with Mixture-of-Splines for Arbitrary Medical Slice Super-Resolution](https://arxiv.org/abs/2606.26716v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026! Project page: https://github.com/DeepMed-Lab-ECNU/Medical-Image-Reconstruction</p></details> |
-| **[Clinical Harness for Governable Medical AI Skill Ecosystems](https://arxiv.org/abs/2606.26494v1)** | 2026-06-25 |  |
-| **[Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking](https://arxiv.org/abs/2606.26205v1)** | 2026-06-24 |  |
-| **[Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need](https://arxiv.org/abs/2606.25956v2)** | 2026-06-26 | <details><summary>8 1/2...</summary><p>8 1/2 pages + 2 pages of references. Accepted for MICCAI 2026. This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this contribution is published in, and available online at, the external reference provided below. Changes from v1: Fixed author list formatting and funding information</p></details> |
-| **[Deep Neural Networks with Ordinal Loss for Medical Applications](https://arxiv.org/abs/2606.25769v1)** | 2026-06-24 |  |
-| **[MedGuards: Multi-Agent System for Reliable Medical Error Detection and Correction](https://arxiv.org/abs/2606.25651v2)** | 2026-06-26 |  |
-| **[Beyond Visual Forensics: Auditing Multimodal Robustness for Synthetic Medical Image Detection](https://arxiv.org/abs/2606.25375v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026</p></details> |
-| **[Hybrid-IR: Dual-Path Hybrid Retrieval with Iterative Reasoning for Complex Medical Question Answering](https://arxiv.org/abs/2606.25338v1)** | 2026-06-24 |  |
-| **[MedPCFM: Improving Medical Point Cloud Completion by Integrating Point Transformers and Flow Matching](https://arxiv.org/abs/2606.24433v1)** | 2026-06-23 | 25 pages, 9 figures |
-| **[MMed-Bench-IR: A Heterogeneous Benchmark for Multilingual Medical Information Retrieval](https://arxiv.org/abs/2606.24200v1)** | 2026-06-23 | <details><summary>Under...</summary><p>Under review. 15 pages, 3 figures</p></details> |
+| **[MedDiffuseMix: Preserving Diagnostic Evidence with Saliency-Aware Diffusion Medical Image Data Augmentatio](https://arxiv.org/abs/2606.28419v1)** | 2026-06-25 | <details><summary>Under...</summary><p>Under review Signal Image and Video Processing</p></details> |
 
