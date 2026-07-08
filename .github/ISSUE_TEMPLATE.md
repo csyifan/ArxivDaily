@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2026
+title: Latest 15 Papers - July 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,11 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Harnessing Code Agents for Automatic Software Verification](https://arxiv.org/abs/2607.06341v1)** | 2026-07-07 |  |
+| **[Harnessing Generative Image Models for Training-Free Primitive Shape Abstraction](https://arxiv.org/abs/2607.05568v1)** | 2026-07-06 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 3 tables</p></details> |
 | **[GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](https://arxiv.org/abs/2607.05369v1)** | 2026-07-06 |  |
 | **[Measuring Harness-Induced Belief Divergence in Multi-Step LLM Agents](https://arxiv.org/abs/2607.04528v1)** | 2026-07-05 | 28 pages |
+| **[Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning](https://arxiv.org/abs/2607.05458v1)** | 2026-07-05 | 17 pages, 7 figures |
 | **[Harness-Aware Self-Evolving: Co-Evolving Model Weights, Harness, and Task Solutions](https://arxiv.org/abs/2607.03935v1)** | 2026-07-04 |  |
 | **[FedAvg for HAR: Exploring the Tradeoff Between Personalized and Generalization Accuracy](https://arxiv.org/abs/2607.03334v1)** | 2026-07-03 |  |
 | **[JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode](https://arxiv.org/abs/2607.02825v1)** | 2026-07-02 |  |
@@ -19,13 +22,12 @@ labels: documentation
 | **[Harnessing the Latent Space: From Steering Vectors to Model Calibrators for Control and Trust](https://arxiv.org/abs/2607.00083v1)** | 2026-06-30 | <details><summary>ACL 2...</summary><p>ACL 2026 (BigPicture Workshop)</p></details> |
 | **[PSP: Harnessing Position and Shape Priors for Cross-Domain Few-Shot Medical Image Segmentation](https://arxiv.org/abs/2606.28799v1)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026. This is the pre-review submitted version, not the camera-ready version. The final authenticated version will be available in the MICCAI 2026 proceedings</p></details> |
 | **[NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems](https://arxiv.org/abs/2606.27243v2)** | 2026-06-26 | 12 pages, 3 figures |
-| **[A Process Harness for Uplifting Legacy Workflows to Agentic BPM: Design and Realization in CUGA FLO](https://arxiv.org/abs/2606.27188v1)** | 2026-06-25 | 24 pages, 5 figures |
-| **[Focusing on What Matters: Saliency-Harnessing Accurate Routing for Diffusion MoE](https://arxiv.org/abs/2606.26938v1)** | 2026-06-25 | ECCV 2026 |
-| **[Clinical Harness for Governable Medical AI Skill Ecosystems](https://arxiv.org/abs/2606.26494v2)** | 2026-06-30 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage](https://arxiv.org/abs/2607.06468v1)** | 2026-07-07 |  |
+| **[Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory](https://arxiv.org/abs/2607.05511v1)** | 2026-07-06 | <details><summary>Proje...</summary><p>Project Page: https://clare-nie.github.io/Light-Omni</p></details> |
 | **[TimeThink: Reasoning with Time for Video LLMs](https://arxiv.org/abs/2607.05089v1)** | 2026-07-06 | 14 pages |
 | **[QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding](https://arxiv.org/abs/2607.04559v1)** | 2026-07-06 | ECCV 2026 |
 | **[GuideMe: Multi-Domain Task Guidance and Intervention in Streaming Video](https://arxiv.org/abs/2607.02991v1)** | 2026-07-03 | ECCV 2026 |
@@ -39,12 +41,13 @@ labels: documentation
 | **[ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA](https://arxiv.org/abs/2607.01737v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
 | **[Temporal and Cross-Modal Alignment for Enhanced Audiovisual Video Captioning](https://arxiv.org/abs/2607.01667v1)** | 2026-07-02 | ECCV 2026 |
 | **[MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models](https://arxiv.org/abs/2607.01117v1)** | 2026-07-01 | 17 pages, 5 figures |
-| **[QCA: Query- and Content-Aware Keyframe Selection for Long Video Understanding](https://arxiv.org/abs/2607.00983v1)** | 2026-07-01 |  |
-| **[EFlow: Learning Evidence Flow for Long-Video Reasoning with Adaptive Reflection](https://arxiv.org/abs/2607.00867v1)** | 2026-07-01 |  |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery](https://arxiv.org/abs/2607.06374v1)** | 2026-07-07 | <details><summary>Code:...</summary><p>Code: https://github.com/AIGeeksGroup/VaseMuseum. Website: https://aigeeksgroup.github.io/VaseMuseum</p></details> |
+| **[Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory](https://arxiv.org/abs/2607.05511v1)** | 2026-07-06 | <details><summary>Proje...</summary><p>Project Page: https://clare-nie.github.io/Light-Omni</p></details> |
+| **[CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration](https://arxiv.org/abs/2607.05465v1)** | 2026-07-06 | 18pages, 5 figures |
 | **[MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments](https://arxiv.org/abs/2606.31966v1)** | 2026-06-30 | <details><summary>Proje...</summary><p>Project website: https://q-i-n-g.github.io/MECoBench-Website/</p></details> |
 | **[Robust Autonomous UAV Landing on Maritime Platforms via Multimodal Agentic AI and Active Wave Compensation](https://arxiv.org/abs/2606.31613v1)** | 2026-06-30 |  |
 | **[SimpleSearch-VL: A Simple Recipe for Multimodal Agentic Deep Search](https://arxiv.org/abs/2606.31504v1)** | 2026-06-30 | Technical Report |
@@ -57,13 +60,11 @@ labels: documentation
 | **[ENVS: Environment-Native Verified Search for Long-Horizon GUI Agents](https://arxiv.org/abs/2606.22948v1)** | 2026-06-22 |  |
 | **[Holmes: Multimodal Agentic Diagnosis for Mixed-Language Mobile Crashes at Industrial Scale](https://arxiv.org/abs/2606.21963v1)** | 2026-06-20 | <details><summary>Accep...</summary><p>Accepted at FSE'26 Industry Track</p></details> |
 | **[SwarmX: Agentic Scheduling for Low-Latency Agentic Systems](https://arxiv.org/abs/2606.21401v2)** | 2026-06-28 | 14 pages |
-| **[Seeing Is Not Screening: Multimodal Hidden Instruction Attacks on Agent Skill Scanners](https://arxiv.org/abs/2606.18198v1)** | 2026-06-16 |  |
-| **[VisualClaw: A Real-Time, Personalized Agent for the Physical World](https://arxiv.org/abs/2606.16295v1)** | 2026-06-15 | <details><summary>H. T....</summary><p>H. T. and J. C. contribute to this project equally</p></details> |
-| **[Visual-Seeker: Towards Visual-Native Multimodal Agentic Search via Active Visual Reasoning](https://arxiv.org/abs/2606.15231v1)** | 2026-06-13 |  |
 
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MSA-DCNN: A Data-Efficient Multi-Scale Deformable CNN for Medical Image Classification](https://arxiv.org/abs/2607.06083v1)** | 2026-07-07 |  |
 | **[Evaluating and Understanding Model Editing for Medical Vision Language Models](https://arxiv.org/abs/2607.05310v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026. Code and benchmark are available at https://github.com/BioMed-AI-Lab-U-Michgan/M3Bench</p></details> |
 | **[Doubly robust Methods for Recurrent Event Outcomes: Causal Effects of Blood Pressure Medications on Acute Kidney Injuries](https://arxiv.org/abs/2607.05293v1)** | 2026-07-06 | <details><summary>15 pa...</summary><p>15 pages, 3 tables, 1 algorithm</p></details> |
 | **[Graph Representation Learning of Longitudinal Medical Imaging Trajectories for Treatment Response Prediction](https://arxiv.org/abs/2607.04912v1)** | 2026-07-06 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[RadiomicNet: A Hybrid Radiomics-Guided Lightweight Architecture for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2607.02185v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at the IEEE ICIP 2026 LBDL 2 Workshop</p></details> |
 | **[Embracing Intra-Class Heterogeneity for Semi-Supervised Medical Image Segmentation: From Diversity to Precision](https://arxiv.org/abs/2607.02051v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted by Medical Image Analysis</p></details> |
 | **[Assessing VLM Reliability for Medical Image Quality Evaluation Under Corruption and Bias](https://arxiv.org/abs/2607.01973v1)** | 2026-07-02 |  |
-| **[MedStreamBench: A Time-Aware Benchmark for Streaming and Proactive Medical Video Understanding](https://arxiv.org/abs/2607.01751v1)** | 2026-07-02 | 10 Pages, 5 Figures |
 
