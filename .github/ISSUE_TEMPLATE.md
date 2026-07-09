@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2026
+title: Latest 15 Papers - July 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Thinking More, Harnessing Better: State Machine Guided Harness Automatic Generation with Project Digestion and Workflow Decomposition](https://arxiv.org/abs/2607.07007v1)** | 2026-07-08 | <details><summary>20 pa...</summary><p>20 pages, accepted by CCS 2026</p></details> |
+| **[The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI](https://arxiv.org/abs/2607.06906v1)** | 2026-07-08 |  |
+| **[Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1](https://arxiv.org/abs/2607.06764v1)** | 2026-07-07 |  |
 | **[Harnessing Code Agents for Automatic Software Verification](https://arxiv.org/abs/2607.06341v1)** | 2026-07-07 |  |
 | **[Harnessing Generative Image Models for Training-Free Primitive Shape Abstraction](https://arxiv.org/abs/2607.05568v1)** | 2026-07-06 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 3 tables</p></details> |
 | **[GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](https://arxiv.org/abs/2607.05369v1)** | 2026-07-06 |  |
@@ -19,14 +22,14 @@ labels: documentation
 | **[COMFYCLAW: Self-Evolving Skill Harnesses for Image Generation Workflows](https://arxiv.org/abs/2607.01709v1)** | 2026-07-02 |  |
 | **[Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation](https://arxiv.org/abs/2607.01590v2)** | 2026-07-03 |  |
 | **[Evaluating Agentic Harness Systems for Autonomous Computational Pathology](https://arxiv.org/abs/2607.02598v1)** | 2026-07-01 |  |
-| **[Harnessing the Latent Space: From Steering Vectors to Model Calibrators for Control and Trust](https://arxiv.org/abs/2607.00083v1)** | 2026-06-30 | <details><summary>ACL 2...</summary><p>ACL 2026 (BigPicture Workshop)</p></details> |
-| **[PSP: Harnessing Position and Shape Priors for Cross-Domain Few-Shot Medical Image Segmentation](https://arxiv.org/abs/2606.28799v1)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026. This is the pre-review submitted version, not the camera-ready version. The final authenticated version will be available in the MICCAI 2026 proceedings</p></details> |
-| **[NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems](https://arxiv.org/abs/2606.27243v2)** | 2026-06-26 | 12 pages, 3 figures |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SoccerNet 2026 Challenges Results](https://arxiv.org/abs/2607.07320v1)** | 2026-07-08 | 40 pages |
+| **[`Attention-Guided Cross-Temporal Clustering for Self-Supervised Video Object Segmentation](https://arxiv.org/abs/2607.07230v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted for publication in Machine Intelligence Research journal</p></details> |
 | **[EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage](https://arxiv.org/abs/2607.06468v1)** | 2026-07-07 |  |
+| **[Overview of the NLPCC 2026 Shared Task 1: Difficulty-Aware Multilingual and Multimodal Medical Instructional Video Understanding Evaluation](https://arxiv.org/abs/2607.06618v1)** | 2026-07-07 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 5 tables</p></details> |
 | **[Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory](https://arxiv.org/abs/2607.05511v1)** | 2026-07-06 | <details><summary>Proje...</summary><p>Project Page: https://clare-nie.github.io/Light-Omni</p></details> |
 | **[TimeThink: Reasoning with Time for Video LLMs](https://arxiv.org/abs/2607.05089v1)** | 2026-07-06 | 14 pages |
 | **[QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding](https://arxiv.org/abs/2607.04559v1)** | 2026-07-06 | ECCV 2026 |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs](https://arxiv.org/abs/2607.02425v1)** | 2026-07-02 | <details><summary>Proje...</summary><p>Project page at https://francescapistilli.github.io/GLEN</p></details> |
 | **[LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension](https://arxiv.org/abs/2607.02096v1)** | 2026-07-02 | <details><summary>ECCV ...</summary><p>ECCV 2026. Dataset and code: https://github.com/shunya-kato/LongEgoRefer</p></details> |
 | **[MedStreamBench: A Time-Aware Benchmark for Streaming and Proactive Medical Video Understanding](https://arxiv.org/abs/2607.01751v1)** | 2026-07-02 | 10 Pages, 5 Figures |
-| **[ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA](https://arxiv.org/abs/2607.01737v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
-| **[Temporal and Cross-Modal Alignment for Enhanced Audiovisual Video Captioning](https://arxiv.org/abs/2607.01667v1)** | 2026-07-02 | ECCV 2026 |
-| **[MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models](https://arxiv.org/abs/2607.01117v1)** | 2026-07-01 | 17 pages, 5 figures |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,12 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models](https://arxiv.org/abs/2607.07673v1)** | 2026-07-08 |  |
+| **[VCDP: Variation-Conditioned Distributional Proxy Learning for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2607.07416v1)** | 2026-07-08 |  |
+| **[SHTA: Semantic Hard Token Correction and Center Alignment for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2607.07019v1)** | 2026-07-08 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 4 tables</p></details> |
+| **[HPR-SAM: Hierarchical Probabilistic Representation Learning for Prompt-free SAM-based Medical Image Segmentation](https://arxiv.org/abs/2607.06972v1)** | 2026-07-08 | 9 pages, 4 figures |
 | **[MSA-DCNN: A Data-Efficient Multi-Scale Deformable CNN for Medical Image Classification](https://arxiv.org/abs/2607.06083v1)** | 2026-07-07 |  |
+| **[Overview of the NLPCC 2026 Shared Task 1: Difficulty-Aware Multilingual and Multimodal Medical Instructional Video Understanding Evaluation](https://arxiv.org/abs/2607.06618v1)** | 2026-07-07 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 5 tables</p></details> |
 | **[Evaluating and Understanding Model Editing for Medical Vision Language Models](https://arxiv.org/abs/2607.05310v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026. Code and benchmark are available at https://github.com/BioMed-AI-Lab-U-Michgan/M3Bench</p></details> |
 | **[Doubly robust Methods for Recurrent Event Outcomes: Causal Effects of Blood Pressure Medications on Acute Kidney Injuries](https://arxiv.org/abs/2607.05293v1)** | 2026-07-06 | <details><summary>15 pa...</summary><p>15 pages, 3 tables, 1 algorithm</p></details> |
 | **[Graph Representation Learning of Longitudinal Medical Imaging Trajectories for Treatment Response Prediction](https://arxiv.org/abs/2607.04912v1)** | 2026-07-06 |  |
@@ -74,9 +79,4 @@ labels: documentation
 | **[Topology-Driven Transferability Estimation for 3D Medical Vision Foundation Models](https://arxiv.org/abs/2607.04199v1)** | 2026-07-05 |  |
 | **[FedProIn: Mitigating Client Drift for Learnable Prototypes in Federated Medical Imaging](https://arxiv.org/abs/2607.04158v1)** | 2026-07-05 |  |
 | **[Probabilistic Robustness in Medical Image Classification](https://arxiv.org/abs/2607.03797v1)** | 2026-07-04 |  |
-| **[Do Medical Vision Language Models Actually See? A Counterfactual Grounding Framework and Hard-Negative Contrastive Training for Visually-Reliant Medical VLMs](https://arxiv.org/abs/2607.03647v1)** | 2026-07-04 |  |
-| **[MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents](https://arxiv.org/abs/2607.02879v1)** | 2026-07-03 |  |
-| **[RadiomicNet: A Hybrid Radiomics-Guided Lightweight Architecture for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2607.02185v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at the IEEE ICIP 2026 LBDL 2 Workshop</p></details> |
-| **[Embracing Intra-Class Heterogeneity for Semi-Supervised Medical Image Segmentation: From Diversity to Precision](https://arxiv.org/abs/2607.02051v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted by Medical Image Analysis</p></details> |
-| **[Assessing VLM Reliability for Medical Image Quality Evaluation Under Corruption and Bias](https://arxiv.org/abs/2607.01973v1)** | 2026-07-02 |  |
 
