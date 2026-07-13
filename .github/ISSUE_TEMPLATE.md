@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 12, 2026
+title: Latest 15 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Better Harnesses, Smaller Models: Building 90% Cheaper Agents via Automated Harness Adaptation](https://arxiv.org/abs/2607.08938v1)** | 2026-07-09 |  |
 | **[Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448v1)** | 2026-07-09 |  |
 | **[TTHE: Test-Time Harness Evolution](https://arxiv.org/abs/2607.08124v1)** | 2026-07-09 | 15 pages, 5 figures |
 | **[From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents](https://arxiv.org/abs/2607.08028v1)** | 2026-07-09 | <details><summary>32 pa...</summary><p>32 pages, 6 figures, 16 tables. Reference implementation and evaluation artifacts: https://github.com/hammerbaki/enterprise-llm-agent-harness (archived at https://doi.org/10.5281/zenodo.21269426)</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Harness-Aware Self-Evolving: Co-Evolving Model Weights, Harness, and Task Solutions](https://arxiv.org/abs/2607.03935v1)** | 2026-07-04 |  |
 | **[FedAvg for HAR: Exploring the Tradeoff Between Personalized and Generalization Accuracy](https://arxiv.org/abs/2607.03334v1)** | 2026-07-03 |  |
 | **[JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode](https://arxiv.org/abs/2607.02825v1)** | 2026-07-02 |  |
-| **[ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning](https://arxiv.org/abs/2607.02509v1)** | 2026-07-02 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GeoTrace: Geometry-Aware Trajectory Token Compression for Video Large Language Models](https://arxiv.org/abs/2607.09080v1)** | 2026-07-10 |  |
 | **[AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding](https://arxiv.org/abs/2607.08745v1)** | 2026-07-09 | <details><summary>CVPR ...</summary><p>CVPR Autopilot Workshop</p></details> |
 | **[SoccerNet 2026 Challenges Results](https://arxiv.org/abs/2607.07320v1)** | 2026-07-08 | 40 pages |
 | **[`Attention-Guided Cross-Temporal Clustering for Self-Supervised Video Object Segmentation](https://arxiv.org/abs/2607.07230v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted for publication in Machine Intelligence Research journal</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning](https://arxiv.org/abs/2607.02927v1)** | 2026-07-03 | <details><summary>Techn...</summary><p>Technical report. Project page: https://stephen-gzk.github.io/VideoSearcher-website/ ; Code: https://github.com/Stephen-gzk/VideoSearcher ; Model & Data on HuggingFace</p></details> |
 | **[Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](https://arxiv.org/abs/2607.02504v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs](https://arxiv.org/abs/2607.02425v1)** | 2026-07-02 | <details><summary>Proje...</summary><p>Project page at https://francescapistilli.github.io/GLEN</p></details> |
-| **[LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension](https://arxiv.org/abs/2607.02096v1)** | 2026-07-02 | <details><summary>ECCV ...</summary><p>ECCV 2026. Dataset and code: https://github.com/shunya-kato/LongEgoRefer</p></details> |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,13 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models](https://arxiv.org/abs/2607.09562v1)** | 2026-07-10 |  |
+| **[Decoupling Language Guidance from Backbones for Text-Guided Medical Segmentation](https://arxiv.org/abs/2607.09481v1)** | 2026-07-10 |  |
+| **[LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322v1)** | 2026-07-10 | <details><summary>Submi...</summary><p>Submitted manuscript prior to peer review in MICCAI 2026</p></details> |
+| **[MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation](https://arxiv.org/abs/2607.09142v1)** | 2026-07-10 |  |
+| **[Super-Generalist: Towards Comprehensive and Accurate Medical Image Understanding via Generalist-Specialist Synergy](https://arxiv.org/abs/2607.09135v1)** | 2026-07-10 |  |
+| **[Beyond Metadata: CAPRA for Hidden Subgroup Analysis under Missing Metadata in Medical Imaging](https://arxiv.org/abs/2607.09102v1)** | 2026-07-10 |  |
+| **[Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling](https://arxiv.org/abs/2607.08867v1)** | 2026-07-09 |  |
 | **[MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models](https://arxiv.org/abs/2607.07673v1)** | 2026-07-08 |  |
 | **[Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning](https://arxiv.org/abs/2607.07761v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by Machine Intelligence Research</p></details> |
 | **[VCDP: Variation-Conditioned Distributional Proxy Learning for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2607.07416v1)** | 2026-07-08 |  |
@@ -72,11 +79,4 @@ labels: documentation
 | **[MSA-DCNN: A Data-Efficient Multi-Scale Deformable CNN for Medical Image Classification](https://arxiv.org/abs/2607.06083v1)** | 2026-07-07 |  |
 | **[Overview of the NLPCC 2026 Shared Task 1: Difficulty-Aware Multilingual and Multimodal Medical Instructional Video Understanding Evaluation](https://arxiv.org/abs/2607.06618v1)** | 2026-07-07 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 5 tables</p></details> |
 | **[Evaluating and Understanding Model Editing for Medical Vision Language Models](https://arxiv.org/abs/2607.05310v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026. Code and benchmark are available at https://github.com/BioMed-AI-Lab-U-Michgan/M3Bench</p></details> |
-| **[Doubly robust Methods for Recurrent Event Outcomes: Causal Effects of Blood Pressure Medications on Acute Kidney Injuries](https://arxiv.org/abs/2607.05293v1)** | 2026-07-06 | <details><summary>15 pa...</summary><p>15 pages, 3 tables, 1 algorithm</p></details> |
-| **[Graph Representation Learning of Longitudinal Medical Imaging Trajectories for Treatment Response Prediction](https://arxiv.org/abs/2607.04912v1)** | 2026-07-06 |  |
-| **[Solve the Missing First Step: Can VLMs Standardize Raw Heterogeneous Medical Data?](https://arxiv.org/abs/2607.04694v1)** | 2026-07-06 | 16 pages, 7 figures |
-| **[Displacement Preserving Relational Distillation for Robust Medical Segmentation](https://arxiv.org/abs/2607.04599v1)** | 2026-07-06 |  |
-| **[Beyond Random Sampling: Distribution-Aware Alignment for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2607.04249v1)** | 2026-07-05 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, accepted by ECCV 2026</p></details> |
-| **[Topology-Driven Transferability Estimation for 3D Medical Vision Foundation Models](https://arxiv.org/abs/2607.04199v1)** | 2026-07-05 |  |
-| **[FedProIn: Mitigating Client Drift for Learnable Prototypes in Federated Medical Imaging](https://arxiv.org/abs/2607.04158v1)** | 2026-07-05 |  |
 
