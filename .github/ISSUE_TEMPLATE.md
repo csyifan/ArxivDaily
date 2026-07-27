@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 26, 2026
+title: Latest 15 Papers - July 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OpenForgeRL: Train Harness-native Agents in Any Environment](https://arxiv.org/abs/2607.21557v1)** | 2026-07-23 |  |
+| **[HarnessLLM: Rust Verification Harness Generation with Large Language Models](https://arxiv.org/abs/2607.22161v1)** | 2026-07-24 |  |
+| **[OpenForgeRL: Train Harness-native Agents in Any Environment](https://arxiv.org/abs/2607.21557v2)** | 2026-07-24 | <details><summary>updat...</summary><p>updated the paper header to show ICLR2027 instead of ICLR2026 (already past)</p></details> |
 | **[Delivery, Not Storage: Cue-Anchored Working Memory as a Harness Property for Coding Agents](https://arxiv.org/abs/2607.20972v1)** | 2026-07-23 |  |
 | **[Automated Discovery Has No Universally Superior Harness](https://arxiv.org/abs/2607.18235v1)** | 2026-07-20 |  |
 | **[FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications](https://arxiv.org/abs/2607.18171v1)** | 2026-07-20 |  |
 | **[Harness Engineering for LLM-Driven GPU Kernel Generation](https://arxiv.org/abs/2607.17979v1)** | 2026-07-20 | <details><summary>24 pa...</summary><p>24 pages, 6 figures. Extended technical report on our submission to the MLSys 2026 FlashInfer AI Kernel Generation Contest. Code: https://github.com/syhya/mlsys26-flashinfer-contest</p></details> |
 | **[Harness TTS: Towards Context-Aware Expressive Speech Synthesis with Harness Layer](https://arxiv.org/abs/2607.17900v2)** | 2026-07-21 |  |
-| **[DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines](https://arxiv.org/abs/2607.16617v1)** | 2026-07-18 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, and 5 tables. Technical report</p></details> |
+| **[DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines](https://arxiv.org/abs/2607.16617v2)** | 2026-07-24 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, and 5 tables. Technical report</p></details> |
 | **[Understanding Agent-Reactive Bugs at the Model-Harness Boundary: An Empirical Study of LLM Agent Issue Reports](https://arxiv.org/abs/2607.15684v1)** | 2026-07-17 |  |
 | **[Recursive Harness Self-Improvement](https://arxiv.org/abs/2607.15524v1)** | 2026-07-17 | <details><summary>This ...</summary><p>This work addresses the first half of the model-harness coevolution loop</p></details> |
 | **[Harnessing LLMs for Reliable Academic Supervision: A Comparative Study](https://arxiv.org/abs/2607.14707v2)** | 2026-07-20 | <details><summary>16 pa...</summary><p>16 pages, 4 tables, 1 figure. Code and data available at https://github.com/AkashRajSingh/Harnessing-LLMs-for-Reliable-Academic-Supervision</p></details> |
+| **[VTM-Nav: Harnessing Cross-Episode Experience for Object-Goal Navigation with Hierarchical Visual-Topological Memory](https://arxiv.org/abs/2607.14514v2)** | 2026-07-24 |  |
 | **[RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning](https://arxiv.org/abs/2607.14512v2)** | 2026-07-21 | <details><summary>To ap...</summary><p>To appear at COLM 2026</p></details> |
 | **[Partially Correlated Verifier Cascades in LLM Harnesses: Concave Log-Odds, Polynomial Reliability, and Blind-Spot Ceilings](https://arxiv.org/abs/2607.13918v1)** | 2026-07-15 | <details><summary>14 pa...</summary><p>14 pages, 2 figures. Code and synthetic-recovery experiments: https://github.com/jianganghan/harness-verifier-cascades</p></details> |
 | **[Self-Evolving Agent Harnesses via Gated Semantic Quality-Diversity](https://arxiv.org/abs/2607.13683v1)** | 2026-07-15 | 13 pages, 4 figures |
-| **[Set-shifting Behavioral Test for Harnessed Agents](https://arxiv.org/abs/2607.13396v1)** | 2026-07-15 |  |
-| **[Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable](https://arxiv.org/abs/2607.13285v1)** | 2026-07-14 | <details><summary>29 pa...</summary><p>29 pages, 6 figures. Project page: https://ruhan-wang.github.io/Harness-Handbook/</p></details> |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,12 @@ labels: documentation
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SLIP: Segmentation with Low-latency Interactive Prompting for 3D Medical Images](https://arxiv.org/abs/2607.22332v1)** | 2026-07-24 |  |
+| **[Medical-Checklist: Assessing the Comprehension of Medical Images by Multimodal Models](https://arxiv.org/abs/2607.21998v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Journal of Biomedical and Health Informatics</p></details> |
+| **[TextSLIP: Text Self-Supervised CLIP for Medical Report Generation](https://arxiv.org/abs/2607.21970v1)** | 2026-07-24 | 9 pages |
+| **[Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions](https://arxiv.org/abs/2607.21904v1)** | 2026-07-24 |  |
 | **[MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education](https://arxiv.org/abs/2607.21570v1)** | 2026-07-23 | <details><summary>Work ...</summary><p>Work in Progress; an explorational design and study on AI+Education+Game</p></details> |
+| **[Do emulated quantum circuits change what CNNs look at? Performance and explainability comparison in medical image classification](https://arxiv.org/abs/2607.21186v1)** | 2026-07-23 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 2 tables</p></details> |
 | **[Auditing Evidence Use in Medical LLM Diagnosis](https://arxiv.org/abs/2607.20848v1)** | 2026-07-23 |  |
 | **[One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification](https://arxiv.org/abs/2607.20641v1)** | 2026-07-22 | <details><summary>The 1...</summary><p>The 14th IEEE International Conference on Healthcare Informatics</p></details> |
 | **[Self-supervision drives representational convergence in medical foundation models more than clinical supervision](https://arxiv.org/abs/2607.20274v1)** | 2026-07-22 |  |
@@ -74,9 +79,4 @@ labels: documentation
 | **[OntoBook: Ontology-Grounded Synthetic Textbooks for Medical Encoder Pretraining](https://arxiv.org/abs/2607.18927v1)** | 2026-07-21 |  |
 | **[Local Label-Informed Feature Transfer for Generating Ground-Truth Medical Images: A Comparison of GAN- and Diffusion-Based Approaches](https://arxiv.org/abs/2607.18882v1)** | 2026-07-21 | <details><summary>6 pag...</summary><p>6 pages, submitted to IEEE MetroXRAINE 2026</p></details> |
 | **[Evaluating medical AI under missing information: same-provider judges and human raters change apparent safety](https://arxiv.org/abs/2607.18828v1)** | 2026-07-21 | <details><summary>GitHu...</summary><p>GitHub https://github.com/KAVentures/health-ai-readiness-robustness</p></details> |
-| **[Posterior Samplings are Missing Modalities Generators for Medical Image Translation](https://arxiv.org/abs/2607.18763v1)** | 2026-07-21 | ECCV 26 |
-| **[Attention Without Grounding: Causal Evaluation of Visual Explanations in Medical VLMs](https://arxiv.org/abs/2607.18577v1)** | 2026-07-20 | iMIMIC Workshop 2026 |
-| **[Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation](https://arxiv.org/abs/2607.17693v1)** | 2026-07-20 | 18 pages, ECCV 2026 |
-| **[Understanding From Human Perspective: A Multi-agent System for Interactive Egocentric Medical Image Segmentation](https://arxiv.org/abs/2607.17341v1)** | 2026-07-19 |  |
-| **[MIS-HCC: Hierarchical Channel Clustering for Efficient Medical Image Segmentation](https://arxiv.org/abs/2607.17329v1)** | 2026-07-19 |  |
 
