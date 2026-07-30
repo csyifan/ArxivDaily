@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2026
+title: Latest 15 Papers - July 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Harness
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution](https://arxiv.org/abs/2607.26722v1)** | 2026-07-29 | 9 pages |
+| **[RAG-HAR+: Towards Cost-Efficient LLM-Based Human Activity Recognition for Edge Deployment](https://arxiv.org/abs/2607.26631v1)** | 2026-07-29 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Mobile Computing. Extended version of the IEEE PerCom 2026 paper "RAG-HAR: Retrieval Augmented Generation-based Human Activity Recognition." (https://doi.org/10.1109/PerCom67906.2026.11524560)</p></details> |
+| **[Living-Harness Is an Interactive-Agent Evolver](https://arxiv.org/abs/2607.26598v1)** | 2026-07-29 |  |
+| **[PUDA: An AI-Native Hardware Harness for Self-Driving Laboratories](https://arxiv.org/abs/2607.26464v1)** | 2026-07-29 |  |
 | **[Distributing Security Controls Through Harness Engineering](https://arxiv.org/abs/2607.25890v1)** | 2026-07-28 |  |
 | **[CHILL-Harness: Counterfactual Harness Learning for Efficient Reasoning in Long-Horizon Agents](https://arxiv.org/abs/2607.25825v1)** | 2026-07-28 |  |
 | **[ARCHER: Agentic Rule and Compliance Harness for Executable Regulations](https://arxiv.org/abs/2607.25566v1)** | 2026-07-28 |  |
@@ -18,14 +22,11 @@ labels: documentation
 | **[Automated Discovery Has No Universally Superior Harness](https://arxiv.org/abs/2607.18235v1)** | 2026-07-20 |  |
 | **[FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications](https://arxiv.org/abs/2607.18171v1)** | 2026-07-20 |  |
 | **[Harness Engineering for LLM-Driven GPU Kernel Generation](https://arxiv.org/abs/2607.17979v1)** | 2026-07-20 | <details><summary>24 pa...</summary><p>24 pages, 6 figures. Extended technical report on our submission to the MLSys 2026 FlashInfer AI Kernel Generation Contest. Code: https://github.com/syhya/mlsys26-flashinfer-contest</p></details> |
-| **[Harness TTS: Towards Context-Aware Expressive Speech Synthesis with Harness Layer](https://arxiv.org/abs/2607.17900v2)** | 2026-07-21 |  |
-| **[DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines](https://arxiv.org/abs/2607.16617v2)** | 2026-07-24 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, and 5 tables. Technical report</p></details> |
-| **[Understanding Agent-Reactive Bugs at the Model-Harness Boundary: An Empirical Study of LLM Agent Issue Reports](https://arxiv.org/abs/2607.15684v1)** | 2026-07-17 |  |
-| **[Co-Harness: Co-Evolving Harnesses and Model Weights for LLM Agents](https://arxiv.org/abs/2607.22688v1)** | 2026-07-17 |  |
 
 ## Video Understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EgoSafe: A First-Person Mobile-Captured Benchmark for Visual Safety Understanding](https://arxiv.org/abs/2607.26518v1)** | 2026-07-29 |  |
 | **[RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection](https://arxiv.org/abs/2607.25392v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted to ACMMM 2026</p></details> |
 | **[FORGE: Frame Orthogonality in Relevance Geometry for Long-Form Video Understanding](https://arxiv.org/abs/2607.25266v1)** | 2026-07-28 | Under Review |
 | **[Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model](https://arxiv.org/abs/2607.24904v1)** | 2026-07-27 | <details><summary>Proje...</summary><p>Project page: https://microsoft.github.io/Mage</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[BLUE: Semantics-Preserving Video Compression for Efficient Vision-Language Surveillance Analytics](https://arxiv.org/abs/2607.19515v1)** | 2026-07-21 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, 6 tables</p></details> |
 | **[Moving Alphabet: A Controlled Study of Training Data for Text-to-Video Generation](https://arxiv.org/abs/2607.18789v1)** | 2026-07-21 |  |
 | **[Continual Video-MLLM Adaptation over Evolving Domains](https://arxiv.org/abs/2607.18716v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026</p></details> |
-| **[Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection](https://arxiv.org/abs/2607.18080v2)** | 2026-07-26 |  |
 
 ## Multimodal Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games](https://arxiv.org/abs/2607.26393v1)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2026</p></details> |
 | **[VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening](https://arxiv.org/abs/2607.26042v1)** | 2026-07-28 |  |
 | **[Agentic AI in medicine: architectures, applications, evaluation, and challenges for clinical translation](https://arxiv.org/abs/2607.25489v1)** | 2026-07-28 | <details><summary>Revie...</summary><p>Review article, 6 figures, 2 tables. 42 pages</p></details> |
 | **[Silent Failures in Multimodal Agentic Search:A Diagnostic Taxonomy and Cross-Judge Evaluation](https://arxiv.org/abs/2607.19793v1)** | 2026-07-22 |  |
@@ -59,11 +60,15 @@ labels: documentation
 | **[CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration](https://arxiv.org/abs/2607.05465v1)** | 2026-07-06 | 18pages, 5 figures |
 | **[MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments](https://arxiv.org/abs/2606.31966v1)** | 2026-06-30 | <details><summary>Proje...</summary><p>Project website: https://q-i-n-g.github.io/MECoBench-Website/</p></details> |
 | **[Robust Autonomous UAV Landing on Maritime Platforms via Multimodal Agentic AI and Active Wave Compensation](https://arxiv.org/abs/2606.31613v1)** | 2026-06-30 |  |
-| **[SimpleSearch-VL: A Simple Recipe for Multimodal Agentic Deep Search](https://arxiv.org/abs/2606.31504v1)** | 2026-06-30 | Technical Report |
 
 ## Medical
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hearsay: Vision-Language Medical Diagnoses Without an Image](https://arxiv.org/abs/2607.26886v1)** | 2026-07-29 | <details><summary>Peer-...</summary><p>Peer-reviewed and presented at the 1st Workshop on Toward Trustworthy Vision-Language Models in the Wild (TrustVLM), co-located with ACM ICMR 2026, Amsterdam. Non-archival workshop. Reviews public on OpenReview. 5 pages, 2 figures</p></details> |
+| **[SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Learning for Medical Vision-Language Representation](https://arxiv.org/abs/2607.26885v1)** | 2026-07-29 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, accepted by PRCV2026</p></details> |
+| **[CalTwin: Towards Calibrated, Shift-Robust Medical World Models via Fisher-Information Regularisation](https://arxiv.org/abs/2607.26752v1)** | 2026-07-29 |  |
+| **[MedARC: Training-Free Adaptive Redundancy Compression of Visual Tokens for 3D Medical Vision-Language Models](https://arxiv.org/abs/2607.26554v1)** | 2026-07-29 | 9 pages |
+| **[From Spatial Semantics to Temporal Context: Leveraging Gaze Trajectory for Weakly Supervised Medical Image Segmentation](https://arxiv.org/abs/2607.26542v1)** | 2026-07-29 |  |
 | **[Bi-Level Collaborative Learning for Few-Shot Scribble-Supervised Medical Image Segmentation](https://arxiv.org/abs/2607.25432v1)** | 2026-07-28 |  |
 | **[Medical world models in healthcare: foundations, applications, and challenges for trustworthy clinical translation](https://arxiv.org/abs/2607.25242v1)** | 2026-07-28 |  |
 | **[Deep Label-Wise Attentive Temporal Convolutional Networks Improve Medical Coding](https://arxiv.org/abs/2607.25129v1)** | 2026-07-27 | <details><summary>Work ...</summary><p>Work carried out in 2019; posted as a record of the work. Baselines and state of the art reflect the 2019 literature</p></details> |
@@ -74,9 +79,4 @@ labels: documentation
 | **[Long-Tailed Medical Image Classification](https://arxiv.org/abs/2607.23883v1)** | 2026-07-26 |  |
 | **[The Mirage of LLM Guardrails: A Case Study in AI-Assisted Medical Note Manipulation](https://arxiv.org/abs/2607.24859v1)** | 2026-07-26 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 4 tables</p></details> |
 | **[AdaKAN: A dual-branch adaptive Kolmogorov-Arnold network for medical image segmentation](https://arxiv.org/abs/2607.22891v1)** | 2026-07-24 |  |
-| **[SLIP: Segmentation with Low-latency Interactive Prompting for 3D Medical Images](https://arxiv.org/abs/2607.22332v1)** | 2026-07-24 |  |
-| **[MedJudgeRAG: Option-Wise Evidence Judgment with Dynamic Knowledge Graphs for Medical MCQA](https://arxiv.org/abs/2607.24838v1)** | 2026-07-24 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, Accepted at The Workshop on Graph Foundation Models at the 43 rd International Conference on Machine Learning (ICML 2026)</p></details> |
-| **[Medical-Checklist: Assessing the Comprehension of Medical Images by Multimodal Models](https://arxiv.org/abs/2607.21998v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Journal of Biomedical and Health Informatics</p></details> |
-| **[TextSLIP: Text Self-Supervised CLIP for Medical Report Generation](https://arxiv.org/abs/2607.21970v1)** | 2026-07-24 | 9 pages |
-| **[Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions](https://arxiv.org/abs/2607.21904v1)** | 2026-07-24 |  |
 
